@@ -1,0 +1,1 @@
+grep -i 'echo: Output - ' output_us.txt | sed 's/echo..Output.../' | sed 's/OoStock.:.SOLD.OUT/In\ stock:\ NO' | sed 's/OoStock.:.\$.*/In\ stock:\ YES' > new_output.txt

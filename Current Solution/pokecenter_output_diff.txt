@@ -1,0 +1,61 @@
+2,https://www.pokemoncenter.com/en-ca/product/701-09376/25th-celebration-kanto-region-pikachu-poke-plush-10-in,701-09376,25th Celebration - Kanto Region Pikachu Poké Plush - 10 ½ In.,$32.99,YES,1-2, Difference: YES used to be NO.  
+3,https://www.pokemoncenter.com/en-ca/product/701-29922/regidrago-pokemon-dolls-plush-7-in,701-29922,Regidrago Pokémon Dolls Plush - 7 In.,$15.99,YES,1-3, Difference: YES used to be NO.  
+14,https://www.pokemoncenter.com/en-ca/product/701-29605/drapion-sitting-cuties-plush-9-in,701-29605,Drapion Sitting Cuties Plush - 9 ½ In.,$16.99,NO,1-14, Difference: NO used to be YES.  
+27,https://www.pokemoncenter.com/en-ca/product/701-29603/toxicroak-sitting-cuties-plush-6-in,701-29603,Toxicroak Sitting Cuties Plush - 6 ½ In.,$14.99,YES,1-27, Difference: YES used to be NO.  
+35,https://www.pokemoncenter.com/en-ca/product/701-29503/stunky-sitting-cuties-plush-6-in,701-29503,Stunky Sitting Cuties Plush - 6 ¾ In.,$14.99,YES,1-35, Difference: YES used to be NO.  
+37,https://www.pokemoncenter.com/en-ca/product/701-29598/snover-sitting-cuties-plush-6-in,701-29598,Snover Sitting Cuties Plush - 6 ¾ In.,$14.99,YES,1-37, Difference: YES used to be NO.  
+47,https://www.pokemoncenter.com/en-ca/product/701-29466/wormadam-trash-cloak-sitting-cuties-plush-6-in,701-29466,Wormadam (Trash Cloak) Sitting Cuties Plush - 6 In.,$14.99,YES,1-47, Difference: YES used to be NO.  
+106,https://www.pokemoncenter.com/en-ca/product/701-29468/wormadam-plant-cloak-sitting-cuties-plush-5-in,701-29468,Wormadam (Plant Cloak) Sitting Cuties Plush - 5 ¾ In.,$14.99,YES,2-16, Difference: YES used to be NO.  
+127,https://www.pokemoncenter.com/en-ca/product/701-29236/slowpoke-pokemon-squishy-plush-13-in,701-29236,Slowpoke Pokémon Squishy Plush - 13 ¾ In.,$46.99,YES,2-37, Difference: YES used to be NO.  
+134,https://www.pokemoncenter.com/en-ca/product/701-29758/spheal-pokemon-undersea-holiday-plush-key-chain,701-29758,Spheal Pokémon Undersea Holiday Plush Key Chain,$19.99,YES,2-44, Difference: YES used to be NO.  
+137,https://www.pokemoncenter.com/en-ca/product/701-29761/buizel-pokemon-undersea-holiday-plush-key-chain,701-29761,Buizel Pokémon Undersea Holiday Plush Key Chain,$19.99,YES,2-47, Difference: YES used to be NO.  
+139,https://www.pokemoncenter.com/en-ca/product/701-07055/giratina-poke-plush-18-in,701-07055,Giratina Poké Plush - 18 In.,$58.99,YES,2-49, Difference: YES used to be NO.  
+144,https://www.pokemoncenter.com/en-ca/product/701-29217/cinccino-comfy-friends-plush-13-in,701-29217,Cinccino Comfy Friends Plush - 13 ¾ In.,$46.99,YES,2-54, Difference: YES used to be NO.  
+148,https://www.pokemoncenter.com/en-ca/product/701-29583/snorlax-pokemon-pumpkin-celebration-poke-plush-9-in,701-29583,Snorlax Pokémon Pumpkin Celebration Poké Plush - 9 ¼ In.,$25.99,YES,2-58, Difference: YES used to be NO.  
+162,https://www.pokemoncenter.com/en-ca/product/701-06509/piplup-plush-key-chain,701-06509,Piplup Plush Key Chain,$14.99,YES,2-72, Difference: YES used to be NO.  
+165,https://www.pokemoncenter.com/en-ca/product/701-09427/gigantamax-gengar-poke-plush-14-in,701-09427,Gigantamax Gengar Poké Plush - 14 ½ In.,$62.99,YES,2-75, Difference: YES used to be NO.  
+167,https://www.pokemoncenter.com/en-ca/product/701-09379/25th-celebration-sinnoh-region-pikachu-poke-plush-8-in,701-09379,25th Celebration - Sinnoh Region Pikachu Poké Plush - 8 ½ In.,$32.99,YES,2-77, Difference: YES used to be NO.  
+168,https://www.pokemoncenter.com/en-ca/product/701-29219/bidoof-comfy-friends-plush-14-in,701-29219,Bidoof Comfy Friends Plush - 14 ½ In.,$46.99,YES,2-78, Difference: YES used to be NO.  
+178,https://www.pokemoncenter.com/en-ca/product/701-06703/relaxing-eevee-plush,701-06703,Relaxing Eevee Plush,$32.99,YES,2-88, Difference: YES used to be NO.  
+184,https://www.pokemoncenter.com/en-ca/product/701-29532/slowpoke-poke-plush-59-in,701-29532,Slowpoke Poké Plush - 59 In.,$585.99,YES,3-4, Difference: YES used to be NO.  
+185,https://www.pokemoncenter.com/en-ca/product/701-09380/25th-celebration-unova-region-pikachu-poke-plush-9-in,701-09380,25th Celebration - Unova Region Pikachu Poké Plush - 9 In.,$32.99,YES,3-5, Difference: YES used to be NO.  
+198,https://www.pokemoncenter.com/en-ca/product/701-05778/gardevoir-sitting-cuties-plush-5-in,701-05778,Gardevoir Sitting Cuties Plush - 5 ¼ In.,$14.99,YES,3-18, Difference: YES used to be NO.  
+199,https://www.pokemoncenter.com/en-ca/product/701-05674/groudon-sitting-cuties-plush-5-in,701-05674,Groudon Sitting Cuties Plush - 5 ¾ In.,$14.99,YES,3-19, Difference: YES used to be NO.  
+200,https://www.pokemoncenter.com/en-ca/product/701-05684/salamence-sitting-cuties-plush-7-in,701-05684,Salamence Sitting Cuties Plush - 7 ¾ In.,$14.99,YES,3-20, Difference: YES used to be NO.  
+201,https://www.pokemoncenter.com/en-ca/product/701-05681/metagross-sitting-cuties-plush-9-in,701-05681,Metagross Sitting Cuties Plush - 9 ½ In.,$14.99,YES,3-21, Difference: YES used to be NO.  
+204,https://www.pokemoncenter.com/en-ca/product/701-05806/sceptile-sitting-cuties-plush-5-in,701-05806,Sceptile Sitting Cuties Plush - 5 ½ In.,$14.99,YES,3-24, Difference: YES used to be NO.  
+209,https://www.pokemoncenter.com/en-ca/product/701-05688/relicanth-sitting-cuties-plush-5-in,701-05688,Relicanth Sitting Cuties Plush - 5 ½ In.,$14.99,YES,3-29, Difference: YES used to be NO.  
+267,https://www.pokemoncenter.com/en-ca/product/701-09370/rowlet-pokemon-happy-spring-plush-key-chain,701-09370,Rowlet Pokémon Happy Spring Plush Key Chain,$15.99,YES,3-87, Difference: YES used to be NO.  
+282,https://www.pokemoncenter.com/en-ca/product/701-05752/medicham-sitting-cuties-plush-7-in,701-05752,Medicham Sitting Cuties Plush - 7 ¾ In.,$14.99,YES,4-12, Difference: YES used to be NO.  
+371,https://www.pokemoncenter.com/en-ca/product/701-08399/skwovet-comfy-friends-plush-14-in,701-08399,Skwovet Comfy Friends Plush - 14 ¾ In.,$46.99,YES,5-11, Difference: YES used to be NO.  
+381,https://www.pokemoncenter.com/en-ca/product/701-06695/mewtwo-posable-poke-plush-7-in,701-06695,Mewtwo Posable Poké Plush - 7 ¼ In.,$20.99,YES,5-21, Difference: YES used to be NO.  
+386,https://www.pokemoncenter.com/en-ca/product/701-06794/greedent-poke-plush-12-in,701-06794,Greedent Poké Plush - 12 In.,$25.99,YES,5-26, Difference: YES used to be NO.  
+387,https://www.pokemoncenter.com/en-ca/product/701-06699/machamp-posable-poke-plush-8-in,701-06699,Machamp Posable Poké Plush - 8 ¾ In.,$20.99,YES,5-27, Difference: YES used to be NO.  
+404,https://www.pokemoncenter.com/en-ca/product/701-07044/shiny-celebi-poke-plush-10-in,701-07044,Shiny Celebi Poké Plush - 10 In.,$22.99,YES,5-44, Difference: YES used to be NO.  
+467,https://www.pokemoncenter.com/en-ca/product/701-05411/galarian-ponyta-poke-plush-11-in,701-05411,Galarian Ponyta Poké Plush - 11 ¼ In.,$22.99,YES,6-17, Difference: YES used to be NO.  
+471,https://www.pokemoncenter.com/en-ca/product/701-05521/wooloo-squishy-plush-14-in,701-05521,Wooloo Squishy Plush - 14 ¼ In.,$54.99,YES,6-21, Difference: YES used to be NO.  
+485,https://www.pokemoncenter.com/en-ca/product/701-06202/gligar-sitting-cuties-plush-8-in,701-06202,Gligar Sitting Cuties Plush - 8 In.,$14.99,YES,6-35, Difference: YES used to be NO.  
+487,https://www.pokemoncenter.com/en-ca/product/701-06257/shuckle-sitting-cuties-plush-5-in,701-06257,Shuckle Sitting Cuties Plush - 5 ¾ In.,$14.99,YES,6-37, Difference: YES used to be NO.  
+489,https://www.pokemoncenter.com/en-ca/product/701-06200/swinub-sitting-cuties-plush-5-in,701-06200,Swinub Sitting Cuties Plush - 5 ¼ In.,$14.99,YES,6-39, Difference: YES used to be NO.  
+493,https://www.pokemoncenter.com/en-ca/product/701-06201/sneasel-sitting-cuties-plush-6-in,701-06201,Sneasel Sitting Cuties Plush - 6 ¾ In.,$14.99,YES,6-43, Difference: YES used to be NO.  
+501,https://www.pokemoncenter.com/en-ca/product/701-06196/donphan-sitting-cuties-plush-6-in,701-06196,Donphan Sitting Cuties Plush - 6 ¼ In.,$14.99,YES,6-51, Difference: YES used to be NO.  
+503,https://www.pokemoncenter.com/en-ca/product/701-06204/natu-sitting-cuties-plush-5-in,701-06204,Natu Sitting Cuties Plush - 5 ¾ In.,$14.99,YES,6-53, Difference: YES used to be NO.  
+506,https://www.pokemoncenter.com/en-ca/product/701-06189/xatu-sitting-cuties-plush-6-in,701-06189,Xatu Sitting Cuties Plush - 6 ¼ In.,$14.99,YES,6-56, Difference: YES used to be NO.  
+543,https://www.pokemoncenter.com/en-ca/product/701-05306/eldegoss-poke-plush-8-in,701-05306,Eldegoss Poké Plush - 8 In.,$25.99,YES,7-3, Difference: YES used to be NO.  
+590,https://www.pokemoncenter.com/en-ca/product/701-04131/serperior-poke-plush-17-in,701-04131,Serperior Poké Plush - 17 In.,$42.99,YES,7-50, Difference: YES used to be NO.  
+593,https://www.pokemoncenter.com/en-ca/product/701-03778/magnemite-sitting-cuties-plush-6-in,701-03778,Magnemite Sitting Cuties Plush - 6 ¼ In.,$14.99,YES,7-53, Difference: YES used to be NO.  
+601,https://www.pokemoncenter.com/en-ca/product/701-03826/tangela-sitting-cuties-plush-4-in,701-03826,Tangela Sitting Cuties Plush - 4 ½ In.,$14.99,YES,7-61, Difference: YES used to be NO.  
+608,https://www.pokemoncenter.com/en-ca/product/701-03799/persian-sitting-cuties-plush-5-in,701-03799,Persian Sitting Cuties Plush - 5 ½ In.,$14.99,YES,7-68, Difference: YES used to be NO.  
+612,https://www.pokemoncenter.com/en-ca/product/701-03759/hitmonchan-sitting-cuties-plush-7-in,701-03759,Hitmonchan Sitting Cuties Plush - 7 ½ In.,$14.99,YES,7-72, Difference: YES used to be NO.  
+615,https://www.pokemoncenter.com/en-ca/product/701-03838/weepinbell-sitting-cuties-plush-6-in,701-03838,Weepinbell Sitting Cuties Plush - 6 ½ In.,$14.99,YES,7-75, Difference: YES used to be NO.  
+626,https://www.pokemoncenter.com/en-ca/product/701-03765/kabuto-sitting-cuties-plush-4-in,701-03765,Kabuto Sitting Cuties Plush - 4 In.,$14.99,YES,7-86, Difference: YES used to be NO.  
+629,https://www.pokemoncenter.com/en-ca/product/701-03755/grimer-sitting-cuties-plush-5-in,701-03755,Grimer Sitting Cuties Plush - 5 ¼ In.,$14.99,YES,7-89, Difference: YES used to be NO.  
+694,https://www.pokemoncenter.com/en-ca/product/701-03729/butterfree-sitting-cuties-plush-5-in,701-03729,Butterfree Sitting Cuties Plush - 5 ½ In.,$14.99,YES,8-64, Difference: YES used to be NO.  
+697,https://www.pokemoncenter.com/en-ca/product/701-03746/exeggcute-sitting-cuties-plush-5-in,701-03746,Exeggcute Sitting Cuties Plush - 5 ¼ In.,$14.99,YES,8-67, Difference: YES used to be NO.  
+742,https://www.pokemoncenter.com/en-ca/product/701-03991/squirtle-poke-plush-8-in,701-03991,Squirtle Poké Plush - 8 In.,$19.99,YES,9-22, Difference: YES used to be NO.  
+767,https://www.pokemoncenter.com/en-ca/product/701-03718/omanyte-sitting-cuties-plush-4-1-4-in,701-03718,Omanyte Sitting Cuties Plush - 4 1/4 In.,$14.99,YES,9-47, Difference: YES used to be NO.  
+768,https://www.pokemoncenter.com/en-ca/product/701-03601/exeggutor-sitting-cuties-plush-5-1-2-in,701-03601,Exeggutor Sitting Cuties Plush - 5 1/2 In.,$14.99,YES,9-48, Difference: YES used to be NO.  
+777,https://www.pokemoncenter.com/en-ca/product/701-03710/shellder-sitting-cuties-plush-5-in,701-03710,Shellder Sitting Cuties Plush - 5 In.,$14.99,NO,9-57, Difference: NO used to be YES.  
+831,https://www.pokemoncenter.com/en-ca/product/701-03042/pichu-poke-plush-8-1-4-in,701-03042,Pichu Poké Plush - 8 1/4 In.,$19.99,NO,10-21, Difference: NO used to be YES.  
+866,https://www.pokemoncenter.com/en-ca/product/701-02969/meowth-poke-plush-7-in,701-02969,Meowth Poké Plush - 7 ½ In.,$19.99,YES,10-56, Difference: YES used to be NO.  
+987,https://www.pokemoncenter.com/en-ca/product/701-00160/lapras-poke-plush-12-in,701-00160,Lapras Poké Plush - 12 In.,$29.99,YES,11-87, Difference: YES used to be NO.  

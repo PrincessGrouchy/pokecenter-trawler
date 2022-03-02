@@ -1,0 +1,1 @@
+grep 'echo: Output - ' output_us.txt | xargs sed -i "s/echo..Output...//g" | xargs sed -i "s/OoStock.:.SOLD.OUT/In\ stock:\ NO/g" | xargs sed -i "s/OoStock.:.\$.*/In\ stock:\ YES/g" > new_output.txt

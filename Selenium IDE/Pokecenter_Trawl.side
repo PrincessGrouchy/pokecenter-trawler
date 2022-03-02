@@ -1,0 +1,354 @@
+{
+  "id": "5c98811c-ea26-40e8-993e-bcbe43c661ac",
+  "version": "2.0",
+  "name": "Pokecenter Trawl",
+  "url": "https://www.pokemoncenter.com/",
+  "tests": [{
+    "id": "aae64bb6-2b65-49d5-b80d-fe66af82403a",
+    "name": "Page 1",
+    "commands": [{
+      "id": "2f35bed2-975d-4f78-a754-6e2d431264a8",
+      "comment": "",
+      "command": "open",
+      "target": "/en-ca/category/plush?sort=launch_date%2Bdesc",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "4e68d506-fb3c-49c9-af88-b657e0d6457a",
+      "comment": "",
+      "command": "//storeText",
+      "target": "xpath=//main[@id='main']/div[2]/div[2]/div[2]/div[3]/div/div/h3/span",
+      "targets": [],
+      "value": "total_count"
+    }, {
+      "id": "09b1680a-2a61-487c-9bc8-04308120fe87",
+      "comment": "",
+      "command": "echo",
+      "target": "Output - Total Count: ${total_count}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2ddca286-8c7d-4c7f-9bdf-99daa7a8fc39",
+      "comment": "",
+      "command": "storeAttribute",
+      "target": "xpath=//main[@id='main']/div[2]/div[2]/div[2]/div[4]/div/div/a@href",
+      "targets": [],
+      "value": "link"
+    }, {
+      "id": "4f66f2e5-bcfc-45c0-9149-cc167b7950eb",
+      "comment": "",
+      "command": "storeText",
+      "target": "xpath=//main[@id='main']/div[2]/div[2]/div[2]/div[4]/div/div/a/div[2]/h3",
+      "targets": [],
+      "value": "name"
+    }, {
+      "id": "63e5d849-bc08-4a3e-86a8-0f41dc7cefe2",
+      "comment": "",
+      "command": "storeText",
+      "target": "xpath=//main[@id='main']/div[2]/div[2]/div[2]/div[4]/div/div/a/div[2]/div/span",
+      "targets": [],
+      "value": "price"
+    }, {
+      "id": "20ddcea2-5c90-42a7-ac86-fabdb357b0ea",
+      "comment": "",
+      "command": "storeText",
+      "target": "xpath=//main[@id='main']/div[2]/div[2]/div[2]/div[4]/div/div/a/div/div",
+      "targets": [],
+      "value": "stock"
+    }, {
+      "id": "2-1-1",
+      "comment": "",
+      "command": "echo",
+      "target": "Output - 1 Link: https://www.pokemoncenter.com/${link}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2-2-1",
+      "comment": "",
+      "command": "echo",
+      "target": "Output - 1 Name:  ${name}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "530706be-713b-4c1e-abb2-d9eeecfb930c",
+      "comment": "",
+      "command": "echo",
+      "target": "Output - 1 Price: ${price}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2-3-1",
+      "comment": "",
+      "command": "echo",
+      "target": "Output - 1 OoStock?: ${stock}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ee79ec63-9750-4d68-8e1a-a4330169b67c",
+      "comment": "",
+      "command": "executeScript",
+      "target": "return 2",
+      "targets": [],
+      "value": "loop_count"
+    }, {
+      "id": "cc95f35c-34fd-4958-9e58-af93c75aec8f",
+      "comment": "",
+      "command": "while",
+      "target": "${loop_count} < 31",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2ddca286-8c7d-4c7f-9bdf-99daa7a8fc39",
+      "comment": "",
+      "command": "storeAttribute",
+      "target": "xpath=//main[@id='main']/div[2]/div[2]/div[2]/div[4]/div[${loop_count}]/div/a@href",
+      "targets": [],
+      "value": "link"
+    }, {
+      "id": "4f66f2e5-bcfc-45c0-9149-cc167b7950eb",
+      "comment": "",
+      "command": "storeText",
+      "target": "xpath=//main[@id='main']/div[2]/div[2]/div[2]/div[4]/div[${loop_count}]/div/a/div[2]/h3",
+      "targets": [],
+      "value": "name"
+    }, {
+      "id": "63e5d849-bc08-4a3e-86a8-0f41dc7cefe2",
+      "comment": "",
+      "command": "storeText",
+      "target": "xpath=//main[@id='main']/div[2]/div[2]/div[2]/div[4]/div[${loop_count}]/div/a/div[2]/div/span",
+      "targets": [],
+      "value": "price"
+    }, {
+      "id": "20ddcea2-5c90-42a7-ac86-fabdb357b0ea",
+      "comment": "",
+      "command": "storeText",
+      "target": "xpath=//main[@id='main']/div[2]/div[2]/div[2]/div[4]/div[${loop_count}]/div/a/div/div",
+      "targets": [],
+      "value": "stock"
+    }, {
+      "id": "2-1-1",
+      "comment": "",
+      "command": "echo",
+      "target": "Output - ${loop_count} Link: https://www.pokemoncenter.com/${link}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2-2-1",
+      "comment": "",
+      "command": "echo",
+      "target": "Output - ${loop_count} Name:  ${name}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "530706be-713b-4c1e-abb2-d9eeecfb930c",
+      "comment": "",
+      "command": "echo",
+      "target": "Output - ${loop_count} Price: ${price}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2-3-1",
+      "comment": "",
+      "command": "echo",
+      "target": "Output - ${loop_count} OoStock?: ${stock}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "49060851-ac3f-44cb-9284-75171852fb1d",
+      "comment": "",
+      "command": "executeScript",
+      "target": "return ${loop_count} + 1",
+      "targets": [],
+      "value": "loop_count"
+    }, {
+      "id": "75d9c413-8b34-4018-9323-2bcc87e857a8",
+      "comment": "",
+      "command": "end",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "b92e9084-464c-4ed7-b738-eeeb0c68983d",
+    "name": "Page 2",
+    "commands": [{
+      "id": "ab21ce8c-6860-4f81-8859-f07a94da675c",
+      "comment": "",
+      "command": "open",
+      "target": "/en-ca/category/plush?sort=launch_date%2Bdesc",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ab73edb7-05b0-4637-9892-e6e6b905512f",
+      "comment": "",
+      "command": "//storeText",
+      "target": "xpath=//main[@id='main']/div[2]/div[2]/div[2]/div[3]/div/div/h3/span",
+      "targets": [],
+      "value": "total_count"
+    }, {
+      "id": "763fb585-1fe0-469a-9f40-f575a09e64d2",
+      "comment": "",
+      "command": "echo",
+      "target": "Output - Total Count: ${total_count}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "15e3514c-f09b-4c2e-bc0e-df79e060bd5a",
+      "comment": "",
+      "command": "",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "957210b3-35f6-418e-a2ee-dc46447c0aae",
+      "comment": "",
+      "command": "storeAttribute",
+      "target": "xpath=//main[@id='main']/div[2]/div[2]/div[2]/div[4]/div/div/a@href",
+      "targets": [],
+      "value": "link"
+    }, {
+      "id": "8b747211-c3e4-441b-b028-23f66f1524e7",
+      "comment": "",
+      "command": "storeText",
+      "target": "xpath=//main[@id='main']/div[2]/div[2]/div[2]/div[4]/div/div/a/div[2]/h3",
+      "targets": [],
+      "value": "name"
+    }, {
+      "id": "d9c6eb9a-c799-414c-b7dd-91100e1ca1ea",
+      "comment": "",
+      "command": "storeText",
+      "target": "xpath=//main[@id='main']/div[2]/div[2]/div[2]/div[4]/div/div/a/div[2]/div/span",
+      "targets": [],
+      "value": "price"
+    }, {
+      "id": "4fd52305-bcb3-4151-8752-fa20de357063",
+      "comment": "",
+      "command": "storeText",
+      "target": "xpath=//main[@id='main']/div[2]/div[2]/div[2]/div[4]/div/div/a/div/div",
+      "targets": [],
+      "value": "stock"
+    }, {
+      "id": "c97d22fb-1fe2-47cd-88b2-df921ec27a78",
+      "comment": "",
+      "command": "echo",
+      "target": "Output - 1 Link: https://www.pokemoncenter.com/${link}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ac70aa72-c041-4b9d-a3a3-6932b02170f1",
+      "comment": "",
+      "command": "echo",
+      "target": "Output - 1 Name:  ${name}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a2375268-e713-498b-961a-e181e45ae454",
+      "comment": "",
+      "command": "echo",
+      "target": "Output - 1 Price: ${price}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f1c0346e-b662-48d0-ad74-12941d57fbc5",
+      "comment": "",
+      "command": "echo",
+      "target": "Output - 1 OoStock?: ${stock}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6f23df02-40da-4773-812c-e63877a7769d",
+      "comment": "",
+      "command": "executeScript",
+      "target": "return 2",
+      "targets": [],
+      "value": "loop_count"
+    }, {
+      "id": "342c1493-f530-4ac8-aca2-8b2c61f3f3b0",
+      "comment": "",
+      "command": "while",
+      "target": "${loop_count} < 31",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ed9dd2f8-2046-4344-81f4-4db467742448",
+      "comment": "",
+      "command": "storeAttribute",
+      "target": "xpath=//main[@id='main']/div[2]/div[2]/div[2]/div[4]/div[${loop_count}]/div/a@href",
+      "targets": [],
+      "value": "link"
+    }, {
+      "id": "885f3889-f57e-4570-8294-45c8b03d9860",
+      "comment": "",
+      "command": "storeText",
+      "target": "xpath=//main[@id='main']/div[2]/div[2]/div[2]/div[4]/div[${loop_count}]/div/a/div[2]/h3",
+      "targets": [],
+      "value": "name"
+    }, {
+      "id": "0368248b-742d-4bfe-a692-cd13c20a86fd",
+      "comment": "",
+      "command": "storeText",
+      "target": "xpath=//main[@id='main']/div[2]/div[2]/div[2]/div[4]/div[${loop_count}]/div/a/div[2]/div/span",
+      "targets": [],
+      "value": "price"
+    }, {
+      "id": "e3be3c76-a391-4a1b-8a78-643095425c06",
+      "comment": "",
+      "command": "storeText",
+      "target": "xpath=//main[@id='main']/div[2]/div[2]/div[2]/div[4]/div[${loop_count}]/div/a/div/div",
+      "targets": [],
+      "value": "stock"
+    }, {
+      "id": "8b5daf75-0335-446e-a9cd-8bcc2fc6128c",
+      "comment": "",
+      "command": "echo",
+      "target": "Output - ${loop_count} Link: https://www.pokemoncenter.com/${link}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "26d3c859-e6a1-4bcf-8d6d-34fb9c91ec8f",
+      "comment": "",
+      "command": "echo",
+      "target": "Output - ${loop_count} Name:  ${name}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3c6399fe-460d-4dad-9005-af8d40d33220",
+      "comment": "",
+      "command": "echo",
+      "target": "Output - ${loop_count} Price: ${price}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6c2a065c-ba63-4fb2-b7d2-6c0f45d7630c",
+      "comment": "",
+      "command": "echo",
+      "target": "Output - ${loop_count} OoStock?: ${stock}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a028fd2c-9f80-4193-bb8e-78ad2abaad00",
+      "comment": "",
+      "command": "executeScript",
+      "target": "return ${loop_count} + 1",
+      "targets": [],
+      "value": "loop_count"
+    }, {
+      "id": "bdc05618-4ab2-455b-a2b8-e78f0b05e7c7",
+      "comment": "",
+      "command": "end",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "14db1382-3d3f-443f-88cc-09a56f27605d",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["aae64bb6-2b65-49d5-b80d-fe66af82403a"]
+  }],
+  "urls": ["https://www.pokemoncenter.com/en-ca/category/plush?sort=launch_date%2Bdesc", "https://www.pokemoncenter.com/"],
+  "plugins": []
+}
