@@ -1,8 +1,7 @@
-from operator import truediv
-import re
-import sys
+import os
+from datetime import date
 
-class pokecenter_output_reader():  
+class pokecenter_output_reader():
     def setup_method(self):
         self.current_file = open('pokecenter_output_current.txt', 'r', encoding="utf-8")
         self.new_file = open('pokecenter_output_new.txt', 'r', encoding="utf-8")
@@ -13,10 +12,16 @@ class pokecenter_output_reader():
         self.new_file.close()
         self.diff_file.close()
 
+    def rename_files(self):
+        today = date.today()
+        os.rename('pokecenter_output_current.txt', "pokecenter_output_current_{}.txt".format(today))
+        os.rename('pokecenter_output_diff.txt', "pokecenter_output_diff_{}.txt".format(today))
+        os.rename('pokecenter_output_new.txt', "pokecenter_output_current.txt".format(today))
+
     def search_lines(self):
         current_lines = self.current_file.readlines()
         new_lines = self.new_file.readlines()
-        
+
         for new_line in new_lines:
             foundLineMatch = False
             new_line = new_line.replace("\n","")
@@ -30,10 +35,10 @@ class pokecenter_output_reader():
                 if current_no_number[1] == new_no_number[1]:
                     foundLineMatch = True
                     self.compare_lines(new_no_number, current_no_number, new_line)
-                    break 
+                    break
             if not foundLineMatch:
                 self.diff_file.write("{}, couldn't find match\n".format(new_line))
-              
+
     def compare_lines(self, new_no_number, current_no_number, new_line):
         foundDifference = False
         differencesList = []
@@ -51,8 +56,8 @@ class pokecenter_output_reader():
     # + "{},".format(self.vars["link"])
     # + "{},".format(product_number)
     # + "{},".format(self.vars["name"])
-    # + "{},".format(self.vars["price"]) 
-    # + "{},".format(in_stock) 
+    # + "{},".format(self.vars["price"])
+    # + "{},".format(in_stock)
     # + "{}-{}".format(self.vars["page_count"], self.vars["loop_count"])
     # + '\n')
 
@@ -61,5 +66,6 @@ try:
   x.setup_method()
   x.search_lines()
   x.teardown_method()
+  x.rename_files()
 finally:
   x.teardown_method()
