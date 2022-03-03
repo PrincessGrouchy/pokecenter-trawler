@@ -47,20 +47,20 @@ class TestPage1():
     self.region = "/en-ca" # "" # "/en-gb"
     self.vars["num_items_displayed"] = self.driver.execute_script("return 90")
     self.file1 = open('pokecenter_output_new.txt', 'w', encoding="utf-8")
-  
+
 
   def teardown_method(self):
     self.driver.quit()
     self.file1.close()
-  
+
 
   def print_line(self):
     if self.vars["stock"] == "SOLD OUT":
       in_stock = "NO"
     else:
       in_stock = "YES"
-    product_number = self.vars["link"].replace("https://www.pokemoncenter.com" 
-    + self.region 
+    product_number = self.vars["link"].replace("https://www.pokemoncenter.com"
+    + self.region
     + "/product/", "").split("/")[0]
     realnumber = int(self.vars["page_count"]) - 1
     realnumber *= int(self.vars["num_items_displayed"])
@@ -70,8 +70,8 @@ class TestPage1():
       + "{},".format(self.vars["link"])
       + "{},".format(product_number)
       + "{},".format(self.vars["name"])
-      + "{},".format(self.vars["price"]) 
-      + "{},".format(in_stock) 
+      + "{},".format(self.vars["price"])
+      + "{},".format(in_stock)
       + "{}-{}".format(self.vars["page_count"], self.vars["loop_count"])
       + '\n')
     self.file1.write(
@@ -79,56 +79,56 @@ class TestPage1():
       + "{},".format(self.vars["link"])
       + "{},".format(product_number)
       + "{},".format(self.vars["name"])
-      + "{},".format(self.vars["price"]) 
-      + "{},".format(in_stock) 
+      + "{},".format(self.vars["price"])
+      + "{},".format(in_stock)
       + "{}-{}".format(self.vars["page_count"], self.vars["loop_count"])
       + '\n')
-  
+
 
   def test_page1(self):
     self.vars["page_count"] = self.driver.execute_script("return 1")
     self.vars["loop_count"] = self.driver.execute_script("return 1")
-    self.driver.get("https://www.pokemoncenter.com" 
-    + self.region 
+    self.driver.get("https://www.pokemoncenter.com"
+    + self.region
     + "/category/plush?sort=launch_date%2Bdesc&ps=90")
     WebDriverWait(self.driver, 120).until(lambda driver: 'Plush |' in driver.title)
 
-    self.vars["total_count_string"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH, 
+    self.vars["total_count_string"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
     "//main[@id='main']/div[2]/div[2]/div[2]/div[3]/div/div/h3/span").text)
     self.vars["total_count"] = self.vars["total_count_string"].split("of ")[1].replace(" )", "")
-    self.vars["total_full_page_count"] = int(self.vars["total_count"]) // int(self.vars["num_items_displayed"]) 
+    self.vars["total_full_page_count"] = int(self.vars["total_count"]) // int(self.vars["num_items_displayed"])
     self.vars["total_page_count"] = self.driver.execute_script("return arguments[0] + 1", self.vars["total_full_page_count"])
 
-    self.vars["link"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH, 
+    self.vars["link"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
     "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div/div/a").get_attribute("href"))
-    self.vars["name"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH, 
+    self.vars["name"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
     "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div/div/a/div[2]/h3").text)
-    self.vars["price"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH, 
+    self.vars["price"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
     "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div/div/a/div[2]/div/span").text)
-    self.vars["stock"] = WebDriverWait(self.driver, 10000).until(lambda d: d.find_element(By.XPATH, 
+    self.vars["stock"] = WebDriverWait(self.driver, 10000).until(lambda d: d.find_element(By.XPATH,
     "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div/div/a/div/div").text)
 
     self.print_line()
 
     self.vars["loop_count"] = self.driver.execute_script("return 2")
-    while self.driver.execute_script("return (arguments[0] < (arguments[1] + 1))", 
-    self.vars["loop_count"], 
+    while self.driver.execute_script("return (arguments[0] < (arguments[1] + 1))",
+    self.vars["loop_count"],
     self.vars["num_items_displayed"]):
-      self.vars["link"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH, 
-      "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div[" 
-      + str(self.vars["loop_count"]) 
+      self.vars["link"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
+      "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div["
+      + str(self.vars["loop_count"])
       + "]/div/a").get_attribute("href"))
-      self.vars["name"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH, 
-      "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div[" 
-      + str(self.vars["loop_count"]) 
+      self.vars["name"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
+      "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div["
+      + str(self.vars["loop_count"])
       + "]/div/a/div[2]/h3").text)
-      self.vars["price"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH, 
-      "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div[" 
-      + str(self.vars["loop_count"]) 
+      self.vars["price"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
+      "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div["
+      + str(self.vars["loop_count"])
       + "]/div/a/div[2]/div/span").text)
-      self.vars["stock"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH, 
-      "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div[" 
-      + str(self.vars["loop_count"]) 
+      self.vars["stock"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
+      "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div["
+      + str(self.vars["loop_count"])
       + "]/div/a/div/div").text)
 
       self.print_line()
@@ -139,41 +139,41 @@ class TestPage1():
   def test_page2(self):
     self.vars["page_count"] = self.driver.execute_script("return 2")
     self.vars["loop_count"] = self.driver.execute_script("return 1")
-    
-    while self.driver.execute_script("return (arguments[0] < (arguments[1]))", 
-    self.vars["page_count"], 
+
+    while self.driver.execute_script("return (arguments[0] < (arguments[1]))",
+    self.vars["page_count"],
     self.vars["total_page_count"]):
       self.vars["loop_count"] = self.driver.execute_script("return 1")
-      self.driver.get("https://www.pokemoncenter.com" 
-      + self.region 
-      + "/category/plush?sort=launch_date%2Bdesc&ps=90&page=" 
+      self.driver.get("https://www.pokemoncenter.com"
+      + self.region
+      + "/category/plush?sort=launch_date%2Bdesc&ps=90&page="
       + str(self.vars["page_count"]))
-      self.vars["link"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH, 
+      self.vars["link"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
       "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div/div/a").get_attribute("href"))
-      self.vars["name"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH, 
+      self.vars["name"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
       "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div/div/a/div[2]/h3").text)
-      self.vars["price"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH, 
+      self.vars["price"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
       "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div/div/a/div[2]/div/span").text)
-      self.vars["stock"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH, 
+      self.vars["stock"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
       "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div/div/a/div/div").text)
 
       self.print_line()
-      
+
       self.vars["loop_count"] = self.driver.execute_script("return 2")
-      while self.driver.execute_script("return (arguments[0] < (arguments[1] + 1))", 
-      self.vars["loop_count"], 
+      while self.driver.execute_script("return (arguments[0] < (arguments[1] + 1))",
+      self.vars["loop_count"],
       self.vars["num_items_displayed"]):
-        self.vars["link"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH, 
-        "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div[" 
+        self.vars["link"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
+        "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div["
         + str(self.vars["loop_count"]) + "]/div/a").get_attribute("href"))
-        self.vars["name"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH, 
-        "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div[" 
+        self.vars["name"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
+        "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div["
         + str(self.vars["loop_count"]) + "]/div/a/div[2]/h3").text)
-        self.vars["price"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH, 
-        "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div[" 
+        self.vars["price"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
+        "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div["
         + str(self.vars["loop_count"]) + "]/div/a/div[2]/div/span").text)
-        self.vars["stock"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH, 
-        "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div[" 
+        self.vars["stock"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
+        "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div["
         + str(self.vars["loop_count"]) + "]/div/a/div/div").text)
 
         self.print_line()
@@ -185,47 +185,47 @@ class TestPage1():
 
   def test_page_last(self):
     # self.vars["total_count"] = 1079
-    self.vars["total_full_page_count"] = int(self.vars["total_count"]) // int(self.vars["num_items_displayed"]) 
+    self.vars["total_full_page_count"] = int(self.vars["total_count"]) // int(self.vars["num_items_displayed"])
     self.vars["total_page_count"] = self.driver.execute_script("return arguments[0] + 1", self.vars["total_full_page_count"])
 
     self.vars["page_count"] = self.driver.execute_script("return arguments[0]", self.vars["total_page_count"])
     self.vars["loop_count"] = self.driver.execute_script("return 1")
 
     time.sleep(20)
-    self.driver.get("https://www.pokemoncenter.com" 
-    + self.region 
-    + "/category/plush?sort=launch_date%2Bdesc&ps=90&page=" 
+    self.driver.get("https://www.pokemoncenter.com"
+    + self.region
+    + "/category/plush?sort=launch_date%2Bdesc&ps=90&page="
     + str(self.vars["page_count"]))
-    self.vars["link"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH, 
+    self.vars["link"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
     "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div/div/a").get_attribute("href"))
-    self.vars["name"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH, 
+    self.vars["name"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
     "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div/div/a/div[2]/h3").text)
-    self.vars["price"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH, 
+    self.vars["price"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
     "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div/div/a/div[2]/div/span").text)
-    self.vars["stock"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH, 
+    self.vars["stock"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
     "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div/div/a/div/div").text)
 
     self.print_line()
-    
+
     self.vars["loop_count"] = self.driver.execute_script("return 2")
     self.vars["past_items"] = int(self.vars["total_full_page_count"]) * int(self.vars["num_items_displayed"])
 
     self.vars["new_num_items"] = int(self.vars["total_count"]) - int(self.vars["past_items"])
 
-    while self.driver.execute_script("return (arguments[0] < (arguments[1] + 1))", 
-    self.vars["loop_count"], 
+    while self.driver.execute_script("return (arguments[0] < (arguments[1] + 1))",
+    self.vars["loop_count"],
     self.vars["new_num_items"]):
-      self.vars["link"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH, 
-      "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div[" 
+      self.vars["link"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
+      "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div["
       + str(self.vars["loop_count"]) + "]/div/a").get_attribute("href"))
-      self.vars["name"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH, 
-      "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div[" 
+      self.vars["name"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
+      "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div["
       + str(self.vars["loop_count"]) + "]/div/a/div[2]/h3").text)
-      self.vars["price"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH, 
-      "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div[" 
+      self.vars["price"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
+      "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div["
       + str(self.vars["loop_count"]) + "]/div/a/div[2]/div/span").text)
-      self.vars["stock"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH, 
-      "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div[" 
+      self.vars["stock"] = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
+      "//main[@id=\'main\']/div[2]/div[2]/div[2]/div[4]/div["
       + str(self.vars["loop_count"]) + "]/div/a/div/div").text)
 
       self.print_line()
@@ -242,4 +242,3 @@ try:
   x.teardown_method()
 finally:
   x.teardown_method()
-
