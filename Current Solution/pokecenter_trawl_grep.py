@@ -50,16 +50,15 @@ class pokecenter_output_reader():
             self.diff_file.write("{}, Difference: {} \n".format(new_line, ''.join(differencesList)))
         return foundDifference
 
-
-    # self.file1.write(
-    # "{},".format(realnumber)
-    # + "{},".format(self.vars["link"])
-    # + "{},".format(product_number)
-    # + "{},".format(self.vars["name"])
-    # + "{},".format(self.vars["price"])
-    # + "{},".format(in_stock)
-    # + "{}-{}".format(self.vars["page_count"], self.vars["loop_count"])
-    # + '\n')
+    # stringToPrint= "{},{},{},{},{},{},{}-{}\n".format(
+    # real_number,
+    # self.link,
+    # product_number,
+    # self.name,
+    # self.price,
+    # in_stock,
+    # self.page_count, self.loop_count
+    # )
 
 try:
   x = pokecenter_output_reader()
