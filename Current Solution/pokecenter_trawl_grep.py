@@ -1,11 +1,16 @@
 import os
 from datetime import date
 
+
 class pokecenter_output_reader():
     def setup_method(self):
-        self.current_file = open('pokecenter_output_current.txt', 'r', encoding="utf-8")
-        self.new_file = open('pokecenter_output_new.txt', 'r', encoding="utf-8")
-        self.diff_file = open('pokecenter_output_diff.txt', 'w', encoding="utf-8")
+        self.region = "en-ca"  # "" # "en-gb"
+        self.current_file = open(
+            'pokecenter_output_current_' + self.region[1:] + '.txt', 'r', encoding="utf-8")
+        self.new_file = open('pokecenter_output_new_' + self.region[1:] + '.txt',
+                             'r', encoding="utf-8")
+        self.diff_file = open(
+            'pokecenter_output_' + self.region[1:] + '_diff.txt', 'w', encoding="utf-8")
 
     def teardown_method(self):
         self.current_file.close()
@@ -14,9 +19,12 @@ class pokecenter_output_reader():
 
     def rename_files(self):
         today = date.today()
-        os.rename('pokecenter_output_current.txt', "pokecenter_output_current_{}.txt".format(today))
-        os.rename('pokecenter_output_diff.txt', "pokecenter_output_diff_{}.txt".format(today))
-        os.rename('pokecenter_output_new.txt', "pokecenter_output_current.txt".format(today))
+        os.rename('pokecenter_output_' + self.region + '_current_.txt',
+                  'pokecenter_output_' + self.region + '_current_{}.txt'.format(today))
+        os.rename('pokecenter_output_' + self.region + '_diff.txt',
+                  'pokecenter_output_' + self.region + '_diff_{}.txt'.format(today))
+        os.rename('pokecenter_output_' + self.region + '_new.txt',
+                  'pokecenter_output_' + self.region + '_current.txt')
 
     def search_lines(self):
         current_lines = self.current_file.readlines()
@@ -24,7 +32,7 @@ class pokecenter_output_reader():
 
         for new_line in new_lines:
             foundLineMatch = False
-            new_line = new_line.replace("\n","")
+            new_line = new_line.replace("\n", "")
             new_no_number = new_line.split(",")
             new_no_number.pop(6)
             new_no_number.pop(0)
@@ -34,10 +42,12 @@ class pokecenter_output_reader():
                 current_no_number.pop(0)
                 if current_no_number[1] == new_no_number[1]:
                     foundLineMatch = True
-                    self.compare_lines(new_no_number, current_no_number, new_line)
+                    self.compare_lines(
+                        new_no_number, current_no_number, new_line)
                     break
             if not foundLineMatch:
-                self.diff_file.write("{}, couldn't find match\n".format(new_line))
+                self.diff_file.write(
+                    "{}, couldn't find match\n".format(new_line))
 
     def compare_lines(self, new_no_number, current_no_number, new_line):
         foundDifference = False
@@ -45,9 +55,11 @@ class pokecenter_output_reader():
         for new_var, current_var in zip(new_no_number, current_no_number):
             if new_var != current_var:
                 foundDifference = True
-                differencesList.append("{} used to be {}. ".format(new_var, current_var))
+                differencesList.append(
+                    "{} used to be {}. ".format(new_var, current_var))
         if foundDifference:
-            self.diff_file.write("{}, Difference: {} \n".format(new_line, ''.join(differencesList)))
+            self.diff_file.write("{}, Difference: {} \n".format(
+                new_line, ''.join(differencesList)))
         return foundDifference
 
     # stringToPrint= "{},{},{},{},{},{},{}-{}\n".format(
@@ -60,11 +72,12 @@ class pokecenter_output_reader():
     # self.page_count, self.loop_count
     # )
 
+
 try:
-  x = pokecenter_output_reader()
-  x.setup_method()
-  x.search_lines()
-  x.teardown_method()
-  x.rename_files()
+    x = pokecenter_output_reader()
+    x.setup_method()
+    x.search_lines()
+    x.teardown_method()
+    x.rename_files()
 finally:
-  x.teardown_method()
+    x.teardown_method()

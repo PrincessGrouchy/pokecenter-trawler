@@ -1,0 +1,12 @@
+55,https://www.pokemoncenter.com/en-ca/product/701-29482/kricketot-sitting-cuties-plush-5-in,701-29482,Kricketot Sitting Cuties Plush - 5 ¾ In.,$14.99,NO,1-55, Difference: NO used to be YES.  
+158,https://www.pokemoncenter.com/en-ca/product/701-09378/25th-celebration-hoenn-region-pikachu-poke-plush-8-in,701-09378,25th Celebration - Hoenn Region Pikachu Poké Plush - 8 In.,$32.99,NO,2-68, Difference: NO used to be YES.  
+185,https://www.pokemoncenter.com/en-ca/product/701-09380/25th-celebration-unova-region-pikachu-poke-plush-9-in,701-09380,25th Celebration - Unova Region Pikachu Poké Plush - 9 In.,$32.99,NO,3-5, Difference: NO used to be YES.  
+265,https://www.pokemoncenter.com/en-ca/product/701-09382/25th-celebration-alola-region-pikachu-poke-plush-8-in,701-09382,25th Celebration - Alola Region Pikachu Poké Plush - 8 ¼ In.,$32.99,NO,3-85, Difference: NO used to be YES.  
+272,https://www.pokemoncenter.com/en-ca/product/701-09383/25th-celebration-galar-region-pikachu-poke-plush-7-in,701-09383,25th Celebration - Galar Region Pikachu Poké Plush - 7 ¾ In.,$32.99,NO,4-2, Difference: NO used to be YES.  
+337,https://www.pokemoncenter.com/en-ca/product/701-05750/manectric-sitting-cuties-plush-6-in,701-05750,Manectric Sitting Cuties Plush - 6 ¼ In.,$14.99,NO,4-67, Difference: NO used to be YES.  
+476,https://www.pokemoncenter.com/en-ca/product/701-05387/yamper-poke-plush-9-in,701-05387,Yamper Poké Plush - 9 ¾ In.,$22.99,NO,6-26, Difference: NO used to be YES.  
+507,https://www.pokemoncenter.com/en-ca/product/701-06202/gligar-sitting-cuties-plush-8-in,701-06202,Gligar Sitting Cuties Plush - 8 In.,$14.99,NO,6-57, Difference: NO used to be YES.  
+638,https://www.pokemoncenter.com/en-ca/product/701-03776/magikarp-sitting-cuties-plush-7-in,701-03776,Magikarp Sitting Cuties Plush - 7 ½ In.,$14.99,NO,8-8, Difference: NO used to be YES.  
+819,https://www.pokemoncenter.com/en-ca/product/701-03124/piplup-poke-plush-8-3-4-in,701-03124,Piplup Poké Plush - 8 3/4 In.,$19.99,NO,10-9, Difference: NO used to be YES.  
+866,https://www.pokemoncenter.com/en-ca/product/701-02969/meowth-poke-plush-7-in,701-02969,Meowth Poké Plush - 7 ½ In.,$19.99,NO,10-56, Difference: NO used to be YES.  
+1037,https://www.pokemoncenter.com/en-ca/product/702-00842/swirlix-poke-doll-plush-4-in,702-00842,Swirlix Poké Doll Plush - 4 ½ In.,$16.99,NO,12-47, Difference: NO used to be YES.  
