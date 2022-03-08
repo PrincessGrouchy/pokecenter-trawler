@@ -41,7 +41,9 @@ class TestPage1():
         self.driver.implicitly_wait(120)
         self.driver.set_window_size(776.642, 701.800)
         self.vars = {}
-        self.region = "/en-ca"  # "" # "/en-gb"
+        # self.region = "/en-ca"  # "" # "/en-gb"
+        # self.region = "/en-gb"
+        self.region = "/en-us"
         self.category = "/plush"
         self.url = "https://www.pokemoncenter.com" + self.region + \
             "/category" + self.category + "?sort=launch_date%2Bdesc&ps=90&page="
@@ -82,14 +84,18 @@ class TestPage1():
             extra_div = "div"
         else:
             extra_div = "div[" + str(self.loop_count) + "]"
-        self.link = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
-                                                                                   self.base_xpath + extra_div + "/div/a").get_attribute("href"))
-        self.name = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
-                                                                                   self.base_xpath + extra_div + "/div/a/div[2]/h3").text)
-        self.price = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
-                                                                                    self.base_xpath + extra_div + "/div/a/div[2]/div/span").text)
-        self.stock = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
-                                                                                    self.base_xpath + extra_div + "/div/a/div/div").text)
+        self.link = WebDriverWait(self.driver, 120).until(
+            lambda d: d.find_element(By.XPATH,
+                                     self.base_xpath + extra_div + "/div/a").get_attribute("href"))
+        self.name = WebDriverWait(self.driver, 120).until(
+            lambda d: d.find_element(By.XPATH,
+                                     self.base_xpath + extra_div + "/div/a/div[2]/h3").text)
+        self.price = WebDriverWait(self.driver, 120).until(
+            lambda d: d.find_element(By.XPATH,
+                                     self.base_xpath + extra_div + "/div/a/div[2]/div/span").text)
+        self.stock = WebDriverWait(self.driver, 120).until(
+            lambda d: d.find_element(By.XPATH,
+                                     self.base_xpath + extra_div + "/div/a/div/div").text)
 
     def scrape_page_not_last_page(self):
         self.page_count = 1
@@ -98,8 +104,9 @@ class TestPage1():
         WebDriverWait(self.driver, 120).until(
             lambda driver: 'Plush |' in driver.title)
 
-        self.total_count_string = WebDriverWait(self.driver, 120).until(lambda d: d.find_element(By.XPATH,
-                                                                                                 "//main[@id='main']/div[2]/div[2]/div[2]/div[3]/div/div/h3/span").text)
+        self.total_count_string = WebDriverWait(self.driver, 120).until(
+            lambda d: d.find_element(By.XPATH,
+                                     "//main[@id='main']/div[2]/div[2]/div[2]/div[3]/div/div/h3/span").text)
         self.total_count = self.total_count_string.split("of ")[
             1].replace(" )", "")
         self.total_full_page_count = int(

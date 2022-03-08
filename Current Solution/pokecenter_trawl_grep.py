@@ -4,7 +4,7 @@ from datetime import date
 
 class pokecenter_output_reader():
     def setup_method(self):
-        self.region = "en-ca"  # "" # "en-gb"
+        self.region = "en-ca"  # "en-us" # "en-gb"
         self.current_file = open(
             'pokecenter_output_current_' + self.region[1:] + '.txt', 'r', encoding="utf-8")
         self.new_file = open('pokecenter_output_new_' + self.region[1:] + '.txt',
