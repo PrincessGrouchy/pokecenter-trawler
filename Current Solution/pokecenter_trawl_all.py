@@ -41,9 +41,9 @@ class TestPage1():
         self.driver.implicitly_wait(120)
         self.driver.set_window_size(776.642, 701.800)
         self.vars = {}
-        # self.region = "/en-ca"  # "" # "/en-gb"
+        self.region = "/en-ca"
         # self.region = "/en-gb"
-        self.region = "/en-us"
+        # self.region = "/en-us"
         self.category = "/plush"
         self.url = "https://www.pokemoncenter.com" + self.region + \
             "/category" + self.category + "?sort=launch_date%2Bdesc&ps=90&page="
@@ -134,20 +134,23 @@ class TestPage1():
         # self.total_full_page_count = int(self.total_count) // int(self.num_items_displayed)
         # self.total_page_count = self.total_full_page_count + 1
 
+
         self.page_count = self.total_page_count
         self.loop_count = 1
-        self.driver.get(self.url + str(self.page_count))
-        self.get_page_vars(isFirst=True)
-        self.print_line()
-
-        self.loop_count = 2
-        self.past_items = int(self.total_full_page_count) * \
-            int(self.num_items_displayed)
-        self.new_num_items = int(self.total_count) - int(self.past_items)
-        while self.loop_count < (self.new_num_items + 1):
-            self.get_page_vars(isFirst=False)
+        # problem: we need to skip if the page remainder is 0!
+        if self.total_count % self.num_items_displayed != 0:
+            self.driver.get(self.url + str(self.page_count))
+            self.get_page_vars(isFirst=True)
             self.print_line()
-            self.loop_count += 1
+
+            self.loop_count = 2
+            self.past_items = int(self.total_full_page_count) * \
+                int(self.num_items_displayed)
+            self.new_num_items = int(self.total_count) - int(self.past_items)
+            while self.loop_count < (self.new_num_items + 1):
+                self.get_page_vars(isFirst=False)
+                self.print_line()
+                self.loop_count += 1
 
 
 try:

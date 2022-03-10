@@ -4,13 +4,16 @@ from datetime import date
 
 class pokecenter_output_reader():
     def setup_method(self):
-        self.region = "en-ca"  # "en-us" # "en-gb"
+        self.region = "en-ca"
+        # self.region = "en-us"
+        # self.region = "en-gb"
+
         self.current_file = open(
-            'pokecenter_output_current_' + self.region[1:] + '.txt', 'r', encoding="utf-8")
-        self.new_file = open('pokecenter_output_new_' + self.region[1:] + '.txt',
-                             'r', encoding="utf-8")
+            'pokecenter_output_' + self.region + '_current.txt', 'r', encoding="utf-8")
+        self.new_file = open(
+            'pokecenter_output_' + self.region + '_new.txt', 'r', encoding="utf-8")
         self.diff_file = open(
-            'pokecenter_output_' + self.region[1:] + '_diff.txt', 'w', encoding="utf-8")
+            'pokecenter_output_' + self.region + '_diff.txt', 'w', encoding="utf-8")
 
     def teardown_method(self):
         self.current_file.close()
@@ -19,7 +22,7 @@ class pokecenter_output_reader():
 
     def rename_files(self):
         today = date.today()
-        os.rename('pokecenter_output_' + self.region + '_current_.txt',
+        os.rename('pokecenter_output_' + self.region + '_current.txt',
                   'pokecenter_output_' + self.region + '_current_{}.txt'.format(today))
         os.rename('pokecenter_output_' + self.region + '_diff.txt',
                   'pokecenter_output_' + self.region + '_diff_{}.txt'.format(today))
@@ -40,6 +43,7 @@ class pokecenter_output_reader():
                 current_no_number = current_line.split(",")
                 current_no_number.pop(6)
                 current_no_number.pop(0)
+                # comparing product numbers
                 if current_no_number[1] == new_no_number[1]:
                     foundLineMatch = True
                     self.compare_lines(
@@ -48,6 +52,27 @@ class pokecenter_output_reader():
             if not foundLineMatch:
                 self.diff_file.write(
                     "{}, couldn't find match\n".format(new_line))
+        # search for removed listings
+        # there's gotta be a better way :(
+        for current_line in current_lines:
+            foundLineMatch = False
+            current_line = current_line.replace("\n", "")
+            current_no_number = current_line.split(",")
+            current_no_number.pop(6)
+            current_no_number.pop(0)
+            for new_line in new_lines:
+                new_no_number = new_line.split(",")
+                new_no_number.pop(6)
+                new_no_number.pop(0)
+                # comparing product numbers
+                if current_no_number[1] == new_no_number[1]:
+                    foundLineMatch = True
+                    # self.compare_lines(
+                    #     new_no_number, current_no_number, new_line)
+                    break
+            if not foundLineMatch:
+                self.diff_file.write(
+                    "{}, missing older line\n".format(current_line))
 
     def compare_lines(self, new_no_number, current_no_number, new_line):
         foundDifference = False
