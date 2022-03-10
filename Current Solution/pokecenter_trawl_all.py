@@ -49,8 +49,8 @@ class TestPage1():
             "/category" + self.category + "?sort=launch_date%2Bdesc&ps=90&page="
         self.num_items_displayed = 90  # 30 # 60
         self.base_xpath = "//main[@id='main']/div[2]/div[2]/div[2]/div[4]/"
-        self.file1 = open('pokecenter_output_' +
-                          self.region[1:] + '_new.txt', 'w', encoding="utf-8")
+        self.file1 = open(
+            'pokecenter_output_' + self.region[1:] + '_new.txt', 'w', encoding="utf-8")
 
     def teardown_method(self):
         self.driver.quit()
@@ -63,7 +63,9 @@ class TestPage1():
             in_stock = "YES"
         product_number = self.link.replace("https://www.pokemoncenter.com"
                                            + self.region
-                                           + "/product/", "").split("/")[0]
+                                           + "/product/", "")
+        product_number = product_number.replace("https://www.pokemoncenter.com/product/", "")
+        product_number = product_number.split("/")[0]
         real_number = self.page_count - 1
         real_number *= self.num_items_displayed
         real_number += self.loop_count
@@ -138,7 +140,7 @@ class TestPage1():
         self.page_count = self.total_page_count
         self.loop_count = 1
         # problem: we need to skip if the page remainder is 0!
-        if self.total_count % self.num_items_displayed != 0:
+        if int(self.total_count) % int(self.num_items_displayed) != 0:
             self.driver.get(self.url + str(self.page_count))
             self.get_page_vars(isFirst=True)
             self.print_line()

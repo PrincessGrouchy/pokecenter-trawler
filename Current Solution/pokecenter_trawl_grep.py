@@ -51,7 +51,7 @@ class pokecenter_output_reader():
                     break
             if not foundLineMatch:
                 self.diff_file.write(
-                    "{}, couldn't find match\n".format(new_line))
+                    "{}, New? couldn't find match\n".format(new_line))
         # search for removed listings
         # there's gotta be a better way :(
         for current_line in current_lines:
@@ -72,7 +72,7 @@ class pokecenter_output_reader():
                     break
             if not foundLineMatch:
                 self.diff_file.write(
-                    "{}, missing older line\n".format(current_line))
+                    "{}, missing! might have been delisted\n".format(current_line))
 
     def compare_lines(self, new_no_number, current_no_number, new_line):
         foundDifference = False

@@ -1,0 +1,15 @@
+1,https://www.pokemoncenter.com/en-gb/product/701-29640/gallade-sitting-cuties-plush-7-in,701-29640,New! Gallade Sitting Cuties Plush - 7 In.,£9.99,YES,1-1, couldn't find match
+2,https://www.pokemoncenter.com/en-gb/product/701-29503/stunky-sitting-cuties-plush-6-in,701-29503,New! Stunky Sitting Cuties Plush - 6 ¾ In.,£9.99,YES,1-2, couldn't find match
+3,https://www.pokemoncenter.com/en-gb/product/701-29519/cherrim-overcast-form-sitting-cuties-plush-5-in,701-29519,New! Cherrim (Overcast Form) Sitting Cuties Plush - 5 In.,£9.99,YES,1-3, couldn't find match
+4,https://www.pokemoncenter.com/en-gb/product/701-29524/vespiquen-sitting-cuties-plush-5-in,701-29524,New! Vespiquen Sitting Cuties Plush - 5 ½ In.,£9.99,YES,1-4, couldn't find match
+5,https://www.pokemoncenter.com/en-gb/product/701-29511/drifblim-sitting-cuties-plush-4-in,701-29511,New! Drifblim Sitting Cuties Plush - 4 ¾ In.,£9.99,YES,1-5, couldn't find match
+6,https://www.pokemoncenter.com/en-gb/product/701-29523/pachirisu-sitting-cuties-plush-6-in,701-29523,New! Pachirisu Sitting Cuties Plush - 6 ¼ In.,£9.99,YES,1-6, couldn't find match
+64,https://www.pokemoncenter.com/en-gb/product/701-06242/scizor-sitting-cuties-plush-6-in,701-06242,Scizor Sitting Cuties Plush - 6 ½ In.,£9.99,YES,1-64, Difference: YES used to be NO.  
+65,https://www.pokemoncenter.com/en-gb/product/701-03840/wigglytuff-sitting-cuties-plush-5-in,701-03840,Wigglytuff Sitting Cuties Plush - 5 ¼ In.,£9.99,YES,1-65, Difference: YES used to be NO.  
+66,https://www.pokemoncenter.com/en-gb/product/701-06228/flaaffy-sitting-cuties-plush-5-in,701-06228,Flaaffy Sitting Cuties Plush - 5 ½ In.,£9.99,YES,1-66, Difference: YES used to be NO.  
+67,https://www.pokemoncenter.com/en-gb/product/701-03802/pidgey-sitting-cuties-plush-5-in,701-03802,Pidgey Sitting Cuties Plush - 5 ¼ In.,£9.99,YES,1-67, Difference: YES used to be NO.  
+68,https://www.pokemoncenter.com/en-gb/product/701-03809/primeape-sitting-cuties-plush-6-in,701-03809,Primeape Sitting Cuties Plush - 6 In.,£9.99,YES,1-68, Difference: YES used to be NO.  
+69,https://www.pokemoncenter.com/en-gb/product/701-03781/marowak-sitting-cuties-plush-5-in,701-03781,Marowak Sitting Cuties Plush - 5 In.,£9.99,YES,1-69, Difference: YES used to be NO.  
+70,https://www.pokemoncenter.com/en-gb/product/701-04459/stantler-sitting-cuties-plush-7-in,701-04459,Stantler Sitting Cuties Plush - 7 ¼ In.,£9.99,YES,1-70, Difference: YES used to be NO.  
+71,https://www.pokemoncenter.com/en-gb/product/701-03775/machop-sitting-cuties-plush-7-in,701-03775,Machop Sitting Cuties Plush - 7 ½ In.,£9.99,YES,1-71, Difference: YES used to be NO.  
+157,https://www.pokemoncenter.com/en-gb/product/701-06624/sirfetch-d-poke-plush-14-in,701-06624,Sirfetch'd Poké Plush - 14 ¾ In.,£17.99,YES,2-67, Difference: YES used to be NO.  
