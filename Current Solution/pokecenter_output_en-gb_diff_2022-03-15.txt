@@ -1,0 +1,74 @@
+1,https://www.pokemoncenter.com/en-gb/product/701-29532/slowpoke-poke-plush-59-in,701-29532,New! Slowpoke Poké Plush - 59 In.,£329.99,YES,1-1, New? couldn't find match
+2,https://www.pokemoncenter.com/en-gb/product/701-02933/lapras-poke-plush-34-in,701-02933,New! Lapras Poké Plush - 34 In.,£219.99,YES,1-2, Difference: New! Lapras Poké Plush - 34 In. used to be Lapras Poké Plush - 34 In..
+3,https://www.pokemoncenter.com/en-gb/product/701-05318/mareep-poke-plush-45-in,701-05318,New! Mareep Poké Plush - 45 In.,£429.99,YES,1-3, New? couldn't find match
+4,https://www.pokemoncenter.com/en-gb/product/701-06481/psyduck-poke-plush-31-in,701-06481,New! Psyduck Poké Plush - 31 In.,£239.99,YES,1-4, New? couldn't find match
+5,https://www.pokemoncenter.com/en-gb/product/701-08604/pikachu-with-ribbon-plush-23-in,701-08604,New! Pikachu with Ribbon Plush - 23 ¾ In.,£104.99,YES,1-5, New? couldn't find match
+6,https://www.pokemoncenter.com/en-gb/product/701-95164/pikachu-happy-spring-plush-key-chain,701-95164,New! Pikachu Happy Spring Plush Key Chain,£12.99,YES,1-6, New? couldn't find match
+7,https://www.pokemoncenter.com/en-gb/product/701-95157/mimikyu-happy-spring-plush-8-in,701-95157,New! Mimikyu Happy Spring Plush - 8 ¾ In.,£17.99,YES,1-7, New? couldn't find match
+8,https://www.pokemoncenter.com/en-gb/product/701-95158/pikachu-happy-spring-plush-7-in,701-95158,New! Pikachu Happy Spring Plush - 7 ¾ In.,£17.99,YES,1-8, New? couldn't find match
+9,https://www.pokemoncenter.com/en-gb/product/701-95160/azumarill-happy-spring-plush-key-chain,701-95160,New! Azumarill Happy Spring Plush Key Chain,£12.99,YES,1-9, New? couldn't find match
+10,https://www.pokemoncenter.com/en-gb/product/701-95163/buneary-happy-spring-plush-key-chain,701-95163,New! Buneary Happy Spring Plush Key Chain,£12.99,YES,1-10, New? couldn't find match
+11,https://www.pokemoncenter.com/en-gb/product/701-95161/leafeon-happy-spring-plush-key-chain,701-95161,New! Leafeon Happy Spring Plush Key Chain,£12.99,YES,1-11, New? couldn't find match
+12,https://www.pokemoncenter.com/en-gb/product/701-95162/mimikyu-happy-spring-plush-key-chain,701-95162,New! Mimikyu Happy Spring Plush Key Chain,£12.99,YES,1-12, New? couldn't find match
+13,https://www.pokemoncenter.com/en-gb/product/701-95159/happiny-happy-spring-plush-key-chain,701-95159,New! Happiny Happy Spring Plush Key Chain,£12.99,YES,1-13, New? couldn't find match
+14,https://www.pokemoncenter.com/en-gb/product/701-03729/butterfree-sitting-cuties-plush-5-in,701-03729,New! Butterfree Sitting Cuties Plush - 5 ½ In.,£9.99,YES,1-14, New? couldn't find match
+15,https://www.pokemoncenter.com/en-gb/product/701-06218/zapdos-sitting-cuties-plush-8-in,701-06218,New! Zapdos Sitting Cuties Plush - 8 ¾ In.,£9.99,YES,1-15, New? couldn't find match
+16,https://www.pokemoncenter.com/en-gb/product/701-03705/arcanine-sitting-cuties-plush-6-in,701-03705,New! Arcanine Sitting Cuties Plush - 6 In.,£9.99,YES,1-16, New? couldn't find match
+17,https://www.pokemoncenter.com/en-gb/product/701-03778/magnemite-sitting-cuties-plush-6-in,701-03778,New! Magnemite Sitting Cuties Plush - 6 ¼ In.,£9.99,YES,1-17, New? couldn't find match
+18,https://www.pokemoncenter.com/en-gb/product/701-03736/cloyster-sitting-cuties-plush-4-in,701-03736,New! Cloyster Sitting Cuties Plush - 4 ¼ In.,£9.99,YES,1-18, New? couldn't find match
+19,https://www.pokemoncenter.com/en-gb/product/701-03792/nidorino-sitting-cuties-plush-5-in,701-03792,New! Nidorino Sitting Cuties Plush - 5 ¾ In.,£9.99,YES,1-19, New? couldn't find match
+20,https://www.pokemoncenter.com/en-gb/product/701-03839/weezing-sitting-cuties-plush-6-in,701-03839,New! Weezing Sitting Cuties Plush - 6 In.,£9.99,YES,1-20, New? couldn't find match
+21,https://www.pokemoncenter.com/en-gb/product/701-03740/doduo-sitting-cuties-plush-5-in,701-03740,New! Doduo Sitting Cuties Plush - 5 ¾ In.,£9.99,YES,1-21, New? couldn't find match
+22,https://www.pokemoncenter.com/en-gb/product/701-03704/golduck-sitting-cuties-plush-5-in,701-03704,New! Golduck Sitting Cuties Plush - 5 ½ In.,£9.99,YES,1-22, New? couldn't find match
+23,https://www.pokemoncenter.com/en-gb/product/701-03780/mankey-sitting-cuties-plush-6-in,701-03780,New! Mankey Sitting Cuties Plush - 6 ½ In.,£9.99,YES,1-23, New? couldn't find match
+24,https://www.pokemoncenter.com/en-gb/product/701-03727/blastoise-sitting-cuties-plush-5-in,701-03727,New! Blastoise Sitting Cuties Plush - 5 ¼ In.,£9.99,YES,1-24, New? couldn't find match
+25,https://www.pokemoncenter.com/en-gb/product/701-03747/fearow-sitting-cuties-plush-9-in,701-03747,New! Fearow Sitting Cuties Plush - 9 ½ In.,£9.99,YES,1-25, New? couldn't find match
+26,https://www.pokemoncenter.com/en-gb/product/701-03791/nidorina-sitting-cuties-plush-5-in,701-03791,New! Nidorina Sitting Cuties Plush - 5 ¼ In.,£9.99,YES,1-26, New? couldn't find match
+27,https://www.pokemoncenter.com/en-gb/product/701-03823/spearow-sitting-cuties-plush-5-in,701-03823,New! Spearow Sitting Cuties Plush - 5 ½ In.,£9.99,YES,1-27, New? couldn't find match
+28,https://www.pokemoncenter.com/en-gb/product/701-03592/snorlax-sitting-cuties-plush-5-in,701-03592,New! Snorlax Sitting Cuties Plush - 5 In.,£9.99,YES,1-28, New? couldn't find match
+29,https://www.pokemoncenter.com/en-gb/product/701-03834/vileplume-sitting-cuties-plush-4-in,701-03834,New! Vileplume Sitting Cuties Plush - 4 ¾ In.,£9.99,YES,1-29, New? couldn't find match
+30,https://www.pokemoncenter.com/en-gb/product/701-03794/oddish-sitting-cuties-plush-7-in,701-03794,New! Oddish Sitting Cuties Plush - 7 ½ In.,£9.99,YES,1-30, New? couldn't find match
+31,https://www.pokemoncenter.com/en-gb/product/701-03787/nidoking-sitting-cuties-plush-6-in,701-03787,New! Nidoking Sitting Cuties Plush - 6 In.,£9.99,YES,1-31, New? couldn't find match
+32,https://www.pokemoncenter.com/en-gb/product/701-03779/magneton-sitting-cuties-plush-6-in,701-03779,New! Magneton Sitting Cuties Plush - 6 ¾ In.,£9.99,YES,1-32, New? couldn't find match
+33,https://www.pokemoncenter.com/en-gb/product/701-03773/lickitung-sitting-cuties-plush-5-in,701-03773,New! Lickitung Sitting Cuties Plush - 5 ¾ In.,£9.99,YES,1-33, New? couldn't find match
+34,https://www.pokemoncenter.com/en-gb/product/701-03800/pidgeot-sitting-cuties-plush-6-in,701-03800,New! Pidgeot Sitting Cuties Plush - 6 In.,£9.99,YES,1-34, New? couldn't find match
+35,https://www.pokemoncenter.com/en-gb/product/701-03804/poliwag-sitting-cuties-plush-5-in,701-03804,New! Poliwag Sitting Cuties Plush - 5 In.,£9.99,YES,1-35, New? couldn't find match
+36,https://www.pokemoncenter.com/en-gb/product/701-03790/nidoran-sitting-cuties-plush-5-in,701-03790,New! Nidoran♂ Sitting Cuties Plush - 5 ¾ In.,£9.99,YES,1-36, New? couldn't find match
+37,https://www.pokemoncenter.com/en-gb/product/701-03789/nidoran-sitting-cuties-plush-5-in,701-03789,New! Nidoran♀ Sitting Cuties Plush - 5 ¼ In.,£9.99,YES,1-37, New? couldn't find match
+38,https://www.pokemoncenter.com/en-gb/product/701-03713/kangaskhan-sitting-cuties-plush-5-in,701-03713,New! Kangaskhan Sitting Cuties Plush - 5 ½ In.,£9.99,YES,1-38, New? couldn't find match
+39,https://www.pokemoncenter.com/en-gb/product/701-00140/psyduck-poke-plush-7-in,701-00140,New! Psyduck Poké Plush - 7 In.,£12.99,YES,1-39, New? couldn't find match
+40,https://www.pokemoncenter.com/en-gb/product/701-06246/togepi-sitting-cuties-plush-5-in,701-06246,New! Togepi Sitting Cuties Plush - 5 In.,£9.99,YES,1-40, New? couldn't find match
+41,https://www.pokemoncenter.com/en-gb/product/701-03734/clefable-sitting-cuties-plush-6-in,701-03734,New! Clefable Sitting Cuties Plush - 6 ½ In.,£9.99,NO,1-41, New? couldn't find match
+42,https://www.pokemoncenter.com/en-gb/product/701-00275/vulpix-poke-plush-7-in,701-00275,New! Vulpix Poké Plush - 7 In.,£12.99,NO,1-42, New? couldn't find match
+43,https://www.pokemoncenter.com/en-gb/product/701-03756/growlithe-sitting-cuties-plush-5-in,701-03756,New! Growlithe Sitting Cuties Plush - 5 ¼ In.,£9.99,NO,1-43, New? couldn't find match
+44,https://www.pokemoncenter.com/en-gb/product/701-06225/espeon-sitting-cuties-plush-6-in,701-06225,New! Espeon Sitting Cuties Plush - 6 ½ In.,£9.99,NO,1-44, New? couldn't find match
+47,https://www.pokemoncenter.com/en-gb/product/701-29478/luxray-sitting-cuties-plush-6-in,701-29478,New! Luxray Sitting Cuties Plush - 6 ¼ In.,£9.99,YES,1-47, New? couldn't find match
+51,https://www.pokemoncenter.com/en-gb/product/701-29602/carnivine-sitting-cuties-plush-6-in,701-29602,New! Carnivine Sitting Cuties Plush - 6 ¼ In.,£9.99,YES,1-51, New? couldn't find match
+52,https://www.pokemoncenter.com/en-gb/product/701-29513/ambipom-sitting-cuties-plush-7-in,701-29513,New! Ambipom Sitting Cuties Plush - 7 In.,£9.99,YES,1-52, New? couldn't find match
+55,https://www.pokemoncenter.com/en-gb/product/701-02906/primarina-poke-plush-13-in,701-02906,Primarina Poké Plush - 13 In.,£29.99,YES,1-55, Difference: Primarina Poké Plush - 13 In. used to be New! Primarina Poké Plush - 13 In..
+56,https://www.pokemoncenter.com/en-gb/product/701-95243/arceus-poke-plush-13-in,701-95243,Arceus Poké Plush - 13 ¾ In.,£39.99,YES,1-56, Difference: Arceus Poké Plush - 13 ¾ In. used to be New! Arceus Poké Plush - 13 ¾ In..
+82,https://www.pokemoncenter.com/en-gb/product/701-29499/bonsly-sitting-cuties-plush-5-in,701-29499,Bonsly Sitting Cuties Plush - 5 ½ In.,£9.99,YES,1-82, New? couldn't find match
+95,https://www.pokemoncenter.com/en-gb/product/701-29510/buneary-sitting-cuties-plush-6-in,701-29510,Buneary Sitting Cuties Plush - 6 ¼ In.,£9.99,NO,2-5, Difference: NO used to be YES.
+96,https://www.pokemoncenter.com/en-gb/product/701-00226/dragonite-poke-plush-10-in,701-00226,Dragonite Poké Plush - 10 In.,£22.99,NO,2-6, New? couldn't find match
+110,https://www.pokemoncenter.com/en-gb/product/701-29504/chingling-sitting-cuties-plush-6-in,701-29504,Chingling Sitting Cuties Plush - 6 In.,£9.99,YES,2-20, New? couldn't find match
+156,https://www.pokemoncenter.com/en-gb/product/701-05734/grumpig-sitting-cuties-plush-6-in,701-05734,Grumpig Sitting Cuties Plush - 6 In.,£9.99,YES,2-66, New? couldn't find match
+157,https://www.pokemoncenter.com/en-gb/product/701-05748/minun-sitting-cuties-plush-6-in,701-05748,Minun Sitting Cuties Plush - 6 In.,£9.99,YES,2-67, New? couldn't find match
+158,https://www.pokemoncenter.com/en-gb/product/701-05741/sharpedo-sitting-cuties-plush-6-in,701-05741,Sharpedo Sitting Cuties Plush - 6 ½ In.,£9.99,YES,2-68, New? couldn't find match
+159,https://www.pokemoncenter.com/en-gb/product/701-05749/plusle-sitting-cuties-plush-6-in,701-05749,Plusle Sitting Cuties Plush - 6 In.,£9.99,YES,2-69, New? couldn't find match
+160,https://www.pokemoncenter.com/en-gb/product/701-05670/deoxys-attack-forme-sitting-cuties-plush-7-in,701-05670,Deoxys (Attack Forme) Sitting Cuties Plush - 7 In.,£9.99,YES,2-70, New? couldn't find match
+161,https://www.pokemoncenter.com/en-gb/product/701-05669/deoxys-defense-forme-sitting-cuties-plush-7-in,701-05669,Deoxys (Defense Forme) Sitting Cuties Plush - 7 In.,£9.99,YES,2-71, New? couldn't find match
+162,https://www.pokemoncenter.com/en-gb/product/701-05668/deoxys-speed-forme-sitting-cuties-plush-7-in,701-05668,Deoxys (Speed Forme) Sitting Cuties Plush - 7 In.,£9.99,YES,2-72, New? couldn't find match
+186,https://www.pokemoncenter.com/en-gb/product/701-05739/wailord-sitting-cuties-plush-6-in,701-05739,Wailord Sitting Cuties Plush - 6 ½ In.,£9.99,YES,3-6, New? couldn't find match
+189,https://www.pokemoncenter.com/en-gb/product/701-03803/pinsir-sitting-cuties-plush-6-in,701-03803,Pinsir Sitting Cuties Plush - 6 ¼ In.,£9.99,YES,3-9, New? couldn't find match
+190,https://www.pokemoncenter.com/en-gb/product/701-05765/exploud-sitting-cuties-plush-5-in,701-05765,Exploud Sitting Cuties Plush - 5 ½ In.,£9.99,YES,3-10, New? couldn't find match
+225,https://www.pokemoncenter.com/en-gb/product/701-02802/rowlet-poke-plush-6-in,701-02802,Rowlet Poké Plush - 6 ½ In.,£12.99,YES,3-45, New? couldn't find match
+227,https://www.pokemoncenter.com/en-gb/product/701-02803/litten-poke-plush-6-in,701-02803,Litten Poké Plush - 6 In.,£12.99,YES,3-47, New? couldn't find match
+230,https://www.pokemoncenter.com/en-gb/product/701-02804/popplio-poke-plush-7-1-2-in,701-02804,Popplio Poké Plush - 7 1/2 In.,£12.99,YES,3-50, New? couldn't find match
+234,https://www.pokemoncenter.com/en-gb/product/701-05715/lileep-sitting-cuties-plush-7-in,701-05715,Lileep Sitting Cuties Plush - 7 ¾ In.,£9.99,YES,3-54, New? couldn't find match
+239,https://www.pokemoncenter.com/en-gb/product/701-06266/flareon-sitting-cuties-plush-6-in,701-06266,Flareon Sitting Cuties Plush - 6 ½ In.,£9.99,YES,3-59, New? couldn't find match
+254,https://www.pokemoncenter.com/en-gb/product/701-05685/shelgon-sitting-cuties-plush-4-in,701-05685,Shelgon Sitting Cuties Plush - 4 ¾ In.,£9.99,YES,3-74, New? couldn't find match
+255,https://www.pokemoncenter.com/en-gb/product/701-05758/sableye-sitting-cuties-plush-6-in,701-05758,Sableye Sitting Cuties Plush - 6 ¼ In.,£9.99,YES,3-75, New? couldn't find match
+286,https://www.pokemoncenter.com/en-gb/product/701-05774/breloom-sitting-cuties-plush-6-in,701-05774,Breloom Sitting Cuties Plush - 6 In.,£9.99,YES,4-16, New? couldn't find match
+288,https://www.pokemoncenter.com/en-gb/product/701-05718/crawdaunt-sitting-cuties-plush-6-in,701-05718,Crawdaunt Sitting Cuties Plush - 6 In.,£9.99,YES,4-18, New? couldn't find match
+289,https://www.pokemoncenter.com/en-gb/product/701-05723/lunatone-sitting-cuties-plush-5-in,701-05723,Lunatone Sitting Cuties Plush - 5 In.,£9.99,YES,4-19, New? couldn't find match
+290,https://www.pokemoncenter.com/en-gb/product/701-05790/lotad-sitting-cuties-plush-4-in,701-05790,Lotad Sitting Cuties Plush - 4 ¼ In.,£9.99,YES,4-20, New? couldn't find match

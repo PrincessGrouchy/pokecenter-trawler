@@ -1,0 +1,9 @@
+46,https://www.pokemoncenter.com/product/701-29478/luxray-sitting-cuties-plush-6-in,701-29478,Luxray Sitting Cuties Plush - 6 ¼ In.,$10.99,YES,1-46, Difference: YES used to be NO.  
+58,https://www.pokemoncenter.com/product/701-29479/luxio-sitting-cuties-plush-6-in,701-29479,Luxio Sitting Cuties Plush - 6 In.,$10.99,YES,1-58, Difference: YES used to be NO.  
+59,https://www.pokemoncenter.com/product/701-29499/bonsly-sitting-cuties-plush-5-in,701-29499,Bonsly Sitting Cuties Plush - 5 ½ In.,$10.99,YES,1-59, Difference: YES used to be NO.  
+60,https://www.pokemoncenter.com/product/701-29507/honchkrow-sitting-cuties-plush-6-in,701-29507,Honchkrow Sitting Cuties Plush - 6 ½ In.,$10.99,YES,1-60, Difference: YES used to be NO.  
+61,https://www.pokemoncenter.com/product/701-29518/cherrim-sunshine-form-sitting-cuties-plush-5-in,701-29518,Cherrim (Sunshine Form) Sitting Cuties Plush - 5 In.,$10.99,YES,1-61, Difference: YES used to be NO.  
+112,https://www.pokemoncenter.com/product/701-29645/palkia-sitting-cuties-plush-7-in,701-29645,Palkia Sitting Cuties Plush - 7 ¾ In.,$12.99,YES,2-22, Difference: YES used to be NO.  
+117,https://www.pokemoncenter.com/product/701-29494/torterra-sitting-cuties-plush-6-in,701-29494,Torterra Sitting Cuties Plush - 6 In.,$12.99,YES,2-27, Difference: YES used to be NO.  
+122,https://www.pokemoncenter.com/product/701-29476/roserade-sitting-cuties-plush-5-in,701-29476,Roserade Sitting Cuties Plush - 5 ½ In.,$10.99,YES,2-32, Difference: YES used to be NO.  
+123,https://www.pokemoncenter.com/product/701-29472/bastiodon-sitting-cuties-plush-6-in,701-29472,Bastiodon Sitting Cuties Plush - 6 In.,$12.99,YES,2-33, Difference: YES used to be NO.  
