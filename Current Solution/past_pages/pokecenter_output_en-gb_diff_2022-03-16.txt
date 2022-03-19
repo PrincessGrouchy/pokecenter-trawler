@@ -1,0 +1,21 @@
+17,https://www.pokemoncenter.com/en-gb/product/701-03734/clefable-sitting-cuties-plush-6-in,701-03734,New! Clefable Sitting Cuties Plush - 6 ½ In.,£9.99,YES,1-17, Difference: YES used to be NO.  
+19,https://www.pokemoncenter.com/en-gb/product/701-29595/magnezone-sitting-cuties-plush-6-in,701-29595,New! Magnezone Sitting Cuties Plush - 6 ¼ In.,£9.99,YES,1-19, New? couldn't find match
+27,https://www.pokemoncenter.com/en-gb/product/701-29516/shellos-east-sea-sitting-cuties-plush-4-in,701-29516,New! Shellos (East Sea) Sitting Cuties Plush - 4 ¾ In.,£9.99,YES,1-27, New? couldn't find match
+42,https://www.pokemoncenter.com/en-gb/product/701-00275/vulpix-poke-plush-7-in,701-00275,New! Vulpix Poké Plush - 7 In.,£12.99,YES,1-42, Difference: YES used to be NO.  
+56,https://www.pokemoncenter.com/en-gb/product/701-29491/infernape-sitting-cuties-plush-7-in,701-29491,New! Infernape Sitting Cuties Plush - 7 ½ In.,£9.99,YES,1-56, New? couldn't find match
+57,https://www.pokemoncenter.com/en-gb/product/701-29489/prinplup-sitting-cuties-plush-5-in,701-29489,New! Prinplup Sitting Cuties Plush - 5 In.,£9.99,YES,1-57, New? couldn't find match
+77,https://www.pokemoncenter.com/en-gb/product/701-29482/kricketot-sitting-cuties-plush-5-in,701-29482,Kricketot Sitting Cuties Plush - 5 ¾ In.,£9.99,YES,1-77, New? couldn't find match
+78,https://www.pokemoncenter.com/en-gb/product/701-29480/shinx-sitting-cuties-plush-6-in,701-29480,Shinx Sitting Cuties Plush - 6 In.,£9.99,YES,1-78, New? couldn't find match
+81,https://www.pokemoncenter.com/en-gb/product/701-29481/kricketune-sitting-cuties-plush-6-in,701-29481,Kricketune Sitting Cuties Plush - 6 ¼ In.,£9.99,YES,1-81, New? couldn't find match
+88,https://www.pokemoncenter.com/en-gb/product/701-29492/monferno-sitting-cuties-plush-5-in,701-29492,Monferno Sitting Cuties Plush - 5 ½ In.,£9.99,YES,1-88, New? couldn't find match
+91,https://www.pokemoncenter.com/en-gb/product/701-29479/luxio-sitting-cuties-plush-6-in,701-29479,Luxio Sitting Cuties Plush - 6 In.,£9.99,YES,2-1, New? couldn't find match
+98,https://www.pokemoncenter.com/en-gb/product/701-29468/wormadam-plant-cloak-sitting-cuties-plush-5-in,701-29468,Wormadam (Plant Cloak) Sitting Cuties Plush - 5 ¾ In.,£9.99,YES,2-8, New? couldn't find match
+103,https://www.pokemoncenter.com/en-gb/product/701-29477/budew-sitting-cuties-plush-5-in,701-29477,Budew Sitting Cuties Plush - 5 In.,£9.99,YES,2-13, New? couldn't find match
+106,https://www.pokemoncenter.com/en-gb/product/701-29476/roserade-sitting-cuties-plush-5-in,701-29476,Roserade Sitting Cuties Plush - 5 ½ In.,£9.99,YES,2-16, New? couldn't find match
+107,https://www.pokemoncenter.com/en-gb/product/701-29472/bastiodon-sitting-cuties-plush-6-in,701-29472,Bastiodon Sitting Cuties Plush - 6 In.,£9.99,YES,2-17, New? couldn't find match
+108,https://www.pokemoncenter.com/en-gb/product/701-00226/dragonite-poke-plush-10-in,701-00226,Dragonite Poké Plush - 10 In.,£22.99,YES,2-18, Difference: YES used to be NO.  
+109,https://www.pokemoncenter.com/en-gb/product/701-29505/purugly-sitting-cuties-plush-5-in,701-29505,Purugly Sitting Cuties Plush - 5 ½ In.,£9.99,YES,2-19, New? couldn't find match
+129,https://www.pokemoncenter.com/en-gb/product/701-29467/wormadam-sandy-cloak-sitting-cuties-plush-5-in,701-29467,Wormadam (Sandy Cloak) Sitting Cuties Plush - 5 ¾ In.,£9.99,YES,2-39, New? couldn't find match
+215,https://www.pokemoncenter.com/en-gb/product/701-29493/chimchar-sitting-cuties-plush-6-in,701-29493,Chimchar Sitting Cuties Plush - 6 In.,£9.99,YES,3-35, New? couldn't find match
+227,https://www.pokemoncenter.com/en-gb/product/701-29475/cranidos-sitting-cuties-plush-4-in,701-29475,Cranidos Sitting Cuties Plush - 4 ¾ In.,£9.99,YES,3-47, New? couldn't find match
+274,https://www.pokemoncenter.com/en-gb/product/701-06510/chimchar-plush-key-chain,701-06510,Chimchar Plush Key Chain,£8.99,YES,4-4, New? couldn't find match

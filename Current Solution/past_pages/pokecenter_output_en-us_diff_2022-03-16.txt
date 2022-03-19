@@ -1,0 +1,20 @@
+35,https://www.pokemoncenter.com/product/701-29589/togekiss-sitting-cuties-plush-6-in,701-29589,Togekiss Sitting Cuties Plush - 6 In.,$10.99,YES,1-35, Difference: YES used to be NO.
+36,https://www.pokemoncenter.com/product/701-29611/munchlax-sitting-cuties-plush-5-in,701-29611,Munchlax Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,1-36, Difference: YES used to be NO.
+43,https://www.pokemoncenter.com/product/701-29517/shellos-west-sea-sitting-cuties-plush-5-in,701-29517,Shellos (West Sea) Sitting Cuties Plush - 5 In.,$10.99,YES,1-43, Difference: YES used to be NO.
+44,https://www.pokemoncenter.com/product/701-29504/chingling-sitting-cuties-plush-6-in,701-29504,Chingling Sitting Cuties Plush - 6 In.,$10.99,YES,1-44, Difference: YES used to be NO.
+45,https://www.pokemoncenter.com/product/701-29614/gible-sitting-cuties-plush-5-in,701-29614,Gible Sitting Cuties Plush - 5 ¼ In.,$10.99,YES,1-45, Difference: YES used to be NO.
+61,https://www.pokemoncenter.com/product/701-29615/spiritomb-sitting-cuties-plush-6-in,701-29615,Spiritomb Sitting Cuties Plush - 6 ¼ In.,$10.99,YES,1-61, Difference: YES used to be NO.
+63,https://www.pokemoncenter.com/product/701-29522/buizel-sitting-cuties-plush-6-in,701-29522,Buizel Sitting Cuties Plush - 6 In.,$10.99,YES,1-63, Difference: YES used to be NO.
+65,https://www.pokemoncenter.com/product/701-29516/shellos-east-sea-sitting-cuties-plush-4-in,701-29516,Shellos (East Sea) Sitting Cuties Plush - 4 ¾ In.,$10.99,YES,1-65, Difference: YES used to be NO.
+66,https://www.pokemoncenter.com/product/701-29637/froslass-sitting-cuties-plush-5-in,701-29637,Froslass Sitting Cuties Plush - 5 ½ In.,$10.99,YES,1-66, Difference: YES used to be NO.
+68,https://www.pokemoncenter.com/product/701-29616/chatot-sitting-cuties-plush-5-in,701-29616,Chatot Sitting Cuties Plush - 5 ½ In.,$10.99,YES,1-68, Difference: YES used to be NO.
+69,https://www.pokemoncenter.com/product/701-29623/cresselia-sitting-cuties-plush-7-in,701-29623,Cresselia Sitting Cuties Plush - 7 In.,$10.99,YES,1-69, Difference: YES used to be NO.
+70,https://www.pokemoncenter.com/product/701-29512/drifloon-sitting-cuties-plush-4-in,701-29512,Drifloon Sitting Cuties Plush - 4 ½ In.,$10.99,YES,1-70, Difference: YES used to be NO.
+73,https://www.pokemoncenter.com/product/701-29599/mantyke-sitting-cuties-plush-5-in,701-29599,Mantyke Sitting Cuties Plush - 5 ½ In.,$10.99,YES,1-73, Difference: YES used to be NO.
+75,https://www.pokemoncenter.com/product/701-29638/dusknoir-sitting-cuties-plush-6-in,701-29638,Dusknoir Sitting Cuties Plush - 6 ½ In.,$10.99,YES,1-75, Difference: YES used to be NO.
+76,https://www.pokemoncenter.com/product/701-29511/drifblim-sitting-cuties-plush-4-in,701-29511,Drifblim Sitting Cuties Plush - 4 ¾ In.,$10.99,YES,1-76, Difference: YES used to be NO.
+77,https://www.pokemoncenter.com/product/701-29506/glameow-sitting-cuties-plush-5-in,701-29506,Glameow Sitting Cuties Plush - 5 In.,$10.99,YES,1-77, Difference: YES used to be NO.
+111,https://www.pokemoncenter.com/product/701-29525/combee-sitting-cuties-plush-7-in,701-29525,Combee Sitting Cuties Plush - 7 In.,$10.99,YES,2-21, Difference: YES used to be NO.
+121,https://www.pokemoncenter.com/product/701-29523/pachirisu-sitting-cuties-plush-6-in,701-29523,Pachirisu Sitting Cuties Plush - 6 ¼ In.,$10.99,YES,2-31, Difference: YES used to be NO.
+123,https://www.pokemoncenter.com/product/701-29520/cherubi-sitting-cuties-plush-4-in,701-29520,Cherubi Sitting Cuties Plush - 4 ¾ In.,$10.99,YES,2-33, Difference: YES used to be NO.
+126,https://www.pokemoncenter.com/product/701-29524/vespiquen-sitting-cuties-plush-5-in,701-29524,Vespiquen Sitting Cuties Plush - 5 ½ In.,$10.99,YES,2-36, Difference: YES used to be NO.
