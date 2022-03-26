@@ -1,0 +1,57 @@
+1,https://www.pokemoncenter.com/product/701-95251/wyrdeer-poke-plush-12-in,701-95251,New! Wyrdeer Poké Plush - 12 ½ In.,$19.99,YES,1-1, New? couldn't find match
+2,https://www.pokemoncenter.com/product/701-95252/hisuian-braviary-poke-plush-10-in,701-95252,New! Hisuian Braviary Poké Plush - 10 ¼ In.,$19.99,YES,1-2, New? couldn't find match
+3,https://www.pokemoncenter.com/product/701-95250/basculegion-poke-plush-15-in,701-95250,New! Basculegion Poké Plush - 15 In.,$19.99,NO,1-3, New? couldn't find match
+4,https://www.pokemoncenter.com/product/701-95242/hisuian-growlithe-poke-plush-9-in,701-95242,New! Hisuian Growlithe Poké Plush - 9 ¾ In.,$16.49,NO,1-4, New? couldn't find match
+5,https://www.pokemoncenter.com/product/701-95157/mimikyu-happy-spring-plush-8-in,701-95157,Mimikyu Happy Spring Plush - 8 ¾ In.,$19.99,NO,1-5, Difference: Mimikyu Happy Spring Plush - 8 ¾ In. used to be New! Mimikyu Happy Spring Plush - 8 ¾ In..  
+6,https://www.pokemoncenter.com/product/701-95158/pikachu-happy-spring-plush-7-in,701-95158,Pikachu Happy Spring Plush - 7 ¾ In.,$19.99,NO,1-6, Difference: Pikachu Happy Spring Plush - 7 ¾ In. used to be New! Pikachu Happy Spring Plush - 7 ¾ In..  
+7,https://www.pokemoncenter.com/product/701-95161/leafeon-happy-spring-plush-key-chain,701-95161,Leafeon Happy Spring Plush Key Chain,$14.99,NO,1-7, Difference: Leafeon Happy Spring Plush Key Chain used to be New! Leafeon Happy Spring Plush Key Chain.  
+8,https://www.pokemoncenter.com/product/701-95164/pikachu-happy-spring-plush-key-chain,701-95164,Pikachu Happy Spring Plush Key Chain,$14.99,NO,1-8, Difference: Pikachu Happy Spring Plush Key Chain used to be New! Pikachu Happy Spring Plush Key Chain.  
+9,https://www.pokemoncenter.com/product/701-95163/buneary-happy-spring-plush-key-chain,701-95163,Buneary Happy Spring Plush Key Chain,$14.99,NO,1-9, Difference: Buneary Happy Spring Plush Key Chain used to be New! Buneary Happy Spring Plush Key Chain.  
+10,https://www.pokemoncenter.com/product/701-95162/mimikyu-happy-spring-plush-key-chain,701-95162,Mimikyu Happy Spring Plush Key Chain,$14.99,NO,1-10, Difference: Mimikyu Happy Spring Plush Key Chain used to be New! Mimikyu Happy Spring Plush Key Chain.  
+11,https://www.pokemoncenter.com/product/701-95160/azumarill-happy-spring-plush-key-chain,701-95160,Azumarill Happy Spring Plush Key Chain,$14.99,NO,1-11, Difference: Azumarill Happy Spring Plush Key Chain used to be New! Azumarill Happy Spring Plush Key Chain.  
+12,https://www.pokemoncenter.com/product/701-95159/happiny-happy-spring-plush-key-chain,701-95159,Happiny Happy Spring Plush Key Chain,$14.99,NO,1-12, Difference: Happiny Happy Spring Plush Key Chain used to be New! Happiny Happy Spring Plush Key Chain.  
+19,https://www.pokemoncenter.com/product/701-29923/regieleki-pokemon-dolls-plush-6-in,701-29923,Regieleki Pokémon Dolls Plush - 6 ¾ In.,$11.99,NO,1-19, Difference: NO used to be YES.  
+20,https://www.pokemoncenter.com/product/701-29625/giratina-altered-forme-sitting-cuties-plush-9-in,701-29625,Giratina (Altered Forme) Sitting Cuties Plush - 9 ½ In.,$12.99,YES,1-20, Difference: YES used to be NO.  
+21,https://www.pokemoncenter.com/product/701-29624/giratina-origin-forme-sitting-cuties-plush-7-in,701-29624,Giratina (Origin Forme) Sitting Cuties Plush - 7 In.,$12.99,YES,1-21, Difference: YES used to be NO.  
+22,https://www.pokemoncenter.com/product/701-29605/drapion-sitting-cuties-plush-9-in,701-29605,Drapion Sitting Cuties Plush - 9 ½ In.,$12.99,YES,1-22, Difference: YES used to be NO.  
+24,https://www.pokemoncenter.com/product/701-29588/yanmega-sitting-cuties-plush-7-in,701-29588,Yanmega Sitting Cuties Plush - 7 ¾ In.,$10.99,YES,1-24, Difference: YES used to be NO.  
+25,https://www.pokemoncenter.com/product/701-29487/starly-sitting-cuties-plush-6-in,701-29487,Starly Sitting Cuties Plush - 6 In.,$10.99,YES,1-25, Difference: YES used to be NO.  
+26,https://www.pokemoncenter.com/product/701-29485/staraptor-sitting-cuties-plush-7-in,701-29485,Staraptor Sitting Cuties Plush - 7 ¼ In.,$10.99,YES,1-26, Difference: YES used to be NO.  
+28,https://www.pokemoncenter.com/product/701-29632/fan-rotom-sitting-cuties-plush-7-in,701-29632,Fan Rotom Sitting Cuties Plush - 7 ¾ In.,$10.99,YES,1-28, Difference: YES used to be NO.  
+33,https://www.pokemoncenter.com/product/701-29619/shaymin-land-forme-sitting-cuties-plush-5-in,701-29619,Shaymin (Land Forme) Sitting Cuties Plush - 5 In.,$10.99,YES,1-33, Difference: YES used to be NO.  
+34,https://www.pokemoncenter.com/product/701-29587/leafeon-sitting-cuties-plush-6-in,701-29587,Leafeon Sitting Cuties Plush - 6 In.,$10.99,YES,1-34, Difference: YES used to be NO.  
+47,https://www.pokemoncenter.com/product/701-29620/darkrai-sitting-cuties-plush-7-in,701-29620,Darkrai Sitting Cuties Plush - 7 ½ In.,$10.99,YES,1-47, Difference: YES used to be NO.  
+54,https://www.pokemoncenter.com/product/701-29596/weavile-sitting-cuties-plush-6-in,701-29596,Weavile Sitting Cuties Plush - 6 In.,$10.99,YES,1-54, Difference: YES used to be NO.  
+60,https://www.pokemoncenter.com/product/701-29618/shaymin-sky-forme-sitting-cuties-plush-7-in,701-29618,Shaymin (Sky Forme) Sitting Cuties Plush - 7 ¾ In.,$10.99,YES,1-60, Difference: YES used to be NO.  
+71,https://www.pokemoncenter.com/product/701-29644/glaceon-sitting-cuties-plush-7-in,701-29644,Glaceon Sitting Cuties Plush - 7 In.,$10.99,YES,1-71, Difference: YES used to be NO.  
+79,https://www.pokemoncenter.com/product/701-29594/lickilicky-sitting-cuties-plush-6-in,701-29594,Lickilicky Sitting Cuties Plush - 6 In.,$10.99,YES,1-79, Difference: YES used to be NO.  
+83,https://www.pokemoncenter.com/product/701-29630/uxie-sitting-cuties-plush-6-in,701-29630,Uxie Sitting Cuties Plush - 6 In.,$10.99,YES,1-83, Difference: YES used to be NO.  
+88,https://www.pokemoncenter.com/product/701-29510/buneary-sitting-cuties-plush-6-in,701-29510,Buneary Sitting Cuties Plush - 6 ¼ In.,$10.99,YES,1-88, Difference: YES used to be NO.  
+99,https://www.pokemoncenter.com/product/701-29628/azelf-sitting-cuties-plush-5-in,701-29628,Azelf Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,2-9, Difference: YES used to be NO.  
+233,https://www.pokemoncenter.com/product/701-05774/breloom-sitting-cuties-plush-6-in,701-05774,Breloom Sitting Cuties Plush - 6 In.,$10.99,YES,3-53, Difference: YES used to be NO.  
+239,https://www.pokemoncenter.com/product/701-05725/zangoose-sitting-cuties-plush-6-in,701-05725,Zangoose Sitting Cuties Plush - 6 ¾ In.,$10.99,YES,3-59, Difference: YES used to be NO.  
+241,https://www.pokemoncenter.com/product/701-05670/deoxys-attack-forme-sitting-cuties-plush-7-in,701-05670,Deoxys (Attack Forme) Sitting Cuties Plush - 7 In.,$10.99,YES,3-61, Difference: YES used to be NO.  
+242,https://www.pokemoncenter.com/product/701-05669/deoxys-defense-forme-sitting-cuties-plush-7-in,701-05669,Deoxys (Defense Forme) Sitting Cuties Plush - 7 In.,$10.99,YES,3-62, Difference: YES used to be NO.  
+248,https://www.pokemoncenter.com/product/701-05798/mightyena-sitting-cuties-plush-7-in,701-05798,Mightyena Sitting Cuties Plush - 7 ½ In.,$10.99,YES,3-68, Difference: YES used to be NO.  
+250,https://www.pokemoncenter.com/product/701-05668/deoxys-speed-forme-sitting-cuties-plush-7-in,701-05668,Deoxys (Speed Forme) Sitting Cuties Plush - 7 In.,$10.99,YES,3-70, Difference: YES used to be NO.  
+252,https://www.pokemoncenter.com/product/701-05715/lileep-sitting-cuties-plush-7-in,701-05715,Lileep Sitting Cuties Plush - 7 ¾ In.,$10.99,YES,3-72, Difference: YES used to be NO.  
+253,https://www.pokemoncenter.com/product/701-05695/glalie-sitting-cuties-plush-4-in,701-05695,Glalie Sitting Cuties Plush - 4 In.,$10.99,YES,3-73, Difference: YES used to be NO.  
+257,https://www.pokemoncenter.com/product/701-05728/cacturne-sitting-cuties-plush-7-in,701-05728,Cacturne Sitting Cuties Plush - 7 ½ In.,$10.99,YES,3-77, Difference: YES used to be NO.  
+259,https://www.pokemoncenter.com/product/701-05729/cacnea-sitting-cuties-plush-6-in,701-05729,Cacnea Sitting Cuties Plush - 6 ¾ In.,$10.99,YES,3-79, Difference: YES used to be NO.  
+290,https://www.pokemoncenter.com/product/701-05760/skitty-sitting-cuties-plush-5-in,701-05760,Skitty Sitting Cuties Plush - 5 ½ In.,$10.99,YES,4-20, Difference: YES used to be NO.  
+333,https://www.pokemoncenter.com/product/701-05709/castform-sitting-cuties-plush-5-in,701-05709,Castform Sitting Cuties Plush - 5 In.,$10.99,YES,4-63, Difference: YES used to be NO.  
+339,https://www.pokemoncenter.com/product/701-05706/castform-snowy-form-sitting-cuties-plush-5-in,701-05706,Castform (Snowy Form) Sitting Cuties Plush - 5 ½ In.,$10.99,YES,4-69, Difference: YES used to be NO.  
+377,https://www.pokemoncenter.com/product/701-06560/gigantamax-pikachu-poke-plush-31-in,701-06560,Gigantamax Pikachu Poké Plush - 31 ½ In.,$399.99,YES,5-17, Difference: YES used to be NO.  
+434,https://www.pokemoncenter.com/product/701-06857/galarian-ponyta-pokemon-sparkling-friendships-plush-15-in,701-06857,Galarian Ponyta Pokémon Sparkling Friendships Plush - 15 In.,$19.99,NO,5-74, Difference: NO used to be YES.  
+448,https://www.pokemoncenter.com/product/741-06482/litwick-plush-hat-one-size-adult,741-06482,Litwick Plush Hat (One Size-Adult),$29.99,YES,5-88, Difference: YES used to be NO.  
+556,https://www.pokemoncenter.com/product/701-06197/phanpy-sitting-cuties-plush-6-in,701-06197,Phanpy Sitting Cuties Plush - 6 In.,$10.99,NO,7-16, Difference: NO used to be YES.  
+730,https://www.pokemoncenter.com/product/701-03824/squirtle-sitting-cuties-plush-4-in,701-03824,Squirtle Sitting Cuties Plush - 4 ¾ In.,$10.99,YES,9-10, Difference: YES used to be NO.  
+775,https://www.pokemoncenter.com/product/701-03828/tentacool-sitting-cuties-plush-6-in,701-03828,Tentacool Sitting Cuties Plush - 6 ½ In.,$10.99,YES,9-55, Difference: YES used to be NO.  
+788,https://www.pokemoncenter.com/product/701-03756/growlithe-sitting-cuties-plush-5-in,701-03756,Growlithe Sitting Cuties Plush - 5 ¼ In.,$10.99,NO,9-68, Difference: NO used to be YES.  
+858,https://www.pokemoncenter.com/product/701-03980/pikachu-squishy-kuttari-cutie-plush-26-in,701-03980,Pikachu Squishy Kuttari Cutie Plush - 26 ¼ In.,$91.99,YES,10-48, Difference: YES used to be NO.  
+894,https://www.pokemoncenter.com/product/701-03999/fennekin-poke-plush-9-in,701-03999,Fennekin Poké Plush - 9 ¼ In.,$14.99,YES,10-84, Difference: YES used to be NO.  
+898,https://www.pokemoncenter.com/product/701-03994/mudkip-poke-plush-9-in,701-03994,Mudkip Poké Plush - 9 ½ In.,$14.99,NO,10-88, Difference: NO used to be YES.  
+907,https://www.pokemoncenter.com/product/701-03862/eevee-pokemon-holiday-extravaganza-poke-plush-8-in,701-03862,Eevee Pokémon Holiday Extravaganza Poké Plush - 8 ½ In.,$19.99,YES,11-7, Difference: YES used to be NO.  
+909,https://www.pokemoncenter.com/product/701-03865/charmander-pokemon-holiday-extravaganza-poke-plush-key-chain,701-03865,Charmander Pokémon Holiday Extravaganza Poké Plush Key Chain,$14.99,YES,11-9, Difference: YES used to be NO.  
+932,https://www.pokemoncenter.com/product/701-03682/chansey-poke-plush-8-1-2-in,701-03682,Chansey Poké Plush - 8 1/2 In.,$14.99,NO,11-32, Difference: NO used to be YES.  
+1205,https://www.pokemoncenter.com/product/701-00018/pikachu-poke-plush-39-in,701-00018,Pikachu Poké Plush - 39 In.,$249.99,YES,14-35, Difference: YES used to be NO.  
