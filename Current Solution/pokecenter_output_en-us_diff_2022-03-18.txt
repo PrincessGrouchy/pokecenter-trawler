@@ -1,0 +1,14 @@
+32,https://www.pokemoncenter.com/product/701-29612/garchomp-sitting-cuties-plush-6-in,701-29612,Garchomp Sitting Cuties Plush - 6 ¾ In.,$12.99,YES,1-32, Difference: YES used to be NO.
+38,https://www.pokemoncenter.com/product/701-29609/lucario-sitting-cuties-plush-6-in,701-29609,Lucario Sitting Cuties Plush - 6 In.,$12.99,YES,1-38, Difference: YES used to be NO.
+48,https://www.pokemoncenter.com/product/701-29482/kricketot-sitting-cuties-plush-5-in,701-29482,Kricketot Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,1-48, Difference: YES used to be NO.
+70,https://www.pokemoncenter.com/product/701-29613/gabite-sitting-cuties-plush-5-in,701-29613,Gabite Sitting Cuties Plush - 5 ¼ In.,$10.99,YES,1-70, Difference: YES used to be NO.
+73,https://www.pokemoncenter.com/product/701-29498/mime-jr-sitting-cuties-plush-6-in,701-29498,Mime Jr. Sitting Cuties Plush - 6 ½ In.,$10.99,YES,1-73, Difference: YES used to be NO.
+75,https://www.pokemoncenter.com/product/701-29521/floatzel-sitting-cuties-plush-6-in,701-29521,Floatzel Sitting Cuties Plush - 6 In.,$10.99,YES,1-75, Difference: YES used to be NO.
+77,https://www.pokemoncenter.com/product/701-29497/happiny-sitting-cuties-plush-5-in,701-29497,Happiny Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,1-77, Difference: YES used to be NO.
+81,https://www.pokemoncenter.com/product/701-29591/electivire-sitting-cuties-plush-5-in,701-29591,Electivire Sitting Cuties Plush - 5 ½ In.,$12.99,YES,1-81, Difference: YES used to be NO.
+84,https://www.pokemoncenter.com/product/701-29621/manaphy-sitting-cuties-plush-5-in,701-29621,Manaphy Sitting Cuties Plush - 5 ½ In.,$10.99,YES,1-84, Difference: YES used to be NO.
+85,https://www.pokemoncenter.com/product/701-29592/tangrowth-sitting-cuties-plush-7-in,701-29592,Tangrowth Sitting Cuties Plush - 7 In.,$12.99,YES,1-85, Difference: YES used to be NO.
+111,https://www.pokemoncenter.com/product/701-29646/dialga-sitting-cuties-plush-6-in,701-29646,Dialga Sitting Cuties Plush - 6 ¾ In.,$12.99,YES,2-21, Difference: YES used to be NO.
+279,https://www.pokemoncenter.com/product/701-09373/pikachu-pokemon-happy-spring-plush-8-in,701-09373,Pikachu Pokémon Happy Spring Plush - 8 ¾ In.,$15.99,NO,4-9, Difference: NO used to be YES.
+770,https://www.pokemoncenter.com/product/701-03756/growlithe-sitting-cuties-plush-5-in,701-03756,Growlithe Sitting Cuties Plush - 5 ¼ In.,$10.99,YES,9-50, New? couldn't find match
+894,https://www.pokemoncenter.com/product/701-03999/fennekin-poke-plush-9-in,701-03999,Fennekin Poké Plush - 9 ¼ In.,$14.99,NO,10-84, Difference: NO used to be YES.

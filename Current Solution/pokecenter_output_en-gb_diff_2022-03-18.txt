@@ -1,0 +1,26 @@
+39,https://www.pokemoncenter.com/en-gb/product/701-03734/clefable-sitting-cuties-plush-6-in,701-03734,New! Clefable Sitting Cuties Plush - 6 ½ In.,£9.99,NO,1-39, Difference: NO used to be YES.  
+1,https://www.pokemoncenter.com/en-gb/product/701-29532/slowpoke-poke-plush-59-in,701-29532,New! Slowpoke Poké Plush - 59 In.,£329.99,YES,1-1, missing! might have been delisted
+2,https://www.pokemoncenter.com/en-gb/product/701-02933/lapras-poke-plush-34-in,701-02933,New! Lapras Poké Plush - 34 In.,£219.99,YES,1-2, missing! might have been delisted
+3,https://www.pokemoncenter.com/en-gb/product/701-05318/mareep-poke-plush-45-in,701-05318,New! Mareep Poké Plush - 45 In.,£429.99,YES,1-3, missing! might have been delisted
+4,https://www.pokemoncenter.com/en-gb/product/701-06481/psyduck-poke-plush-31-in,701-06481,New! Psyduck Poké Plush - 31 In.,£239.99,YES,1-4, missing! might have been delisted
+5,https://www.pokemoncenter.com/en-gb/product/701-08604/pikachu-with-ribbon-plush-23-in,701-08604,New! Pikachu with Ribbon Plush - 23 ¾ In.,£104.99,YES,1-5, missing! might have been delisted
+58,https://www.pokemoncenter.com/en-gb/product/701-95242/hisuian-growlithe-poke-plush-9-in,701-95242,New! Hisuian Growlithe Poké Plush - 9 ¾ In.,£14.99,NO,1-58, missing! might have been delisted
+108,https://www.pokemoncenter.com/en-gb/product/701-00226/dragonite-poke-plush-10-in,701-00226,Dragonite Poké Plush - 10 In.,£22.99,YES,2-18, missing! might have been delisted
+121,https://www.pokemoncenter.com/en-gb/product/701-00271/snorlax-poke-plush-19-in,701-00271,Snorlax Poké Plush - 19 ¼ In.,£44.99,YES,2-31, missing! might have been delisted
+210,https://www.pokemoncenter.com/en-gb/product/701-07045/inteleon-poke-plush-17-in,701-07045,Inteleon Poké Plush - 17 ¾ In.,£27.99,YES,3-30, missing! might have been delisted
+213,https://www.pokemoncenter.com/en-gb/product/701-04124/feraligatr-poke-plush-13-in,701-04124,Feraligatr Poké Plush - 13 In.,£29.99,YES,3-33, missing! might have been delisted
+224,https://www.pokemoncenter.com/en-gb/product/701-04126/blaziken-poke-plush-16-in,701-04126,Blaziken Poké Plush - 16 ¼ In.,£29.99,YES,3-44, missing! might have been delisted
+238,https://www.pokemoncenter.com/en-gb/product/701-04122/meganium-poke-plush-19-in,701-04122,Meganium Poké Plush - 19 In.,£29.99,YES,3-58, missing! might have been delisted
+243,https://www.pokemoncenter.com/en-gb/product/701-02904/decidueye-poke-plush-12-in,701-02904,Decidueye Poké Plush - 12 In.,£29.99,YES,3-63, missing! might have been delisted
+245,https://www.pokemoncenter.com/en-gb/product/701-04133/samurott-poke-plush-15-in,701-04133,Samurott Poké Plush - 15 ¾ In.,£29.99,YES,3-65, missing! might have been delisted
+276,https://www.pokemoncenter.com/en-gb/product/701-00197/squirtle-poke-plush-17-in,701-00197,Squirtle Poké Plush - 17 In.,£54.99,YES,4-6, missing! might have been delisted
+280,https://www.pokemoncenter.com/en-gb/product/701-00196/charmander-poke-plush-20-in,701-00196,Charmander Poké Plush - 20 In.,£54.99,YES,4-10, missing! might have been delisted
+281,https://www.pokemoncenter.com/en-gb/product/701-00195/bulbasaur-poke-plush-24-3-4-in,701-00195,Bulbasaur Poké Plush - 24 3/4 In.,£69.99,YES,4-11, missing! might have been delisted
+310,https://www.pokemoncenter.com/en-gb/product/701-29238/piplup-pokemon-squishy-plush-19-in,701-29238,Piplup Pokémon Squishy Plush - 19 ¾ In.,£89.99,YES,4-40, missing! might have been delisted
+312,https://www.pokemoncenter.com/en-gb/product/701-29236/slowpoke-pokemon-squishy-plush-13-in,701-29236,Slowpoke Pokémon Squishy Plush - 13 ¾ In.,£30.99,YES,4-42, missing! might have been delisted
+313,https://www.pokemoncenter.com/en-gb/product/701-29239/slowpoke-pokemon-squishy-plush-19-in,701-29239,Slowpoke Pokémon Squishy Plush - 19 ¾ In.,£89.99,YES,4-43, missing! might have been delisted
+314,https://www.pokemoncenter.com/en-gb/product/701-29237/pikachu-pokemon-squishy-plush-13-in,701-29237,Pikachu Pokémon Squishy Plush - 13 ¾ In.,£30.99,YES,4-44, missing! might have been delisted
+320,https://www.pokemoncenter.com/en-gb/product/701-29235/piplup-pokemon-squishy-plush-13-in,701-29235,Piplup Pokémon Squishy Plush - 13 ¾ In.,£30.99,YES,4-50, missing! might have been delisted
+333,https://www.pokemoncenter.com/en-gb/product/701-02945/sleeping-flareon-poke-plush-15-in,701-02945,Sleeping Flareon Poké Plush - 15 ½ In.,£34.99,YES,4-63, missing! might have been delisted
+334,https://www.pokemoncenter.com/en-gb/product/701-02944/sleeping-jolteon-poke-plush-18-in,701-02944,Sleeping Jolteon Poké Plush - 18 In.,£34.99,YES,4-64, missing! might have been delisted
+335,https://www.pokemoncenter.com/en-gb/product/701-09124/lugia-poke-plush-13-in,701-09124,Lugia Poké Plush - 13 ¾ In.,£30.99,YES,4-65, missing! might have been delisted
