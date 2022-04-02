@@ -1,0 +1,3 @@
+6,https://www.pokemoncenter.com/en-gb/product/701-95161/leafeon-happy-spring-plush-key-chain,701-95161,Leafeon Happy Spring Plush Key Chain,£12.99,YES,1-6, Difference: YES used to be NO.  
+26,https://www.pokemoncenter.com/en-gb/product/701-03756/growlithe-sitting-cuties-plush-5-in,701-03756,Growlithe Sitting Cuties Plush - 5 ¼ In.,£9.99,YES,1-26, Difference: YES used to be NO.  
+42,https://www.pokemoncenter.com/en-gb/product/701-06225/espeon-sitting-cuties-plush-6-in,701-06225,Espeon Sitting Cuties Plush - 6 ½ In.,£9.99,YES,1-42, Difference: YES used to be NO.  
