@@ -1,0 +1,18 @@
+1,https://www.pokemoncenter.com/en-ca/product/701-95251/wyrdeer-poke-plush-12-in,701-95251,Wyrdeer Poké Plush - 12 ½ In.,$25.99,YES,1-1, Difference: Wyrdeer Poké Plush - 12 ½ In. used to be New! Wyrdeer Poké Plush - 12 ½ In..  
+2,https://www.pokemoncenter.com/en-ca/product/701-95252/hisuian-braviary-poke-plush-10-in,701-95252,Hisuian Braviary Poké Plush - 10 ¼ In.,$25.99,NO,1-2, Difference: Hisuian Braviary Poké Plush - 10 ¼ In. used to be New! Hisuian Braviary Poké Plush - 10 ¼ In.. NO used to be YES.  
+3,https://www.pokemoncenter.com/en-ca/product/701-95242/hisuian-growlithe-poke-plush-9-in,701-95242,Hisuian Growlithe Poké Plush - 9 ¾ In.,$21.99,NO,1-3, Difference: Hisuian Growlithe Poké Plush - 9 ¾ In. used to be New! Hisuian Growlithe Poké Plush - 9 ¾ In..  
+4,https://www.pokemoncenter.com/en-ca/product/701-95250/basculegion-poke-plush-15-in,701-95250,Basculegion Poké Plush - 15 In.,$25.99,NO,1-4, Difference: Basculegion Poké Plush - 15 In. used to be New! Basculegion Poké Plush - 15 In..  
+5,https://www.pokemoncenter.com/en-ca/product/701-95157/mimikyu-happy-spring-plush-8-in,701-95157,Mimikyu Happy Spring Plush - 8 ¾ In.,$25.99,YES,1-5, Difference: YES used to be NO.  
+6,https://www.pokemoncenter.com/en-ca/product/701-95158/pikachu-happy-spring-plush-7-in,701-95158,Pikachu Happy Spring Plush - 7 ¾ In.,$25.99,YES,1-6, Difference: YES used to be NO.  
+7,https://www.pokemoncenter.com/en-ca/product/701-95163/buneary-happy-spring-plush-key-chain,701-95163,Buneary Happy Spring Plush Key Chain,$19.99,YES,1-7, Difference: YES used to be NO.  
+8,https://www.pokemoncenter.com/en-ca/product/701-95160/azumarill-happy-spring-plush-key-chain,701-95160,Azumarill Happy Spring Plush Key Chain,$19.99,YES,1-8, Difference: YES used to be NO.  
+9,https://www.pokemoncenter.com/en-ca/product/701-95162/mimikyu-happy-spring-plush-key-chain,701-95162,Mimikyu Happy Spring Plush Key Chain,$19.99,YES,1-9, Difference: YES used to be NO.  
+10,https://www.pokemoncenter.com/en-ca/product/701-95164/pikachu-happy-spring-plush-key-chain,701-95164,Pikachu Happy Spring Plush Key Chain,$19.99,YES,1-10, Difference: YES used to be NO.  
+11,https://www.pokemoncenter.com/en-ca/product/701-95159/happiny-happy-spring-plush-key-chain,701-95159,Happiny Happy Spring Plush Key Chain,$19.99,YES,1-11, Difference: YES used to be NO.  
+13,https://www.pokemoncenter.com/en-ca/product/701-95243/arceus-poke-plush-13-in,701-95243,Arceus Poké Plush - 13 ¾ In.,$58.99,NO,1-13, Difference: NO used to be YES.  
+15,https://www.pokemoncenter.com/en-ca/product/701-29923/regieleki-pokemon-dolls-plush-6-in,701-29923,Regieleki Pokémon Dolls Plush - 6 ¾ In.,$15.99,YES,1-15, Difference: YES used to be NO.  
+19,https://www.pokemoncenter.com/en-ca/product/701-29925/regice-pokemon-dolls-plush-6-in,701-29925,Regice Pokémon Dolls Plush - 6 ½ In.,$15.99,YES,1-19, Difference: YES used to be NO.  
+26,https://www.pokemoncenter.com/en-ca/product/701-29508/mismagius-sitting-cuties-plush-6-in,701-29508,Mismagius Sitting Cuties Plush - 6 ½ In.,$16.99,YES,1-26, New? couldn't find match
+259,https://www.pokemoncenter.com/en-ca/product/701-05754/aggron-sitting-cuties-plush-7-in,701-05754,Aggron Sitting Cuties Plush - 7 ½ In.,$14.99,NO,3-79, Difference: NO used to be YES.  
+515,https://www.pokemoncenter.com/en-ca/product/701-06218/zapdos-sitting-cuties-plush-8-in,701-06218,Zapdos Sitting Cuties Plush - 8 ¾ In.,$14.99,NO,6-65, Difference: NO used to be YES.  
+996,https://www.pokemoncenter.com/en-ca/product/701-00018/pikachu-poke-plush-39-in,701-00018,Pikachu Poké Plush - 39 In.,$324.99,NO,12-6, Difference: NO used to be YES.  

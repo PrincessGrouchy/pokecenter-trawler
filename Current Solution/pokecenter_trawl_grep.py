@@ -5,8 +5,8 @@ from datetime import date
 class pokecenter_output_reader():
     def setup_method(self):
         self.region = "en-ca"
-        # self.region = "en-us"
         # self.region = "en-gb"
+        # self.region = "en-us"
 
         self.current_file = open(
             'pokecenter_output_' + self.region + '_current.txt', 'r', encoding="utf-8")

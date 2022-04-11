@@ -1,0 +1,15 @@
+1,https://www.pokemoncenter.com/en-gb/product/701-95646/turtwig-comfy-friends-plush-13-in,701-95646,New! Turtwig Comfy Friends Plush - 13 ¾ In.,£30.99,YES,1-1, New? couldn't find match
+2,https://www.pokemoncenter.com/en-gb/product/701-95645/chimchar-comfy-friends-plush-16-in,701-95645,New! Chimchar Comfy Friends Plush - 16 ½ In.,£30.99,YES,1-2, New? couldn't find match
+3,https://www.pokemoncenter.com/en-gb/product/701-95644/piplup-comfy-friends-plush-13-in,701-95644,New! Piplup Comfy Friends Plush - 13 ½ In.,£30.99,YES,1-3, New? couldn't find match
+4,https://www.pokemoncenter.com/en-gb/product/701-29631/mow-rotom-sitting-cuties-plush-8-in,701-29631,New! Mow Rotom Sitting Cuties Plush - 8 ¾ In.,£9.99,YES,1-4, New? couldn't find match
+5,https://www.pokemoncenter.com/en-gb/product/701-29593/rhyperior-sitting-cuties-plush-7-in,701-29593,New! Rhyperior Sitting Cuties Plush - 7 In.,£9.99,YES,1-5, New? couldn't find match
+6,https://www.pokemoncenter.com/en-gb/product/701-29634/frost-rotom-sitting-cuties-plush-8-in,701-29634,New! Frost Rotom Sitting Cuties Plush - 8 In.,£9.99,YES,1-6, New? couldn't find match
+7,https://www.pokemoncenter.com/en-gb/product/701-29630/uxie-sitting-cuties-plush-6-in,701-29630,New! Uxie Sitting Cuties Plush - 6 In.,£9.99,YES,1-7, New? couldn't find match
+8,https://www.pokemoncenter.com/en-gb/product/701-29633/wash-rotom-sitting-cuties-plush-5-in,701-29633,New! Wash Rotom Sitting Cuties Plush - 5 In.,£9.99,YES,1-8, New? couldn't find match
+9,https://www.pokemoncenter.com/en-gb/product/701-29635/heat-rotom-sitting-cuties-plush-7-in,701-29635,New! Heat Rotom Sitting Cuties Plush - 7 ½ In.,£9.99,YES,1-9, New? couldn't find match
+10,https://www.pokemoncenter.com/en-gb/product/701-95252/hisuian-braviary-poke-plush-10-in,701-95252,Hisuian Braviary Poké Plush - 10 ¼ In.,£17.99,YES,1-10, Difference: Hisuian Braviary Poké Plush - 10 ¼ In. used to be New! Hisuian Braviary Poké Plush - 10 ¼ In..  
+11,https://www.pokemoncenter.com/en-gb/product/701-95251/wyrdeer-poke-plush-12-in,701-95251,Wyrdeer Poké Plush - 12 ½ In.,£17.99,YES,1-11, Difference: Wyrdeer Poké Plush - 12 ½ In. used to be New! Wyrdeer Poké Plush - 12 ½ In..  
+12,https://www.pokemoncenter.com/en-gb/product/701-95250/basculegion-poke-plush-15-in,701-95250,Basculegion Poké Plush - 15 In.,£17.99,YES,1-12, Difference: Basculegion Poké Plush - 15 In. used to be New! Basculegion Poké Plush - 15 In..  
+33,https://www.pokemoncenter.com/en-gb/product/701-03734/clefable-sitting-cuties-plush-6-in,701-03734,Clefable Sitting Cuties Plush - 6 ½ In.,£9.99,YES,1-33, Difference: YES used to be NO.  
+91,https://www.pokemoncenter.com/en-gb/product/701-29510/buneary-sitting-cuties-plush-6-in,701-29510,Buneary Sitting Cuties Plush - 6 ¼ In.,£9.99,YES,2-1, Difference: YES used to be NO.  
+229,https://www.pokemoncenter.com/en-gb/product/701-06212/gengar-sitting-cuties-plush-5-in,701-06212,Gengar Sitting Cuties Plush - 5 In.,£9.99,YES,3-49, New? couldn't find match

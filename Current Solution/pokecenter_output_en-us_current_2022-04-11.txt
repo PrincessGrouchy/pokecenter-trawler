@@ -1,0 +1,1314 @@
+1,https://www.pokemoncenter.com/product/701-95252/hisuian-braviary-poke-plush-10-in,701-95252,New! Hisuian Braviary Poké Plush - 10 ¼ In.,$19.99,YES,1-1
+2,https://www.pokemoncenter.com/product/701-95251/wyrdeer-poke-plush-12-in,701-95251,New! Wyrdeer Poké Plush - 12 ½ In.,$19.99,YES,1-2
+3,https://www.pokemoncenter.com/product/701-95242/hisuian-growlithe-poke-plush-9-in,701-95242,New! Hisuian Growlithe Poké Plush - 9 ¾ In.,$16.49,NO,1-3
+4,https://www.pokemoncenter.com/product/701-95250/basculegion-poke-plush-15-in,701-95250,New! Basculegion Poké Plush - 15 In.,$19.99,NO,1-4
+5,https://www.pokemoncenter.com/product/701-95157/mimikyu-happy-spring-plush-8-in,701-95157,Mimikyu Happy Spring Plush - 8 ¾ In.,$19.99,NO,1-5
+6,https://www.pokemoncenter.com/product/701-95158/pikachu-happy-spring-plush-7-in,701-95158,Pikachu Happy Spring Plush - 7 ¾ In.,$19.99,NO,1-6
+7,https://www.pokemoncenter.com/product/701-95161/leafeon-happy-spring-plush-key-chain,701-95161,Leafeon Happy Spring Plush Key Chain,$14.99,NO,1-7
+8,https://www.pokemoncenter.com/product/701-95162/mimikyu-happy-spring-plush-key-chain,701-95162,Mimikyu Happy Spring Plush Key Chain,$14.99,NO,1-8
+9,https://www.pokemoncenter.com/product/701-95164/pikachu-happy-spring-plush-key-chain,701-95164,Pikachu Happy Spring Plush Key Chain,$14.99,NO,1-9
+10,https://www.pokemoncenter.com/product/701-95163/buneary-happy-spring-plush-key-chain,701-95163,Buneary Happy Spring Plush Key Chain,$14.99,NO,1-10
+11,https://www.pokemoncenter.com/product/701-95160/azumarill-happy-spring-plush-key-chain,701-95160,Azumarill Happy Spring Plush Key Chain,$14.99,NO,1-11
+12,https://www.pokemoncenter.com/product/701-95159/happiny-happy-spring-plush-key-chain,701-95159,Happiny Happy Spring Plush Key Chain,$14.99,NO,1-12
+13,https://www.pokemoncenter.com/product/701-95243/arceus-poke-plush-13-in,701-95243,Arceus Poké Plush - 13 ¾ In.,$44.99,YES,1-13
+14,https://www.pokemoncenter.com/product/701-09376/25th-celebration-kanto-region-pikachu-poke-plush-10-in,701-09376,25th Celebration - Kanto Region Pikachu Poké Plush - 10 ½ In.,$24.99,YES,1-14
+15,https://www.pokemoncenter.com/product/701-29922/regidrago-pokemon-dolls-plush-7-in,701-29922,Regidrago Pokémon Dolls Plush - 7 In.,$11.99,YES,1-15
+16,https://www.pokemoncenter.com/product/701-29926/registeel-pokemon-dolls-plush-5-in,701-29926,Registeel Pokémon Dolls Plush - 5 ½ In.,$11.99,YES,1-16
+17,https://www.pokemoncenter.com/product/701-29924/regirock-pokemon-dolls-plush-5-in,701-29924,Regirock Pokémon Dolls Plush - 5 ½ In.,$11.99,YES,1-17
+18,https://www.pokemoncenter.com/product/701-29923/regieleki-pokemon-dolls-plush-6-in,701-29923,Regieleki Pokémon Dolls Plush - 6 ¾ In.,$11.99,NO,1-18
+19,https://www.pokemoncenter.com/product/701-29925/regice-pokemon-dolls-plush-6-in,701-29925,Regice Pokémon Dolls Plush - 6 ½ In.,$11.99,NO,1-19
+20,https://www.pokemoncenter.com/product/701-29624/giratina-origin-forme-sitting-cuties-plush-7-in,701-29624,Giratina (Origin Forme) Sitting Cuties Plush - 7 In.,$12.99,YES,1-20
+21,https://www.pokemoncenter.com/product/701-29625/giratina-altered-forme-sitting-cuties-plush-9-in,701-29625,Giratina (Altered Forme) Sitting Cuties Plush - 9 ½ In.,$12.99,YES,1-21
+22,https://www.pokemoncenter.com/product/701-29626/regigigas-sitting-cuties-plush-9-in,701-29626,Regigigas Sitting Cuties Plush - 9 ½ In.,$12.99,YES,1-22
+23,https://www.pokemoncenter.com/product/701-29643/gliscor-sitting-cuties-plush-8-in,701-29643,Gliscor Sitting Cuties Plush - 8 In.,$12.99,YES,1-23
+24,https://www.pokemoncenter.com/product/701-29509/lopunny-sitting-cuties-plush-5-in,701-29509,Lopunny Sitting Cuties Plush - 5 ½ In.,$10.99,YES,1-24
+25,https://www.pokemoncenter.com/product/701-29627/heatran-sitting-cuties-plush-7-in,701-29627,Heatran Sitting Cuties Plush - 7 In.,$12.99,YES,1-25
+26,https://www.pokemoncenter.com/product/701-29605/drapion-sitting-cuties-plush-9-in,701-29605,Drapion Sitting Cuties Plush - 9 ½ In.,$12.99,YES,1-26
+27,https://www.pokemoncenter.com/product/701-29597/abomasnow-sitting-cuties-plush-8-in,701-29597,Abomasnow Sitting Cuties Plush - 8 ¾ In.,$12.99,YES,1-27
+28,https://www.pokemoncenter.com/product/701-29588/yanmega-sitting-cuties-plush-7-in,701-29588,Yanmega Sitting Cuties Plush - 7 ¾ In.,$10.99,YES,1-28
+29,https://www.pokemoncenter.com/product/701-29487/starly-sitting-cuties-plush-6-in,701-29487,Starly Sitting Cuties Plush - 6 In.,$10.99,YES,1-29
+30,https://www.pokemoncenter.com/product/701-29485/staraptor-sitting-cuties-plush-7-in,701-29485,Staraptor Sitting Cuties Plush - 7 ¼ In.,$10.99,YES,1-30
+31,https://www.pokemoncenter.com/product/701-29632/fan-rotom-sitting-cuties-plush-7-in,701-29632,Fan Rotom Sitting Cuties Plush - 7 ¾ In.,$10.99,YES,1-31
+32,https://www.pokemoncenter.com/product/701-29486/staravia-sitting-cuties-plush-7-in,701-29486,Staravia Sitting Cuties Plush - 7 ¼ In.,$10.99,YES,1-32
+33,https://www.pokemoncenter.com/product/701-29612/garchomp-sitting-cuties-plush-6-in,701-29612,Garchomp Sitting Cuties Plush - 6 ¾ In.,$12.99,YES,1-33
+34,https://www.pokemoncenter.com/product/701-29490/piplup-sitting-cuties-plush-4-in,701-29490,Piplup Sitting Cuties Plush - 4 ¾ In.,$10.99,YES,1-34
+35,https://www.pokemoncenter.com/product/701-29589/togekiss-sitting-cuties-plush-6-in,701-29589,Togekiss Sitting Cuties Plush - 6 In.,$10.99,YES,1-35
+36,https://www.pokemoncenter.com/product/701-29609/lucario-sitting-cuties-plush-6-in,701-29609,Lucario Sitting Cuties Plush - 6 In.,$12.99,YES,1-36
+37,https://www.pokemoncenter.com/product/701-29619/shaymin-land-forme-sitting-cuties-plush-5-in,701-29619,Shaymin (Land Forme) Sitting Cuties Plush - 5 In.,$10.99,YES,1-37
+38,https://www.pokemoncenter.com/product/701-29587/leafeon-sitting-cuties-plush-6-in,701-29587,Leafeon Sitting Cuties Plush - 6 In.,$10.99,YES,1-38
+39,https://www.pokemoncenter.com/product/701-29480/shinx-sitting-cuties-plush-6-in,701-29480,Shinx Sitting Cuties Plush - 6 In.,$10.99,YES,1-39
+40,https://www.pokemoncenter.com/product/701-29614/gible-sitting-cuties-plush-5-in,701-29614,Gible Sitting Cuties Plush - 5 ¼ In.,$10.99,YES,1-40
+41,https://www.pokemoncenter.com/product/701-29488/empoleon-sitting-cuties-plush-6-in,701-29488,Empoleon Sitting Cuties Plush - 6 ¾ In.,$12.99,YES,1-41
+42,https://www.pokemoncenter.com/product/701-29484/bidoof-sitting-cuties-plush-5-in,701-29484,Bidoof Sitting Cuties Plush - 5 In.,$10.99,YES,1-42
+43,https://www.pokemoncenter.com/product/701-29615/spiritomb-sitting-cuties-plush-6-in,701-29615,Spiritomb Sitting Cuties Plush - 6 ¼ In.,$10.99,YES,1-43
+44,https://www.pokemoncenter.com/product/701-29611/munchlax-sitting-cuties-plush-5-in,701-29611,Munchlax Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,1-44
+45,https://www.pokemoncenter.com/product/701-29478/luxray-sitting-cuties-plush-6-in,701-29478,Luxray Sitting Cuties Plush - 6 ¼ In.,$10.99,YES,1-45
+46,https://www.pokemoncenter.com/product/701-29620/darkrai-sitting-cuties-plush-7-in,701-29620,Darkrai Sitting Cuties Plush - 7 ½ In.,$10.99,YES,1-46
+47,https://www.pokemoncenter.com/product/701-29522/buizel-sitting-cuties-plush-6-in,701-29522,Buizel Sitting Cuties Plush - 6 In.,$10.99,YES,1-47
+48,https://www.pokemoncenter.com/product/701-29596/weavile-sitting-cuties-plush-6-in,701-29596,Weavile Sitting Cuties Plush - 6 In.,$10.99,YES,1-48
+49,https://www.pokemoncenter.com/product/701-29618/shaymin-sky-forme-sitting-cuties-plush-7-in,701-29618,Shaymin (Sky Forme) Sitting Cuties Plush - 7 ¾ In.,$10.99,YES,1-49
+50,https://www.pokemoncenter.com/product/701-29644/glaceon-sitting-cuties-plush-7-in,701-29644,Glaceon Sitting Cuties Plush - 7 In.,$10.99,YES,1-50
+51,https://www.pokemoncenter.com/product/701-29640/gallade-sitting-cuties-plush-7-in,701-29640,Gallade Sitting Cuties Plush - 7 In.,$10.99,YES,1-51
+52,https://www.pokemoncenter.com/product/701-29636/rotom-sitting-cuties-plush-6-in,701-29636,Rotom Sitting Cuties Plush - 6 ¾ In.,$10.99,YES,1-52
+53,https://www.pokemoncenter.com/product/701-29610/riolu-sitting-cuties-plush-5-in,701-29610,Riolu Sitting Cuties Plush - 5 ¼ In.,$10.99,YES,1-53
+54,https://www.pokemoncenter.com/product/701-29510/buneary-sitting-cuties-plush-6-in,701-29510,Buneary Sitting Cuties Plush - 6 ¼ In.,$10.99,YES,1-54
+55,https://www.pokemoncenter.com/product/701-29641/porygon-z-sitting-cuties-plush-6-in,701-29641,Porygon-Z Sitting Cuties Plush - 6 ¼ In.,$10.99,YES,1-55
+56,https://www.pokemoncenter.com/product/701-29479/luxio-sitting-cuties-plush-6-in,701-29479,Luxio Sitting Cuties Plush - 6 In.,$10.99,YES,1-56
+57,https://www.pokemoncenter.com/product/701-29637/froslass-sitting-cuties-plush-5-in,701-29637,Froslass Sitting Cuties Plush - 5 ½ In.,$10.99,YES,1-57
+58,https://www.pokemoncenter.com/product/701-29517/shellos-west-sea-sitting-cuties-plush-5-in,701-29517,Shellos (West Sea) Sitting Cuties Plush - 5 In.,$10.99,YES,1-58
+59,https://www.pokemoncenter.com/product/701-29623/cresselia-sitting-cuties-plush-7-in,701-29623,Cresselia Sitting Cuties Plush - 7 In.,$10.99,YES,1-59
+60,https://www.pokemoncenter.com/product/701-29613/gabite-sitting-cuties-plush-5-in,701-29613,Gabite Sitting Cuties Plush - 5 ¼ In.,$10.99,YES,1-60
+61,https://www.pokemoncenter.com/product/701-29622/phione-sitting-cuties-plush-5-in,701-29622,Phione Sitting Cuties Plush - 5 ½ In.,$10.99,YES,1-61
+62,https://www.pokemoncenter.com/product/701-29518/cherrim-sunshine-form-sitting-cuties-plush-5-in,701-29518,Cherrim (Sunshine Form) Sitting Cuties Plush - 5 In.,$10.99,YES,1-62
+63,https://www.pokemoncenter.com/product/701-29483/bibarel-sitting-cuties-plush-7-in,701-29483,Bibarel Sitting Cuties Plush - 7 ¾ In.,$10.99,YES,1-63
+64,https://www.pokemoncenter.com/product/701-29504/chingling-sitting-cuties-plush-6-in,701-29504,Chingling Sitting Cuties Plush - 6 In.,$10.99,YES,1-64
+65,https://www.pokemoncenter.com/product/701-29502/skuntank-sitting-cuties-plush-7-in,701-29502,Skuntank Sitting Cuties Plush - 7 ½ In.,$10.99,YES,1-65
+66,https://www.pokemoncenter.com/product/701-29512/drifloon-sitting-cuties-plush-4-in,701-29512,Drifloon Sitting Cuties Plush - 4 ½ In.,$10.99,YES,1-66
+67,https://www.pokemoncenter.com/product/701-29602/carnivine-sitting-cuties-plush-6-in,701-29602,Carnivine Sitting Cuties Plush - 6 ¼ In.,$10.99,YES,1-67
+68,https://www.pokemoncenter.com/product/701-29595/magnezone-sitting-cuties-plush-6-in,701-29595,Magnezone Sitting Cuties Plush - 6 ¼ In.,$10.99,YES,1-68
+69,https://www.pokemoncenter.com/product/701-29621/manaphy-sitting-cuties-plush-5-in,701-29621,Manaphy Sitting Cuties Plush - 5 ½ In.,$10.99,YES,1-69
+70,https://www.pokemoncenter.com/product/701-29628/azelf-sitting-cuties-plush-5-in,701-29628,Azelf Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,1-70
+71,https://www.pokemoncenter.com/product/701-29593/rhyperior-sitting-cuties-plush-7-in,701-29593,Rhyperior Sitting Cuties Plush - 7 In.,$12.99,YES,1-71
+72,https://www.pokemoncenter.com/product/701-29603/toxicroak-sitting-cuties-plush-6-in,701-29603,Toxicroak Sitting Cuties Plush - 6 ½ In.,$10.99,YES,1-72
+73,https://www.pokemoncenter.com/product/701-29521/floatzel-sitting-cuties-plush-6-in,701-29521,Floatzel Sitting Cuties Plush - 6 In.,$10.99,YES,1-73
+74,https://www.pokemoncenter.com/product/701-29516/shellos-east-sea-sitting-cuties-plush-4-in,701-29516,Shellos (East Sea) Sitting Cuties Plush - 4 ¾ In.,$10.99,YES,1-74
+75,https://www.pokemoncenter.com/product/701-29482/kricketot-sitting-cuties-plush-5-in,701-29482,Kricketot Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,1-75
+76,https://www.pokemoncenter.com/product/701-29631/mow-rotom-sitting-cuties-plush-8-in,701-29631,Mow Rotom Sitting Cuties Plush - 8 ¾ In.,$10.99,YES,1-76
+77,https://www.pokemoncenter.com/product/701-29497/happiny-sitting-cuties-plush-5-in,701-29497,Happiny Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,1-77
+78,https://www.pokemoncenter.com/product/701-29489/prinplup-sitting-cuties-plush-5-in,701-29489,Prinplup Sitting Cuties Plush - 5 In.,$10.99,YES,1-78
+79,https://www.pokemoncenter.com/product/701-29594/lickilicky-sitting-cuties-plush-6-in,701-29594,Lickilicky Sitting Cuties Plush - 6 In.,$10.99,YES,1-79
+80,https://www.pokemoncenter.com/product/701-29503/stunky-sitting-cuties-plush-6-in,701-29503,Stunky Sitting Cuties Plush - 6 ¾ In.,$10.99,YES,1-80
+81,https://www.pokemoncenter.com/product/701-29616/chatot-sitting-cuties-plush-5-in,701-29616,Chatot Sitting Cuties Plush - 5 ½ In.,$10.99,YES,1-81
+82,https://www.pokemoncenter.com/product/701-29591/electivire-sitting-cuties-plush-5-in,701-29591,Electivire Sitting Cuties Plush - 5 ½ In.,$12.99,YES,1-82
+83,https://www.pokemoncenter.com/product/701-29634/frost-rotom-sitting-cuties-plush-8-in,701-29634,Frost Rotom Sitting Cuties Plush - 8 In.,$10.99,YES,1-83
+84,https://www.pokemoncenter.com/product/701-29630/uxie-sitting-cuties-plush-6-in,701-29630,Uxie Sitting Cuties Plush - 6 In.,$10.99,YES,1-84
+85,https://www.pokemoncenter.com/product/701-29507/honchkrow-sitting-cuties-plush-6-in,701-29507,Honchkrow Sitting Cuties Plush - 6 ½ In.,$10.99,YES,1-85
+86,https://www.pokemoncenter.com/product/701-29498/mime-jr-sitting-cuties-plush-6-in,701-29498,Mime Jr. Sitting Cuties Plush - 6 ½ In.,$10.99,YES,1-86
+87,https://www.pokemoncenter.com/product/701-29500/bronzong-sitting-cuties-plush-8-in,701-29500,Bronzong Sitting Cuties Plush - 8 ¼ In.,$12.99,YES,1-87
+88,https://www.pokemoncenter.com/product/701-29499/bonsly-sitting-cuties-plush-5-in,701-29499,Bonsly Sitting Cuties Plush - 5 ½ In.,$10.99,YES,1-88
+89,https://www.pokemoncenter.com/product/701-29481/kricketune-sitting-cuties-plush-6-in,701-29481,Kricketune Sitting Cuties Plush - 6 ¼ In.,$10.99,YES,1-89
+90,https://www.pokemoncenter.com/product/701-29608/hippopotas-sitting-cuties-plush-5-in,701-29608,Hippopotas Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,1-90
+91,https://www.pokemoncenter.com/product/701-29600/lumineon-sitting-cuties-plush-6-in,701-29600,Lumineon Sitting Cuties Plush - 6 ¼ In.,$10.99,YES,2-1
+92,https://www.pokemoncenter.com/product/701-29642/mamoswine-sitting-cuties-plush-6-in,701-29642,Mamoswine Sitting Cuties Plush - 6 In.,$10.99,YES,2-2
+93,https://www.pokemoncenter.com/product/701-29590/magmortar-sitting-cuties-plush-9-in,701-29590,Magmortar Sitting Cuties Plush - 9 ¼ In.,$12.99,YES,2-3
+94,https://www.pokemoncenter.com/product/701-29506/glameow-sitting-cuties-plush-5-in,701-29506,Glameow Sitting Cuties Plush - 5 In.,$10.99,YES,2-4
+95,https://www.pokemoncenter.com/product/701-29638/dusknoir-sitting-cuties-plush-6-in,701-29638,Dusknoir Sitting Cuties Plush - 6 ½ In.,$10.99,YES,2-5
+96,https://www.pokemoncenter.com/product/701-29629/mesprit-sitting-cuties-plush-5-in,701-29629,Mesprit Sitting Cuties Plush - 5 ½ In.,$10.99,YES,2-6
+97,https://www.pokemoncenter.com/product/701-29526/mothim-sitting-cuties-plush-8-in,701-29526,Mothim Sitting Cuties Plush - 8 ½ In.,$10.99,YES,2-7
+98,https://www.pokemoncenter.com/product/701-29639/probopass-sitting-cuties-plush-6-in,701-29639,Probopass Sitting Cuties Plush - 6 ¼ In.,$10.99,YES,2-8
+99,https://www.pokemoncenter.com/product/701-29601/finneon-sitting-cuties-plush-7-in,701-29601,Finneon Sitting Cuties Plush - 7 ¼ In.,$10.99,YES,2-9
+100,https://www.pokemoncenter.com/product/701-29513/ambipom-sitting-cuties-plush-7-in,701-29513,Ambipom Sitting Cuties Plush - 7 In.,$12.99,YES,2-10
+101,https://www.pokemoncenter.com/product/701-29633/wash-rotom-sitting-cuties-plush-5-in,701-29633,Wash Rotom Sitting Cuties Plush - 5 In.,$10.99,YES,2-11
+102,https://www.pokemoncenter.com/product/701-29501/bronzor-sitting-cuties-plush-5-in,701-29501,Bronzor Sitting Cuties Plush - 5 In.,$10.99,YES,2-12
+103,https://www.pokemoncenter.com/product/701-29598/snover-sitting-cuties-plush-6-in,701-29598,Snover Sitting Cuties Plush - 6 ¾ In.,$10.99,YES,2-13
+104,https://www.pokemoncenter.com/product/701-29592/tangrowth-sitting-cuties-plush-7-in,701-29592,Tangrowth Sitting Cuties Plush - 7 In.,$12.99,YES,2-14
+105,https://www.pokemoncenter.com/product/701-29635/heat-rotom-sitting-cuties-plush-7-in,701-29635,Heat Rotom Sitting Cuties Plush - 7 ½ In.,$10.99,YES,2-15
+106,https://www.pokemoncenter.com/product/701-29599/mantyke-sitting-cuties-plush-5-in,701-29599,Mantyke Sitting Cuties Plush - 5 ½ In.,$10.99,YES,2-16
+107,https://www.pokemoncenter.com/product/701-29511/drifblim-sitting-cuties-plush-4-in,701-29511,Drifblim Sitting Cuties Plush - 4 ¾ In.,$10.99,YES,2-17
+108,https://www.pokemoncenter.com/product/701-29466/wormadam-trash-cloak-sitting-cuties-plush-6-in,701-29466,Wormadam (Trash Cloak) Sitting Cuties Plush - 6 In.,$10.99,YES,2-18
+109,https://www.pokemoncenter.com/product/701-29607/hippowdon-sitting-cuties-plush-5-in,701-29607,Hippowdon Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,2-19
+110,https://www.pokemoncenter.com/product/701-29646/dialga-sitting-cuties-plush-6-in,701-29646,Dialga Sitting Cuties Plush - 6 ¾ In.,$12.99,YES,2-20
+111,https://www.pokemoncenter.com/product/701-29494/torterra-sitting-cuties-plush-6-in,701-29494,Torterra Sitting Cuties Plush - 6 In.,$12.99,YES,2-21
+112,https://www.pokemoncenter.com/product/701-29645/palkia-sitting-cuties-plush-7-in,701-29645,Palkia Sitting Cuties Plush - 7 ¾ In.,$12.99,YES,2-22
+113,https://www.pokemoncenter.com/product/701-29496/turtwig-sitting-cuties-plush-5-in,701-29496,Turtwig Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,2-23
+114,https://www.pokemoncenter.com/product/701-29525/combee-sitting-cuties-plush-7-in,701-29525,Combee Sitting Cuties Plush - 7 In.,$10.99,YES,2-24
+115,https://www.pokemoncenter.com/product/701-29491/infernape-sitting-cuties-plush-7-in,701-29491,Infernape Sitting Cuties Plush - 7 ½ In.,$12.99,YES,2-25
+116,https://www.pokemoncenter.com/product/701-29493/chimchar-sitting-cuties-plush-6-in,701-29493,Chimchar Sitting Cuties Plush - 6 In.,$10.99,YES,2-26
+117,https://www.pokemoncenter.com/product/701-29523/pachirisu-sitting-cuties-plush-6-in,701-29523,Pachirisu Sitting Cuties Plush - 6 ¼ In.,$10.99,YES,2-27
+118,https://www.pokemoncenter.com/product/701-29474/rampardos-sitting-cuties-plush-5-in,701-29474,Rampardos Sitting Cuties Plush - 5 In.,$10.99,YES,2-28
+119,https://www.pokemoncenter.com/product/701-29495/grotle-sitting-cuties-plush-5-in,701-29495,Grotle Sitting Cuties Plush - 5 In.,$10.99,YES,2-29
+120,https://www.pokemoncenter.com/product/701-29477/budew-sitting-cuties-plush-5-in,701-29477,Budew Sitting Cuties Plush - 5 In.,$10.99,YES,2-30
+121,https://www.pokemoncenter.com/product/701-29476/roserade-sitting-cuties-plush-5-in,701-29476,Roserade Sitting Cuties Plush - 5 ½ In.,$10.99,YES,2-31
+122,https://www.pokemoncenter.com/product/701-29469/burmy-trash-cloak-sitting-cuties-plush-6-in,701-29469,Burmy (Trash Cloak) Sitting Cuties Plush - 6 In.,$10.99,YES,2-32
+123,https://www.pokemoncenter.com/product/701-29471/burmy-plant-cloak-sitting-cuties-plush-6-in,701-29471,Burmy (Plant Cloak) Sitting Cuties Plush - 6 In.,$10.99,YES,2-33
+124,https://www.pokemoncenter.com/product/701-29519/cherrim-overcast-form-sitting-cuties-plush-5-in,701-29519,Cherrim (Overcast Form) Sitting Cuties Plush - 5 In.,$10.99,YES,2-34
+125,https://www.pokemoncenter.com/product/701-29520/cherubi-sitting-cuties-plush-4-in,701-29520,Cherubi Sitting Cuties Plush - 4 ¾ In.,$10.99,YES,2-35
+126,https://www.pokemoncenter.com/product/701-29475/cranidos-sitting-cuties-plush-4-in,701-29475,Cranidos Sitting Cuties Plush - 4 ¾ In.,$10.99,YES,2-36
+127,https://www.pokemoncenter.com/product/701-29473/shieldon-sitting-cuties-plush-5-in,701-29473,Shieldon Sitting Cuties Plush - 5 ¼ In.,$10.99,YES,2-37
+128,https://www.pokemoncenter.com/product/701-29470/burmy-sandy-cloak-sitting-cuties-plush-6-in,701-29470,Burmy (Sandy Cloak) Sitting Cuties Plush - 6 In.,$10.99,YES,2-38
+129,https://www.pokemoncenter.com/product/701-29492/monferno-sitting-cuties-plush-5-in,701-29492,Monferno Sitting Cuties Plush - 5 ½ In.,$10.99,YES,2-39
+130,https://www.pokemoncenter.com/product/701-29472/bastiodon-sitting-cuties-plush-6-in,701-29472,Bastiodon Sitting Cuties Plush - 6 In.,$12.99,YES,2-40
+131,https://www.pokemoncenter.com/product/701-29524/vespiquen-sitting-cuties-plush-5-in,701-29524,Vespiquen Sitting Cuties Plush - 5 ½ In.,$10.99,YES,2-41
+132,https://www.pokemoncenter.com/product/701-29468/wormadam-plant-cloak-sitting-cuties-plush-5-in,701-29468,Wormadam (Plant Cloak) Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,2-42
+133,https://www.pokemoncenter.com/product/701-29467/wormadam-sandy-cloak-sitting-cuties-plush-5-in,701-29467,Wormadam (Sandy Cloak) Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,2-43
+134,https://www.pokemoncenter.com/product/701-94581/lucario-poke-plush-47-in,701-94581,Lucario Poké Plush - 47 ¼ In.,$419.99,NO,2-44
+135,https://www.pokemoncenter.com/product/701-29239/slowpoke-pokemon-squishy-plush-19-in,701-29239,Slowpoke Pokémon Squishy Plush - 19 ¾ In.,$99.99,YES,2-45
+136,https://www.pokemoncenter.com/product/701-29238/piplup-pokemon-squishy-plush-19-in,701-29238,Piplup Pokémon Squishy Plush - 19 ¾ In.,$99.99,YES,2-46
+137,https://www.pokemoncenter.com/product/701-29240/pikachu-pokemon-squishy-plush-19-in,701-29240,Pikachu Pokémon Squishy Plush - 19 ¾ In.,$99.99,YES,2-47
+138,https://www.pokemoncenter.com/product/701-29237/pikachu-pokemon-squishy-plush-13-in,701-29237,Pikachu Pokémon Squishy Plush - 13 ¾ In.,$35.99,YES,2-48
+139,https://www.pokemoncenter.com/product/701-29235/piplup-pokemon-squishy-plush-13-in,701-29235,Piplup Pokémon Squishy Plush - 13 ¾ In.,$35.99,YES,2-49
+140,https://www.pokemoncenter.com/product/701-29236/slowpoke-pokemon-squishy-plush-13-in,701-29236,Slowpoke Pokémon Squishy Plush - 13 ¾ In.,$35.99,YES,2-50
+141,https://www.pokemoncenter.com/product/701-29232/piplup-pokemon-squishy-plush-key-chain,701-29232,Piplup Pokémon Squishy Plush Key Chain,$10.99,YES,2-51
+142,https://www.pokemoncenter.com/product/701-29233/slowpoke-pokemon-squishy-plush-key-chain,701-29233,Slowpoke Pokémon Squishy Plush Key Chain,$10.99,YES,2-52
+143,https://www.pokemoncenter.com/product/701-29234/pikachu-pokemon-squishy-plush-key-chain,701-29234,Pikachu Pokémon Squishy Plush Key Chain,$10.99,YES,2-53
+144,https://www.pokemoncenter.com/product/701-29763/glaceon-pokemon-undersea-holiday-plush-8-in,701-29763,Glaceon Pokémon Undersea Holiday Plush - 8 ¾ In.,$19.99,YES,2-54
+145,https://www.pokemoncenter.com/product/701-29764/piplup-and-mantyke-pokemon-undersea-holiday-plush-8-in,701-29764,Piplup & Mantyke Pokémon Undersea Holiday Plush - 8 ¾ In.,$27.99,YES,2-55
+146,https://www.pokemoncenter.com/product/701-29758/spheal-pokemon-undersea-holiday-plush-key-chain,701-29758,Spheal Pokémon Undersea Holiday Plush Key Chain,$14.99,YES,2-56
+147,https://www.pokemoncenter.com/product/701-29759/pikachu-and-piplup-pokemon-undersea-holiday-wreath-plush-7-in,701-29759,Pikachu & Piplup Pokémon Undersea Holiday Wreath Plush - 7 In.,$19.99,YES,2-57
+148,https://www.pokemoncenter.com/product/701-29765/pikachu-pokemon-undersea-holiday-plush-8-in,701-29765,Pikachu Pokémon Undersea Holiday Plush - 8 ¾ In.,$21.99,YES,2-58
+149,https://www.pokemoncenter.com/product/701-29762/galarian-corsola-pokemon-undersea-holiday-plush-key-chain,701-29762,Galarian Corsola Pokémon Undersea Holiday Plush Key Chain,$14.99,YES,2-59
+150,https://www.pokemoncenter.com/product/701-29761/buizel-pokemon-undersea-holiday-plush-key-chain,701-29761,Buizel Pokémon Undersea Holiday Plush Key Chain,$14.99,YES,2-60
+151,https://www.pokemoncenter.com/product/701-29760/chinchou-pokemon-undersea-holiday-plush-key-chain,701-29760,Chinchou Pokémon Undersea Holiday Plush Key Chain,$14.99,YES,2-61
+152,https://www.pokemoncenter.com/product/701-07055/giratina-poke-plush-18-in,701-07055,Giratina Poké Plush - 18 In.,$44.99,YES,2-62
+153,https://www.pokemoncenter.com/product/701-07057/dialga-poke-plush-14-in,701-07057,Dialga Poké Plush - 14 ½ In.,$44.99,YES,2-63
+154,https://www.pokemoncenter.com/product/701-07056/palkia-poke-plush-14-in,701-07056,Palkia Poké Plush - 14 ¾ In.,$44.99,YES,2-64
+155,https://www.pokemoncenter.com/product/701-07054/rotom-poke-plush-23-in,701-07054,Rotom Poké Plush - 23 In.,$22.99,YES,2-65
+156,https://www.pokemoncenter.com/product/701-08765/safari-pikachu-poke-plush-8-in,701-08765,Safari Pikachu Poké Plush - 8 In.,$19.99,YES,2-66
+157,https://www.pokemoncenter.com/product/701-29217/cinccino-comfy-friends-plush-13-in,701-29217,Cinccino Comfy Friends Plush - 13 ¾ In.,$35.99,YES,2-67
+158,https://www.pokemoncenter.com/product/701-29218/zorua-comfy-friends-plush-15-in,701-29218,Zorua Comfy Friends Plush - 15 ½ In.,$35.99,NO,2-68
+159,https://www.pokemoncenter.com/product/701-29216/swablu-comfy-friends-plush-14-in,701-29216,Swablu Comfy Friends Plush - 14 ¼ In.,$35.99,NO,2-69
+160,https://www.pokemoncenter.com/product/701-29670/arcanine-poke-plush-59-in,701-29670,Arcanine Poké Plush - 59 In.,$449.99,NO,2-70
+161,https://www.pokemoncenter.com/product/701-29583/snorlax-pokemon-pumpkin-celebration-poke-plush-9-in,701-29583,Snorlax Pokémon Pumpkin Celebration Poké Plush - 9 ¼ In.,$19.99,YES,2-71
+162,https://www.pokemoncenter.com/product/701-29585/piplup-pokemon-pumpkin-celebration-poke-plush-8-in,701-29585,Piplup Pokémon Pumpkin Celebration Poké Plush - 8 ¾ In.,$19.99,YES,2-72
+163,https://www.pokemoncenter.com/product/701-29584/scorbunny-pokemon-pumpkin-celebration-poke-plush-9-in,701-29584,Scorbunny Pokémon Pumpkin Celebration Poké Plush - 9 ¾ In.,$19.99,YES,2-73
+164,https://www.pokemoncenter.com/product/701-29581/litwick-pokemon-pumpkin-celebration-plush-key-chain,701-29581,Litwick Pokémon Pumpkin Celebration Plush Key Chain,$11.99,YES,2-74
+165,https://www.pokemoncenter.com/product/701-29586/pikachu-pokemon-pumpkin-celebration-poke-plush-8-in,701-29586,Pikachu Pokémon Pumpkin Celebration Poké Plush - 8 ¾ In.,$19.99,YES,2-75
+166,https://www.pokemoncenter.com/product/701-29579/dreepy-pokemon-pumpkin-celebration-plush-key-chain,701-29579,Dreepy Pokémon Pumpkin Celebration Plush Key Chain,$11.99,YES,2-76
+167,https://www.pokemoncenter.com/product/701-29580/drifblim-pokemon-pumpkin-celebration-plush-key-chain,701-29580,Drifblim Pokémon Pumpkin Celebration Plush Key Chain,$14.99,YES,2-77
+168,https://www.pokemoncenter.com/product/701-29582/toxel-pokemon-pumpkin-celebration-plush-key-chain,701-29582,Toxel Pokémon Pumpkin Celebration Plush Key Chain,$14.99,YES,2-78
+169,https://www.pokemoncenter.com/product/701-09377/25th-celebration-johto-region-pikachu-poke-plush-9-in,701-09377,25th Celebration - Johto Region Pikachu Poké Plush - 9 ½ In.,$24.99,YES,2-79
+170,https://www.pokemoncenter.com/product/701-09378/25th-celebration-hoenn-region-pikachu-poke-plush-8-in,701-09378,25th Celebration - Hoenn Region Pikachu Poké Plush - 8 In.,$24.99,NO,2-80
+171,https://www.pokemoncenter.com/product/701-09127/shiny-mega-rayquaza-poke-plush-45-in,701-09127,Shiny Mega Rayquaza Poké Plush - 45 ¼ In.,$34.99,NO,2-81
+172,https://www.pokemoncenter.com/product/701-09126/shiny-mega-gengar-poke-plush-13-in,701-09126,Shiny Mega Gengar Poké Plush - 13 In.,$22.99,NO,2-82
+173,https://www.pokemoncenter.com/product/701-09128/houndoom-sitting-cuties-plush-6-in,701-09128,Houndoom Sitting Cuties Plush - 6 ½ In.,$10.99,NO,2-83
+174,https://www.pokemoncenter.com/product/701-06509/piplup-plush-key-chain,701-06509,Piplup Plush Key Chain,$10.99,YES,2-84
+175,https://www.pokemoncenter.com/product/701-06511/turtwig-plush-key-chain,701-06511,Turtwig Plush Key Chain,$10.99,YES,2-85
+176,https://www.pokemoncenter.com/product/701-06510/chimchar-plush-key-chain,701-06510,Chimchar Plush Key Chain,$10.99,YES,2-86
+177,https://www.pokemoncenter.com/product/701-09427/gigantamax-gengar-poke-plush-14-in,701-09427,Gigantamax Gengar Poké Plush - 14 ½ In.,$47.99,YES,2-87
+178,https://www.pokemoncenter.com/product/701-09426/gigantamax-snorlax-poke-plush-15-in,701-09426,Gigantamax Snorlax Poké Plush - 15 In.,$47.99,YES,2-88
+179,https://www.pokemoncenter.com/product/701-09379/25th-celebration-sinnoh-region-pikachu-poke-plush-8-in,701-09379,25th Celebration - Sinnoh Region Pikachu Poké Plush - 8 ½ In.,$24.99,NO,2-89
+180,https://www.pokemoncenter.com/product/701-29219/bidoof-comfy-friends-plush-14-in,701-29219,Bidoof Comfy Friends Plush - 14 ½ In.,$35.99,YES,2-90
+181,https://www.pokemoncenter.com/product/701-29077/sylveon-poke-plush-11-in,701-29077,Sylveon Poké Plush - 11 ¼ In.,$19.99,NO,3-1
+182,https://www.pokemoncenter.com/product/701-29084/vaporeon-poke-plush-10-in,701-29084,Vaporeon Poké Plush - 10 ½ In.,$19.99,NO,3-2
+183,https://www.pokemoncenter.com/product/701-29080/umbreon-poke-plush-13-in,701-29080,Umbreon Poké Plush - 13 In.,$19.99,NO,3-3
+184,https://www.pokemoncenter.com/product/701-29078/glaceon-poke-plush-11-in,701-29078,Glaceon Poké Plush - 11 ¼ In.,$19.99,NO,3-4
+185,https://www.pokemoncenter.com/product/701-29079/leafeon-poke-plush-11-in,701-29079,Leafeon Poké Plush - 11 ½ In.,$19.99,NO,3-5
+186,https://www.pokemoncenter.com/product/701-29081/espeon-poke-plush-10-in,701-29081,Espeon Poké Plush - 10 ¾ In.,$19.99,NO,3-6
+187,https://www.pokemoncenter.com/product/701-29085/eevee-poke-plush-11-in,701-29085,Eevee Poké Plush - 11 ¾ In.,$19.99,NO,3-7
+188,https://www.pokemoncenter.com/product/701-29083/jolteon-poke-plush-12-in,701-29083,Jolteon Poké Plush - 12 In.,$19.99,NO,3-8
+189,https://www.pokemoncenter.com/product/701-29082/flareon-poke-plush-11-in,701-29082,Flareon Poké Plush - 11 ½ In.,$19.99,NO,3-9
+190,https://www.pokemoncenter.com/product/701-06703/relaxing-eevee-plush-15-in,701-06703,Relaxing Eevee Plush - 15 In.,$24.99,YES,3-10
+191,https://www.pokemoncenter.com/product/701-06701/relaxing-yamper-plush-12-in,701-06701,Relaxing Yamper Plush - 12 ½ In.,$24.99,YES,3-11
+192,https://www.pokemoncenter.com/product/701-06702/relaxing-grookey-plush-14-in,701-06702,Relaxing Grookey Plush - 14 ¼ In.,$24.99,YES,3-12
+193,https://www.pokemoncenter.com/product/701-06704/relaxing-pikachu-plush-12-in,701-06704,Relaxing Pikachu Plush - 12 ¼ In.,$24.99,YES,3-13
+194,https://www.pokemoncenter.com/product/701-08641/sunkern-sitting-cuties-plush-5-in,701-08641,Sunkern Sitting Cuties Plush - 5 In.,$10.99,YES,3-14
+195,https://www.pokemoncenter.com/product/701-08640/ho-oh-poke-plush-13-in,701-08640,Ho-Oh Poké Plush - 13 ¾ In.,$24.99,NO,3-15
+196,https://www.pokemoncenter.com/product/701-29532/slowpoke-poke-plush-59-in,701-29532,Slowpoke Poké Plush - 59 In.,$450.00,YES,3-16
+197,https://www.pokemoncenter.com/product/701-09380/25th-celebration-unova-region-pikachu-poke-plush-9-in,701-09380,25th Celebration - Unova Region Pikachu Poké Plush - 9 In.,$24.99,NO,3-17
+198,https://www.pokemoncenter.com/product/701-09124/lugia-poke-plush-13-in,701-09124,Lugia Poké Plush - 13 ¾ In.,$34.99,YES,3-18
+199,https://www.pokemoncenter.com/product/701-09381/25th-celebration-kalos-region-pikachu-poke-plush-9-in,701-09381,25th Celebration - Kalos Region Pikachu Poké Plush - 9 ½ In.,$24.99,NO,3-19
+200,https://www.pokemoncenter.com/product/701-09436/chewtle-poke-plush-9-in,701-09436,Chewtle Poké Plush - 9 ¾ In.,$16.99,YES,3-20
+201,https://www.pokemoncenter.com/product/701-09437/sizzlipede-poke-plush-15-in,701-09437,Sizzlipede Poké Plush - 15 In.,$16.99,NO,3-21
+202,https://www.pokemoncenter.com/product/701-09435/clobbopus-poke-plush-10-in,701-09435,Clobbopus Poké Plush - 10 In.,$16.99,NO,3-22
+203,https://www.pokemoncenter.com/product/701-08882/mega-rayquaza-poke-plush-41-in,701-08882,Mega Rayquaza Poké Plush - 41 ¼ In.,$34.99,NO,3-23
+204,https://www.pokemoncenter.com/product/701-06503/dada-zarude-pokemon-dolls-plush-5-in,701-06503,Dada Zarude Pokémon Dolls Plush - 5 ¾ In.,$12.99,NO,3-24
+205,https://www.pokemoncenter.com/product/701-09430/arctozolt-pokemon-dolls-plush-8-in,701-09430,Arctozolt Pokémon Dolls Plush - 8 ½ In.,$11.99,YES,3-25
+206,https://www.pokemoncenter.com/product/701-09428/arctovish-pokemon-dolls-plush-7-in,701-09428,Arctovish Pokémon Dolls Plush - 7 In.,$11.99,YES,3-26
+207,https://www.pokemoncenter.com/product/701-09429/dracovish-pokemon-dolls-plush-6-in,701-09429,Dracovish Pokémon Dolls Plush - 6 ¼ In.,$11.99,NO,3-27
+208,https://www.pokemoncenter.com/product/701-09431/dracozolt-pokemon-dolls-plush-8-in,701-09431,Dracozolt Pokémon Dolls Plush - 8 In.,$11.99,NO,3-28
+209,https://www.pokemoncenter.com/product/701-05778/gardevoir-sitting-cuties-plush-5-in,701-05778,Gardevoir Sitting Cuties Plush - 5 ¼ In.,$10.99,YES,3-29
+210,https://www.pokemoncenter.com/product/701-05700/tropius-sitting-cuties-plush-6-in,701-05700,Tropius Sitting Cuties Plush - 6 ¾ In.,$10.99,YES,3-30
+211,https://www.pokemoncenter.com/product/701-05714/cradily-sitting-cuties-plush-8-in,701-05714,Cradily Sitting Cuties Plush - 8 ½ In.,$10.99,YES,3-31
+212,https://www.pokemoncenter.com/product/701-05674/groudon-sitting-cuties-plush-5-in,701-05674,Groudon Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,3-32
+213,https://www.pokemoncenter.com/product/701-05684/salamence-sitting-cuties-plush-7-in,701-05684,Salamence Sitting Cuties Plush - 7 ¾ In.,$10.99,YES,3-33
+214,https://www.pokemoncenter.com/product/701-05681/metagross-sitting-cuties-plush-9-in,701-05681,Metagross Sitting Cuties Plush - 9 ½ In.,$10.99,YES,3-34
+215,https://www.pokemoncenter.com/product/701-05698/absol-sitting-cuties-plush-6-in,701-05698,Absol Sitting Cuties Plush - 6 ¾ In.,$10.99,YES,3-35
+216,https://www.pokemoncenter.com/product/701-05679/regice-sitting-cuties-plush-5-in,701-05679,Regice Sitting Cuties Plush - 5 In.,$10.99,YES,3-36
+217,https://www.pokemoncenter.com/product/701-05800/swampert-sitting-cuties-plush-7-in,701-05800,Swampert Sitting Cuties Plush - 7 ¾ In.,$10.99,YES,3-37
+218,https://www.pokemoncenter.com/product/701-05803/blaziken-sitting-cuties-plush-7-in,701-05803,Blaziken Sitting Cuties Plush - 7 ¼ In.,$10.99,YES,3-38
+219,https://www.pokemoncenter.com/product/701-05726/altaria-sitting-cuties-plush-6-in,701-05726,Altaria Sitting Cuties Plush - 6 ½ In.,$10.99,YES,3-39
+220,https://www.pokemoncenter.com/product/701-05671/deoxys-sitting-cuties-plush-5-in,701-05671,Deoxys Sitting Cuties Plush - 5 ½ In.,$10.99,YES,3-40
+221,https://www.pokemoncenter.com/product/701-05806/sceptile-sitting-cuties-plush-5-in,701-05806,Sceptile Sitting Cuties Plush - 5 ½ In.,$10.99,YES,3-41
+222,https://www.pokemoncenter.com/product/701-05779/kirlia-sitting-cuties-plush-4-in,701-05779,Kirlia Sitting Cuties Plush - 4 ¾ In.,$10.99,YES,3-42
+223,https://www.pokemoncenter.com/product/701-05774/breloom-sitting-cuties-plush-6-in,701-05774,Breloom Sitting Cuties Plush - 6 In.,$10.99,YES,3-43
+224,https://www.pokemoncenter.com/product/701-05754/aggron-sitting-cuties-plush-7-in,701-05754,Aggron Sitting Cuties Plush - 7 ½ In.,$10.99,YES,3-44
+225,https://www.pokemoncenter.com/product/701-05678/registeel-sitting-cuties-plush-5-in,701-05678,Registeel Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,3-45
+226,https://www.pokemoncenter.com/product/701-05725/zangoose-sitting-cuties-plush-6-in,701-05725,Zangoose Sitting Cuties Plush - 6 ¾ In.,$10.99,YES,3-46
+227,https://www.pokemoncenter.com/product/701-05686/bagon-sitting-cuties-plush-4-in,701-05686,Bagon Sitting Cuties Plush - 4 ¾ In.,$10.99,YES,3-47
+228,https://www.pokemoncenter.com/product/701-05798/mightyena-sitting-cuties-plush-7-in,701-05798,Mightyena Sitting Cuties Plush - 7 ½ In.,$10.99,YES,3-48
+229,https://www.pokemoncenter.com/product/701-05807/grovyle-sitting-cuties-plush-6-in,701-05807,Grovyle Sitting Cuties Plush - 6 In.,$10.99,YES,3-49
+230,https://www.pokemoncenter.com/product/701-05724/seviper-sitting-cuties-plush-6-in,701-05724,Seviper Sitting Cuties Plush - 6 ¼ In.,$10.99,YES,3-50
+231,https://www.pokemoncenter.com/product/701-05688/relicanth-sitting-cuties-plush-5-in,701-05688,Relicanth Sitting Cuties Plush - 5 ½ In.,$10.99,YES,3-51
+232,https://www.pokemoncenter.com/product/701-05692/walrein-sitting-cuties-plush-5-in,701-05692,Walrein Sitting Cuties Plush - 5 In.,$10.99,YES,3-52
+233,https://www.pokemoncenter.com/product/701-05670/deoxys-attack-forme-sitting-cuties-plush-7-in,701-05670,Deoxys (Attack Forme) Sitting Cuties Plush - 7 In.,$10.99,YES,3-53
+234,https://www.pokemoncenter.com/product/701-05691/clamperl-sitting-cuties-plush-5-in,701-05691,Clamperl Sitting Cuties Plush - 5 ¼ In.,$10.99,YES,3-54
+235,https://www.pokemoncenter.com/product/701-05731/vibrava-sitting-cuties-plush-6-in,701-05731,Vibrava Sitting Cuties Plush - 6 In.,$10.99,YES,3-55
+236,https://www.pokemoncenter.com/product/701-05683/beldum-sitting-cuties-plush-6-in,701-05683,Beldum Sitting Cuties Plush - 6 In.,$10.99,YES,3-56
+237,https://www.pokemoncenter.com/product/701-05669/deoxys-defense-forme-sitting-cuties-plush-7-in,701-05669,Deoxys (Defense Forme) Sitting Cuties Plush - 7 In.,$10.99,YES,3-57
+238,https://www.pokemoncenter.com/product/701-05769/ninjask-sitting-cuties-plush-4-in,701-05769,Ninjask Sitting Cuties Plush - 4 ¾ In.,$10.99,YES,3-58
+239,https://www.pokemoncenter.com/product/701-05705/kecleon-sitting-cuties-plush-5-in,701-05705,Kecleon Sitting Cuties Plush - 5 ½ In.,$10.99,YES,3-59
+240,https://www.pokemoncenter.com/product/701-05668/deoxys-speed-forme-sitting-cuties-plush-7-in,701-05668,Deoxys (Speed Forme) Sitting Cuties Plush - 7 In.,$10.99,YES,3-60
+241,https://www.pokemoncenter.com/product/701-05788/ludicolo-sitting-cuties-plush-5-in,701-05788,Ludicolo Sitting Cuties Plush - 5 ½ In.,$10.99,YES,3-61
+242,https://www.pokemoncenter.com/product/701-05711/feebas-sitting-cuties-plush-6-in,701-05711,Feebas Sitting Cuties Plush - 6 In.,$10.99,YES,3-62
+243,https://www.pokemoncenter.com/product/701-05804/combusken-sitting-cuties-plush-6-in,701-05804,Combusken Sitting Cuties Plush - 6 In.,$10.99,YES,3-63
+244,https://www.pokemoncenter.com/product/701-05771/slaking-sitting-cuties-plush-7-in,701-05771,Slaking Sitting Cuties Plush - 7 In.,$10.99,YES,3-64
+245,https://www.pokemoncenter.com/product/701-05682/metang-sitting-cuties-plush-7-in,701-05682,Metang Sitting Cuties Plush - 7 ¼ In.,$10.99,YES,3-65
+246,https://www.pokemoncenter.com/product/701-05729/cacnea-sitting-cuties-plush-6-in,701-05729,Cacnea Sitting Cuties Plush - 6 ¾ In.,$10.99,YES,3-66
+247,https://www.pokemoncenter.com/product/701-05718/crawdaunt-sitting-cuties-plush-6-in,701-05718,Crawdaunt Sitting Cuties Plush - 6 In.,$10.99,YES,3-67
+248,https://www.pokemoncenter.com/product/701-05695/glalie-sitting-cuties-plush-4-in,701-05695,Glalie Sitting Cuties Plush - 4 In.,$10.99,YES,3-68
+249,https://www.pokemoncenter.com/product/701-05737/camerupt-sitting-cuties-plush-6-in,701-05737,Camerupt Sitting Cuties Plush - 6 In.,$10.99,YES,3-69
+250,https://www.pokemoncenter.com/product/701-05715/lileep-sitting-cuties-plush-7-in,701-05715,Lileep Sitting Cuties Plush - 7 ¾ In.,$10.99,YES,3-70
+251,https://www.pokemoncenter.com/product/701-05789/lombre-sitting-cuties-plush-5-in,701-05789,Lombre Sitting Cuties Plush - 5 ½ In.,$10.99,YES,3-71
+252,https://www.pokemoncenter.com/product/701-05728/cacturne-sitting-cuties-plush-7-in,701-05728,Cacturne Sitting Cuties Plush - 7 ½ In.,$10.99,YES,3-72
+253,https://www.pokemoncenter.com/product/701-05738/numel-sitting-cuties-plush-5-in,701-05738,Numel Sitting Cuties Plush - 5 In.,$10.99,YES,3-73
+254,https://www.pokemoncenter.com/product/701-05772/vigoroth-sitting-cuties-plush-6-in,701-05772,Vigoroth Sitting Cuties Plush - 6 In.,$10.99,YES,3-74
+255,https://www.pokemoncenter.com/product/701-05765/exploud-sitting-cuties-plush-5-in,701-05765,Exploud Sitting Cuties Plush - 5 ½ In.,$10.99,YES,3-75
+256,https://www.pokemoncenter.com/product/701-05742/carvanha-sitting-cuties-plush-7-in,701-05742,Carvanha Sitting Cuties Plush - 7 In.,$10.99,YES,3-76
+257,https://www.pokemoncenter.com/product/701-05675/kyogre-sitting-cuties-plush-8-in,701-05675,Kyogre Sitting Cuties Plush - 8 ½ In.,$10.99,NO,3-77
+258,https://www.pokemoncenter.com/product/701-05673/rayquaza-sitting-cuties-plush-6-in,701-05673,Rayquaza Sitting Cuties Plush - 6 In.,$10.99,NO,3-78
+259,https://www.pokemoncenter.com/product/701-05712/armaldo-sitting-cuties-plush-6-in,701-05712,Armaldo Sitting Cuties Plush - 6 In.,$10.99,NO,3-79
+260,https://www.pokemoncenter.com/product/701-05701/dusclops-sitting-cuties-plush-9-in,701-05701,Dusclops Sitting Cuties Plush - 9 In.,$10.99,NO,3-80
+261,https://www.pokemoncenter.com/product/701-05710/milotic-sitting-cuties-plush-6-in,701-05710,Milotic Sitting Cuties Plush - 6 ¾ In.,$10.99,NO,3-81
+262,https://www.pokemoncenter.com/product/701-05702/duskull-sitting-cuties-plush-5-in,701-05702,Duskull Sitting Cuties Plush - 5 In.,$10.99,NO,3-82
+263,https://www.pokemoncenter.com/product/701-05703/banette-sitting-cuties-plush-6-in,701-05703,Banette Sitting Cuties Plush - 6 In.,$10.99,NO,3-83
+264,https://www.pokemoncenter.com/product/701-09433/nickit-poke-plush-9-in,701-09433,Nickit Poké Plush - 9 ¾ In.,$16.99,YES,3-84
+265,https://www.pokemoncenter.com/product/701-08746/toxtricity-amped-form-posable-poke-plush-8-in,701-08746,Toxtricity (Amped Form) Posable Poké Plush - 8 ½ In.,$15.99,YES,3-85
+266,https://www.pokemoncenter.com/product/701-08749/corviknight-posable-poke-plush-5-in,701-08749,Corviknight Posable Poké Plush - 5 ¼ In.,$15.99,YES,3-86
+267,https://www.pokemoncenter.com/product/701-08748/obstagoon-posable-poke-plush-7-in,701-08748,Obstagoon Posable Poké Plush - 7 ¼ In.,$15.99,YES,3-87
+268,https://www.pokemoncenter.com/product/701-09432/milcery-poke-plush-6-in,701-09432,Milcery Poké Plush - 6 ¼ In.,$12.99,NO,3-88
+269,https://www.pokemoncenter.com/product/701-08747/cinderace-posable-poke-plush-8-in,701-08747,Cinderace Posable Poké Plush - 8 ¾ In.,$15.99,NO,3-89
+270,https://www.pokemoncenter.com/product/701-06689/cofagrigus-posable-poke-plush-9-in,701-06689,Cofagrigus Posable Poké Plush - 9 ¾ In.,$15.99,NO,3-90
+271,https://www.pokemoncenter.com/product/701-06694/lucario-posable-poke-plush-8-in,701-06694,Lucario Posable Poké Plush - 8 ½ In.,$15.99,NO,4-1
+272,https://www.pokemoncenter.com/product/701-06688/scizor-posable-poke-plush-9-in,701-06688,Scizor Posable Poké Plush - 9 ¾ In.,$15.99,NO,4-2
+273,https://www.pokemoncenter.com/product/701-08983/indeedee-female-poke-plush-8-in,701-08983,Indeedee (Female) Poké Plush - 8 ¼ In.,$16.99,YES,4-3
+274,https://www.pokemoncenter.com/product/701-08984/indeedee-male-poke-plush-9-in,701-08984,Indeedee (Male) Poké Plush - 9 ½ In.,$16.99,YES,4-4
+275,https://www.pokemoncenter.com/product/701-08985/hatterene-poke-plush-16-in,701-08985,Hatterene Poké Plush - 16 ½ In.,$31.99,NO,4-5
+276,https://www.pokemoncenter.com/product/701-09125/paras-sitting-cuties-plush-6-in,701-09125,Paras Sitting Cuties Plush - 6 ¾ In.,$10.99,YES,4-6
+277,https://www.pokemoncenter.com/product/701-09382/25th-celebration-alola-region-pikachu-poke-plush-8-in,701-09382,25th Celebration - Alola Region Pikachu Poké Plush - 8 ¼ In.,$24.99,NO,4-7
+278,https://www.pokemoncenter.com/product/701-09372/scorbunny-pokemon-happy-spring-plush-9-in,701-09372,Scorbunny Pokémon Happy Spring Plush - 9 ¾ In.,$15.99,YES,4-8
+279,https://www.pokemoncenter.com/product/701-09370/rowlet-pokemon-happy-spring-plush-key-chain,701-09370,Rowlet Pokémon Happy Spring Plush Key Chain,$11.99,YES,4-9
+280,https://www.pokemoncenter.com/product/701-09368/torchic-pokemon-happy-spring-plush-key-chain,701-09368,Torchic Pokémon Happy Spring Plush Key Chain,$11.99,YES,4-10
+281,https://www.pokemoncenter.com/product/701-09369/natu-pokemon-happy-spring-plush-key-chain,701-09369,Natu Pokémon Happy Spring Plush Key Chain,$11.99,YES,4-11
+282,https://www.pokemoncenter.com/product/701-09373/pikachu-pokemon-happy-spring-plush-8-in,701-09373,Pikachu Pokémon Happy Spring Plush - 8 ¾ In.,$15.99,NO,4-12
+283,https://www.pokemoncenter.com/product/701-09371/wooloo-pokemon-happy-spring-plush-key-chain,701-09371,Wooloo Pokémon Happy Spring Plush Key Chain,$11.99,NO,4-13
+284,https://www.pokemoncenter.com/product/701-09383/25th-celebration-galar-region-pikachu-poke-plush-7-in,701-09383,25th Celebration - Galar Region Pikachu Poké Plush - 7 ¾ In.,$24.99,NO,4-14
+285,https://www.pokemoncenter.com/product/701-06752/mr-rime-poke-plush-12-in,701-06752,Mr. Rime Poké Plush - 12 In.,$19.99,YES,4-15
+286,https://www.pokemoncenter.com/product/701-06793/frosmoth-poke-plush-18-in,701-06793,Frosmoth Poké Plush - 18 In.,$16.99,NO,4-16
+287,https://www.pokemoncenter.com/product/701-05780/ralts-sitting-cuties-plush-7-in,701-05780,Ralts Sitting Cuties Plush - 7 In.,$10.99,YES,4-17
+288,https://www.pokemoncenter.com/product/701-05720/whiscash-sitting-cuties-plush-6-in,701-05720,Whiscash Sitting Cuties Plush - 6 In.,$10.99,YES,4-18
+289,https://www.pokemoncenter.com/product/701-05767/whismur-sitting-cuties-plush-4-in,701-05767,Whismur Sitting Cuties Plush - 4 ¾ In.,$10.99,YES,4-19
+290,https://www.pokemoncenter.com/product/701-05755/lairon-sitting-cuties-plush-5-in,701-05755,Lairon Sitting Cuties Plush - 5 ½ In.,$10.99,YES,4-20
+291,https://www.pokemoncenter.com/product/701-05748/minun-sitting-cuties-plush-6-in,701-05748,Minun Sitting Cuties Plush - 6 In.,$10.99,YES,4-21
+292,https://www.pokemoncenter.com/product/701-05723/lunatone-sitting-cuties-plush-5-in,701-05723,Lunatone Sitting Cuties Plush - 5 In.,$10.99,YES,4-22
+293,https://www.pokemoncenter.com/product/701-05783/swellow-sitting-cuties-plush-6-in,701-05783,Swellow Sitting Cuties Plush - 6 In.,$10.99,YES,4-23
+294,https://www.pokemoncenter.com/product/701-05796/linoone-sitting-cuties-plush-7-in,701-05796,Linoone Sitting Cuties Plush - 7 ¼ In.,$10.99,YES,4-24
+295,https://www.pokemoncenter.com/product/701-05721/barboach-sitting-cuties-plush-7-in,701-05721,Barboach Sitting Cuties Plush - 7 In.,$10.99,YES,4-25
+296,https://www.pokemoncenter.com/product/701-05763/hariyama-sitting-cuties-plush-6-in,701-05763,Hariyama Sitting Cuties Plush - 6 ½ In.,$10.99,YES,4-26
+297,https://www.pokemoncenter.com/product/701-05752/medicham-sitting-cuties-plush-7-in,701-05752,Medicham Sitting Cuties Plush - 7 ¾ In.,$10.99,YES,4-27
+298,https://www.pokemoncenter.com/product/701-05734/grumpig-sitting-cuties-plush-6-in,701-05734,Grumpig Sitting Cuties Plush - 6 In.,$10.99,YES,4-28
+299,https://www.pokemoncenter.com/product/701-05766/loudred-sitting-cuties-plush-5-in,701-05766,Loudred Sitting Cuties Plush - 5 ½ In.,$10.99,YES,4-29
+300,https://www.pokemoncenter.com/product/701-05722/solrock-sitting-cuties-7-in,701-05722,Solrock Sitting Cuties - 7 ½ In.,$10.99,YES,4-30
+301,https://www.pokemoncenter.com/product/701-05743/swalot-sitting-cuties-plush-4-in,701-05743,Swalot Sitting Cuties Plush - 4 ¼ In.,$10.99,YES,4-31
+302,https://www.pokemoncenter.com/product/701-05760/skitty-sitting-cuties-plush-5-in,701-05760,Skitty Sitting Cuties Plush - 5 ½ In.,$10.99,NO,4-32
+303,https://www.pokemoncenter.com/product/701-05773/slakoth-sitting-cuties-plush-5-in,701-05773,Slakoth Sitting Cuties Plush - 5 ½ In.,$10.99,NO,4-33
+304,https://www.pokemoncenter.com/product/701-05730/flygon-sitting-cuties-plush-5-in,701-05730,Flygon Sitting Cuties Plush - 5 ¾ In.,$10.99,NO,4-34
+305,https://www.pokemoncenter.com/product/701-05768/shedinja-sitting-cuties-plush-5-in,701-05768,Shedinja Sitting Cuties Plush - 5 ¾ In.,$10.99,NO,4-35
+306,https://www.pokemoncenter.com/product/701-05680/regirock-sitting-cuties-plush-5-in,701-05680,Regirock Sitting Cuties Plush - 5 ¼ In.,$10.99,NO,4-36
+307,https://www.pokemoncenter.com/product/701-05727/swablu-sitting-cuties-plush-7-in,701-05727,Swablu Sitting Cuties Plush - 7 ½ In.,$10.99,NO,4-37
+308,https://www.pokemoncenter.com/product/701-05704/shuppet-sitting-cuties-plush-6-in,701-05704,Shuppet Sitting Cuties Plush - 6 In.,$10.99,NO,4-38
+309,https://www.pokemoncenter.com/product/701-05749/plusle-sitting-cuties-plush-6-in,701-05749,Plusle Sitting Cuties Plush - 6 In.,$10.99,NO,4-39
+310,https://www.pokemoncenter.com/product/701-05741/sharpedo-sitting-cuties-plush-6-in,701-05741,Sharpedo Sitting Cuties Plush - 6 ½ In.,$10.99,NO,4-40
+311,https://www.pokemoncenter.com/product/701-06753/galarian-mr-mime-poke-plush-11-in,701-06753,Galarian Mr. Mime Poké Plush - 11 ¾ In.,$16.99,YES,4-41
+312,https://www.pokemoncenter.com/product/701-08890/appletun-poke-plush-21-in,701-08890,Appletun Poké Plush - 21 ¾ In.,$77.99,NO,4-42
+313,https://www.pokemoncenter.com/product/701-06559/gigantamax-meowth-poke-plush-65-in,701-06559,Gigantamax Meowth Poké Plush - 65 In.,$299.99,NO,4-43
+314,https://www.pokemoncenter.com/product/701-05687/luvdisc-sitting-cuties-plush-5-in,701-05687,Luvdisc Sitting Cuties Plush - 5 ½ In.,$10.99,YES,4-44
+315,https://www.pokemoncenter.com/product/701-05745/roselia-sitting-cuties-plush-7-in,701-05745,Roselia Sitting Cuties Plush - 7 ½ In.,$10.99,YES,4-45
+316,https://www.pokemoncenter.com/product/701-05757/mawile-sitting-cuties-plush-5-in,701-05757,Mawile Sitting Cuties Plush - 5 ¼ In.,$10.99,YES,4-46
+317,https://www.pokemoncenter.com/product/701-05697/wynaut-sitting-cuties-plush-5-in,701-05697,Wynaut Sitting Cuties Plush - 5 In.,$10.99,YES,4-47
+318,https://www.pokemoncenter.com/product/701-05793/beautifly-sitting-cuties-plush-6-in,701-05793,Beautifly Sitting Cuties Plush - 6 ¼ In.,$10.99,YES,4-48
+319,https://www.pokemoncenter.com/product/701-05693/sealeo-sitting-cuties-plush-5-in,701-05693,Sealeo Sitting Cuties Plush - 5 ¼ In.,$10.99,YES,4-49
+320,https://www.pokemoncenter.com/product/701-05719/corphish-sitting-cuties-plush-6-in,701-05719,Corphish Sitting Cuties Plush - 6 ½ In.,$10.99,YES,4-50
+321,https://www.pokemoncenter.com/product/701-05751/electrike-sitting-cuties-plush-5-in,701-05751,Electrike Sitting Cuties Plush - 5 In.,$10.99,YES,4-51
+322,https://www.pokemoncenter.com/product/701-05716/claydol-sitting-cuties-plush-5-in,701-05716,Claydol Sitting Cuties Plush - 5 In.,$10.99,YES,4-52
+323,https://www.pokemoncenter.com/product/701-05685/shelgon-sitting-cuties-plush-4-in,701-05685,Shelgon Sitting Cuties Plush - 4 ¾ In.,$10.99,YES,4-53
+324,https://www.pokemoncenter.com/product/701-05761/nosepass-sitting-cuties-plush-5-in,701-05761,Nosepass Sitting Cuties Plush - 5 In.,$10.99,YES,4-54
+325,https://www.pokemoncenter.com/product/701-05689/gorebyss-sitting-cuties-plush-6-in,701-05689,Gorebyss Sitting Cuties Plush - 6 ¾ In.,$10.99,YES,4-55
+326,https://www.pokemoncenter.com/product/701-05792/cascoon-sitting-cuties-plush-4-in,701-05792,Cascoon Sitting Cuties Plush - 4 ¾ In.,$10.99,YES,4-56
+327,https://www.pokemoncenter.com/product/701-05770/nincada-sitting-cuties-plush-5-in,701-05770,Nincada Sitting Cuties Plush - 5 ¼ In.,$10.99,YES,4-57
+328,https://www.pokemoncenter.com/product/701-05785/shiftry-sitting-cuties-plush-6-in,701-05785,Shiftry Sitting Cuties Plush - 6 In.,$10.99,YES,4-58
+329,https://www.pokemoncenter.com/product/701-05787/seedot-sitting-cuties-plush-4-in,701-05787,Seedot Sitting Cuties Plush - 4 ½ In.,$10.99,YES,4-59
+330,https://www.pokemoncenter.com/product/701-05764/makuhita-sitting-cuties-plush-6-in,701-05764,Makuhita Sitting Cuties Plush - 6 ½ In.,$10.99,YES,4-60
+331,https://www.pokemoncenter.com/product/701-05776/masquerain-sitting-cuties-plush-5-in,701-05776,Masquerain Sitting Cuties Plush - 5 ½ In.,$10.99,YES,4-61
+332,https://www.pokemoncenter.com/product/701-05781/pelipper-sitting-cuties-plush-7-in,701-05781,Pelipper Sitting Cuties Plush - 7 ½ In.,$10.99,YES,4-62
+333,https://www.pokemoncenter.com/product/701-05744/gulpin-sitting-cuties-plush-5-in,701-05744,Gulpin Sitting Cuties Plush - 5 In.,$10.99,YES,4-63
+334,https://www.pokemoncenter.com/product/701-05784/taillow-sitting-cuties-plush-5-in,701-05784,Taillow Sitting Cuties Plush - 5 ¼ In.,$10.99,YES,4-64
+335,https://www.pokemoncenter.com/product/701-05794/silcoon-sitting-cuties-plush-5-in,701-05794,Silcoon Sitting Cuties Plush - 5 In.,$10.99,YES,4-65
+336,https://www.pokemoncenter.com/product/701-05786/nuzleaf-sitting-cuties-plush-5-in,701-05786,Nuzleaf Sitting Cuties Plush - 5 In.,$10.99,YES,4-66
+337,https://www.pokemoncenter.com/product/701-05690/huntail-sitting-cuties-plush-7-in,701-05690,Huntail Sitting Cuties Plush - 7 ¾ In.,$10.99,YES,4-67
+338,https://www.pokemoncenter.com/product/701-05746/illumise-sitting-cuties-plush-5-in,701-05746,Illumise Sitting Cuties Plush - 5 In.,$10.99,YES,4-68
+339,https://www.pokemoncenter.com/product/701-05747/volbeat-sitting-cuties-plush-5-in,701-05747,Volbeat Sitting Cuties Plush - 5 In.,$10.99,YES,4-69
+340,https://www.pokemoncenter.com/product/701-05753/meditite-sitting-cuties-plush-5-in,701-05753,Meditite Sitting Cuties Plush - 5 In.,$10.99,YES,4-70
+341,https://www.pokemoncenter.com/product/701-05717/baltoy-sitting-cuties-plush-5-in,701-05717,Baltoy Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,4-71
+342,https://www.pokemoncenter.com/product/701-05694/spheal-sitting-cuties-plush-5-in,701-05694,Spheal Sitting Cuties Plush - 5 ½ In.,$10.99,NO,4-72
+343,https://www.pokemoncenter.com/product/701-05677/latias-sitting-cuties-plush-7-in,701-05677,Latias Sitting Cuties Plush - 7 ¾ In.,$10.99,NO,4-73
+344,https://www.pokemoncenter.com/product/701-05791/dustox-sitting-cuties-plush-6-in,701-05791,Dustox Sitting Cuties Plush - 6 In.,$10.99,NO,4-74
+345,https://www.pokemoncenter.com/product/701-05672/jirachi-sitting-cuties-plush-6-in,701-05672,Jirachi Sitting Cuties Plush - 6 ½ In.,$10.99,NO,4-75
+346,https://www.pokemoncenter.com/product/701-05696/snorunt-sitting-cuties-plush-4-in,701-05696,Snorunt Sitting Cuties Plush - 4 ¼ In.,$10.99,NO,4-76
+347,https://www.pokemoncenter.com/product/701-05758/sableye-sitting-cuties-plush-6-in,701-05758,Sableye Sitting Cuties Plush - 6 ¼ In.,$10.99,NO,4-77
+348,https://www.pokemoncenter.com/product/701-05699/chimecho-sitting-cuties-plush-6-in,701-05699,Chimecho Sitting Cuties Plush - 6 ¾ In.,$10.99,NO,4-78
+349,https://www.pokemoncenter.com/product/701-05676/latios-sitting-cuties-plush-8-in,701-05676,Latios Sitting Cuties Plush - 8 In.,$10.99,NO,4-79
+350,https://www.pokemoncenter.com/product/701-05797/zigzagoon-sitting-cuties-plush-7-in,701-05797,Zigzagoon Sitting Cuties Plush - 7 In.,$10.99,NO,4-80
+351,https://www.pokemoncenter.com/product/701-05750/manectric-sitting-cuties-plush-6-in,701-05750,Manectric Sitting Cuties Plush - 6 ¼ In.,$10.99,NO,4-81
+352,https://www.pokemoncenter.com/product/701-05709/castform-sitting-cuties-plush-5-in,701-05709,Castform Sitting Cuties Plush - 5 In.,$10.99,NO,4-82
+353,https://www.pokemoncenter.com/product/701-05762/azurill-sitting-cuties-plush-6-in,701-05762,Azurill Sitting Cuties Plush - 6 ¼ In.,$10.99,NO,4-83
+354,https://www.pokemoncenter.com/product/701-05795/wurmple-sitting-cuties-plush-5-in,701-05795,Wurmple Sitting Cuties Plush - 5 ½ In.,$10.99,NO,4-84
+355,https://www.pokemoncenter.com/product/701-05756/aron-sitting-cuties-plush-5-in,701-05756,Aron Sitting Cuties Plush - 5 In.,$10.99,NO,4-85
+356,https://www.pokemoncenter.com/product/701-05802/mudkip-sitting-cuties-plush-5-in,701-05802,Mudkip Sitting Cuties Plush - 5 ¾ In.,$10.99,NO,4-86
+357,https://www.pokemoncenter.com/product/701-05740/wailmer-sitting-cuties-plush-4-in,701-05740,Wailmer Sitting Cuties Plush - 4 ¾ In.,$10.99,NO,4-87
+358,https://www.pokemoncenter.com/product/701-05739/wailord-sitting-cuties-plush-6-in,701-05739,Wailord Sitting Cuties Plush - 6 ½ In.,$10.99,NO,4-88
+359,https://www.pokemoncenter.com/product/701-05801/marshtomp-sitting-cuties-plush-6-in,701-05801,Marshtomp Sitting Cuties Plush - 6 ¼ In.,$10.99,NO,4-89
+360,https://www.pokemoncenter.com/product/701-05732/trapinch-sitting-cuties-plush-5-in,701-05732,Trapinch Sitting Cuties Plush - 5 ½ In.,$10.99,NO,4-90
+361,https://www.pokemoncenter.com/product/701-05706/castform-snowy-form-sitting-cuties-plush-5-in,701-05706,Castform (Snowy Form) Sitting Cuties Plush - 5 ½ In.,$10.99,NO,5-1
+362,https://www.pokemoncenter.com/product/701-05733/spinda-sitting-cuties-plush-5-in,701-05733,Spinda Sitting Cuties Plush - 5 ¼ In.,$10.99,NO,5-2
+363,https://www.pokemoncenter.com/product/701-05805/torchic-sitting-cuties-plush-6-in,701-05805,Torchic Sitting Cuties Plush - 6 In.,$10.99,NO,5-3
+364,https://www.pokemoncenter.com/product/701-05735/spoink-sitting-cuties-plush-6-in,701-05735,Spoink Sitting Cuties Plush - 6 In.,$10.99,NO,5-4
+365,https://www.pokemoncenter.com/product/701-05790/lotad-sitting-cuties-plush-4-in,701-05790,Lotad Sitting Cuties Plush - 4 ¼ In.,$10.99,NO,5-5
+366,https://www.pokemoncenter.com/product/701-05708/castform-sunny-form-sitting-cuties-plush-4-in,701-05708,Castform (Sunny Form) Sitting Cuties Plush - 4 ¾ In.,$10.99,NO,5-6
+367,https://www.pokemoncenter.com/product/701-05736/torkoal-sitting-cuties-plush-6-in,701-05736,Torkoal Sitting Cuties Plush - 6 ½ In.,$10.99,NO,5-7
+368,https://www.pokemoncenter.com/product/701-05759/delcatty-sitting-cuties-plush-5-in,701-05759,Delcatty Sitting Cuties Plush - 5 ¼ In.,$10.99,NO,5-8
+369,https://www.pokemoncenter.com/product/701-05799/poochyena-sitting-cuties-plush-5-in,701-05799,Poochyena Sitting Cuties Plush - 5 ½ In.,$10.99,NO,5-9
+370,https://www.pokemoncenter.com/product/701-05775/shroomish-sitting-cuties-plush-5-in,701-05775,Shroomish Sitting Cuties Plush - 5 In.,$10.99,NO,5-10
+371,https://www.pokemoncenter.com/product/701-05713/anorith-sitting-cuties-plush-6-in,701-05713,Anorith Sitting Cuties Plush - 6 In.,$10.99,NO,5-11
+372,https://www.pokemoncenter.com/product/701-05707/castform-rainy-form-sitting-cuties-plush-5-in,701-05707,Castform (Rainy Form) Sitting Cuties Plush - 5 In.,$10.99,NO,5-12
+373,https://www.pokemoncenter.com/product/701-05782/wingull-sitting-cuties-plush-7-in,701-05782,Wingull Sitting Cuties Plush - 7 In.,$10.99,NO,5-13
+374,https://www.pokemoncenter.com/product/701-05777/surskit-sitting-cuties-plush-5-in,701-05777,Surskit Sitting Cuties Plush - 5 In.,$10.99,NO,5-14
+375,https://www.pokemoncenter.com/product/701-05808/treecko-sitting-cuties-plush-5-in,701-05808,Treecko Sitting Cuties Plush - 5 ¼ In.,$10.99,NO,5-15
+376,https://www.pokemoncenter.com/product/701-06560/gigantamax-pikachu-poke-plush-31-in,701-06560,Gigantamax Pikachu Poké Plush - 31 ½ In.,$399.99,NO,5-16
+377,https://www.pokemoncenter.com/product/701-08406/corviknight-pokemon-dolls-plush-4-in,701-08406,Corviknight Pokémon Dolls Plush - 4 ¾ In.,$11.99,YES,5-17
+378,https://www.pokemoncenter.com/product/701-08244/impidimp-pokemon-dolls-plush-6-in,701-08244,Impidimp Pokémon Dolls Plush - 6 In.,$11.99,YES,5-18
+379,https://www.pokemoncenter.com/product/701-08242/pincurchin-pokemon-dolls-plush-6-in,701-08242,Pincurchin Pokémon Dolls Plush - 6 In.,$11.99,NO,5-19
+380,https://www.pokemoncenter.com/product/701-08407/perrserker-poke-plush-10-in,701-08407,Perrserker Poké Plush - 10 ½ In.,$16.99,YES,5-20
+381,https://www.pokemoncenter.com/product/701-08408/galarian-meowth-poke-plush-9-in,701-08408,Galarian Meowth Poké Plush - 9 ½ In.,$16.99,YES,5-21
+382,https://www.pokemoncenter.com/product/701-08233/applin-poke-plush-8-in,701-08233,Applin Poké Plush - 8 ½ In.,$16.99,NO,5-22
+383,https://www.pokemoncenter.com/product/701-08399/skwovet-comfy-friends-plush-14-in,701-08399,Skwovet Comfy Friends Plush - 14 ¾ In.,$35.99,YES,5-23
+384,https://www.pokemoncenter.com/product/701-08402/quagsire-comfy-friends-plush-14-in,701-08402,Quagsire Comfy Friends Plush - 14 In.,$35.99,NO,5-24
+385,https://www.pokemoncenter.com/product/701-08397/substitute-comfy-friends-plush-15-in,701-08397,Substitute Comfy Friends Plush - 15 ½ In.,$35.99,NO,5-25
+386,https://www.pokemoncenter.com/product/701-08404/snorlax-comfy-friends-plush-15-in,701-08404,Snorlax Comfy Friends Plush - 15 In.,$35.99,NO,5-26
+387,https://www.pokemoncenter.com/product/701-08398/toxel-comfy-friends-plush-16-in,701-08398,Toxel Comfy Friends Plush - 16 ½ In.,$35.99,NO,5-27
+388,https://www.pokemoncenter.com/product/701-08401/dedenne-comfy-friends-plush-14-in,701-08401,Dedenne Comfy Friends Plush - 14 ¼ In.,$35.99,NO,5-28
+389,https://www.pokemoncenter.com/product/701-08405/pikachu-comfy-friends-plush-15-in,701-08405,Pikachu Comfy Friends Plush - 15 ½ In.,$35.99,NO,5-29
+390,https://www.pokemoncenter.com/product/701-08400/larvitar-comfy-friends-plush-16-in,701-08400,Larvitar Comfy Friends Plush - 16 ½ In.,$35.99,NO,5-30
+391,https://www.pokemoncenter.com/product/701-08403/ditto-comfy-friends-plush-15-in,701-08403,Ditto Comfy Friends Plush - 15 In.,$35.99,NO,5-31
+392,https://www.pokemoncenter.com/product/701-06861/galarian-farfetch-d-leek-plush,701-06861,Galarian Farfetch'd Leek Plush,$34.99,YES,5-32
+393,https://www.pokemoncenter.com/product/701-06695/mewtwo-posable-poke-plush-7-in,701-06695,Mewtwo Posable Poké Plush - 7 ¼ In.,$15.99,YES,5-33
+394,https://www.pokemoncenter.com/product/701-06696/zoroark-posable-poke-plush-8-in,701-06696,Zoroark Posable Poké Plush - 8 ¼ In.,$15.99,YES,5-34
+395,https://www.pokemoncenter.com/product/701-06697/zeraora-posable-poke-plush-7-in,701-06697,Zeraora Posable Poké Plush - 7 ½ In.,$15.99,YES,5-35
+396,https://www.pokemoncenter.com/product/701-06698/greninja-posable-poke-plush-7-in,701-06698,Greninja Posable Poké Plush - 7 In.,$15.99,YES,5-36
+397,https://www.pokemoncenter.com/product/701-08603/pikachu-with-gift-box-plush-11-in,701-08603,Pikachu with Gift Box Plush - 11 In.,$29.99,YES,5-37
+398,https://www.pokemoncenter.com/product/701-06699/machamp-posable-poke-plush-8-in,701-06699,Machamp Posable Poké Plush - 8 ¾ In.,$15.99,YES,5-38
+399,https://www.pokemoncenter.com/product/701-06794/greedent-poke-plush-12-in,701-06794,Greedent Poké Plush - 12 In.,$19.99,YES,5-39
+400,https://www.pokemoncenter.com/product/701-06700/gallade-posable-poke-plush-9-in,701-06700,Gallade Posable Poké Plush - 9 In.,$15.99,YES,5-40
+401,https://www.pokemoncenter.com/product/701-06795/eiscue-noice-face-poke-plush-11-in,701-06795,Eiscue (Noice Face) Poké Plush - 11 ½ In.,$16.99,YES,5-41
+402,https://www.pokemoncenter.com/product/701-08604/pikachu-with-ribbon-plush-23-in,701-08604,Pikachu with Ribbon Plush - 23 ¾ In.,$119.99,NO,5-42
+403,https://www.pokemoncenter.com/product/701-08243/dreepy-pokemon-dolls-plush-6-in,701-08243,Dreepy Pokémon Dolls Plush - 6 In.,$11.99,NO,5-43
+404,https://www.pokemoncenter.com/product/701-06796/falinks-poke-plush-16-in,701-06796,Falinks Poké Plush - 16 In.,$22.99,NO,5-44
+405,https://www.pokemoncenter.com/product/701-06758/toxel-poke-plush-9-in,701-06758,Toxel Poké Plush - 9 ½ In.,$17.99,NO,5-45
+406,https://www.pokemoncenter.com/product/701-08246/galarian-meowth-pokemon-dolls-plush-6-in,701-08246,Galarian Meowth Pokémon Dolls Plush - 6 In.,$11.99,NO,5-46
+407,https://www.pokemoncenter.com/product/701-08245/clobbopus-pokemon-dolls-plush-5-in,701-08245,Clobbopus Pokémon Dolls Plush - 5 ½ In.,$11.99,NO,5-47
+408,https://www.pokemoncenter.com/product/701-08237/galarian-articuno-poke-plush-26-in,701-08237,Galarian Articuno Poké Plush - 26 ½ In.,$31.99,YES,5-48
+409,https://www.pokemoncenter.com/product/701-08236/galarian-zapdos-poke-plush-11-in,701-08236,Galarian Zapdos Poké Plush - 11 ½ In.,$31.99,YES,5-49
+410,https://www.pokemoncenter.com/product/701-08235/galarian-moltres-poke-plush-15-in,701-08235,Galarian Moltres Poké Plush - 15 In.,$31.99,NO,5-50
+411,https://www.pokemoncenter.com/product/701-08234/calyrex-poke-plush-13-in,701-08234,Calyrex Poké Plush - 13 ¼ In.,$23.99,NO,5-51
+412,https://www.pokemoncenter.com/product/701-06763/eiscue-ice-face-poke-plush-8-in,701-06763,Eiscue (Ice Face) Poké Plush - 8 In.,$16.99,YES,5-52
+413,https://www.pokemoncenter.com/product/701-06766/rookidee-poke-plush-8-in,701-06766,Rookidee Poké Plush - 8 ¾ In.,$16.99,YES,5-53
+414,https://www.pokemoncenter.com/product/701-06761/snom-poke-plush-8-in,701-06761,Snom Poké Plush - 8 ¼ In.,$15.99,NO,5-54
+415,https://www.pokemoncenter.com/product/701-06762/hatenna-poke-plush-9-in,701-06762,Hatenna Poké Plush - 9 In.,$16.99,NO,5-55
+416,https://www.pokemoncenter.com/product/701-07044/shiny-celebi-poke-plush-10-in,701-07044,Shiny Celebi Poké Plush - 10 In.,$16.99,YES,5-56
+417,https://www.pokemoncenter.com/product/701-06759/zarude-poke-plush-16-in,701-06759,Zarude Poké Plush - 16 ½ In.,$44.99,YES,5-57
+418,https://www.pokemoncenter.com/product/701-06765/yamper-poke-plush-21-in,701-06765,Yamper Poké Plush - 21 ½ In.,$47.99,YES,5-58
+419,https://www.pokemoncenter.com/product/701-06756/toxtricity-low-key-form-poke-plush-15-in,701-06756,Toxtricity (Low Key Form) Poké Plush - 15 In.,$31.99,YES,5-59
+420,https://www.pokemoncenter.com/product/701-06760/galarian-farfetch-d-poke-plush-15-in,701-06760,Galarian Farfetch'd Poké Plush - 15 ½ In.,$16.99,YES,5-60
+421,https://www.pokemoncenter.com/product/701-06757/toxtricity-amped-form-poke-plush-15-in,701-06757,Toxtricity (Amped Form) Poké Plush - 15 In.,$31.99,YES,5-61
+422,https://www.pokemoncenter.com/product/701-06755/dragapult-poke-plush-21-in,701-06755,Dragapult Poké Plush - 21 In.,$44.99,NO,5-62
+423,https://www.pokemoncenter.com/product/701-06754/skwovet-poke-plush-11-in,701-06754,Skwovet Poké Plush - 11 ¾ In.,$16.99,NO,5-63
+424,https://www.pokemoncenter.com/product/701-08423/alcremie-pokemon-winter-carnival-poke-plush-key-chain,701-08423,Alcremie Pokémon Winter Carnival Poké Plush Key Chain,$14.99,YES,5-64
+425,https://www.pokemoncenter.com/product/701-08424/greedent-pokemon-winter-carnival-poke-plush-key-chain,701-08424,Greedent Pokémon Winter Carnival Poké Plush Key Chain,$14.99,YES,5-65
+426,https://www.pokemoncenter.com/product/701-08427/scorbunny-pokemon-winter-carnival-poke-plush-8-in,701-08427,Scorbunny Pokémon Winter Carnival Poké Plush - 8 ¼ In.,$19.99,NO,5-66
+427,https://www.pokemoncenter.com/product/701-08426/sobble-pokemon-winter-carnival-poke-plush-8-in,701-08426,Sobble Pokémon Winter Carnival Poké Plush - 8 ¼ In.,$19.99,NO,5-67
+428,https://www.pokemoncenter.com/product/701-08422/applin-pokemon-winter-carnival-poke-plush-key-chain,701-08422,Applin Pokémon Winter Carnival Poké Plush Key Chain,$14.99,NO,5-68
+429,https://www.pokemoncenter.com/product/701-08425/grookey-pokemon-winter-carnival-poke-plush-7-in,701-08425,Grookey Pokémon Winter Carnival Poké Plush - 7 ½ In.,$19.99,NO,5-69
+430,https://www.pokemoncenter.com/product/701-08428/pikachu-pokemon-winter-carnival-poke-plush-7-in,701-08428,Pikachu Pokémon Winter Carnival Poké Plush - 7 ¾ In.,$19.99,NO,5-70
+431,https://www.pokemoncenter.com/product/701-06855/eiscue-ice-face-pokemon-sparkling-friendships-plush-15-in,701-06855,Eiscue (Ice Face) Pokémon Sparkling Friendships Plush - 15 ¾ In.,$19.99,YES,5-71
+432,https://www.pokemoncenter.com/product/701-06851/eiscue-ice-face-pokemon-sparkling-friendships-plush-key-chain,701-06851,Eiscue (Ice Face) Pokémon Sparkling Friendships Plush Key Chain,$11.99,YES,5-72
+433,https://www.pokemoncenter.com/product/701-06857/galarian-ponyta-pokemon-sparkling-friendships-plush-15-in,701-06857,Galarian Ponyta Pokémon Sparkling Friendships Plush - 15 In.,$19.99,NO,5-73
+434,https://www.pokemoncenter.com/product/701-06856/ponyta-pokemon-sparkling-friendships-plush-11-in,701-06856,Ponyta Pokémon Sparkling Friendships Plush - 11 ¾ In.,$19.99,NO,5-74
+435,https://www.pokemoncenter.com/product/701-06854/hatenna-pokemon-sparkling-friendships-plush-15-in,701-06854,Hatenna Pokémon Sparkling Friendships Plush - 15 ¼ In.,$19.99,NO,5-75
+436,https://www.pokemoncenter.com/product/701-06853/galarian-ponyta-pokemon-sparkling-friendships-plush-key-chain,701-06853,Galarian Ponyta Pokémon Sparkling Friendships Plush Key Chain,$11.99,NO,5-76
+437,https://www.pokemoncenter.com/product/701-06858/sirfetch-d-poke-plush-key-chain,701-06858,Sirfetch'd Poké Plush Key Chain,$13.99,YES,5-77
+438,https://www.pokemoncenter.com/product/701-06860/farfetch-d-poke-plush-key-chain,701-06860,Farfetch'd Poké Plush Key Chain,$11.99,YES,5-78
+439,https://www.pokemoncenter.com/product/701-06859/galarian-farfetch-d-poke-plush-key-chain,701-06859,Galarian Farfetch'd Poké Plush Key Chain,$13.99,YES,5-79
+440,https://www.pokemoncenter.com/product/701-06797/ball-guy-poke-plush-12-in,701-06797,Ball Guy Poké Plush - 12 ½ In.,$19.99,YES,5-80
+441,https://www.pokemoncenter.com/product/701-08239/urshifu-single-strike-style-poke-plush-15-in,701-08239,Urshifu (Single Strike Style) Poké Plush - 15 ¾ In.,$39.99,YES,5-81
+442,https://www.pokemoncenter.com/product/701-08240/kubfu-poke-plush-12-in,701-08240,Kubfu Poké Plush - 12 In.,$16.99,YES,5-82
+443,https://www.pokemoncenter.com/product/701-08238/urshifu-rapid-strike-style-poke-plush-15-in,701-08238,Urshifu (Rapid Strike Style) Poké Plush - 15 ¼ In.,$39.99,YES,5-83
+444,https://www.pokemoncenter.com/product/701-08241/galarian-slowpoke-poke-plush-14-in,701-08241,Galarian Slowpoke Poké Plush - 14 ½ In.,$16.99,NO,5-84
+445,https://www.pokemoncenter.com/product/701-06480/matcha-cream-alcremie-poke-plush-9-in,701-06480,Matcha Cream Alcremie Poké Plush - 9 ¼ In.,$16.99,YES,5-85
+446,https://www.pokemoncenter.com/product/701-07292/pikachu-celebrations-intern-pikachu-poke-plush-7-in,701-07292,Pikachu Celebrations: Intern Pikachu Poké Plush - 7 ¼ In.,$17.99,NO,5-86
+447,https://www.pokemoncenter.com/product/741-06482/litwick-plush-hat-one-size-adult,741-06482,Litwick Plush Hat (One Size-Adult),$29.99,YES,5-87
+448,https://www.pokemoncenter.com/product/741-06484/hattrem-plush-hat-one-size-adult,741-06484,Hattrem Plush Hat (One Size-Adult),$29.99,YES,5-88
+449,https://www.pokemoncenter.com/product/741-06483/morpeko-reversible-plush-hat-one-size-adult,741-06483,Morpeko Reversible Plush Hat (One Size-Adult),$29.99,NO,5-89
+450,https://www.pokemoncenter.com/product/701-08230/pikachu-pokemon-pumpkin-party-poke-plush-11-in,701-08230,Pikachu Pokémon Pumpkin Party Poké Plush - 11 ¼ In.,$21.99,YES,5-90
+451,https://www.pokemoncenter.com/product/701-08228/whimsicott-pokemon-pumpkin-party-poke-plush-9-in,701-08228,Whimsicott Pokémon Pumpkin Party Poké Plush - 9 ¾ In.,$21.99,YES,6-1
+452,https://www.pokemoncenter.com/product/701-08227/yamper-pokemon-pumpkin-party-poke-plush-10-in,701-08227,Yamper Pokémon Pumpkin Party Poké Plush - 10 In.,$21.99,YES,6-2
+453,https://www.pokemoncenter.com/product/701-08225/sobble-pokemon-pumpkin-party-poke-plush-key-chain,701-08225,Sobble Pokémon Pumpkin Party Poké Plush Key Chain,$11.99,YES,6-3
+454,https://www.pokemoncenter.com/product/701-08226/scorbunny-pokemon-pumpkin-party-poke-plush-key-chain,701-08226,Scorbunny Pokémon Pumpkin Party Poké Plush Key Chain,$11.99,YES,6-4
+455,https://www.pokemoncenter.com/product/701-08224/grookey-pokemon-pumpkin-party-poke-plush-key-chain,701-08224,Grookey Pokémon Pumpkin Party Poké Plush Key Chain,$11.99,YES,6-5
+456,https://www.pokemoncenter.com/product/701-08229/morpeko-pokemon-pumpkin-party-poke-plush-9-in,701-08229,Morpeko Pokémon Pumpkin Party Poké Plush - 9 ¼ In.,$21.99,NO,6-6
+457,https://www.pokemoncenter.com/product/701-08223/trapinch-pokemon-pumpkin-party-poke-plush-key-chain,701-08223,Trapinch Pokémon Pumpkin Party Poké Plush Key Chain,$11.99,NO,6-7
+458,https://www.pokemoncenter.com/product/701-07045/inteleon-poke-plush-17-in,701-07045,Inteleon Poké Plush - 17 ¾ In.,$31.99,YES,6-8
+459,https://www.pokemoncenter.com/product/701-07047/rillaboom-poke-plush-13-in,701-07047,Rillaboom Poké Plush - 13 ¾ In.,$31.99,YES,6-9
+460,https://www.pokemoncenter.com/product/701-07046/cinderace-poke-plush-13-in,701-07046,Cinderace Poké Plush - 13 In.,$31.99,NO,6-10
+461,https://www.pokemoncenter.com/product/701-07050/corviknight-poke-plush-9-in,701-07050,Corviknight Poké Plush - 9 In.,$19.99,YES,6-11
+462,https://www.pokemoncenter.com/product/701-05333/charizard-sitting-cuties-plush-7-in,701-05333,Charizard Sitting Cuties Plush - 7 In.,$10.99,NO,6-12
+463,https://www.pokemoncenter.com/product/701-06558/gigantamax-pikachu-poke-plush-17-in,701-06558,Gigantamax Pikachu Poké Plush - 17 In.,$35.99,YES,6-13
+464,https://www.pokemoncenter.com/product/701-06619/corviknight-flying-taxi-poke-plush-17-in,701-06619,Corviknight Flying Taxi Poké Plush - 17 ¼ In.,$39.99,YES,6-14
+465,https://www.pokemoncenter.com/product/701-06555/gigantamax-corviknight-poke-plush-12-in,701-06555,Gigantamax Corviknight Poké Plush - 12 In.,$44.99,YES,6-15
+466,https://www.pokemoncenter.com/product/701-06556/gigantamax-charizard-poke-plush-15-in,701-06556,Gigantamax Charizard Poké Plush - 15 ¼ In.,$47.99,NO,6-16
+467,https://www.pokemoncenter.com/product/701-06557/gigantamax-eevee-poke-plush-15-in,701-06557,Gigantamax Eevee Poké Plush - 15 In.,$35.99,NO,6-17
+468,https://www.pokemoncenter.com/product/701-06554/gigantamax-alcremie-poke-plush-16-in,701-06554,Gigantamax Alcremie Poké Plush - 16 ¼ In.,$47.99,NO,6-18
+469,https://www.pokemoncenter.com/product/701-06553/gigantamax-meowth-poke-plush-20-in,701-06553,Gigantamax Meowth Poké Plush - 20 ¼ In.,$35.99,NO,6-19
+470,https://www.pokemoncenter.com/product/701-06617/scorbunny-poke-plush-key-chain,701-06617,Scorbunny Poké Plush Key Chain,$10.99,YES,6-20
+471,https://www.pokemoncenter.com/product/701-06616/sobble-poke-plush-key-chain,701-06616,Sobble Poké Plush Key Chain,$10.99,YES,6-21
+472,https://www.pokemoncenter.com/product/701-06618/grookey-poke-plush-key-chain,701-06618,Grookey Poké Plush Key Chain,$10.99,YES,6-22
+473,https://www.pokemoncenter.com/product/701-06614/raboot-poke-plush-key-chain,701-06614,Raboot Poké Plush Key Chain,$12.99,YES,6-23
+474,https://www.pokemoncenter.com/product/701-06613/drizzile-poke-plush-key-chain,701-06613,Drizzile Poké Plush Key Chain,$12.99,YES,6-24
+475,https://www.pokemoncenter.com/product/701-06615/thwackey-poke-plush-key-chain,701-06615,Thwackey Poké Plush Key Chain,$12.99,YES,6-25
+476,https://www.pokemoncenter.com/product/701-06481/psyduck-poke-plush-31-in,701-06481,Psyduck Poké Plush - 31 In.,$279.99,NO,6-26
+477,https://www.pokemoncenter.com/product/701-06495/kecleon-little-brother-pokemon-mystery-dungeon-plush-8-in,701-06495,Kecleon (Little Brother) Pokémon Mystery Dungeon Plush - 8 ½ In.,$11.99,YES,6-27
+478,https://www.pokemoncenter.com/product/701-06446/kecleon-big-brother-pokemon-mystery-dungeon-plush-8-in,701-06446,Kecleon (Big Brother) Pokémon Mystery Dungeon Plush - 8 ½ In.,$11.99,YES,6-28
+479,https://www.pokemoncenter.com/product/701-06445/pelipper-pokemon-mystery-dungeon-plush-12-in,701-06445,Pelipper Pokémon Mystery Dungeon Plush - 12 ¾ In,$11.99,YES,6-29
+480,https://www.pokemoncenter.com/product/701-06447/eevee-pokemon-mystery-dungeon-plush-7-in,701-06447,Eevee Pokémon Mystery Dungeon Plush - 7 ¾ In.,$11.99,NO,6-30
+481,https://www.pokemoncenter.com/product/701-06451/bulbasaur-pokemon-mystery-dungeon-plush-6-in,701-06451,Bulbasaur Pokémon Mystery Dungeon Plush - 6 ½ In.,$11.99,NO,6-31
+482,https://www.pokemoncenter.com/product/701-06448/pikachu-pokemon-mystery-dungeon-plush-8-in,701-06448,Pikachu Pokémon Mystery Dungeon Plush - 8 In.,$11.99,NO,6-32
+483,https://www.pokemoncenter.com/product/701-06449/squirtle-pokemon-mystery-dungeon-plush-6-in,701-06449,Squirtle Pokémon Mystery Dungeon Plush - 6 ¾ In.,$11.99,NO,6-33
+484,https://www.pokemoncenter.com/product/701-06450/charmander-pokemon-mystery-dungeon-plush-8-in,701-06450,Charmander Pokémon Mystery Dungeon Plush - 8 ¾ In.,$11.99,NO,6-34
+485,https://www.pokemoncenter.com/product/701-05411/galarian-ponyta-poke-plush-11-in,701-05411,Galarian Ponyta Poké Plush - 11 ¼ In.,$16.99,YES,6-35
+486,https://www.pokemoncenter.com/product/701-06624/sirfetch-d-poke-plush-14-in,701-06624,Sirfetch'd Poké Plush - 14 ¾ In.,$19.99,YES,6-36
+487,https://www.pokemoncenter.com/product/701-06649/drizzile-poke-plush-11-in,701-06649,Drizzile Poké Plush - 11 ¼ In.,$19.99,YES,6-37
+488,https://www.pokemoncenter.com/product/701-06623/cramorant-poke-plush-9-in,701-06623,Cramorant Poké Plush - 9 ¾ In.,$16.99,YES,6-38
+489,https://www.pokemoncenter.com/product/701-06621/thwackey-poke-plush-11-in,701-06621,Thwackey Poké Plush - 11 ¼ In.,$19.99,YES,6-39
+490,https://www.pokemoncenter.com/product/701-06622/polteageist-poke-plush-8-in,701-06622,Polteageist Poké Plush - 8 ½ In.,$16.99,NO,6-40
+491,https://www.pokemoncenter.com/product/701-06620/raboot-poke-plush-13-in,701-06620,Raboot Poké Plush - 13 In.,$19.99,NO,6-41
+492,https://www.pokemoncenter.com/product/701-05521/wooloo-squishy-plush-14-in,701-05521,Wooloo Squishy Plush - 14 ¼ In.,$41.99,YES,6-42
+493,https://www.pokemoncenter.com/product/701-05947/obstagoon-poke-plush-14-in,701-05947,Obstagoon Poké Plush - 14 ¼ In.,$26.99,YES,6-43
+494,https://www.pokemoncenter.com/product/701-05950/galarian-weezing-poke-plush-10-in,701-05950,Galarian Weezing Poké Plush - 10 In.,$19.99,YES,6-44
+495,https://www.pokemoncenter.com/product/701-05519/morpeko-hangry-mode-poke-plush-10-in,701-05519,Morpeko (Hangry Mode) Poké Plush - 10 ½ In.,$16.99,YES,6-45
+496,https://www.pokemoncenter.com/product/701-05949/galarian-zigzagoon-poke-plush-12-in,701-05949,Galarian Zigzagoon Poké Plush - 12 ¾ In.,$19.99,NO,6-46
+497,https://www.pokemoncenter.com/product/701-05520/morpeko-full-belly-mode-poke-plush-10-in,701-05520,Morpeko (Full Belly Mode) Poké Plush - 10 ½ In.,$16.99,NO,6-47
+498,https://www.pokemoncenter.com/product/701-05948/galarian-linoone-poke-plush-15-in,701-05948,Galarian Linoone Poké Plush - 15 ¾ In.,$19.99,NO,6-48
+499,https://www.pokemoncenter.com/product/701-05387/yamper-poke-plush-9-in,701-05387,Yamper Poké Plush - 9 ¾ In.,$16.99,NO,6-49
+500,https://www.pokemoncenter.com/product/701-05386/alcremie-poke-plush-10-in,701-05386,Alcremie Poké Plush - 10 In.,$16.99,NO,6-50
+501,https://www.pokemoncenter.com/product/701-05389/duraludon-poke-plush-10-in,701-05389,Duraludon Poké Plush - 10 ½ In.,$19.99,NO,6-51
+502,https://www.pokemoncenter.com/product/702-05316/scorbunny-pokemon-dolls-plush-7-in,702-05316,Scorbunny Pokémon Dolls Plush - 7 ½ In.,$12.99,NO,6-52
+503,https://www.pokemoncenter.com/product/702-05315/sobble-pokemon-dolls-plush-6-in,702-05315,Sobble Pokémon Dolls Plush - 6 ½ In.,$12.99,NO,6-53
+504,https://www.pokemoncenter.com/product/702-05317/grookey-pokemon-dolls-plush-6-in,702-05317,Grookey Pokémon Dolls Plush - 6 ½ In.,$12.99,NO,6-54
+505,https://www.pokemoncenter.com/product/701-05313/ditto-as-mimikyu-plush-7-in,701-05313,Ditto As Mimikyu Plush - 7 ¾ In.,$14.99,NO,6-55
+506,https://www.pokemoncenter.com/product/701-05314/ditto-as-mew-plush-6-in,701-05314,Ditto As Mew Plush - 6 In.,$14.99,NO,6-56
+507,https://www.pokemoncenter.com/product/701-05311/ditto-as-lucario-plush-8-in,701-05311,Ditto As Lucario Plush - 8 ¼ In.,$14.99,NO,6-57
+508,https://www.pokemoncenter.com/product/701-05551/yawning-snorlax-poke-plush-12-in,701-05551,Yawning Snorlax Poké Plush - 12 In.,$19.99,NO,6-58
+509,https://www.pokemoncenter.com/product/701-05310/ditto-as-morelull-plush-8-in,701-05310,Ditto As Morelull Plush - 8 In.,$14.99,NO,6-59
+510,https://www.pokemoncenter.com/product/701-05312/ditto-as-exeggutor-plush-8-in,701-05312,Ditto As Exeggutor Plush - 8 ¼ In.,$14.99,NO,6-60
+511,https://www.pokemoncenter.com/product/701-05580/paired-pikachu-celebrations-sweetheart-pikachu-plush-8-in,701-05580,Paired Pikachu Celebrations: Sweetheart Pikachu Plush - 8 In.,$24.99,YES,6-61
+512,https://www.pokemoncenter.com/product/701-06597/snorlax-poke-maniac-costume-pikachu-poke-plush-8-in,701-06597,Snorlax Poké Maniac Costume Pikachu Poké Plush - 8 In.,$22.99,YES,6-62
+513,https://www.pokemoncenter.com/product/701-06648/furret-poke-plush-71-in,701-06648,Furret Poké Plush - 71 In.,$349.99,NO,6-63
+514,https://www.pokemoncenter.com/product/701-05921/sleeping-umbreon-poke-plush-19-in,701-05921,Sleeping Umbreon Poké Plush - 19 In.,$39.99,NO,6-64
+515,https://www.pokemoncenter.com/product/701-05922/sleeping-sylveon-poke-plush-19-in,701-05922,Sleeping Sylveon Poké Plush - 19 ½ In.,$39.99,NO,6-65
+516,https://www.pokemoncenter.com/product/701-05920/sleeping-vaporeon-poke-plush-21-in,701-05920,Sleeping Vaporeon Poké Plush - 21 In.,$39.99,NO,6-66
+517,https://www.pokemoncenter.com/product/701-05923/sleeping-leafeon-poke-plush-16-in,701-05923,Sleeping Leafeon Poké Plush - 16 In.,$39.99,NO,6-67
+518,https://www.pokemoncenter.com/product/701-05924/sleeping-espeon-poke-plush-17-in,701-05924,Sleeping Espeon Poké Plush - 17 ½ In.,$39.99,NO,6-68
+519,https://www.pokemoncenter.com/product/701-05925/sleeping-eevee-poke-plush-22-in,701-05925,Sleeping Eevee Poké Plush - 22 In.,$39.99,NO,6-69
+520,https://www.pokemoncenter.com/product/701-05946/umbreon-poke-plush-9-in,701-05946,Umbreon Poké Plush - 9 In.,$12.99,NO,6-70
+521,https://www.pokemoncenter.com/product/701-05571/furret-poke-plush-20-in,701-05571,Furret Poké Plush - 20 In.,$19.99,NO,6-71
+522,https://www.pokemoncenter.com/product/701-05570/pikachu-around-the-world-liberty-pikachu-poke-plush-8-in,701-05570,Pikachu Around the World: Liberty Pikachu Poké Plush - 8 ½ In.,$19.99,NO,6-72
+523,https://www.pokemoncenter.com/product/701-06265/chikorita-sitting-cuties-plush-5-in,701-06265,Chikorita Sitting Cuties Plush - 5 ¼ In.,$10.99,YES,6-73
+524,https://www.pokemoncenter.com/product/701-06201/sneasel-sitting-cuties-plush-6-in,701-06201,Sneasel Sitting Cuties Plush - 6 ¾ In.,$10.99,YES,6-74
+525,https://www.pokemoncenter.com/product/701-06218/zapdos-sitting-cuties-plush-8-in,701-06218,Zapdos Sitting Cuties Plush - 8 ¾ In.,$10.99,YES,6-75
+526,https://www.pokemoncenter.com/product/701-06269/lugia-sitting-cuties-plush-8-in,701-06269,Lugia Sitting Cuties Plush - 8 ¼ In.,$10.99,YES,6-76
+527,https://www.pokemoncenter.com/product/701-06254/porygon2-sitting-cuties-plush-7-in,701-06254,Porygon2 Sitting Cuties Plush - 7 In.,$10.99,YES,6-77
+528,https://www.pokemoncenter.com/product/701-06178/blissey-sitting-cuties-plush-5-in,701-06178,Blissey Sitting Cuties Plush - 5 In.,$10.99,YES,6-78
+529,https://www.pokemoncenter.com/product/701-06256/houndour-sitting-cuties-plush-5-in,701-06256,Houndour Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,6-79
+530,https://www.pokemoncenter.com/product/701-06257/shuckle-sitting-cuties-plush-5-in,701-06257,Shuckle Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,6-80
+531,https://www.pokemoncenter.com/product/701-06200/swinub-sitting-cuties-plush-5-in,701-06200,Swinub Sitting Cuties Plush - 5 ¼ In.,$10.99,YES,6-81
+532,https://www.pokemoncenter.com/product/701-06206/cleffa-sitting-cuties-plush-4-in,701-06206,Cleffa Sitting Cuties Plush - 4 ¾ In.,$10.99,YES,6-82
+533,https://www.pokemoncenter.com/product/701-06253/miltank-sitting-cuties-plush-6-in,701-06253,Miltank Sitting Cuties Plush - 6 In.,$10.99,YES,6-83
+534,https://www.pokemoncenter.com/product/701-06195/bayleef-sitting-cuties-plush-5-in,701-06195,Bayleef Sitting Cuties Plush - 5 ½ In.,$10.99,YES,6-84
+535,https://www.pokemoncenter.com/product/701-06188/hoppip-sitting-cuties-plush-5-in,701-06188,Hoppip Sitting Cuties Plush - 5 ¼ In.,$10.99,YES,6-85
+536,https://www.pokemoncenter.com/product/701-06263/spinarak-sitting-cuties-plush-7-in,701-06263,Spinarak Sitting Cuties Plush - 7 In.,$10.99,YES,6-86
+537,https://www.pokemoncenter.com/product/701-06205/igglybuff-sitting-cuties-plush-5-in,701-06205,Igglybuff Sitting Cuties Plush - 5 ¼ In.,$10.99,YES,6-87
+538,https://www.pokemoncenter.com/product/701-06226/jumpluff-sitting-cuties-plush-6-in,701-06226,Jumpluff Sitting Cuties Plush - 6 ½ In.,$10.99,YES,6-88
+539,https://www.pokemoncenter.com/product/701-06186/sunflora-sitting-cuties-plush-6-in,701-06186,Sunflora Sitting Cuties Plush - 6 ½ In.,$10.99,YES,6-89
+540,https://www.pokemoncenter.com/product/701-06230/feraligatr-sitting-cuties-plush-6-in,701-06230,Feraligatr Sitting Cuties Plush - 6 ¼ In.,$10.99,YES,6-90
+541,https://www.pokemoncenter.com/product/701-06183/steelix-sitting-cuties-plush-8-in,701-06183,Steelix Sitting Cuties Plush - 8 In.,$10.99,YES,7-1
+542,https://www.pokemoncenter.com/product/701-06214/poliwrath-sitting-cuties-plush-6-in,701-06214,Poliwrath Sitting Cuties Plush - 6 ½ In.,$10.99,YES,7-2
+543,https://www.pokemoncenter.com/product/701-06259/girafarig-sitting-cuties-plush-6-in,701-06259,Girafarig Sitting Cuties Plush - 6 ¼ In.,$10.99,YES,7-3
+544,https://www.pokemoncenter.com/product/701-06203/slowking-sitting-cuties-plush-7-in,701-06203,Slowking Sitting Cuties Plush - 7 In.,$10.99,YES,7-4
+545,https://www.pokemoncenter.com/product/701-06187/aipom-sitting-cuties-plush-5-in,701-06187,Aipom Sitting Cuties Plush - 5 ¼ In.,$10.99,YES,7-5
+546,https://www.pokemoncenter.com/product/701-06179/delibird-sitting-cuties-plush-5-in,701-06179,Delibird Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,7-6
+547,https://www.pokemoncenter.com/product/701-06204/natu-sitting-cuties-plush-5-in,701-06204,Natu Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,7-7
+548,https://www.pokemoncenter.com/product/701-06182/qwilfish-sitting-cuties-plush-7-in,701-06182,Qwilfish Sitting Cuties Plush - 7 ¼ In.,$10.99,YES,7-8
+549,https://www.pokemoncenter.com/product/701-06196/donphan-sitting-cuties-plush-6-in,701-06196,Donphan Sitting Cuties Plush - 6 ¼ In.,$10.99,YES,7-9
+550,https://www.pokemoncenter.com/product/701-06191/magcargo-sitting-cuties-plush-5-in,701-06191,Magcargo Sitting Cuties Plush - 5 ¼ In.,$10.99,YES,7-10
+551,https://www.pokemoncenter.com/product/701-06189/xatu-sitting-cuties-plush-6-in,701-06189,Xatu Sitting Cuties Plush - 6 ¼ In.,$10.99,YES,7-11
+552,https://www.pokemoncenter.com/product/701-06232/meganium-sitting-cuties-plush-8-in,701-06232,Meganium Sitting Cuties Plush - 8 In.,$10.99,NO,7-12
+553,https://www.pokemoncenter.com/product/701-06210/porygon-sitting-cuties-plush-5-in,701-06210,Porygon Sitting Cuties Plush - 5 ½ In.,$10.99,NO,7-13
+554,https://www.pokemoncenter.com/product/701-06243/wooper-sitting-cuties-plush-6-in,701-06243,Wooper Sitting Cuties Plush - 6 In.,$10.99,NO,7-14
+555,https://www.pokemoncenter.com/product/701-06197/phanpy-sitting-cuties-plush-6-in,701-06197,Phanpy Sitting Cuties Plush - 6 In.,$10.99,NO,7-15
+556,https://www.pokemoncenter.com/product/701-06202/gligar-sitting-cuties-plush-8-in,701-06202,Gligar Sitting Cuties Plush - 8 In.,$10.99,NO,7-16
+557,https://www.pokemoncenter.com/product/701-06216/raichu-sitting-cuties-plush-6-in,701-06216,Raichu Sitting Cuties Plush - 6 In.,$10.99,NO,7-17
+558,https://www.pokemoncenter.com/product/701-06231/typhlosion-sitting-cuties-plush-6-in,701-06231,Typhlosion Sitting Cuties Plush - 6 In.,$10.99,NO,7-18
+559,https://www.pokemoncenter.com/product/701-06215/psyduck-sitting-cuties-plush-5-in,701-06215,Psyduck Sitting Cuties Plush - 5 ¼ In.,$10.99,NO,7-19
+560,https://www.pokemoncenter.com/product/701-06211/gyarados-sitting-cuties-plush-8-in,701-06211,Gyarados Sitting Cuties Plush - 8 ½ In.,$10.99,NO,7-20
+561,https://www.pokemoncenter.com/product/701-06267/jolteon-sitting-cuties-plush-6-in,701-06267,Jolteon Sitting Cuties Plush - 6 In.,$10.99,NO,7-21
+562,https://www.pokemoncenter.com/product/701-06234/suicune-sitting-cuties-plush-6-in,701-06234,Suicune Sitting Cuties Plush - 6 ¾ In.,$10.99,NO,7-22
+563,https://www.pokemoncenter.com/product/701-06240/teddiursa-sitting-cuties-plush-6-in,701-06240,Teddiursa Sitting Cuties Plush - 6 In.,$10.99,NO,7-23
+564,https://www.pokemoncenter.com/product/701-06223/mew-sitting-cuties-plush-4-in,701-06223,Mew Sitting Cuties Plush - 4 ½ In.,$10.99,NO,7-24
+565,https://www.pokemoncenter.com/product/701-06266/flareon-sitting-cuties-plush-6-in,701-06266,Flareon Sitting Cuties Plush - 6 ½ In.,$10.99,NO,7-25
+566,https://www.pokemoncenter.com/product/701-06247/crobat-sitting-cuties-plush-8-in,701-06247,Crobat Sitting Cuties Plush - 8 ½ In.,$10.99,NO,7-26
+567,https://www.pokemoncenter.com/product/701-06237/smeargle-sitting-cuties-plush-7-in,701-06237,Smeargle Sitting Cuties Plush - 7 In.,$10.99,NO,7-27
+568,https://www.pokemoncenter.com/product/701-05630/umbreon-sitting-cuties-plush-7-in,701-05630,Umbreon Sitting Cuties Plush - 7 In.,$10.99,NO,7-28
+569,https://www.pokemoncenter.com/product/701-06227/azumarill-sitting-cuties-plush-6-in,701-06227,Azumarill Sitting Cuties Plush - 6 ½ In.,$10.99,NO,7-29
+570,https://www.pokemoncenter.com/product/701-05622/togepi-sitting-cuties-plush-5-in,701-05622,Togepi Sitting Cuties Plush - 5 In.,$10.99,NO,7-30
+571,https://www.pokemoncenter.com/product/701-05627/cyndaquil-sitting-cuties-plush-7-in,701-05627,Cyndaquil Sitting Cuties Plush - 7 In.,$10.99,NO,7-31
+572,https://www.pokemoncenter.com/product/701-06244/marill-sitting-cuties-plush-4-in,701-06244,Marill Sitting Cuties Plush - 4 ¾ In.,$10.99,NO,7-32
+573,https://www.pokemoncenter.com/product/701-06192/quagsire-sitting-cuties-plush-5-in,701-06192,Quagsire Sitting Cuties Plush - 5 ½ In.,$10.99,NO,7-33
+574,https://www.pokemoncenter.com/product/701-06228/flaaffy-sitting-cuties-plush-5-in,701-06228,Flaaffy Sitting Cuties Plush - 5 ½ In.,$10.99,NO,7-34
+575,https://www.pokemoncenter.com/product/701-06193/hoothoot-sitting-cuties-plush-6-in,701-06193,Hoothoot Sitting Cuties Plush - 6 ¼ In.,$10.99,NO,7-35
+576,https://www.pokemoncenter.com/product/701-06242/scizor-sitting-cuties-plush-6-in,701-06242,Scizor Sitting Cuties Plush - 6 ½ In.,$10.99,NO,7-36
+577,https://www.pokemoncenter.com/product/701-06268/vaporeon-sitting-cuties-plush-6-in,701-06268,Vaporeon Sitting Cuties Plush - 6 In.,$10.99,NO,7-37
+578,https://www.pokemoncenter.com/product/701-06181/ursaring-sitting-cuties-plush-5-in,701-06181,Ursaring Sitting Cuties Plush - 5 In.,$10.99,NO,7-38
+579,https://www.pokemoncenter.com/product/701-05637/gengar-sitting-cuties-plush-5-in,701-05637,Gengar Sitting Cuties Plush - 5 In.,$10.99,NO,7-39
+580,https://www.pokemoncenter.com/product/701-05626/ampharos-sitting-cuties-plush-6-in,701-05626,Ampharos Sitting Cuties Plush - 6 ½ In.,$10.99,NO,7-40
+581,https://www.pokemoncenter.com/product/701-06241/heracross-sitting-cuties-plush-6-in,701-06241,Heracross Sitting Cuties Plush - 6 ¼ In.,$10.99,NO,7-41
+582,https://www.pokemoncenter.com/product/701-05629/espeon-sitting-cuties-plush-6-in,701-05629,Espeon Sitting Cuties Plush - 6 ½ In.,$10.99,NO,7-42
+583,https://www.pokemoncenter.com/product/701-06233/tyranitar-sitting-cuties-plush-6-in,701-06233,Tyranitar Sitting Cuties Plush - 6 ½ In.,$10.99,NO,7-43
+584,https://www.pokemoncenter.com/product/701-05624/politoed-sitting-cuties-plush-6-in,701-05624,Politoed Sitting Cuties Plush - 6 ½ In.,$10.99,NO,7-44
+585,https://www.pokemoncenter.com/product/701-05631/mareep-sitting-cuties-plush-6-in,701-05631,Mareep Sitting Cuties Plush - 6 In.,$10.99,NO,7-45
+586,https://www.pokemoncenter.com/product/701-05628/furret-sitting-cuties-plush-6-in,701-05628,Furret Sitting Cuties Plush - 6 ½ In.,$10.99,NO,7-46
+587,https://www.pokemoncenter.com/product/701-06264/totodile-sitting-cuties-plush-5-in,701-06264,Totodile Sitting Cuties Plush - 5 ½ In.,$10.99,NO,7-47
+588,https://www.pokemoncenter.com/product/701-05621/pichu-sitting-cuties-plush-7-in,701-05621,Pichu Sitting Cuties Plush - 7 In.,$10.99,NO,7-48
+589,https://www.pokemoncenter.com/product/701-06235/entei-sitting-cuties-plush-6-in,701-06235,Entei Sitting Cuties Plush - 6 ¼ In.,$10.99,NO,7-49
+590,https://www.pokemoncenter.com/product/701-06198/kingdra-sitting-cuties-plush-7-in,701-06198,Kingdra Sitting Cuties Plush - 7 ¾ In.,$10.99,NO,7-50
+591,https://www.pokemoncenter.com/product/701-06250/celebi-sitting-cuties-plush-8-in,701-06250,Celebi Sitting Cuties Plush - 8 In.,$10.99,NO,7-51
+592,https://www.pokemoncenter.com/product/701-05632/raichu-sitting-cuties-plush-6-in,701-05632,Raichu Sitting Cuties Plush - 6 In.,$10.99,NO,7-52
+593,https://www.pokemoncenter.com/product/701-06258/dunsparce-sitting-cuties-plush-6-in,701-06258,Dunsparce Sitting Cuties Plush - 6 ¾ In.,$10.99,NO,7-53
+594,https://www.pokemoncenter.com/product/701-06221/diglett-sitting-cuties-plush-4-in,701-06221,Diglett Sitting Cuties Plush - 4 In.,$10.99,NO,7-54
+595,https://www.pokemoncenter.com/product/701-06249/quilava-sitting-cuties-plush-6-in,701-06249,Quilava Sitting Cuties Plush - 6 ¼ In.,$10.99,NO,7-55
+596,https://www.pokemoncenter.com/product/701-05634/mewtwo-sitting-cuties-plush-5-in,701-05634,Mewtwo Sitting Cuties Plush - 5 ½ In.,$10.99,NO,7-56
+597,https://www.pokemoncenter.com/product/701-06251/ho-oh-sitting-cuties-plush-7-in,701-06251,Ho-Oh Sitting Cuties Plush - 7 In.,$10.99,NO,7-57
+598,https://www.pokemoncenter.com/product/701-05625/bellossom-sitting-cuties-plush-5-in,701-05625,Bellossom Sitting Cuties Plush - 5 ¾ In.,$10.99,NO,7-58
+599,https://www.pokemoncenter.com/product/701-06212/gengar-sitting-cuties-plush-5-in,701-06212,Gengar Sitting Cuties Plush - 5 In.,$10.99,NO,7-59
+600,https://www.pokemoncenter.com/product/701-06236/raikou-sitting-cuties-plush-5-in,701-06236,Raikou Sitting Cuties Plush - 5 ¾ In.,$10.99,NO,7-60
+601,https://www.pokemoncenter.com/product/701-06208/chinchou-sitting-cuties-plush-7-in,701-06208,Chinchou Sitting Cuties Plush - 7 ¾ In.,$10.99,NO,7-61
+602,https://www.pokemoncenter.com/product/701-06229/togetic-sitting-cuties-plush-6-in,701-06229,Togetic Sitting Cuties Plush - 6 In.,$10.99,NO,7-62
+603,https://www.pokemoncenter.com/product/701-06209/mewtwo-sitting-cuties-plush-5-in,701-06209,Mewtwo Sitting Cuties Plush - 5 ½ In.,$10.99,NO,7-63
+604,https://www.pokemoncenter.com/product/701-06252/larvitar-sitting-cuties-plush-6-in,701-06252,Larvitar Sitting Cuties Plush - 6 In.,$10.99,NO,7-64
+605,https://www.pokemoncenter.com/product/701-06180/octillery-sitting-cuties-plush-5-in,701-06180,Octillery Sitting Cuties Plush - 5 In.,$10.99,NO,7-65
+606,https://www.pokemoncenter.com/product/701-06239/corsola-sitting-cuties-plush-5-in,701-06239,Corsola Sitting Cuties Plush - 5 ¼ In.,$10.99,NO,7-66
+607,https://www.pokemoncenter.com/product/701-06194/croconaw-sitting-cuties-plush-6-in,701-06194,Croconaw Sitting Cuties Plush - 6 In.,$10.99,NO,7-67
+608,https://www.pokemoncenter.com/product/701-06199/mantine-sitting-cuties-plush-8-in,701-06199,Mantine Sitting Cuties Plush - 8 ½ In.,$10.99,NO,7-68
+609,https://www.pokemoncenter.com/product/701-06185/yanma-sitting-cuties-plush-6-in,701-06185,Yanma Sitting Cuties Plush - 6 ½ In.,$10.99,NO,7-69
+610,https://www.pokemoncenter.com/product/701-06238/skarmory-sitting-cuties-plush-7-in,701-06238,Skarmory Sitting Cuties Plush - 7 ½ In.,$10.99,NO,7-70
+611,https://www.pokemoncenter.com/product/701-06207/lanturn-sitting-cuties-plush-7-in,701-06207,Lanturn Sitting Cuties Plush - 7 ½ In.,$10.99,NO,7-71
+612,https://www.pokemoncenter.com/product/701-06190/ariados-sitting-cuties-plush-6-in,701-06190,Ariados Sitting Cuties Plush - 6 ¼ In.,$10.99,NO,7-72
+613,https://www.pokemoncenter.com/product/701-05371/pokemon-detective-pikachu-wrinkled-face-plush-8-in,701-05371,POKÉMON Detective Pikachu Wrinkled-Face Plush - 8 In.,$19.99,NO,7-73
+614,https://www.pokemoncenter.com/product/701-05306/eldegoss-poke-plush-8-in,701-05306,Eldegoss Poké Plush - 8 In.,$19.99,YES,7-74
+615,https://www.pokemoncenter.com/product/701-05307/gossifleur-poke-plush-8-in,701-05307,Gossifleur Poké Plush - 8 ¼ In.,$15.99,YES,7-75
+616,https://www.pokemoncenter.com/product/701-05305/wooloo-poke-plush-7-in,701-05305,Wooloo Poké Plush - 7 ½ In.,$15.99,NO,7-76
+617,https://www.pokemoncenter.com/product/701-05304/drednaw-poke-plush-14-in,701-05304,Drednaw Poké Plush - 14 In.,$15.99,NO,7-77
+618,https://www.pokemoncenter.com/product/701-04108/dewott-pokemon-dolls-plush-7-in,701-04108,Dewott Pokémon Dolls Plush - 7 ½ In.,$12.99,NO,7-78
+619,https://www.pokemoncenter.com/product/701-04106/charizard-pokemon-dolls-plush-8-in,701-04106,Charizard Pokémon Dolls Plush - 8 In.,$12.99,NO,7-79
+620,https://www.pokemoncenter.com/product/701-04109/lotad-pokemon-dolls-plush-6-in,701-04109,Lotad Pokémon Dolls Plush - 6 ½ In.,$12.99,NO,7-80
+621,https://www.pokemoncenter.com/product/701-04107/blastoise-pokemon-dolls-plush-6-in,701-04107,Blastoise Pokémon Dolls Plush - 6 ½ In.,$12.99,NO,7-81
+622,https://www.pokemoncenter.com/product/701-04105/venusaur-pokemon-dolls-plush-5-in,701-04105,Venusaur Pokémon Dolls Plush - 5 ¾ In.,$12.99,NO,7-82
+623,https://www.pokemoncenter.com/product/701-05309/zacian-poke-plush-13-in,701-05309,Zacian Poké Plush - 13 ½ In.,$47.99,YES,7-83
+624,https://www.pokemoncenter.com/product/701-05308/zamazenta-poke-plush-16-in,701-05308,Zamazenta Poké Plush - 16 In.,$47.99,YES,7-84
+625,https://www.pokemoncenter.com/product/701-04402/grookey-poke-plush-15-in,701-04402,Grookey Poké Plush - 15 ½ In.,$49.99,YES,7-85
+626,https://www.pokemoncenter.com/product/701-04404/sobble-poke-plush-16-in,701-04404,Sobble Poké Plush - 16 In.,$49.99,YES,7-86
+627,https://www.pokemoncenter.com/product/701-04403/scorbunny-poke-plush-17-in,701-04403,Scorbunny Poké Plush - 17 In.,$49.99,NO,7-87
+628,https://www.pokemoncenter.com/product/701-04406/scorbunny-poke-plush-key-chain,701-04406,Scorbunny Poké Plush Key Chain,$11.99,NO,7-88
+629,https://www.pokemoncenter.com/product/701-04405/grookey-poke-plush-key-chain,701-04405,Grookey Poké Plush Key Chain,$11.99,NO,7-89
+630,https://www.pokemoncenter.com/product/701-04411/charmander-pokemon-holiday-lights-poke-plush-9-in,701-04411,Charmander Pokémon Holiday Lights Poké Plush - 9 ½ In.,$21.99,NO,7-90
+631,https://www.pokemoncenter.com/product/701-04413/pikachu-pokemon-holiday-lights-poke-plush-9-in,701-04413,Pikachu Pokémon Holiday Lights Poké Plush - 9 ¼ In.,$21.99,NO,8-1
+632,https://www.pokemoncenter.com/product/710-04939/eevee-pokemon-holiday-plush-stocking,710-04939,Eevee Pokémon Holiday Plush Stocking,$19.99,NO,8-2
+633,https://www.pokemoncenter.com/product/701-04408/grookey-poke-plush-9-in,701-04408,Grookey Poké Plush - 9 ¾ In.,$17.99,YES,8-3
+634,https://www.pokemoncenter.com/product/701-04410/sobble-poke-plush-8-in,701-04410,Sobble Poké Plush - 8 In.,$17.99,YES,8-4
+635,https://www.pokemoncenter.com/product/701-04443/murkrow-sitting-cuties-plush-6-in,701-04443,Murkrow Sitting Cuties Plush - 6 ¼ In.,$10.99,YES,8-5
+636,https://www.pokemoncenter.com/product/701-04515/unown-a-sitting-cuties-plush-5-in,701-04515,Unown A Sitting Cuties Plush - 5 ½ In.,$10.99,YES,8-6
+637,https://www.pokemoncenter.com/product/701-04543/wobbuffet-sitting-cuties-plush-5-in,701-04543,Wobbuffet Sitting Cuties Plush - 5 ½ In.,$10.99,YES,8-7
+638,https://www.pokemoncenter.com/product/701-04519/unown-e-sitting-cuties-plush-5-in,701-04519,Unown E Sitting Cuties Plush - 5 ½ In.,$10.99,YES,8-8
+639,https://www.pokemoncenter.com/product/701-04524/unown-j-sitting-cuties-plush-5-in,701-04524,Unown J Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,8-9
+640,https://www.pokemoncenter.com/product/701-04432/sentret-sitting-cuties-plush-7-in,701-04432,Sentret Sitting Cuties Plush - 7 In.,$10.99,YES,8-10
+641,https://www.pokemoncenter.com/product/701-04508/skiploom-sitting-cuties-plush-6-in,701-04508,Skiploom Sitting Cuties Plush - 6 In.,$10.99,YES,8-11
+642,https://www.pokemoncenter.com/product/701-04526/unown-l-sitting-cuties-plush-5-in,701-04526,Unown L Sitting Cuties Plush - 5 ½ In.,$10.99,YES,8-12
+643,https://www.pokemoncenter.com/product/701-04450/slugma-sitting-cuties-plush-6-in,701-04450,Slugma Sitting Cuties Plush - 6 In.,$10.99,YES,8-13
+644,https://www.pokemoncenter.com/product/701-04481/snubbull-sitting-cuties-plush-5-in,701-04481,Snubbull Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,8-14
+645,https://www.pokemoncenter.com/product/701-04542/unown-sitting-cuties-plush-6-in,701-04542,Unown ? Sitting Cuties Plush - 6 In.,$10.99,YES,8-15
+646,https://www.pokemoncenter.com/product/701-04461/magby-sitting-cuties-plush-5-in,701-04461,Magby Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,8-16
+647,https://www.pokemoncenter.com/product/701-04552/smoochum-sitting-cuties-plush-5-in,701-04552,Smoochum Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,8-17
+648,https://www.pokemoncenter.com/product/701-04533/unown-s-sitting-cuties-plush-6-in,701-04533,Unown S Sitting Cuties Plush - 6 ¾ In.,$10.99,YES,8-18
+649,https://www.pokemoncenter.com/product/701-04525/unown-k-sitting-cuties-plush-5-in,701-04525,Unown K Sitting Cuties Plush - 5 ½ In.,$10.99,YES,8-19
+650,https://www.pokemoncenter.com/product/701-04460/elekid-sitting-cuties-plush-8-in,701-04460,Elekid Sitting Cuties Plush - 8 ¼ In.,$10.99,YES,8-20
+651,https://www.pokemoncenter.com/product/701-04532/unown-r-sitting-cuties-plush-5-in,701-04532,Unown R Sitting Cuties Plush - 5 In.,$10.99,YES,8-21
+652,https://www.pokemoncenter.com/product/701-04528/unown-n-sitting-cuties-plush-4-in,701-04528,Unown N Sitting Cuties Plush - 4 ¾ In.,$10.99,YES,8-22
+653,https://www.pokemoncenter.com/product/701-04527/unown-m-sitting-cuties-plush-5-in,701-04527,Unown M Sitting Cuties Plush - 5 In.,$10.99,YES,8-23
+654,https://www.pokemoncenter.com/product/701-04529/unown-o-sitting-cuties-plush-4-in,701-04529,Unown O Sitting Cuties Plush - 4 ¾ In.,$10.99,YES,8-24
+655,https://www.pokemoncenter.com/product/701-04523/unown-i-sitting-cuties-plush-5-in,701-04523,Unown I Sitting Cuties Plush - 5 In.,$10.99,YES,8-25
+656,https://www.pokemoncenter.com/product/701-04501/noctowl-sitting-cuties-plush-6-in,701-04501,Noctowl Sitting Cuties Plush - 6 ¾ In.,$10.99,YES,8-26
+657,https://www.pokemoncenter.com/product/701-04518/unown-d-sitting-cuties-plush-4-in,701-04518,Unown D Sitting Cuties Plush - 4 ¾ In.,$10.99,YES,8-27
+658,https://www.pokemoncenter.com/product/701-04520/unown-f-sitting-cuties-plush-5-in,701-04520,Unown F Sitting Cuties Plush - 5 ½ In.,$10.99,YES,8-28
+659,https://www.pokemoncenter.com/product/701-04516/unown-b-sitting-cuties-plush-5-in,701-04516,Unown B Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,8-29
+660,https://www.pokemoncenter.com/product/701-04534/unown-t-sitting-cuties-plush-5-in,701-04534,Unown T Sitting Cuties Plush - 5 ¼ In.,$10.99,YES,8-30
+661,https://www.pokemoncenter.com/product/701-04522/unown-h-sitting-cuties-plush-4-in,701-04522,Unown H Sitting Cuties Plush - 4 ¾ In.,$10.99,YES,8-31
+662,https://www.pokemoncenter.com/product/701-04472/ledyba-sitting-cuties-plush-4-in,701-04472,Ledyba Sitting Cuties Plush - 4 ¾ In.,$10.99,YES,8-32
+663,https://www.pokemoncenter.com/product/701-04539/unown-y-sitting-cuties-plush-5-in,701-04539,Unown Y Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,8-33
+664,https://www.pokemoncenter.com/product/701-04538/unown-x-sitting-cuties-plush-4-in,701-04538,Unown X Sitting Cuties Plush - 4 ½ In.,$10.99,YES,8-34
+665,https://www.pokemoncenter.com/product/701-04541/unown-sitting-cuties-plush-5-in,701-04541,Unown ! Sitting Cuties Plush - 5 ½ In.,$10.99,YES,8-35
+666,https://www.pokemoncenter.com/product/701-04537/unown-w-sitting-cuties-plush-5-in,701-04537,Unown W Sitting Cuties Plush - 5 ¼ In.,$10.99,YES,8-36
+667,https://www.pokemoncenter.com/product/701-04521/unown-g-sitting-cuties-plush-5-in,701-04521,Unown G Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,8-37
+668,https://www.pokemoncenter.com/product/701-04535/unown-u-sitting-cuties-plush-5-in,701-04535,Unown U Sitting Cuties Plush - 5 In.,$10.99,YES,8-38
+669,https://www.pokemoncenter.com/product/701-04544/pineco-sitting-cuties-plush-5-in,701-04544,Pineco Sitting Cuties Plush - 5 In.,$10.99,YES,8-39
+670,https://www.pokemoncenter.com/product/701-04473/ledian-sitting-cuties-plush-8-in,701-04473,Ledian Sitting Cuties Plush - 8 In.,$10.99,YES,8-40
+671,https://www.pokemoncenter.com/product/701-04530/unown-p-sitting-cuties-plush-5-in,701-04530,Unown P Sitting Cuties Plush - 5 ¼ In.,$10.99,YES,8-41
+672,https://www.pokemoncenter.com/product/701-04547/granbull-sitting-cuties-plush-5-in,701-04547,Granbull Sitting Cuties Plush - 5 ½ In.,$10.99,YES,8-42
+673,https://www.pokemoncenter.com/product/701-04488/remoraid-sitting-cuties-plush-6-in,701-04488,Remoraid Sitting Cuties Plush - 6 ½ In.,$10.99,YES,8-43
+674,https://www.pokemoncenter.com/product/701-04536/unown-v-sitting-cuties-plush-5-in,701-04536,Unown V Sitting Cuties Plush - 5 ¼ In.,$10.99,YES,8-44
+675,https://www.pokemoncenter.com/product/701-04540/unown-z-sitting-cuties-plush-5-in,701-04540,Unown Z Sitting Cuties Plush - 5 ½ In.,$10.99,YES,8-45
+676,https://www.pokemoncenter.com/product/701-04531/unown-q-sitting-cuties-plush-5-in,701-04531,Unown Q Sitting Cuties Plush - 5 ½ In.,$10.99,YES,8-46
+677,https://www.pokemoncenter.com/product/701-04491/tyrogue-sitting-cuties-plush-7-in,701-04491,Tyrogue Sitting Cuties Plush - 7 In.,$10.99,YES,8-47
+678,https://www.pokemoncenter.com/product/701-04480/misdreavus-sitting-cuties-plush-5-in,701-04480,Misdreavus Sitting Cuties Plush - 5 ½ In.,$10.99,NO,8-48
+679,https://www.pokemoncenter.com/product/701-04517/unown-c-sitting-cuties-plush-5-in,701-04517,Unown C Sitting Cuties Plush - 5 ¼ In.,$10.99,NO,8-49
+680,https://www.pokemoncenter.com/product/701-04440/sudowoodo-sitting-cuties-plush-6-in,701-04440,Sudowoodo Sitting Cuties Plush - 6 ¼ In.,$10.99,NO,8-50
+681,https://www.pokemoncenter.com/product/701-04459/stantler-sitting-cuties-plush-7-in,701-04459,Stantler Sitting Cuties Plush - 7 ¼ In.,$10.99,NO,8-51
+682,https://www.pokemoncenter.com/product/701-04492/hitmontop-sitting-cuties-plush-6-in,701-04492,Hitmontop Sitting Cuties Plush - 6 In.,$10.99,NO,8-52
+683,https://www.pokemoncenter.com/product/701-04486/piloswine-sitting-cuties-plush-6-in,701-04486,Piloswine Sitting Cuties Plush - 6 In.,$10.99,NO,8-53
+684,https://www.pokemoncenter.com/product/701-04545/forretress-sitting-cuties-plush-4-in,701-04545,Forretress Sitting Cuties Plush - 4 ½ In.,$10.99,NO,8-54
+685,https://www.pokemoncenter.com/product/701-04464/pupitar-sitting-cuties-plush-6-in,701-04464,Pupitar Sitting Cuties Plush - 6 In.,$10.99,NO,8-55
+686,https://www.pokemoncenter.com/product/701-04419/celebi-pokemon-pumpkin-parade-poke-plush-10-in,701-04419,Celebi Pokémon Pumpkin Parade Poké Plush - 10 In.,$21.99,NO,8-56
+687,https://www.pokemoncenter.com/product/701-04415/squirtle-pokemon-pumpkin-parade-poke-plush-key-chain,701-04415,Squirtle Pokémon Pumpkin Parade Poké Plush Key Chain,$12.99,NO,8-57
+688,https://www.pokemoncenter.com/product/701-05318/mareep-poke-plush-45-in,701-05318,Mareep Poké Plush - 45 In.,$499.99,NO,8-58
+689,https://www.pokemoncenter.com/product/701-04583/melmetal-poke-plush-17-in,701-04583,Melmetal Poké Plush - 17 ¼ In.,$34.99,NO,8-59
+690,https://www.pokemoncenter.com/product/701-04241/eevee-pixel-collection-eevee-plush-16-in,701-04241,Eevee Pixel Collection! Eevee Plush - 16 In.,$29.99,NO,8-60
+691,https://www.pokemoncenter.com/product/701-04249/eevee-pixel-collection-sylveon-plush-16-in,701-04249,Eevee Pixel Collection! Sylveon Plush - 16 In.,$29.99,NO,8-61
+692,https://www.pokemoncenter.com/product/701-04246/eevee-pixel-collection-umbreon-plush-16-in,701-04246,Eevee Pixel Collection! Umbreon Plush - 16 In.,$29.99,NO,8-62
+693,https://www.pokemoncenter.com/product/701-04278/meltan-poke-plush-8-in,701-04278,Meltan Poké Plush - 8 ¾ In.,$14.99,NO,8-63
+694,https://www.pokemoncenter.com/product/701-04242/eevee-pixel-collection-vaporeon-plush-18-in,701-04242,Eevee Pixel Collection! Vaporeon Plush - 18 ½ In.,$29.99,NO,8-64
+695,https://www.pokemoncenter.com/product/701-04247/eevee-pixel-collection-leafeon-plush-18-in,701-04247,Eevee Pixel Collection! Leafeon Plush - 18 ½ In.,$29.99,NO,8-65
+696,https://www.pokemoncenter.com/product/701-04248/eevee-pixel-collection-glaceon-plush-17-in,701-04248,Eevee Pixel Collection! Glaceon Plush - 17 In.,$29.99,NO,8-66
+697,https://www.pokemoncenter.com/product/701-04244/eevee-pixel-collection-flareon-plush-17-in,701-04244,Eevee Pixel Collection! Flareon Plush - 17 ½ In.,$29.99,NO,8-67
+698,https://www.pokemoncenter.com/product/701-04243/eevee-pixel-collection-jolteon-plush-16-in,701-04243,Eevee Pixel Collection! Jolteon Plush - 16 In.,$29.99,NO,8-68
+699,https://www.pokemoncenter.com/product/701-04245/eevee-pixel-collection-espeon-plush-20-in,701-04245,Eevee Pixel Collection! Espeon Plush - 20 In.,$29.99,NO,8-69
+700,https://www.pokemoncenter.com/product/701-04104/scolipede-pokemon-dolls-plush-8-in,701-04104,Scolipede Pokémon Dolls Plush - 8 ½ In.,$12.99,NO,8-70
+701,https://www.pokemoncenter.com/product/701-04636/mew-poke-plush-16-in,701-04636,Mew Poké Plush - 16 In.,$49.99,NO,8-71
+702,https://www.pokemoncenter.com/product/701-04101/zeraora-pokemon-dolls-plush-6-in,701-04101,Zeraora Pokémon Dolls Plush - 6 ¾ In.,$12.99,NO,8-72
+703,https://www.pokemoncenter.com/product/701-04103/jigglypuff-pokemon-dolls-plush-5-in,701-04103,Jigglypuff Pokémon Dolls Plush - 5 In.,$12.99,NO,8-73
+704,https://www.pokemoncenter.com/product/701-04102/psyduck-pokemon-dolls-plush-6-in,701-04102,Psyduck Pokémon Dolls Plush - 6 In.,$12.99,NO,8-74
+705,https://www.pokemoncenter.com/product/701-04098/ditto-as-vanillite-plush-6-in,701-04098,Ditto As Vanillite Plush - 6 ¾ In.,$14.99,YES,8-75
+706,https://www.pokemoncenter.com/product/701-04094/ditto-as-poipole-plush-8-in,701-04094,Ditto As Poipole Plush - 8 In.,$14.99,YES,8-76
+707,https://www.pokemoncenter.com/product/701-04092/ditto-as-misdreavus-plush-6-in,701-04092,Ditto As Misdreavus Plush - 6 ½ In.,$14.99,NO,8-77
+708,https://www.pokemoncenter.com/product/701-04097/ditto-as-sylveon-plush-8-in,701-04097,Ditto As Sylveon Plush - 8 In.,$14.99,NO,8-78
+709,https://www.pokemoncenter.com/product/701-04090/ditto-as-leafeon-plush-7-in,701-04090,Ditto As Leafeon Plush - 7 ½ In.,$14.99,NO,8-79
+710,https://www.pokemoncenter.com/product/701-04099/ditto-as-trubbish-plush-8-in,701-04099,Ditto As Trubbish Plush - 8 ¾ In.,$14.99,NO,8-80
+711,https://www.pokemoncenter.com/product/701-04091/ditto-as-glaceon-plush-8-in,701-04091,Ditto As Glaceon Plush - 8 In.,$14.99,NO,8-81
+712,https://www.pokemoncenter.com/product/701-04096/ditto-as-furret-plush-8-in,701-04096,Ditto As Furret Plush - 8 ½ In.,$14.99,NO,8-82
+713,https://www.pokemoncenter.com/product/701-04093/ditto-as-litwick-plush-7-in,701-04093,Ditto As Litwick Plush - 7 ½ In.,$14.99,NO,8-83
+714,https://www.pokemoncenter.com/product/701-04095/ditto-as-mareep-plush-8-in,701-04095,Ditto As Mareep Plush - 8 ½ In.,$14.99,NO,8-84
+715,https://www.pokemoncenter.com/product/701-04695/pokemon-detective-pikachu-psyduck-plush-7-in,701-04695,POKÉMON Detective Pikachu Psyduck Plush - 7 ¾ In.,$24.99,YES,8-85
+716,https://www.pokemoncenter.com/product/701-04696/pokemon-detective-pikachu-ludicolo-plush-12-in,701-04696,POKÉMON Detective Pikachu Ludicolo Plush - 12 In.,$24.99,YES,8-86
+717,https://www.pokemoncenter.com/product/701-04694/pokemon-detective-pikachu-plush-8-in,701-04694,POKÉMON Detective Pikachu Plush - 8 In.,$24.99,NO,8-87
+718,https://www.pokemoncenter.com/product/701-03824/squirtle-sitting-cuties-plush-4-in,701-03824,Squirtle Sitting Cuties Plush - 4 ¾ In.,$10.99,YES,8-88
+719,https://www.pokemoncenter.com/product/701-04133/samurott-poke-plush-15-in,701-04133,Samurott Poké Plush - 15 ¾ In.,$32.99,YES,8-89
+720,https://www.pokemoncenter.com/product/701-04131/serperior-poke-plush-17-in,701-04131,Serperior Poké Plush - 17 In.,$32.99,YES,8-90
+721,https://www.pokemoncenter.com/product/701-04124/feraligatr-poke-plush-13-in,701-04124,Feraligatr Poké Plush - 13 In.,$32.99,YES,9-1
+722,https://www.pokemoncenter.com/product/701-04136/greninja-poke-plush-12-in,701-04136,Greninja Poké Plush - 12 ¼ In.,$32.99,YES,9-2
+723,https://www.pokemoncenter.com/product/701-03778/magnemite-sitting-cuties-plush-6-in,701-03778,Magnemite Sitting Cuties Plush - 6 ¼ In.,$10.99,YES,9-3
+724,https://www.pokemoncenter.com/product/701-03812/rapidash-sitting-cuties-plush-7-in,701-03812,Rapidash Sitting Cuties Plush - 7 ½ In.,$10.99,YES,9-4
+725,https://www.pokemoncenter.com/product/701-04127/swampert-poke-plush-13-in,701-04127,Swampert Poké Plush - 13 In.,$32.99,YES,9-5
+726,https://www.pokemoncenter.com/product/701-03831/venonat-sitting-cuties-plush-5-in,701-03831,Venonat Sitting Cuties Plush - 5 In.,$10.99,YES,9-6
+727,https://www.pokemoncenter.com/product/701-03839/weezing-sitting-cuties-plush-6-in,701-03839,Weezing Sitting Cuties Plush - 6 In.,$10.99,YES,9-7
+728,https://www.pokemoncenter.com/product/701-03826/tangela-sitting-cuties-plush-4-in,701-03826,Tangela Sitting Cuties Plush - 4 ½ In.,$10.99,YES,9-8
+729,https://www.pokemoncenter.com/product/701-03761/horsea-sitting-cuties-plush-5-in,701-03761,Horsea Sitting Cuties Plush - 5 In.,$10.99,YES,9-9
+730,https://www.pokemoncenter.com/product/701-04125/sceptile-poke-plush-16-in,701-04125,Sceptile Poké Plush - 16 ¼ In.,$32.99,YES,9-10
+731,https://www.pokemoncenter.com/product/701-03837/weedle-sitting-cuties-plush-7-in,701-03837,Weedle Sitting Cuties Plush - 7 ½ In.,$10.99,YES,9-11
+732,https://www.pokemoncenter.com/product/701-03792/nidorino-sitting-cuties-plush-5-in,701-03792,Nidorino Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,9-12
+733,https://www.pokemoncenter.com/product/701-04129/infernape-poke-plush-14-in,701-04129,Infernape Poké Plush - 14 ½ In.,$32.99,YES,9-13
+734,https://www.pokemoncenter.com/product/701-03786/muk-sitting-cuties-plush-5-in,701-03786,Muk Sitting Cuties Plush - 5 ½ In.,$10.99,YES,9-14
+735,https://www.pokemoncenter.com/product/701-03807/ponyta-sitting-cuties-plush-6-in,701-03807,Ponyta Sitting Cuties Plush - 6 In.,$10.99,YES,9-15
+736,https://www.pokemoncenter.com/product/701-03825/starmie-sitting-cuties-plush-5-in,701-03825,Starmie Sitting Cuties Plush - 5 ¼ In.,$10.99,YES,9-16
+737,https://www.pokemoncenter.com/product/701-04135/delphox-poke-plush-15-in,701-04135,Delphox Poké Plush - 15 ¼ In.,$32.99,YES,9-17
+738,https://www.pokemoncenter.com/product/701-03780/mankey-sitting-cuties-plush-6-in,701-03780,Mankey Sitting Cuties Plush - 6 ½ In.,$10.99,YES,9-18
+739,https://www.pokemoncenter.com/product/701-04130/empoleon-poke-plush-13-in,701-04130,Empoleon Poké Plush - 13 ¼ In.,$32.99,YES,9-19
+740,https://www.pokemoncenter.com/product/701-03833/victreebel-sitting-cuties-plush-7-in,701-03833,Victreebel Sitting Cuties Plush - 7 ¾ In.,$10.99,YES,9-20
+741,https://www.pokemoncenter.com/product/701-03799/persian-sitting-cuties-plush-5-in,701-03799,Persian Sitting Cuties Plush - 5 ½ In.,$10.99,YES,9-21
+742,https://www.pokemoncenter.com/product/701-03766/kabutops-sitting-cuties-plush-8-in,701-03766,Kabutops Sitting Cuties Plush - 8 In.,$10.99,YES,9-22
+743,https://www.pokemoncenter.com/product/701-03771/krabby-sitting-cuties-plush-7-in,701-03771,Krabby Sitting Cuties Plush - 7 In.,$10.99,YES,9-23
+744,https://www.pokemoncenter.com/product/701-03815/rhyhorn-sitting-cuties-plush-5-in,701-03815,Rhyhorn Sitting Cuties Plush - 5 ½ In.,$10.99,YES,9-24
+745,https://www.pokemoncenter.com/product/701-03838/weepinbell-sitting-cuties-plush-6-in,701-03838,Weepinbell Sitting Cuties Plush - 6 ½ In.,$10.99,YES,9-25
+746,https://www.pokemoncenter.com/product/701-03767/kadabra-sitting-cuties-plush-8-in,701-03767,Kadabra Sitting Cuties Plush - 8 ¼ In.,$10.99,YES,9-26
+747,https://www.pokemoncenter.com/product/701-03829/tentacruel-sitting-cuties-plush-6-in,701-03829,Tentacruel Sitting Cuties Plush - 6 ¼ In.,$10.99,YES,9-27
+748,https://www.pokemoncenter.com/product/701-03798/parasect-sitting-cuties-plush-6-in,701-03798,Parasect Sitting Cuties Plush - 6 ¾ In.,$10.99,YES,9-28
+749,https://www.pokemoncenter.com/product/701-03762/hypno-sitting-cuties-plush-7-in,701-03762,Hypno Sitting Cuties Plush - 7 In.,$10.99,YES,9-29
+750,https://www.pokemoncenter.com/product/701-03814/rhydon-sitting-cuties-plush-6-in,701-03814,Rhydon Sitting Cuties Plush - 6 ½ In.,$10.99,YES,9-30
+751,https://www.pokemoncenter.com/product/701-03769/kingler-sitting-cuties-plush-8-in,701-03769,Kingler Sitting Cuties Plush - 8 In.,$10.99,YES,9-31
+752,https://www.pokemoncenter.com/product/701-03760/hitmonlee-sitting-cuties-plush-6-in,701-03760,Hitmonlee Sitting Cuties Plush - 6 In.,$10.99,YES,9-32
+753,https://www.pokemoncenter.com/product/701-03752/goldeen-sitting-cuties-plush-8-in,701-03752,Goldeen Sitting Cuties Plush - 8 In.,$10.99,YES,9-33
+754,https://www.pokemoncenter.com/product/701-03782/metapod-sitting-cuties-plush-4-in,701-03782,Metapod Sitting Cuties Plush - 4 ¾ In.,$10.99,YES,9-34
+755,https://www.pokemoncenter.com/product/701-03764/jynx-sitting-cuties-plush-5-in,701-03764,Jynx Sitting Cuties Plush - 5 ½ In.,$10.99,YES,9-35
+756,https://www.pokemoncenter.com/product/701-03759/hitmonchan-sitting-cuties-plush-7-in,701-03759,Hitmonchan Sitting Cuties Plush - 7 ½ In.,$10.99,YES,9-36
+757,https://www.pokemoncenter.com/product/701-03751/golbat-sitting-cuties-plush-8-in,701-03751,Golbat Sitting Cuties Plush - 8 ¾ In.,$10.99,YES,9-37
+758,https://www.pokemoncenter.com/product/701-03755/grimer-sitting-cuties-plush-5-in,701-03755,Grimer Sitting Cuties Plush - 5 ¼ In.,$10.99,YES,9-38
+759,https://www.pokemoncenter.com/product/701-03818/seadra-sitting-cuties-plush-6-in,701-03818,Seadra Sitting Cuties Plush - 6 In.,$10.99,YES,9-39
+760,https://www.pokemoncenter.com/product/701-03830/venomoth-sitting-cuties-plush-6-in,701-03830,Venomoth Sitting Cuties Plush - 6 ½ In.,$10.99,YES,9-40
+761,https://www.pokemoncenter.com/product/701-03820/seel-sitting-cuties-plush-6-in,701-03820,Seel Sitting Cuties Plush - 6 ½ In.,$10.99,YES,9-41
+762,https://www.pokemoncenter.com/product/701-03777/magmar-sitting-cuties-plush-6-in,701-03777,Magmar Sitting Cuties Plush - 6 ¼ In.,$10.99,YES,9-42
+763,https://www.pokemoncenter.com/product/701-03765/kabuto-sitting-cuties-plush-4-in,701-03765,Kabuto Sitting Cuties Plush - 4 In.,$10.99,YES,9-43
+764,https://www.pokemoncenter.com/product/701-03791/nidorina-sitting-cuties-plush-5-in,701-03791,Nidorina Sitting Cuties Plush - 5 ¼ In.,$10.99,YES,9-44
+765,https://www.pokemoncenter.com/product/701-04132/emboar-poke-plush-14-in,701-04132,Emboar Poké Plush - 14 In.,$32.99,YES,9-45
+766,https://www.pokemoncenter.com/product/701-03768/kakuna-sitting-cuties-plush-5-in,701-03768,Kakuna Sitting Cuties Plush - 5 ½ In.,$10.99,YES,9-46
+767,https://www.pokemoncenter.com/product/701-03795/omastar-sitting-cuties-plush-5-in,701-03795,Omastar Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,9-47
+768,https://www.pokemoncenter.com/product/701-03813/raticate-sitting-cuties-plush-5-in,701-03813,Raticate Sitting Cuties Plush - 5 ½ In.,$10.99,YES,9-48
+769,https://www.pokemoncenter.com/product/701-03774/machoke-sitting-cuties-plush-6-in,701-03774,Machoke Sitting Cuties Plush - 6 ¼ In.,$10.99,YES,9-49
+770,https://www.pokemoncenter.com/product/701-04134/chesnaught-poke-plush-12-in,701-04134,Chesnaught Poké Plush - 12 In.,$32.99,YES,9-50
+771,https://www.pokemoncenter.com/product/701-03819/seaking-sitting-cuties-plush-8-in,701-03819,Seaking Sitting Cuties Plush - 8 In.,$10.99,YES,9-51
+772,https://www.pokemoncenter.com/product/701-03823/spearow-sitting-cuties-plush-5-in,701-03823,Spearow Sitting Cuties Plush - 5 ½ In.,$10.99,YES,9-52
+773,https://www.pokemoncenter.com/product/701-03776/magikarp-sitting-cuties-plush-7-in,701-03776,Magikarp Sitting Cuties Plush - 7 ½ In.,$10.99,NO,9-53
+774,https://www.pokemoncenter.com/product/701-03793/ninetales-sitting-cuties-plush-5-in,701-03793,Ninetales Sitting Cuties Plush - 5 ½ In.,$10.99,NO,9-54
+775,https://www.pokemoncenter.com/product/701-03835/vulpix-sitting-cuties-plush-5-in,701-03835,Vulpix Sitting Cuties Plush - 5 ¼ In.,$10.99,NO,9-55
+776,https://www.pokemoncenter.com/product/701-03592/snorlax-sitting-cuties-plush-5-in,701-03592,Snorlax Sitting Cuties Plush - 5 In.,$10.99,NO,9-56
+777,https://www.pokemoncenter.com/product/701-04122/meganium-poke-plush-19-in,701-04122,Meganium Poké Plush - 19 In.,$32.99,NO,9-57
+778,https://www.pokemoncenter.com/product/701-03841/zubat-sitting-cuties-plush-9-in,701-03841,Zubat Sitting Cuties Plush - 9 ¼ In.,$10.99,NO,9-58
+779,https://www.pokemoncenter.com/product/701-04123/typhlosion-poke-plush-12-in,701-04123,Typhlosion Poké Plush - 12 In.,$32.99,NO,9-59
+780,https://www.pokemoncenter.com/product/701-03796/onix-sitting-cuties-plush-7-in,701-03796,Onix Sitting Cuties Plush - 7 ¼ In.,$10.99,NO,9-60
+781,https://www.pokemoncenter.com/product/701-03756/growlithe-sitting-cuties-plush-5-in,701-03756,Growlithe Sitting Cuties Plush - 5 ¼ In.,$10.99,NO,9-61
+782,https://www.pokemoncenter.com/product/701-03817/scyther-sitting-cuties-plush-6-in,701-03817,Scyther Sitting Cuties Plush - 6 ½ In.,$10.99,NO,9-62
+783,https://www.pokemoncenter.com/product/701-03763/ivysaur-sitting-cuties-plush-6-in,701-03763,Ivysaur Sitting Cuties Plush - 6 In.,$10.99,NO,9-63
+784,https://www.pokemoncenter.com/product/701-03805/poliwhirl-sitting-cuties-plush-5-in,701-03805,Poliwhirl Sitting Cuties Plush - 5 ¾ In.,$10.99,NO,9-64
+785,https://www.pokemoncenter.com/product/701-03794/oddish-sitting-cuties-plush-7-in,701-03794,Oddish Sitting Cuties Plush - 7 ½ In.,$10.99,NO,9-65
+786,https://www.pokemoncenter.com/product/701-03748/gastly-sitting-cuties-plush-6-in,701-03748,Gastly Sitting Cuties Plush - 6 ½ In.,$10.99,NO,9-66
+787,https://www.pokemoncenter.com/product/701-03784/mr-mime-sitting-cuties-plush-7-in,701-03784,Mr. Mime Sitting Cuties Plush - 7 ½ In.,$10.99,NO,9-67
+788,https://www.pokemoncenter.com/product/701-04128/torterra-poke-plush-14-in,701-04128,Torterra Poké Plush - 14 In.,$32.99,NO,9-68
+789,https://www.pokemoncenter.com/product/701-03834/vileplume-sitting-cuties-plush-4-in,701-03834,Vileplume Sitting Cuties Plush - 4 ¾ In.,$10.99,NO,9-69
+790,https://www.pokemoncenter.com/product/701-03840/wigglytuff-sitting-cuties-plush-5-in,701-03840,Wigglytuff Sitting Cuties Plush - 5 ¼ In.,$10.99,NO,9-70
+791,https://www.pokemoncenter.com/product/701-04126/blaziken-poke-plush-16-in,701-04126,Blaziken Poké Plush - 16 ¼ In.,$32.99,NO,9-71
+792,https://www.pokemoncenter.com/product/701-03804/poliwag-sitting-cuties-plush-5-in,701-03804,Poliwag Sitting Cuties Plush - 5 In.,$10.99,NO,9-72
+793,https://www.pokemoncenter.com/product/701-03816/sandslash-sitting-cuties-plush-6-in,701-03816,Sandslash Sitting Cuties Plush - 6 In.,$10.99,NO,9-73
+794,https://www.pokemoncenter.com/product/701-03773/lickitung-sitting-cuties-plush-5-in,701-03773,Lickitung Sitting Cuties Plush - 5 ¾ In.,$10.99,NO,9-74
+795,https://www.pokemoncenter.com/product/701-03787/nidoking-sitting-cuties-plush-6-in,701-03787,Nidoking Sitting Cuties Plush - 6 In.,$10.99,NO,9-75
+796,https://www.pokemoncenter.com/product/701-03828/tentacool-sitting-cuties-plush-6-in,701-03828,Tentacool Sitting Cuties Plush - 6 ½ In.,$10.99,NO,9-76
+797,https://www.pokemoncenter.com/product/701-03803/pinsir-sitting-cuties-plush-6-in,701-03803,Pinsir Sitting Cuties Plush - 6 ¼ In.,$10.99,NO,9-77
+798,https://www.pokemoncenter.com/product/701-03772/lapras-sitting-cuties-plush-6-in,701-03772,Lapras Sitting Cuties Plush - 6 In.,$10.99,NO,9-78
+799,https://www.pokemoncenter.com/product/701-04121/blastoise-poke-plush-11-in,701-04121,Blastoise Poké Plush - 11 In.,$32.99,NO,9-79
+800,https://www.pokemoncenter.com/product/701-03753/golem-sitting-cuties-plush-5-in,701-03753,Golem Sitting Cuties Plush - 5 ½ In.,$10.99,NO,9-80
+801,https://www.pokemoncenter.com/product/701-03788/nidoqueen-sitting-cuties-plush-5-in,701-03788,Nidoqueen Sitting Cuties Plush - 5 In.,$10.99,NO,9-81
+802,https://www.pokemoncenter.com/product/701-03802/pidgey-sitting-cuties-plush-5-in,701-03802,Pidgey Sitting Cuties Plush - 5 ¼ In.,$10.99,NO,9-82
+803,https://www.pokemoncenter.com/product/701-03832/venusaur-sitting-cuties-plush-6-in,701-03832,Venusaur Sitting Cuties Plush - 6 In.,$10.99,NO,9-83
+804,https://www.pokemoncenter.com/product/701-03809/primeape-sitting-cuties-plush-6-in,701-03809,Primeape Sitting Cuties Plush - 6 In.,$10.99,NO,9-84
+805,https://www.pokemoncenter.com/product/701-03821/slowbro-sitting-cuties-plush-5-in,701-03821,Slowbro Sitting Cuties Plush - 5 ½ In.,$10.99,NO,9-85
+806,https://www.pokemoncenter.com/product/701-03790/nidoran-sitting-cuties-plush-5-in,701-03790,Nidoran♂ Sitting Cuties Plush - 5 ¾ In.,$10.99,NO,9-86
+807,https://www.pokemoncenter.com/product/701-03827/tauros-sitting-cuties-plush-5-in,701-03827,Tauros Sitting Cuties Plush - 5 ¾ In.,$10.99,NO,9-87
+808,https://www.pokemoncenter.com/product/701-03836/wartortle-sitting-cuties-plush-6-in,701-03836,Wartortle Sitting Cuties Plush - 6 In.,$10.99,NO,9-88
+809,https://www.pokemoncenter.com/product/701-03800/pidgeot-sitting-cuties-plush-6-in,701-03800,Pidgeot Sitting Cuties Plush - 6 In.,$10.99,NO,9-89
+810,https://www.pokemoncenter.com/product/701-04119/venusaur-poke-plush-11-in,701-04119,Venusaur Poké Plush - 11 In.,$32.99,NO,9-90
+811,https://www.pokemoncenter.com/product/701-03781/marowak-sitting-cuties-plush-5-in,701-03781,Marowak Sitting Cuties Plush - 5 In.,$10.99,NO,10-1
+812,https://www.pokemoncenter.com/product/701-03770/koffing-sitting-cuties-plush-4-in,701-03770,Koffing Sitting Cuties Plush - 4 ¼ In.,$10.99,NO,10-2
+813,https://www.pokemoncenter.com/product/701-03822/slowpoke-sitting-cuties-plush-5-in,701-03822,Slowpoke Sitting Cuties Plush - 5 ½ In.,$10.99,NO,10-3
+814,https://www.pokemoncenter.com/product/701-03779/magneton-sitting-cuties-plush-6-in,701-03779,Magneton Sitting Cuties Plush - 6 ¾ In.,$10.99,NO,10-4
+815,https://www.pokemoncenter.com/product/701-03754/graveler-sitting-cuties-plush-5-in,701-03754,Graveler Sitting Cuties Plush - 5 In.,$10.99,NO,10-5
+816,https://www.pokemoncenter.com/product/701-03775/machop-sitting-cuties-plush-7-in,701-03775,Machop Sitting Cuties Plush - 7 ½ In.,$10.99,NO,10-6
+817,https://www.pokemoncenter.com/product/701-03750/gloom-sitting-cuties-plush-5-in,701-03750,Gloom Sitting Cuties Plush - 5 In.,$10.99,NO,10-7
+818,https://www.pokemoncenter.com/product/701-03789/nidoran-sitting-cuties-plush-5-in,701-03789,Nidoran♀ Sitting Cuties Plush - 5 ¼ In.,$10.99,NO,10-8
+819,https://www.pokemoncenter.com/product/701-03544/birthday-pikachu-poke-plush-9-in,701-03544,Birthday Pikachu Poké Plush - 9 In.,$17.99,NO,10-9
+820,https://www.pokemoncenter.com/product/701-03801/pidgeotto-sitting-cuties-plush-7-in,701-03801,Pidgeotto Sitting Cuties Plush - 7 In.,$10.99,NO,10-10
+821,https://www.pokemoncenter.com/product/701-03545/flower-bouquet-pikachu-poke-plush-7-in,701-03545,Flower Bouquet Pikachu Poké Plush - 7 ¾ In.,$17.99,NO,10-11
+822,https://www.pokemoncenter.com/product/741-04702/pokemon-detective-pikachu-plush-ears-hat,741-04702,POKÉMON Detective Pikachu Plush Ears Hat,$24.99,YES,10-12
+823,https://www.pokemoncenter.com/product/701-03983/gengar-squishy-plush-16-in,701-03983,Gengar Squishy Plush - 16 ½ In.,$42.99,NO,10-13
+824,https://www.pokemoncenter.com/product/701-03984/snorlax-squishy-plush-17-in,701-03984,Snorlax Squishy Plush - 17 ½ In.,$42.99,NO,10-14
+825,https://www.pokemoncenter.com/product/701-04040/ditto-as-pikachu-microbead-plush-19-in,701-04040,Ditto As Pikachu Microbead Plush - 19 ½ In.,$29.99,NO,10-15
+826,https://www.pokemoncenter.com/product/701-03981/jigglypuff-squishy-plush-13-in,701-03981,Jigglypuff Squishy Plush - 13 In.,$42.99,NO,10-16
+827,https://www.pokemoncenter.com/product/701-03987/naganadel-poke-plush-22-in,701-03987,Naganadel Poké Plush - 22 ¼ In.,$42.99,NO,10-17
+828,https://www.pokemoncenter.com/product/701-04032/seasonal-celebrations-pikachu-and-eevee-discovery-days-plush-12-in,701-04032,Seasonal Celebrations: Pikachu & Eevee Discovery Days Plush - 12 In.,$29.99,NO,10-18
+829,https://www.pokemoncenter.com/product/701-04039/ditto-microbead-plush-15-in,701-04039,Ditto Microbead Plush - 15 ¾ In.,$29.99,NO,10-19
+830,https://www.pokemoncenter.com/product/701-03729/butterfree-sitting-cuties-plush-5-in,701-03729,Butterfree Sitting Cuties Plush - 5 ½ In.,$10.99,YES,10-20
+831,https://www.pokemoncenter.com/product/701-03734/clefable-sitting-cuties-plush-6-in,701-03734,Clefable Sitting Cuties Plush - 6 ½ In.,$10.99,YES,10-21
+832,https://www.pokemoncenter.com/product/701-03733/charmeleon-sitting-cuties-plush-4-in,701-03733,Charmeleon Sitting Cuties Plush - 4 ¾ In.,$10.99,YES,10-22
+833,https://www.pokemoncenter.com/product/701-03736/cloyster-sitting-cuties-plush-4-in,701-03736,Cloyster Sitting Cuties Plush - 4 ¼ In.,$10.99,YES,10-23
+834,https://www.pokemoncenter.com/product/701-03746/exeggcute-sitting-cuties-plush-5-in,701-03746,Exeggcute Sitting Cuties Plush - 5 ¼ In.,$10.99,YES,10-24
+835,https://www.pokemoncenter.com/product/701-03726/bellsprout-sitting-cuties-plush-5-in,701-03726,Bellsprout Sitting Cuties Plush - 5 ½ In.,$10.99,YES,10-25
+836,https://www.pokemoncenter.com/product/701-03740/doduo-sitting-cuties-plush-5-in,701-03740,Doduo Sitting Cuties Plush - 5 ¾ In.,$10.99,YES,10-26
+837,https://www.pokemoncenter.com/product/701-03739/dodrio-sitting-cuties-plush-7-in,701-03739,Dodrio Sitting Cuties Plush - 7 ½ In.,$10.99,YES,10-27
+838,https://www.pokemoncenter.com/product/701-03738/dewgong-sitting-cuties-plush-8-in,701-03738,Dewgong Sitting Cuties Plush - 8 In.,$10.99,YES,10-28
+839,https://www.pokemoncenter.com/product/701-03744/electabuzz-sitting-cuties-plush-6-in,701-03744,Electabuzz Sitting Cuties Plush - 6 ¼ In.,$10.99,YES,10-29
+840,https://www.pokemoncenter.com/product/701-03747/fearow-sitting-cuties-plush-9-in,701-03747,Fearow Sitting Cuties Plush - 9 ½ In.,$10.99,YES,10-30
+841,https://www.pokemoncenter.com/product/701-03745/electrode-sitting-cuties-plush-6-in,701-03745,Electrode Sitting Cuties Plush - 6 In.,$10.99,YES,10-31
+842,https://www.pokemoncenter.com/product/701-03741/dragonair-sitting-cuties-plush-6-in,701-03741,Dragonair Sitting Cuties Plush - 6 ¾ In.,$10.99,NO,10-32
+843,https://www.pokemoncenter.com/product/701-03735/clefairy-sitting-cuties-plush-5-in,701-03735,Clefairy Sitting Cuties Plush - 5 In.,$10.99,NO,10-33
+844,https://www.pokemoncenter.com/product/701-03727/blastoise-sitting-cuties-plush-5-in,701-03727,Blastoise Sitting Cuties Plush - 5 ¼ In.,$10.99,NO,10-34
+845,https://www.pokemoncenter.com/product/701-03732/charmander-sitting-cuties-plush-5-in,701-03732,Charmander Sitting Cuties Plush - 5 In.,$10.99,NO,10-35
+846,https://www.pokemoncenter.com/product/701-03730/caterpie-sitting-cuties-plush-5-in,701-03730,Caterpie Sitting Cuties Plush - 5 ½ In.,$10.99,NO,10-36
+847,https://www.pokemoncenter.com/product/701-03728/bulbasaur-sitting-cuties-plush-5-in,701-03728,Bulbasaur Sitting Cuties Plush - 5 ½ In.,$10.99,NO,10-37
+848,https://www.pokemoncenter.com/product/701-03731/chansey-sitting-cuties-plush-5-in,701-03731,Chansey Sitting Cuties Plush - 5 ½ In.,$10.99,NO,10-38
+849,https://www.pokemoncenter.com/product/701-03724/arbok-sitting-cuties-plush-5-in,701-03724,Arbok Sitting Cuties Plush - 5 ¼ In.,$10.99,NO,10-39
+850,https://www.pokemoncenter.com/product/701-03722/abra-sitting-cuties-plush-6-in,701-03722,Abra Sitting Cuties Plush - 6 In.,$10.99,NO,10-40
+851,https://www.pokemoncenter.com/product/701-03737/cubone-sitting-cuties-plush-5-in,701-03737,Cubone Sitting Cuties Plush - 5 ¼ In.,$10.99,NO,10-41
+852,https://www.pokemoncenter.com/product/701-03723/aerodactyl-sitting-cuties-plush-7-in,701-03723,Aerodactyl Sitting Cuties Plush - 7 ¾ In.,$10.99,NO,10-42
+853,https://www.pokemoncenter.com/product/701-03742/dratini-sitting-cuties-plush-4-in,701-03742,Dratini Sitting Cuties Plush - 4 ½ In.,$10.99,NO,10-43
+854,https://www.pokemoncenter.com/product/701-03725/beedrill-sitting-cuties-plush-7-in,701-03725,Beedrill Sitting Cuties Plush - 7 ½ In.,$10.99,NO,10-44
+855,https://www.pokemoncenter.com/product/701-03743/dugtrio-sitting-cuties-plush-5-in,701-03743,Dugtrio Sitting Cuties Plush - 5 In.,$10.99,NO,10-45
+856,https://www.pokemoncenter.com/product/701-03980/pikachu-squishy-kuttari-cutie-plush-26-in,701-03980,Pikachu Squishy Kuttari Cutie Plush - 26 ¼ In.,$91.99,YES,10-46
+857,https://www.pokemoncenter.com/product/701-04080/ditto-squishy-plush-25-in,701-04080,Ditto Squishy Plush - 25 ½ In.,$129.99,NO,10-47
+858,https://www.pokemoncenter.com/product/701-04118/cuddly-whimsicott-plush-8-in,701-04118,Cuddly Whimsicott Plush - 8 ¼ In.,$19.99,NO,10-48
+859,https://www.pokemoncenter.com/product/701-04111/cuddly-arcanine-plush-9-in,701-04111,Cuddly Arcanine Plush - 9 In.,$19.99,NO,10-49
+860,https://www.pokemoncenter.com/product/701-04110/cuddly-eevee-plush-8-in,701-04110,Cuddly Eevee Plush - 8 ½ In.,$19.99,NO,10-50
+861,https://www.pokemoncenter.com/product/701-04115/cuddly-pikachu-plush-10-in,701-04115,Cuddly Pikachu Plush - 10 In.,$19.99,NO,10-51
+862,https://www.pokemoncenter.com/product/701-04113/cuddly-altaria-plush-8-in,701-04113,Cuddly Altaria Plush - 8 In.,$19.99,NO,10-52
+863,https://www.pokemoncenter.com/product/701-04081/torchic-poke-plush-17-in,701-04081,Torchic Poké Plush - 17 In.,$44.99,NO,10-53
+864,https://www.pokemoncenter.com/product/701-04116/cuddly-flaaffy-plush-9-in,701-04116,Cuddly Flaaffy Plush - 9 ¼ In.,$19.99,NO,10-54
+865,https://www.pokemoncenter.com/product/701-04151/sitting-pikachu-poke-plush-8-in,701-04151,Sitting Pikachu Poké Plush - 8 In.,$12.99,YES,10-55
+866,https://www.pokemoncenter.com/product/701-03988/pikachu-plush-costume-cape-one-size-adult,701-03988,Pikachu Plush Costume Cape (One Size-Adult),$49.99,YES,10-56
+867,https://www.pokemoncenter.com/product/701-03562/garchomp-poke-maniac-costume-pikachu-poke-plush-8-in,701-03562,Garchomp Poké Maniac Costume Pikachu Poké Plush - 8 ¼ In.,$22.99,NO,10-57
+868,https://www.pokemoncenter.com/product/741-04038/eevee-plush-costume-cape-one-size-adult,741-04038,Eevee Plush Costume Cape (One Size-Adult),$49.99,NO,10-58
+869,https://www.pokemoncenter.com/product/701-04150/mewtwo-poke-plush-11-in,701-04150,Mewtwo Poké Plush - 11 In.,$22.99,NO,10-59
+870,https://www.pokemoncenter.com/product/701-03985/eevee-cape-pikachu-poke-plush-9-in,701-03985,Eevee Cape Pikachu Poké Plush - 9 In.,$19.99,NO,10-60
+871,https://www.pokemoncenter.com/product/701-03976/sleeping-buzzwole-kuttari-cutie-plush,701-03976,Sleeping Buzzwole Kuttari Cutie Plush,$9.99,YES,10-61
+872,https://www.pokemoncenter.com/product/701-03975/buzzwole-kuttari-cutie-plush,701-03975,Buzzwole Kuttari Cutie Plush,$9.99,YES,10-62
+873,https://www.pokemoncenter.com/product/701-03964/sleeping-rowlet-kuttari-cutie-plush,701-03964,Sleeping Rowlet Kuttari Cutie Plush,$9.99,NO,10-63
+874,https://www.pokemoncenter.com/product/701-04082/whimsicott-s-substitute-poke-plush-25-in,701-04082,Whimsicott's Substitute Poké Plush - 25 In.,$149.99,NO,10-64
+875,https://www.pokemoncenter.com/product/701-03970/sleeping-alolan-vulpix-kuttari-cutie-plush,701-03970,Sleeping Alolan Vulpix Kuttari Cutie Plush,$9.99,NO,10-65
+876,https://www.pokemoncenter.com/product/701-03973/wimpod-kuttari-cutie-plush,701-03973,Wimpod Kuttari Cutie Plush,$9.99,NO,10-66
+877,https://www.pokemoncenter.com/product/701-03963/rowlet-kuttari-cutie-plush,701-03963,Rowlet Kuttari Cutie Plush,$9.99,NO,10-67
+878,https://www.pokemoncenter.com/product/701-03966/sleeping-litten-kuttari-cutie-plush,701-03966,Sleeping Litten Kuttari Cutie Plush,$9.99,NO,10-68
+879,https://www.pokemoncenter.com/product/701-03974/sleeping-wimpod-kuttari-cutie-plush,701-03974,Sleeping Wimpod Kuttari Cutie Plush,$9.99,NO,10-69
+880,https://www.pokemoncenter.com/product/701-03968/sleeping-popplio-kuttari-cutie-plush,701-03968,Sleeping Popplio Kuttari Cutie Plush,$9.99,NO,10-70
+881,https://www.pokemoncenter.com/product/701-03972/sleeping-lycanroc-dusk-form-kuttari-cutie-plush,701-03972,Sleeping Lycanroc (Dusk Form) Kuttari Cutie Plush,$9.99,NO,10-71
+882,https://www.pokemoncenter.com/product/701-03969/alolan-vulpix-kuttari-cutie-plush,701-03969,Alolan Vulpix Kuttari Cutie Plush,$9.99,NO,10-72
+883,https://www.pokemoncenter.com/product/701-03971/lycanroc-dusk-form-kuttari-cutie-plush,701-03971,Lycanroc (Dusk Form) Kuttari Cutie Plush,$9.99,NO,10-73
+884,https://www.pokemoncenter.com/product/701-03967/popplio-kuttari-cutie-plush,701-03967,Popplio Kuttari Cutie Plush,$9.99,NO,10-74
+885,https://www.pokemoncenter.com/product/701-03965/litten-kuttari-cutie-plush,701-03965,Litten Kuttari Cutie Plush,$9.99,NO,10-75
+886,https://www.pokemoncenter.com/product/701-03991/squirtle-poke-plush-8-in,701-03991,Squirtle Poké Plush - 8 In.,$14.99,YES,10-76
+887,https://www.pokemoncenter.com/product/701-03997/oshawott-poke-plush-8-in,701-03997,Oshawott Poké Plush - 8 In.,$14.99,YES,10-77
+888,https://www.pokemoncenter.com/product/701-03989/bulbasaur-poke-plush-6-in,701-03989,Bulbasaur Poké Plush - 6 ½ In.,$14.99,YES,10-78
+889,https://www.pokemoncenter.com/product/701-03995/snivy-poke-plush-9-in,701-03995,Snivy Poké Plush - 9 ¾ In.,$14.99,YES,10-79
+890,https://www.pokemoncenter.com/product/701-04000/froakie-poke-plush-7-in,701-04000,Froakie Poké Plush - 7 ½ In.,$14.99,YES,10-80
+891,https://www.pokemoncenter.com/product/701-03992/treecko-poke-plush-11-in,701-03992,Treecko Poké Plush - 11 In.,$14.99,YES,10-81
+892,https://www.pokemoncenter.com/product/701-03998/chespin-poke-plush-11-in,701-03998,Chespin Poké Plush - 11 In.,$14.99,YES,10-82
+893,https://www.pokemoncenter.com/product/701-03946/chimchar-poke-plush-10-in,701-03946,Chimchar Poké Plush - 10 ¾ In.,$14.99,YES,10-83
+894,https://www.pokemoncenter.com/product/701-04030/seasonal-celebrations-pikachu-and-eevee-sweet-days-plush-7-in,701-04030,Seasonal Celebrations: Pikachu & Eevee Sweet Days Plush - 7 ¼ In.,$29.99,NO,10-84
+895,https://www.pokemoncenter.com/product/701-03994/mudkip-poke-plush-9-in,701-03994,Mudkip Poké Plush - 9 ½ In.,$14.99,NO,10-85
+896,https://www.pokemoncenter.com/product/701-03999/fennekin-poke-plush-9-in,701-03999,Fennekin Poké Plush - 9 ¼ In.,$14.99,NO,10-86
+897,https://www.pokemoncenter.com/product/701-03990/charmander-poke-plush-9-in,701-03990,Charmander Poké Plush - 9 In.,$14.99,NO,10-87
+898,https://www.pokemoncenter.com/product/701-03996/tepig-poke-plush-8-in,701-03996,Tepig Poké Plush - 8 ½ In.,$14.99,NO,10-88
+899,https://www.pokemoncenter.com/product/701-03993/torchic-poke-plush-9-in,701-03993,Torchic Poké Plush - 9 ½ In.,$14.99,NO,10-89
+900,https://www.pokemoncenter.com/product/701-03468/rowlet-squishy-plush-13-in,701-03468,Rowlet Squishy Plush - 13 In.,$39.99,NO,10-90
+901,https://www.pokemoncenter.com/product/701-03919/seasonal-celebrations-pikachu-and-eevee-summer-days-plush-12-in,701-03919,Seasonal Celebrations: Pikachu & Eevee Summer Days Plush - 12 In.,$29.99,NO,11-1
+902,https://www.pokemoncenter.com/product/701-03952/eevee-poke-plush-7-in,701-03952,Eevee Poké Plush - 7 In.,$12.99,NO,11-2
+903,https://www.pokemoncenter.com/product/701-03497/poke-ball-poke-plush-7-in,701-03497,Poké Ball Poké Plush - 7 In.,$14.99,YES,11-3
+904,https://www.pokemoncenter.com/product/701-03862/eevee-pokemon-holiday-extravaganza-poke-plush-8-in,701-03862,Eevee Pokémon Holiday Extravaganza Poké Plush - 8 ½ In.,$19.99,YES,11-4
+905,https://www.pokemoncenter.com/product/701-03502/dusk-ball-poke-plush-7-in,701-03502,Dusk Ball Poké Plush - 7 In.,$14.99,YES,11-5
+906,https://www.pokemoncenter.com/product/701-03866/squirtle-pokemon-holiday-extravaganza-poke-plush-key-chain,701-03866,Squirtle Pokémon Holiday Extravaganza Poké Plush Key Chain,$14.99,YES,11-6
+907,https://www.pokemoncenter.com/product/701-03865/charmander-pokemon-holiday-extravaganza-poke-plush-key-chain,701-03865,Charmander Pokémon Holiday Extravaganza Poké Plush Key Chain,$14.99,YES,11-7
+908,https://www.pokemoncenter.com/product/701-03587/sitting-eevee-fluffy-plush-8-in,701-03587,Sitting Eevee Fluffy Plush - 8 In.,$12.99,NO,11-8
+909,https://www.pokemoncenter.com/product/701-03499/master-ball-poke-plush-7-in,701-03499,Master Ball Poké Plush - 7 In.,$14.99,NO,11-9
+910,https://www.pokemoncenter.com/product/701-03863/mew-pokemon-holiday-extravaganza-poke-plush-8-in,701-03863,Mew Pokémon Holiday Extravaganza Poké Plush - 8 In.,$19.99,NO,11-10
+911,https://www.pokemoncenter.com/product/701-03588/running-eevee-fluffy-plush-10-in,701-03588,Running Eevee Fluffy Plush - 10 In.,$12.99,NO,11-11
+912,https://www.pokemoncenter.com/product/701-03500/ultra-ball-poke-plush-7-in,701-03500,Ultra Ball Poké Plush - 7 In.,$14.99,NO,11-12
+913,https://www.pokemoncenter.com/product/701-03501/quick-ball-poke-plush-7-in,701-03501,Quick Ball Poké Plush - 7 In.,$14.99,NO,11-13
+914,https://www.pokemoncenter.com/product/701-03861/pikachu-pokemon-holiday-extravaganza-poke-plush-9-in,701-03861,Pikachu Pokémon Holiday Extravaganza Poké Plush - 9 ½ In.,$19.99,NO,11-14
+915,https://www.pokemoncenter.com/product/701-03503/dive-ball-poke-plush-7-in,701-03503,Dive Ball Poké Plush - 7 In.,$14.99,NO,11-15
+916,https://www.pokemoncenter.com/product/701-03498/great-ball-poke-plush-7-in,701-03498,Great Ball Poké Plush - 7 In.,$14.99,NO,11-16
+917,https://www.pokemoncenter.com/product/701-03505/nest-ball-poke-plush-7-in,701-03505,Nest Ball Poké Plush - 7 In.,$14.99,NO,11-17
+918,https://www.pokemoncenter.com/product/701-03504/repeat-ball-poke-plush-7-in,701-03504,Repeat Ball Poké Plush - 7 In.,$14.99,NO,11-18
+919,https://www.pokemoncenter.com/product/701-03563/charizard-poke-maniac-costume-pikachu-poke-plush-8-in,701-03563,Charizard Poké Maniac Costume Pikachu Poké Plush - 8 In.,$24.99,NO,11-19
+920,https://www.pokemoncenter.com/product/701-03566/tyranitar-poke-maniac-costume-pikachu-poke-plush-8-in,701-03566,Tyranitar Poké Maniac Costume Pikachu Poké Plush - 8 ½ In.,$24.99,NO,11-20
+921,https://www.pokemoncenter.com/product/701-03678/pikachu-poke-plush-17-in,701-03678,Pikachu Poké Plush - 17 In.,$42.99,NO,11-21
+922,https://www.pokemoncenter.com/product/701-03601/exeggutor-sitting-cuties-plush-5-in,701-03601,Exeggutor Sitting Cuties Plush - 5 ½ In.,$10.99,YES,11-22
+923,https://www.pokemoncenter.com/product/701-03706/alakazam-sitting-cuties-plush-6-in,701-03706,Alakazam Sitting Cuties Plush - 6 In.,$10.99,YES,11-23
+924,https://www.pokemoncenter.com/product/701-03718/omanyte-sitting-cuties-plush-4-in,701-03718,Omanyte Sitting Cuties Plush - 4 ¼ In.,$10.99,YES,11-24
+925,https://www.pokemoncenter.com/product/701-03707/machamp-sitting-cuties-plush-6-in,701-03707,Machamp Sitting Cuties Plush - 6 ¼ In.,$10.99,YES,11-25
+926,https://www.pokemoncenter.com/product/701-03704/golduck-sitting-cuties-plush-5-in,701-03704,Golduck Sitting Cuties Plush - 5 ½ In.,$10.99,YES,11-26
+927,https://www.pokemoncenter.com/product/701-03714/staryu-sitting-cuties-plush-5-in,701-03714,Staryu Sitting Cuties Plush - 5 In.,$10.99,YES,11-27
+928,https://www.pokemoncenter.com/product/701-03712/voltorb-sitting-cuties-plush-3-in,701-03712,Voltorb Sitting Cuties Plush - 3 ½ In.,$10.99,YES,11-28
+929,https://www.pokemoncenter.com/product/701-03682/chansey-poke-plush-8-1-2-in,701-03682,Chansey Poké Plush - 8 1/2 In.,$14.99,NO,11-29
+930,https://www.pokemoncenter.com/product/701-03128/eevee-sitting-cuties-plush-6-in,701-03128,Eevee Sitting Cuties Plush - 6 ½ In.,$10.99,NO,11-30
+931,https://www.pokemoncenter.com/product/701-03705/arcanine-sitting-cuties-plush-6-in,701-03705,Arcanine Sitting Cuties Plush - 6 In.,$10.99,NO,11-31
+932,https://www.pokemoncenter.com/product/701-03721/moltres-sitting-cuties-plush-8-1-2-in,701-03721,Moltres Sitting Cuties Plush - 8 1/2 In.,$10.99,NO,11-32
+933,https://www.pokemoncenter.com/product/701-03591/dragonite-sitting-cuties-plush-6-in,701-03591,Dragonite Sitting Cuties Plush - 6 ½ In.,$10.99,NO,11-33
+934,https://www.pokemoncenter.com/product/701-03700/ekans-sitting-cuties-plush-5-in,701-03700,Ekans Sitting Cuties Plush - 5 In.,$10.99,NO,11-34
+935,https://www.pokemoncenter.com/product/701-03710/shellder-sitting-cuties-plush-5-in,701-03710,Shellder Sitting Cuties Plush - 5 In.,$10.99,NO,11-35
+936,https://www.pokemoncenter.com/product/701-03127/pikachu-sitting-cuties-plush-5-in,701-03127,Pikachu Sitting Cuties Plush - 5 ¼ In.,$10.99,NO,11-36
+937,https://www.pokemoncenter.com/product/701-03701/sandshrew-sitting-cuties-plush-4-3-4-in,701-03701,Sandshrew Sitting Cuties Plush - 4 3/4 In.,$10.99,NO,11-37
+938,https://www.pokemoncenter.com/product/701-03598/ditto-sitting-cuties-plush-4-in,701-03598,Ditto Sitting Cuties Plush - 4 ¾ In.,$10.99,NO,11-38
+939,https://www.pokemoncenter.com/product/701-03719/articuno-sitting-cuties-plush-10-in,701-03719,Articuno Sitting Cuties Plush - 10 In.,$10.99,NO,11-39
+940,https://www.pokemoncenter.com/product/701-03702/jigglypuff-sitting-cuties-plush-3-in,701-03702,Jigglypuff Sitting Cuties Plush - 3 ½ In.,$10.99,NO,11-40
+941,https://www.pokemoncenter.com/product/701-03699/rattata-sitting-cuties-plush-4-in,701-03699,Rattata Sitting Cuties Plush - 4 ¼ In.,$10.99,NO,11-41
+942,https://www.pokemoncenter.com/product/701-03713/kangaskhan-sitting-cuties-plush-5-in,701-03713,Kangaskhan Sitting Cuties Plush - 5 ½ In.,$10.99,NO,11-42
+943,https://www.pokemoncenter.com/product/701-03594/meowth-sitting-cuties-plush-5-in,701-03594,Meowth Sitting Cuties Plush - 5 In.,$10.99,NO,11-43
+944,https://www.pokemoncenter.com/product/701-03708/geodude-sitting-cuties-plush-8-in,701-03708,Geodude Sitting Cuties Plush - 8 ½ In.,$10.99,NO,11-44
+945,https://www.pokemoncenter.com/product/701-03683/sudowoodo-poke-plush-12-in,701-03683,Sudowoodo Poké Plush - 12 In.,$14.99,NO,11-45
+946,https://www.pokemoncenter.com/product/701-03711/drowzee-sitting-cuties-plush-4-in,701-03711,Drowzee Sitting Cuties Plush - 4 ½ In.,$10.99,NO,11-46
+947,https://www.pokemoncenter.com/product/701-03709/farfetch-d-sitting-cuties-plush-5-in,701-03709,Farfetch'd Sitting Cuties Plush - 5 ¾ In.,$10.99,NO,11-47
+948,https://www.pokemoncenter.com/product/702-03136/snorlax-pokemon-dolls-plush-6-in,702-03136,Snorlax Pokémon Dolls Plush - 6 In.,$12.99,NO,11-48
+949,https://www.pokemoncenter.com/product/702-03135/gengar-pokemon-dolls-plush-6-in,702-03135,Gengar Pokémon Dolls Plush - 6 ¾ In.,$12.99,NO,11-49
+950,https://www.pokemoncenter.com/product/702-03137/mew-pokemon-dolls-plush-5-in,702-03137,Mew Pokémon Dolls Plush - 5 ½ In.,$12.99,NO,11-50
+951,https://www.pokemoncenter.com/product/702-03134/poliwhirl-pokemon-dolls-plush-7-in,702-03134,Poliwhirl Pokémon Dolls Plush - 7 ¾ In.,$12.99,NO,11-51
+952,https://www.pokemoncenter.com/product/702-03133/squirtle-pokemon-dolls-plush-5-in,702-03133,Squirtle Pokémon Dolls Plush - 5 ½ In.,$12.99,NO,11-52
+953,https://www.pokemoncenter.com/product/701-03617/mimikyu-eerie-delights-poke-plush-9-in,701-03617,Mimikyu Eerie Delights Poké Plush - 9 ½ In.,$19.99,NO,11-53
+954,https://www.pokemoncenter.com/product/701-03614/pikachu-eerie-delights-poke-plush-9-in,701-03614,Pikachu Eerie Delights Poké Plush - 9 ¼ In.,$19.99,NO,11-54
+955,https://www.pokemoncenter.com/product/701-03620/sableye-eerie-delights-poke-plush-key-chain,701-03620,Sableye Eerie Delights Poké Plush Key Chain,$12.99,NO,11-55
+956,https://www.pokemoncenter.com/product/701-03621/banette-eerie-delights-poke-plush-key-chain,701-03621,Banette Eerie Delights Poké Plush Key Chain,$12.99,NO,11-56
+957,https://www.pokemoncenter.com/product/701-03506/buzzwole-poke-plush-20-in,701-03506,Buzzwole Poké Plush - 20 In.,$42.99,NO,11-57
+958,https://www.pokemoncenter.com/product/701-03081/boss-costume-collection-dialga-plush-9-1-2-in,701-03081,Boss Costume Collection: Dialga Plush - 9 1/2 In.,$22.99,NO,11-58
+959,https://www.pokemoncenter.com/product/701-03071/boss-costume-collection-team-plasma-ghetsis-costume-pikachu-poke-plush-8-in,701-03071,Boss Costume Collection: Team Plasma Ghetsis Costume Pikachu Poké Plush - 8 ¾ In.,$19.99,NO,11-59
+960,https://www.pokemoncenter.com/product/701-03085/boss-costume-collection-golisopod-plush-13-in,701-03085,Boss Costume Collection: Golisopod Plush - 13 ¾ In.,$22.99,NO,11-60
+961,https://www.pokemoncenter.com/product/701-03076/boss-costume-collection-mewtwo-plush-8-in,701-03076,Boss Costume Collection: Mewtwo Plush - 8 ¾ In.,$22.99,NO,11-61
+962,https://www.pokemoncenter.com/product/701-03079/boss-costume-collection-reshiram-plush-13-in,701-03079,Boss Costume Collection: Reshiram Plush - 13 ¼ In.,$22.99,NO,11-62
+963,https://www.pokemoncenter.com/product/701-03074/boss-costume-collection-team-rocket-giovanni-costume-pikachu-poke-plush-9-in,701-03074,Boss Costume Collection: Team Rocket Giovanni Costume Pikachu Poké Plush - 9 In.,$19.99,NO,11-63
+964,https://www.pokemoncenter.com/product/701-03070/boss-costume-collection-team-skull-guzma-costume-pikachu-poke-plush-9-in,701-03070,Boss Costume Collection: Team Skull Guzma Costume Pikachu Poké Plush - 9 In.,$19.99,NO,11-64
+965,https://www.pokemoncenter.com/product/701-03080/boss-costume-collection-zekrom-plush-10-in,701-03080,Boss Costume Collection: Zekrom Plush - 10 ½ In.,$22.99,NO,11-65
+966,https://www.pokemoncenter.com/product/701-03083/boss-costume-collection-yveltal-plush-13-in,701-03083,Boss Costume Collection: Yveltal Plush - 13 ½ In.,$22.99,NO,11-66
+967,https://www.pokemoncenter.com/product/701-03078/boss-costume-collection-groudon-plush-13-in,701-03078,Boss Costume Collection: Groudon Plush - 13 In.,$22.99,NO,11-67
+968,https://www.pokemoncenter.com/product/701-03084/boss-costume-collection-xerneas-plush-11-in,701-03084,Boss Costume Collection: Xerneas Plush - 11 ¼ In.,$22.99,NO,11-68
+969,https://www.pokemoncenter.com/product/701-03069/boss-costume-collection-team-galactic-cyrus-costume-pikachu-poke-plush-8-in,701-03069,Boss Costume Collection: Team Galactic Cyrus Costume Pikachu Poké Plush - 8 ¾ In.,$19.99,NO,11-69
+970,https://www.pokemoncenter.com/product/701-03077/boss-costume-collection-kyogre-plush-11-in,701-03077,Boss Costume Collection: Kyogre Plush - 11 In.,$22.99,NO,11-70
+971,https://www.pokemoncenter.com/product/701-03082/boss-costume-collection-palkia-plush-9-in,701-03082,Boss Costume Collection: Palkia Plush - 9 ½ In.,$22.99,NO,11-71
+972,https://www.pokemoncenter.com/product/701-03072/boss-costume-collection-team-flare-lysandre-costume-pikachu-poke-plush-9-in,701-03072,Boss Costume Collection: Team Flare Lysandre Costume Pikachu Poké Plush - 9 In.,$19.99,NO,11-72
+973,https://www.pokemoncenter.com/product/701-03073/boss-costume-collection-team-magma-maxie-costume-pikachu-plush-9-in,701-03073,Boss Costume Collection: Team Magma Maxie Costume Pikachu Plush - 9 In.,$19.99,NO,11-73
+974,https://www.pokemoncenter.com/product/701-03068/boss-costume-collection-team-aqua-archie-costume-pikachu-poke-plush-8-in,701-03068,Boss Costume Collection: Team Aqua Archie Costume Pikachu Poké Plush - 8 ¾ In.,$19.99,NO,11-74
+975,https://www.pokemoncenter.com/product/701-03510/celesteela-poke-plush-18-in,701-03510,Celesteela Poké Plush - 18 In.,$42.99,NO,11-75
+976,https://www.pokemoncenter.com/product/701-03511/guzzlord-poke-plush-21-in,701-03511,Guzzlord Poké Plush - 21 ½ In.,$32.99,NO,11-76
+977,https://www.pokemoncenter.com/product/701-03508/xurkitree-poke-plush-15-in,701-03508,Xurkitree Poké Plush - 15 ½ In.,$32.99,NO,11-77
+978,https://www.pokemoncenter.com/product/701-03513/stakataka-poke-plush-12-in,701-03513,Stakataka Poké Plush - 12 In.,$32.99,NO,11-78
+979,https://www.pokemoncenter.com/product/701-03509/kartana-poke-plush-18-in,701-03509,Kartana Poké Plush - 18 In.,$14.99,NO,11-79
+980,https://www.pokemoncenter.com/product/701-03058/nihilego-poke-plush-13-in,701-03058,Nihilego Poké Plush - 13 ¼ In.,$19.99,NO,11-80
+981,https://www.pokemoncenter.com/product/701-03013/ditto-as-shaymin-land-forme-plush-6-in,701-03013,Ditto As Shaymin (Land Forme) Plush - 6 In.,$14.99,NO,11-81
+982,https://www.pokemoncenter.com/product/701-03012/ditto-as-absol-plush-7-in,701-03012,Ditto As Absol Plush - 7 In.,$14.99,NO,11-82
+983,https://www.pokemoncenter.com/product/701-03015/ditto-as-electrode-plush-5-in,701-03015,Ditto As Electrode Plush - 5 In.,$14.99,NO,11-83
+984,https://www.pokemoncenter.com/product/701-03011/ditto-as-alolan-vulpix-plush-6-in,701-03011,Ditto As Alolan Vulpix Plush - 6 ½ In.,$14.99,NO,11-84
+985,https://www.pokemoncenter.com/product/701-03014/ditto-as-whimsicott-plush-6-in,701-03014,Ditto As Whimsicott Plush - 6 ¼ In.,$14.99,NO,11-85
+986,https://www.pokemoncenter.com/product/701-03124/piplup-poke-plush-8-in,701-03124,Piplup Poké Plush - 8 ¾ In.,$14.99,NO,11-86
+987,https://www.pokemoncenter.com/product/701-03126/lucario-poke-plush-13-in,701-03126,Lucario Poké Plush - 13 ½ In.,$19.99,NO,11-87
+988,https://www.pokemoncenter.com/product/701-03485/yveltal-poke-plush-22-in,701-03485,Yveltal Poké Plush - 22 ½ In.,$32.99,NO,11-88
+989,https://www.pokemoncenter.com/product/701-03483/whimsicott-s-substitute-poke-plush-5-in,701-03483,Whimsicott's Substitute Poké Plush - 5 ¼ In.,$12.99,NO,11-89
+990,https://www.pokemoncenter.com/product/701-03482/pikachu-poke-plush-26-in,701-03482,Pikachu Poké Plush - 26 ¾ In.,$149.99,NO,11-90
+991,https://www.pokemoncenter.com/product/701-03484/xerneas-poke-plush-20-in,701-03484,Xerneas Poké Plush - 20 ½ In.,$32.99,NO,12-1
+992,https://www.pokemoncenter.com/product/701-03123/poipole-poke-plush-13-in,701-03123,Poipole Poké Plush - 13 In.,$14.99,NO,12-2
+993,https://www.pokemoncenter.com/product/701-03125/croagunk-poke-plush-9-1-2-in,701-03125,Croagunk Poké Plush - 9 1/2 In.,$14.99,NO,12-3
+994,https://www.pokemoncenter.com/product/701-03486/fennekin-poke-doll-plush-6-in,701-03486,Fennekin Poké Doll Plush - 6 ¾ In.,$12.99,NO,12-4
+995,https://www.pokemoncenter.com/product/701-03075/mimikyu-poke-plush-22-in,701-03075,Mimikyu Poké Plush - 22 ½ In.,$44.99,NO,12-5
+996,https://www.pokemoncenter.com/product/701-03022/lycanroc-dusk-form-poke-plush-12-in,701-03022,Lycanroc (Dusk Form) Poké Plush - 12 ½ In.,$22.99,NO,12-6
+997,https://www.pokemoncenter.com/product/701-03009/ditto-as-sableye-plush-6-in,701-03009,Ditto As Sableye Plush - 6 ½ In.,$14.99,NO,12-7
+998,https://www.pokemoncenter.com/product/701-03010/ditto-as-omanyte-plush-5-in,701-03010,Ditto As Omanyte Plush - 5 ¼ In.,$14.99,NO,12-8
+999,https://www.pokemoncenter.com/product/701-03041/wailord-poke-plush-26-in,701-03041,Wailord Poké Plush - 26 In.,$49.99,NO,12-9
+1000,https://www.pokemoncenter.com/product/701-03042/pichu-poke-plush-8-in,701-03042,Pichu Poké Plush - 8 ¼ In.,$14.99,NO,12-10
+1001,https://www.pokemoncenter.com/product/701-03044/tapu-lele-poke-plush-12-in,701-03044,Tapu Lele Poké Plush - 12 ½ In.,$32.99,NO,12-11
+1002,https://www.pokemoncenter.com/product/701-03043/typhlosion-poke-plush-9-in,701-03043,Typhlosion Poké Plush - 9 ½ In.,$22.99,NO,12-12
+1003,https://www.pokemoncenter.com/product/701-03093/pumpkaboo-poke-plush-6-in,701-03093,Pumpkaboo Poké Plush - 6 In.,$12.99,NO,12-13
+1004,https://www.pokemoncenter.com/product/701-03090/mudkip-poke-plush-17-in,701-03090,Mudkip Poké Plush - 17 ¼ In.,$44.99,NO,12-14
+1005,https://www.pokemoncenter.com/product/701-03087/latias-poke-plush-13-in,701-03087,Latias Poké Plush - 13 In.,$22.99,NO,12-15
+1006,https://www.pokemoncenter.com/product/702-02988/lycanroc-midday-form-pokemon-dolls-plush-6-in,702-02988,Lycanroc (Midday Form) Pokémon Dolls Plush - 6 ½ In.,$12.99,NO,12-16
+1007,https://www.pokemoncenter.com/product/701-03089/fennekin-poke-plush-22-in,701-03089,Fennekin Poké Plush - 22 In.,$42.99,NO,12-17
+1008,https://www.pokemoncenter.com/product/702-03059/lycanroc-dusk-form-pokemon-dolls-plush-6-in,702-03059,Lycanroc (Dusk Form) Pokémon Dolls Plush - 6 ½ In.,$12.99,NO,12-18
+1009,https://www.pokemoncenter.com/product/701-03088/latios-poke-plush-12-in,701-03088,Latios Poké Plush - 12 ½ In.,$22.99,NO,12-19
+1010,https://www.pokemoncenter.com/product/701-03032/dusk-mane-necrozma-poke-plush-12-in,701-03032,Dusk Mane Necrozma Poké Plush - 12 In.,$49.99,NO,12-20
+1011,https://www.pokemoncenter.com/product/701-03039/necrozma-poke-plush-13-in,701-03039,Necrozma Poké Plush - 13 In.,$32.99,NO,12-21
+1012,https://www.pokemoncenter.com/product/701-03033/dawn-wings-necrozma-poke-plush-17-in,701-03033,Dawn Wings Necrozma Poké Plush - 17 In.,$49.99,NO,12-22
+1013,https://www.pokemoncenter.com/product/701-03045/greninja-poke-plush-12-in,701-03045,Greninja Poké Plush - 12 In.,$32.99,NO,12-23
+1014,https://www.pokemoncenter.com/product/701-03030/ditto-squishy-plush-14-in,701-03030,Ditto Squishy Plush - 14 ½ In.,$39.99,NO,12-24
+1015,https://www.pokemoncenter.com/product/701-03031/ditto-plush-card-case,701-03031,Ditto Plush Card Case,$12.99,NO,12-25
+1016,https://www.pokemoncenter.com/product/702-02987/oricorio-sensu-style-pokemon-dolls-plush-6-in,702-02987,Oricorio (Sensu Style) Pokémon Dolls Plush - 6 In.,$12.99,NO,12-26
+1017,https://www.pokemoncenter.com/product/702-02985/oricorio-pom-pom-style-pokemon-dolls-plush-8-in,702-02985,Oricorio (Pom-Pom Style) Pokémon Dolls Plush - 8 In.,$12.99,NO,12-27
+1018,https://www.pokemoncenter.com/product/702-02984/oricorio-baile-style-pokemon-dolls-plush-6-in,702-02984,Oricorio (Baile Style) Pokémon Dolls Plush - 6 In.,$12.99,NO,12-28
+1019,https://www.pokemoncenter.com/product/702-02986/oricorio-pa-u-style-pokemon-dolls-plush-7-in,702-02986,Oricorio (Pa'u Style) Pokémon Dolls Plush - 7 ½ In.,$12.99,NO,12-29
+1020,https://www.pokemoncenter.com/product/701-03018/marill-poke-plush-9-in,701-03018,Marill Poké Plush - 9 In.,$14.99,YES,12-30
+1021,https://www.pokemoncenter.com/product/701-03019/sentret-poke-plush-11-in,701-03019,Sentret Poké Plush - 11 In.,$14.99,YES,12-31
+1022,https://www.pokemoncenter.com/product/701-03021/wooper-poke-plush-8-in,701-03021,Wooper Poké Plush - 8 ½ In.,$14.99,NO,12-32
+1023,https://www.pokemoncenter.com/product/701-03016/joltik-poke-plush-5-in,701-03016,Joltik Poké Plush - 5 In.,$12.99,NO,12-33
+1024,https://www.pokemoncenter.com/product/701-03017/cutiefly-poke-plush-6-in,701-03017,Cutiefly Poké Plush - 6 In.,$12.99,NO,12-34
+1025,https://www.pokemoncenter.com/product/702-02963/mimikyu-pokemon-dolls-plush-7-in,702-02963,Mimikyu Pokémon Dolls Plush - 7 In.,$12.99,NO,12-35
+1026,https://www.pokemoncenter.com/product/702-02962/lapras-pokemon-dolls-plush-6-in,702-02962,Lapras Pokémon Dolls Plush - 6 ½ In.,$12.99,NO,12-36
+1027,https://www.pokemoncenter.com/product/701-03064/minun-poke-plush-9-1-4-in,701-03064,Minun Poké Plush - 9 1/4 In.,$12.99,NO,12-37
+1028,https://www.pokemoncenter.com/product/701-03067/banette-poke-plush-7-in,701-03067,Banette Poké Plush - 7 ½ In.,$12.99,NO,12-38
+1029,https://www.pokemoncenter.com/product/701-03062/mudkip-poke-plush-7-in,701-03062,Mudkip Poké Plush - 7 ¾ In.,$12.99,NO,12-39
+1030,https://www.pokemoncenter.com/product/701-03065/altaria-poke-plush-7-in,701-03065,Altaria Poké Plush - 7 ¾ In.,$22.99,NO,12-40
+1031,https://www.pokemoncenter.com/product/701-03060/torchic-poke-plush-8-in,701-03060,Torchic Poké Plush - 8 In.,$12.99,NO,12-41
+1032,https://www.pokemoncenter.com/product/701-03061/treecko-poke-plush-7-in,701-03061,Treecko Poké Plush - 7 ½ In.,$12.99,NO,12-42
+1033,https://www.pokemoncenter.com/product/701-03063/plusle-poke-plush-9-in,701-03063,Plusle Poké Plush - 9 ¼ In.,$12.99,NO,12-43
+1034,https://www.pokemoncenter.com/product/702-02964/wobbuffet-pokemon-dolls-plush-5-in,702-02964,Wobbuffet Pokémon Dolls Plush - 5 In.,$12.99,NO,12-44
+1035,https://www.pokemoncenter.com/product/701-02945/sleeping-flareon-poke-plush-15-in,701-02945,Sleeping Flareon Poké Plush - 15 ½ In.,$39.99,YES,12-45
+1036,https://www.pokemoncenter.com/product/701-02944/sleeping-jolteon-poke-plush-18-in,701-02944,Sleeping Jolteon Poké Plush - 18 In.,$39.99,YES,12-46
+1037,https://www.pokemoncenter.com/product/701-02949/sleeping-glaceon-poke-plush-18-in,701-02949,Sleeping Glaceon Poké Plush - 18 In.,$39.99,NO,12-47
+1038,https://www.pokemoncenter.com/product/701-00001/rowlet-plush-key-chain,701-00001,Rowlet Plush Key Chain,$9.99,NO,12-48
+1039,https://www.pokemoncenter.com/product/701-01087/popplio-plush-key-chain,701-01087,Popplio Plush Key Chain,$9.99,NO,12-49
+1040,https://www.pokemoncenter.com/product/701-00002/litten-plush-key-chain,701-00002,Litten Plush Key Chain,$9.99,NO,12-50
+1041,https://www.pokemoncenter.com/product/701-02957/ditto-poke-plush-8-in,701-02957,Ditto Poké Plush - 8 In.,$14.99,NO,12-51
+1042,https://www.pokemoncenter.com/product/701-02941/jirachi-poke-plush-7-in,701-02941,Jirachi Poké Plush - 7 In.,$14.99,NO,12-52
+1043,https://www.pokemoncenter.com/product/701-02955/alolan-exeggutor-poke-plush-13-in,701-02955,Alolan Exeggutor Poké Plush - 13 In.,$19.99,NO,12-53
+1044,https://www.pokemoncenter.com/product/701-02956/sandygast-poke-plush-8-in,701-02956,Sandygast Poké Plush - 8 ¼ In.,$14.99,NO,12-54
+1045,https://www.pokemoncenter.com/product/701-02999/holiday-tree-pikachu-poke-plush-8-in,701-02999,Holiday Tree Pikachu Poké Plush - 8 ¾ In.,$22.99,NO,12-55
+1046,https://www.pokemoncenter.com/product/702-02965/marshadow-poke-plush-9-in,702-02965,Marshadow Poké Plush - 9 In.,$14.99,YES,12-56
+1047,https://www.pokemoncenter.com/product/701-02939/jigglypuff-poke-plush-5-in,701-02939,Jigglypuff Poké Plush - 5 In.,$12.99,NO,12-57
+1048,https://www.pokemoncenter.com/product/701-02938/clefairy-poke-plush-6-in,701-02938,Clefairy Poké Plush - 6 ½ In.,$12.99,NO,12-58
+1049,https://www.pokemoncenter.com/product/701-02969/meowth-poke-plush-7-in,701-02969,Meowth Poké Plush - 7 ½ In.,$14.99,NO,12-59
+1050,https://www.pokemoncenter.com/product/701-02927/flareon-pokemon-dolls-plush-6-in,701-02927,Flareon Pokémon Dolls Plush - 6 In.,$12.99,NO,12-60
+1051,https://www.pokemoncenter.com/product/701-02933/lapras-poke-plush-34-in,701-02933,Lapras Poké Plush - 34 In.,$249.99,NO,12-61
+1052,https://www.pokemoncenter.com/product/701-02940/mew-poke-plush-7-in,701-02940,Mew Poké Plush - 7 In.,$12.99,NO,12-62
+1053,https://www.pokemoncenter.com/product/701-02973/popplio-halloween-costume-poke-plush-key-chain,701-02973,Popplio Halloween Costume Poké Plush Key Chain,$11.99,YES,12-63
+1054,https://www.pokemoncenter.com/product/701-02934/leafeon-poke-plush-8-in,701-02934,Leafeon Poké Plush - 8 ½ In.,$12.99,NO,12-64
+1055,https://www.pokemoncenter.com/product/701-02968/dusclops-costume-bewear-poke-plush-8-in,701-02968,Dusclops Costume Bewear Poké Plush - 8 In.,$17.99,NO,12-65
+1056,https://www.pokemoncenter.com/product/701-02921/kanto-trainer-hat-pikachu-poke-plush-16-in,701-02921,Kanto Trainer Hat Pikachu Poké Plush - 16 In.,$49.99,NO,12-66
+1057,https://www.pokemoncenter.com/product/701-02904/decidueye-poke-plush-12-in,701-02904,Decidueye Poké Plush - 12 In.,$32.99,YES,12-67
+1058,https://www.pokemoncenter.com/product/701-02906/primarina-poke-plush-13-in,701-02906,Primarina Poké Plush - 13 In.,$32.99,YES,12-68
+1059,https://www.pokemoncenter.com/product/701-02905/incineroar-poke-plush-14-in,701-02905,Incineroar Poké Plush - 14 In.,$32.99,YES,12-69
+1060,https://www.pokemoncenter.com/product/701-02898/lycanroc-midday-form-poke-plush-12-in,701-02898,Lycanroc (Midday Form) Poké Plush - 12 In.,$22.99,NO,12-70
+1061,https://www.pokemoncenter.com/product/701-02919/oddish-squishy-plush-10-in,701-02919,Oddish Squishy Plush - 10 In.,$39.99,NO,12-71
+1062,https://www.pokemoncenter.com/product/701-02920/togedemaru-squishy-plush-10-in,701-02920,Togedemaru Squishy Plush - 10 In.,$39.99,NO,12-72
+1063,https://www.pokemoncenter.com/product/741-02901/vulpix-plush-cape-one-size,741-02901,Vulpix Plush Cape (One Size),$49.99,YES,12-73
+1064,https://www.pokemoncenter.com/product/741-02902/alolan-vulpix-plush-cape-one-size,741-02902,Alolan Vulpix Plush Cape (One Size),$49.99,NO,12-74
+1065,https://www.pokemoncenter.com/product/701-00028/pikachu-poke-plush-5-in,701-00028,Pikachu Poké Plush - 5 In.,$12.99,NO,12-75
+1066,https://www.pokemoncenter.com/product/701-02914/pikachu-kuttari-cutie-plush-21-in,701-02914,Pikachu Kuttari Cutie Plush - 21 In.,$39.99,YES,12-76
+1067,https://www.pokemoncenter.com/product/701-02897/passimian-poke-plush-12-in,701-02897,Passimian Poké Plush - 12 In.,$19.99,YES,12-77
+1068,https://www.pokemoncenter.com/product/701-02915/piplup-kuttari-cutie-plush-25-in,701-02915,Piplup Kuttari Cutie Plush - 25 In.,$39.99,NO,12-78
+1069,https://www.pokemoncenter.com/product/701-02912/stufful-poke-plush-7-in,701-02912,Stufful Poké Plush - 7 In.,$14.99,NO,12-79
+1070,https://www.pokemoncenter.com/product/701-02911/alolan-dugtrio-poke-plush-7-in,701-02911,Alolan Dugtrio Poké Plush - 7 ½ In.,$19.99,NO,12-80
+1071,https://www.pokemoncenter.com/product/701-02908/torracat-poke-plush-10-in,701-02908,Torracat Poké Plush - 10 In.,$19.99,NO,12-81
+1072,https://www.pokemoncenter.com/product/701-02909/brionne-poke-plush-10-in,701-02909,Brionne Poké Plush - 10 In.,$19.99,NO,12-82
+1073,https://www.pokemoncenter.com/product/701-02907/dartrix-poke-plush-8-in,701-02907,Dartrix Poké Plush - 8 ½ In.,$19.99,NO,12-83
+1074,https://www.pokemoncenter.com/product/701-02896/alolan-persian-poke-plush-9-in,701-02896,Alolan Persian Poké Plush - 9 In.,$14.99,NO,12-84
+1075,https://www.pokemoncenter.com/product/701-02913/shiny-tapu-koko-poke-plush-12-in,701-02913,Shiny Tapu Koko Poké Plush - 12 In.,$32.99,NO,12-85
+1076,https://www.pokemoncenter.com/product/702-02887/rowlet-pokemon-dolls-plush-5-in,702-02887,Rowlet Pokémon Dolls Plush - 5 In.,$12.99,NO,12-86
+1077,https://www.pokemoncenter.com/product/702-02889/popplio-pokemon-dolls-plush-5-in,702-02889,Popplio Pokémon Dolls Plush - 5 ½ In.,$12.99,NO,12-87
+1078,https://www.pokemoncenter.com/product/702-02888/litten-pokemon-dolls-plush-5-in,702-02888,Litten Pokémon Dolls Plush - 5 ½ In.,$12.99,NO,12-88
+1079,https://www.pokemoncenter.com/product/701-02840/alolan-raichu-poke-plush-9-in,701-02840,Alolan Raichu Poké Plush - 9 In.,$14.99,NO,12-89
+1080,https://www.pokemoncenter.com/product/701-02839/alolan-marowak-poke-plush-7-in,701-02839,Alolan Marowak Poké Plush - 7 ½ In.,$14.99,NO,12-90
+1081,https://www.pokemoncenter.com/product/702-02891/bewear-pokemon-dolls-plush-6-in,702-02891,Bewear Pokémon Dolls Plush - 6 ½ In.,$12.99,NO,13-1
+1082,https://www.pokemoncenter.com/product/701-02838/alolan-meowth-poke-plush-9-in,701-02838,Alolan Meowth Poké Plush - 9 In.,$14.99,NO,13-2
+1083,https://www.pokemoncenter.com/product/701-02867/team-skull-costume-pikachu-poke-plush-8-in,701-02867,Team Skull Costume Pikachu Poké Plush - 8 ¼ In.,$19.99,NO,13-3
+1084,https://www.pokemoncenter.com/product/701-02860/ditto-as-jigglypuff-poke-plush-5-in,701-02860,Ditto As Jigglypuff Poké Plush - 5 In.,$14.99,NO,13-4
+1085,https://www.pokemoncenter.com/product/701-02862/ditto-as-gloom-poke-plush-5-in,701-02862,Ditto As Gloom Poké Plush - 5 In.,$14.99,NO,13-5
+1086,https://www.pokemoncenter.com/product/701-02869/cyndaquil-poke-plush-7-in,701-02869,Cyndaquil Poké Plush - 7 In.,$14.99,NO,13-6
+1087,https://www.pokemoncenter.com/product/701-02870/totodile-poke-plush-7-in,701-02870,Totodile Poké Plush - 7 ¼ In.,$14.99,NO,13-7
+1088,https://www.pokemoncenter.com/product/701-02868/chikorita-poke-plush-6-in,701-02868,Chikorita Poké Plush - 6 ¼ In.,$14.99,NO,13-8
+1089,https://www.pokemoncenter.com/product/701-02873/slowking-poke-plush-10-in,701-02873,Slowking Poké Plush - 10 In.,$14.99,NO,13-9
+1090,https://www.pokemoncenter.com/product/701-02903/tapu-koko-poke-plush-12-in,701-02903,Tapu Koko Poké Plush - 12 In.,$32.99,NO,13-10
+1091,https://www.pokemoncenter.com/product/701-02827/alolan-vulpix-poke-plush-8-in,701-02827,Alolan Vulpix Poké Plush - 8 ¼ In.,$14.99,NO,13-11
+1092,https://www.pokemoncenter.com/product/701-02884/alolan-sandshrew-poke-plush-7-in,701-02884,Alolan Sandshrew Poké Plush - 7 ½ In.,$14.99,NO,13-12
+1093,https://www.pokemoncenter.com/product/701-02883/fomantis-poke-plush-7-in,701-02883,Fomantis Poké Plush - 7 ½ In.,$14.99,NO,13-13
+1094,https://www.pokemoncenter.com/product/701-02881/poke-ball-plush-card-case,701-02881,Poké Ball Plush Card Case,$13.99,NO,13-14
+1095,https://www.pokemoncenter.com/product/701-02810/rotom-dex-poke-plush-8-in,701-02810,Rotom Dex Poké Plush - 8 ½ In.,$12.99,NO,13-15
+1096,https://www.pokemoncenter.com/product/701-02837/paired-pikachu-celebrations-snowboarder-pikachu-plush-9-in,701-02837,Paired Pikachu Celebrations: Snowboarder Pikachu Plush - 9 ½ In.,$24.99,NO,13-16
+1097,https://www.pokemoncenter.com/product/701-02816/team-flare-costume-pikachu-poke-plush-8-in,701-02816,Team Flare Costume Pikachu Poké Plush - 8 ¾ In.,$19.99,NO,13-17
+1098,https://www.pokemoncenter.com/product/701-02813/team-aqua-costume-pikachu-poke-plush-8-in,701-02813,Team Aqua Costume Pikachu Poké Plush - 8 ¼ In.,$19.99,NO,13-18
+1099,https://www.pokemoncenter.com/product/701-02815/team-plasma-costume-pikachu-poke-plush-8-in,701-02815,Team Plasma Costume Pikachu Poké Plush - 8 In.,$19.99,NO,13-19
+1100,https://www.pokemoncenter.com/product/701-02814/team-galactic-costume-pikachu-poke-plush-8-in,701-02814,Team Galactic Costume Pikachu Poké Plush - 8 ½ In.,$19.99,NO,13-20
+1101,https://www.pokemoncenter.com/product/710-00163/eevee-egg-shaped-plush-cushion-17-in,710-00163,Eevee Egg-Shaped Plush Cushion - 17 In.,$29.99,NO,13-21
+1102,https://www.pokemoncenter.com/product/710-00162/pikachu-egg-shaped-plush-cushion-17-in,710-00162,Pikachu Egg-Shaped Plush Cushion - 17 In.,$29.99,NO,13-22
+1103,https://www.pokemoncenter.com/product/701-00651/zekrom-poke-plush-12-in,701-00651,Zekrom Poké Plush - 12 ½ In.,$24.99,NO,13-23
+1104,https://www.pokemoncenter.com/product/701-00109/sleeping-growlithe-kuttari-cutie-plush,701-00109,Sleeping Growlithe Kuttari Cutie Plush,$9.99,NO,13-24
+1105,https://www.pokemoncenter.com/product/701-00111/sleeping-zorua-kuttari-cutie-plush,701-00111,Sleeping Zorua Kuttari Cutie Plush,$9.99,NO,13-25
+1106,https://www.pokemoncenter.com/product/701-00125/sleeping-lilligant-kuttari-cutie-plush,701-00125,Sleeping Lilligant Kuttari Cutie Plush,$9.99,NO,13-26
+1107,https://www.pokemoncenter.com/product/701-00039/ditto-as-raichu-plush-5-in,701-00039,Ditto As Raichu Plush - 5 ½ In.,$14.99,NO,13-27
+1108,https://www.pokemoncenter.com/product/701-00117/sleeping-quagsire-kuttari-cutie-plush,701-00117,Sleeping Quagsire Kuttari Cutie Plush,$9.99,NO,13-28
+1109,https://www.pokemoncenter.com/product/701-00115/sleeping-absol-kuttari-cutie-plush,701-00115,Sleeping Absol Kuttari Cutie Plush,$9.99,NO,13-29
+1110,https://www.pokemoncenter.com/product/701-00129/sleeping-minccino-kuttari-cutie-plush,701-00129,Sleeping Minccino Kuttari Cutie Plush,$9.99,NO,13-30
+1111,https://www.pokemoncenter.com/product/701-00123/sleeping-vulpix-kuttari-cutie-plush,701-00123,Sleeping Vulpix Kuttari Cutie Plush,$9.99,NO,13-31
+1112,https://www.pokemoncenter.com/product/701-00038/ditto-as-vulpix-plush-6-in,701-00038,Ditto As Vulpix Plush - 6 In.,$14.99,NO,13-32
+1113,https://www.pokemoncenter.com/product/701-00131/sleeping-emolga-kuttari-cutie-plush,701-00131,Sleeping Emolga Kuttari Cutie Plush,$9.99,NO,13-33
+1114,https://www.pokemoncenter.com/product/701-00127/sleeping-pachirisu-kuttari-cutie-plush,701-00127,Sleeping Pachirisu Kuttari Cutie Plush,$9.99,NO,13-34
+1115,https://www.pokemoncenter.com/product/701-00121/sleeping-marshtomp-kuttari-cutie-plush,701-00121,Sleeping Marshtomp Kuttari Cutie Plush,$9.99,NO,13-35
+1116,https://www.pokemoncenter.com/product/701-00043/ditto-as-vulpix-plush-key-chain,701-00043,Ditto As Vulpix Plush Key Chain,$8.99,NO,13-36
+1117,https://www.pokemoncenter.com/product/701-02843/charizard-poke-plush-10-in,701-02843,Charizard Poké Plush - 10 ¼ In.,$17.99,NO,13-37
+1118,https://www.pokemoncenter.com/product/701-02845/dragonite-poke-plush-13-in,701-02845,Dragonite Poké Plush - 13 In.,$24.99,NO,13-38
+1119,https://www.pokemoncenter.com/product/701-02808/solgaleo-poke-plush-10-in,701-02808,Solgaleo Poké Plush - 10 In.,$39.99,NO,13-39
+1120,https://www.pokemoncenter.com/product/701-02853/arcanine-poke-plush-12-in,701-02853,Arcanine Poké Plush - 12 In.,$24.99,NO,13-40
+1121,https://www.pokemoncenter.com/product/701-02809/lunala-poke-plush-19-in,701-02809,Lunala Poké Plush - 19 In.,$39.99,NO,13-41
+1122,https://www.pokemoncenter.com/product/701-02856/vulpix-poke-plush-7-in,701-02856,Vulpix Poké Plush - 7 In.,$12.99,NO,13-42
+1123,https://www.pokemoncenter.com/product/701-02852/ninetales-poke-plush-9-in,701-02852,Ninetales Poké Plush - 9 ¾ In.,$22.99,NO,13-43
+1124,https://www.pokemoncenter.com/product/701-02849/raichu-poke-plush-7-in,701-02849,Raichu Poké Plush - 7 ½ In.,$12.99,NO,13-44
+1125,https://www.pokemoncenter.com/product/701-02857/psyduck-poke-plush-7-in,701-02857,Psyduck Poké Plush - 7 In.,$12.99,NO,13-45
+1126,https://www.pokemoncenter.com/product/701-02858/gengar-poke-plush-6-in,701-02858,Gengar Poké Plush - 6 ½ In.,$12.99,NO,13-46
+1127,https://www.pokemoncenter.com/product/701-02832/bewear-poke-plush-9-in,701-02832,Bewear Poké Plush - 9 In.,$14.99,NO,13-47
+1128,https://www.pokemoncenter.com/product/701-02846/eevee-poke-plush-6-in,701-02846,Eevee Poké Plush - 6 In.,$12.99,NO,13-48
+1129,https://www.pokemoncenter.com/product/701-02844/blastoise-poke-plush-9-in,701-02844,Blastoise Poké Plush - 9 ½ In.,$17.99,NO,13-49
+1130,https://www.pokemoncenter.com/product/701-02841/venusaur-poke-plush-7-1-2-in,701-02841,Venusaur Poké Plush - 7 1/2 In.,$17.99,NO,13-50
+1131,https://www.pokemoncenter.com/product/701-02819/togedemaru-poke-plush-6-1-2-in,701-02819,Togedemaru Poké Plush - 6 1/2 In.,$14.99,YES,13-51
+1132,https://www.pokemoncenter.com/product/701-02818/komala-poke-plush-8-in,701-02818,Komala Poké Plush - 8 ½ In.,$14.99,NO,13-52
+1133,https://www.pokemoncenter.com/product/701-02817/pikipek-poke-plush-9-in,701-02817,Pikipek Poké Plush - 9 In.,$14.99,NO,13-53
+1134,https://www.pokemoncenter.com/product/701-00124/lilligant-kuttari-cutie-plush,701-00124,Lilligant Kuttari Cutie Plush,$9.99,NO,13-54
+1135,https://www.pokemoncenter.com/product/701-00533/minccino-poke-plush-7-in,701-00533,Minccino Poké Plush - 7 In.,$12.99,NO,13-55
+1136,https://www.pokemoncenter.com/product/701-00130/emolga-kuttari-cutie-plush,701-00130,Emolga Kuttari Cutie Plush,$9.99,NO,13-56
+1137,https://www.pokemoncenter.com/product/701-00118/jirachi-kuttari-cutie-plush,701-00118,Jirachi Kuttari Cutie Plush,$9.99,NO,13-57
+1138,https://www.pokemoncenter.com/product/701-00126/pachirisu-kuttari-cutie-plush,701-00126,Pachirisu Kuttari Cutie Plush,$9.99,NO,13-58
+1139,https://www.pokemoncenter.com/product/701-00116/quagsire-kuttari-cutie-plush,701-00116,Quagsire Kuttari Cutie Plush,$9.99,NO,13-59
+1140,https://www.pokemoncenter.com/product/701-00517/petilil-poke-plush-5-in,701-00517,Petilil Poké Plush - 5 In.,$12.99,NO,13-60
+1141,https://www.pokemoncenter.com/product/701-00110/zorua-kuttari-cutie-plush,701-00110,Zorua Kuttari Cutie Plush,$9.99,NO,13-61
+1142,https://www.pokemoncenter.com/product/701-00514/pidove-poke-plush-5-in,701-00514,Pidove Poké Plush - 5 ½ In.,$12.99,NO,13-62
+1143,https://www.pokemoncenter.com/product/701-00108/growlithe-kuttari-cutie-plush,701-00108,Growlithe Kuttari Cutie Plush,$9.99,NO,13-63
+1144,https://www.pokemoncenter.com/product/701-00114/absol-kuttari-cutie-plush,701-00114,Absol Kuttari Cutie Plush,$9.99,NO,13-64
+1145,https://www.pokemoncenter.com/product/701-00122/vulpix-kuttari-cutie-plush,701-00122,Vulpix Kuttari Cutie Plush,$9.99,NO,13-65
+1146,https://www.pokemoncenter.com/product/701-00128/minccino-kuttari-cutie-plush,701-00128,Minccino Kuttari Cutie Plush,$9.99,NO,13-66
+1147,https://www.pokemoncenter.com/product/701-00120/marshtomp-kuttari-cutie-plush,701-00120,Marshtomp Kuttari Cutie Plush,$9.99,NO,13-67
+1148,https://www.pokemoncenter.com/product/701-00071/ditto-as-pikachu-plush-7-in,701-00071,Ditto As Pikachu Plush - 7 In.,$14.99,NO,13-68
+1149,https://www.pokemoncenter.com/product/701-00063/ditto-as-flareon-plush-6-in,701-00063,Ditto As Flareon Plush - 6 ½ In.,$14.99,NO,13-69
+1150,https://www.pokemoncenter.com/product/701-00079/ditto-as-charmander-plush-key-chain,701-00079,Ditto As Charmander Plush Key Chain,$8.99,NO,13-70
+1151,https://www.pokemoncenter.com/product/701-00075/ditto-as-clefairy-plush-5-in,701-00075,Ditto As Clefairy Plush - 5 In.,$14.99,NO,13-71
+1152,https://www.pokemoncenter.com/product/701-00080/ditto-as-clefairy-plush-key-chain,701-00080,Ditto As Clefairy Plush Key Chain,$8.99,NO,13-72
+1153,https://www.pokemoncenter.com/product/701-00068/ditto-as-flareon-plush-key-chain,701-00068,Ditto As Flareon Plush Key Chain,$8.99,NO,13-73
+1154,https://www.pokemoncenter.com/product/701-00650/reshiram-poke-plush-12-in,701-00650,Reshiram Poké Plush - 12 ½ In.,$24.99,NO,13-74
+1155,https://www.pokemoncenter.com/product/701-00516/musharna-poke-plush-6-in,701-00516,Musharna Poké Plush - 6 ½ In.,$12.99,NO,13-75
+1156,https://www.pokemoncenter.com/product/701-00504/sandile-poke-doll-plush-7-in,701-00504,Sandile Poké Doll Plush - 7 In.,$12.99,NO,13-76
+1157,https://www.pokemoncenter.com/product/700-00785/totodile-poke-doll-plush-5-in,700-00785,Totodile Poké Doll Plush - 5 ½ In.,$12.99,NO,13-77
+1158,https://www.pokemoncenter.com/product/701-00541/axew-poke-plush-8-in,701-00541,Axew Poké Plush - 8 In.,$12.99,NO,13-78
+1159,https://www.pokemoncenter.com/product/701-00557/oshawott-poke-plush-6-in,701-00557,Oshawott Poké Plush - 6 In.,$12.99,NO,13-79
+1160,https://www.pokemoncenter.com/product/701-00530/zoroark-poke-doll-plush-6-in,701-00530,Zoroark Poké Doll Plush - 6 In.,$12.99,NO,13-80
+1161,https://www.pokemoncenter.com/product/701-00558/dewott-poke-plush-8-in,701-00558,Dewott Poké Plush - 8 ½ In.,$22.99,NO,13-81
+1162,https://www.pokemoncenter.com/product/701-00551/snivy-poke-plush-6-in,701-00551,Snivy Poké Plush - 6 In.,$12.99,NO,13-82
+1163,https://www.pokemoncenter.com/product/702-00532/woobat-poke-doll-plush-4-in,702-00532,Woobat Poké Doll Plush - 4 ½ In.,$12.99,NO,13-83
+1164,https://www.pokemoncenter.com/product/701-00554/tepig-poke-plush-6-in,701-00554,Tepig Poké Plush - 6 In.,$12.99,NO,13-84
+1165,https://www.pokemoncenter.com/product/702-00542/ducklett-poke-doll-plush-6-in,702-00542,Ducklett Poké Doll Plush - 6 ½ In.,$12.99,NO,13-85
+1166,https://www.pokemoncenter.com/product/701-00540/munna-poke-plush-5-in,701-00540,Munna Poké Plush - 5 In.,$12.99,NO,13-86
+1167,https://www.pokemoncenter.com/product/701-00593/pansage-poke-plush-8-in,701-00593,Pansage Poké Plush - 8 In.,$12.99,NO,13-87
+1168,https://www.pokemoncenter.com/product/702-00528/cottonee-poke-doll-plush-4-in,702-00528,Cottonee Poké Doll Plush - 4 ½ In.,$12.99,NO,13-88
+1169,https://www.pokemoncenter.com/product/701-00555/pignite-poke-plush-9-in,701-00555,Pignite Poké Plush - 9 In.,$22.99,NO,13-89
+1170,https://www.pokemoncenter.com/product/701-00595/pansear-poke-plush-7-in,701-00595,Pansear Poké Plush - 7 ½ In.,$12.99,NO,13-90
+1171,https://www.pokemoncenter.com/product/701-00552/servine-poke-plush-9-in,701-00552,Servine Poké Plush - 9 ½ In.,$22.99,NO,14-1
+1172,https://www.pokemoncenter.com/product/701-00016/kung-fu-pikachu-around-the-world-poke-plush-8-in,701-00016,Kung Fu Pikachu Around the World Poké Plush - 8 ½ In.,$19.99,NO,14-2
+1173,https://www.pokemoncenter.com/product/701-00597/panpour-poke-plush-7-in,701-00597,Panpour Poké Plush - 7 ½ In.,$12.99,NO,14-3
+1174,https://www.pokemoncenter.com/product/702-00594/drilbur-poke-doll-plush-7-in,702-00594,Drilbur Poké Doll Plush - 7 In.,$12.99,NO,14-4
+1175,https://www.pokemoncenter.com/product/702-00538/mienfoo-poke-doll-plush-5-in,702-00538,Mienfoo Poké Doll Plush - 5 ½ In.,$12.99,NO,14-5
+1176,https://www.pokemoncenter.com/product/702-00527/gothita-poke-doll-plush-6-in,702-00527,Gothita Poké Doll Plush - 6 In.,$12.99,NO,14-6
+1177,https://www.pokemoncenter.com/product/702-00539/tympole-poke-doll-plush-5-in,702-00539,Tympole Poké Doll Plush - 5 In.,$12.99,NO,14-7
+1178,https://www.pokemoncenter.com/product/702-00536/timburr-poke-doll-plush-6-in,702-00536,Timburr Poké Doll Plush - 6 In.,$12.99,NO,14-8
+1179,https://www.pokemoncenter.com/product/702-00559/sawk-poke-doll-plush-5-in,702-00559,Sawk Poké Doll Plush - 5 In.,$12.99,NO,14-9
+1180,https://www.pokemoncenter.com/product/701-00537/patrat-poke-plush-6-in,701-00537,Patrat Poké Plush - 6 In.,$12.99,NO,14-10
+1181,https://www.pokemoncenter.com/product/702-00556/throh-poke-doll-plush-6-in,702-00556,Throh Poké Doll Plush - 6 In.,$12.99,NO,14-11
+1182,https://www.pokemoncenter.com/product/702-00610/terrakion-poke-doll-plush-5-in,702-00610,Terrakion Poké Doll Plush - 5 In.,$12.99,NO,14-12
+1183,https://www.pokemoncenter.com/product/701-00198/pikachu-celebrations-kotatsu-pikachu-poke-plush-8-in,701-00198,Pikachu Celebrations: Kotatsu Pikachu Poké Plush - 8 In.,$17.99,NO,14-13
+1184,https://www.pokemoncenter.com/product/702-00032/meloetta-aria-forme-poke-doll-plush-6-in,702-00032,Meloetta (Aria Forme) Poké Doll Plush - 6 ½ In.,$12.99,NO,14-14
+1185,https://www.pokemoncenter.com/product/702-00031/meloetta-pirouette-forme-poke-doll-plush-7-in,702-00031,Meloetta (Pirouette Forme) Poké Doll Plush - 7 In.,$12.99,NO,14-15
+1186,https://www.pokemoncenter.com/product/701-00007/delibird-cape-pikachu-poke-plush-8-in,701-00007,Delibird Cape Pikachu Poké Plush - 8 In.,$22.99,NO,14-16
+1187,https://www.pokemoncenter.com/product/701-00089/bulbasaur-chirimen-plush-5-in,701-00089,Bulbasaur Chirimen Plush - 5 ½ In.,$17.99,NO,14-17
+1188,https://www.pokemoncenter.com/product/701-00087/pikachu-chirimen-plush-7-in,701-00087,Pikachu Chirimen Plush - 7 In.,$17.99,NO,14-18
+1189,https://www.pokemoncenter.com/product/701-00090/charmander-chirimen-plush-6-in,701-00090,Charmander Chirimen Plush - 6 ½ In.,$17.99,NO,14-19
+1190,https://www.pokemoncenter.com/product/701-00091/squirtle-chirimen-plush-6-in,701-00091,Squirtle Chirimen Plush - 6 In.,$17.99,NO,14-20
+1191,https://www.pokemoncenter.com/product/701-00029/special-delivery-pikachu-poke-plush-7-1-2-in,701-00029,Special Delivery Pikachu Poké Plush - 7 1/2 In.,$12.99,NO,14-21
+1192,https://www.pokemoncenter.com/product/701-00155/magearna-poke-plush-10-in,701-00155,Magearna Poké Plush - 10 In.,$22.99,NO,14-22
+1193,https://www.pokemoncenter.com/product/701-02803/litten-poke-plush-6-in,701-02803,Litten Poké Plush - 6 In.,$14.99,YES,14-23
+1194,https://www.pokemoncenter.com/product/701-00033/bulbasaur-poke-plush-7-in,701-00033,Bulbasaur Poké Plush - 7 In.,$12.99,YES,14-24
+1195,https://www.pokemoncenter.com/product/701-02802/rowlet-poke-plush-6-in,701-02802,Rowlet Poké Plush - 6 ½ In.,$14.99,NO,14-25
+1196,https://www.pokemoncenter.com/product/701-02804/popplio-poke-plush-7-1-2-in,701-02804,Popplio Poké Plush - 7 1/2 In.,$14.99,NO,14-26
+1197,https://www.pokemoncenter.com/product/701-02805/rowlet-poke-plush-14-in,701-02805,Rowlet Poké Plush - 14 In.,$49.99,NO,14-27
+1198,https://www.pokemoncenter.com/product/702-00030/genesect-poke-doll-plush-6-in,702-00030,Genesect Poké Doll Plush - 6 In.,$12.99,NO,14-28
+1199,https://www.pokemoncenter.com/product/701-02807/popplio-poke-plush-17-in,701-02807,Popplio Poké Plush - 17 In.,$49.99,NO,14-29
+1200,https://www.pokemoncenter.com/product/701-02806/litten-poke-plush-17-in,701-02806,Litten Poké Plush - 17 In.,$49.99,NO,14-30
+1201,https://www.pokemoncenter.com/product/701-00026/charmander-poke-plush-6-in,701-00026,Charmander Poké Plush - 6 ½ In.,$12.99,NO,14-31
+1202,https://www.pokemoncenter.com/product/701-00027/squirtle-poke-plush-7-in,701-00027,Squirtle Poké Plush - 7 ¼ In.,$12.99,NO,14-32
+1203,https://www.pokemoncenter.com/product/701-00018/pikachu-poke-plush-39-in,701-00018,Pikachu Poké Plush - 39 In.,$249.99,YES,14-33
+1204,https://www.pokemoncenter.com/product/702-00137/keldeo-resolute-form-poke-doll-plush-7-in,702-00137,Keldeo (Resolute Form) Poké Doll Plush - 7 ½ In.,$12.99,NO,14-34
+1205,https://www.pokemoncenter.com/product/702-00136/keldeo-ordinary-form-poke-doll-plush-7-in,702-00136,Keldeo (Ordinary Form) Poké Doll Plush - 7 ½ In.,$12.99,NO,14-35
+1206,https://www.pokemoncenter.com/product/701-00100/pikachu-halloween-circus-poke-plush-8-in,701-00100,Pikachu Halloween Circus Poké Plush - 8 ½ In.,$17.99,YES,14-36
+1207,https://www.pokemoncenter.com/product/701-00099/pikachu-pumpkin-card-case,701-00099,Pikachu Pumpkin Card Case,$14.99,YES,14-37
+1208,https://www.pokemoncenter.com/product/701-00102/pikachu-halloween-circus-poke-plush-key-chain,701-00102,Pikachu Halloween Circus Poké Plush Key Chain,$9.99,YES,14-38
+1209,https://www.pokemoncenter.com/product/701-00151/paired-pikachu-celebrations-children-s-day-pikachu-poke-plush-10-in,701-00151,Paired Pikachu Celebrations: Children's Day Pikachu Poké Plush - 10 In.,$24.99,NO,14-39
+1210,https://www.pokemoncenter.com/product/701-00154/volcanion-poke-plush-11-in,701-00154,Volcanion Poké Plush - 11 In.,$34.99,NO,14-40
+1211,https://www.pokemoncenter.com/product/701-00214/mega-altaria-cape-pikachu-poke-plush-8-in,701-00214,Mega Altaria Cape Pikachu Poké Plush - 8 ½ In.,$17.99,NO,14-41
+1212,https://www.pokemoncenter.com/product/701-00212/mega-audino-cape-pikachu-poke-plush-8-in,701-00212,Mega Audino Cape Pikachu Poké Plush - 8 ½ In.,$17.99,NO,14-42
+1213,https://www.pokemoncenter.com/product/701-00219/mega-audino-cape-pikachu-poke-plush-key-chain,701-00219,Mega Audino Cape Pikachu Poké Plush Key Chain,$9.99,NO,14-43
+1214,https://www.pokemoncenter.com/product/701-00218/mega-sableye-cape-pikachu-poke-plush-key-chain,701-00218,Mega Sableye Cape Pikachu Poké Plush Key Chain,$9.99,NO,14-44
+1215,https://www.pokemoncenter.com/product/701-00161/paired-pikachu-celebrations-school-uniform-pikachu-poke-plush-9-in,701-00161,Paired Pikachu Celebrations: School Uniform Pikachu Poké Plush - 9 ½ In.,$24.99,NO,14-45
+1216,https://www.pokemoncenter.com/product/701-00160/lapras-poke-plush-12-in,701-00160,Lapras Poké Plush - 12 In.,$22.99,YES,14-46
+1217,https://www.pokemoncenter.com/product/701-00159/eevee-poke-plush-6-1-2-in,701-00159,Eevee Poké Plush - 6 1/2 In.,$12.99,NO,14-47
+1218,https://www.pokemoncenter.com/product/701-00178/sleeping-chespin-kuttari-cutie-plush,701-00178,Sleeping Chespin Kuttari Cutie Plush,$9.99,YES,14-48
+1219,https://www.pokemoncenter.com/product/701-00177/chespin-kuttari-cutie-plush,701-00177,Chespin Kuttari Cutie Plush,$9.99,YES,14-49
+1220,https://www.pokemoncenter.com/product/701-00180/sleeping-gardevoir-kuttari-cutie-plush,701-00180,Sleeping Gardevoir Kuttari Cutie Plush,$9.99,NO,14-50
+1221,https://www.pokemoncenter.com/product/701-00173/piplup-kuttari-cutie-plush,701-00173,Piplup Kuttari Cutie Plush,$9.99,NO,14-51
+1222,https://www.pokemoncenter.com/product/701-00182/sleeping-ampharos-kuttari-cutie-plush,701-00182,Sleeping Ampharos Kuttari Cutie Plush,$9.99,NO,14-52
+1223,https://www.pokemoncenter.com/product/701-00179/gardevoir-kuttari-cutie-plush,701-00179,Gardevoir Kuttari Cutie Plush,$9.99,NO,14-53
+1224,https://www.pokemoncenter.com/product/701-00176/sleeping-victini-kuttari-cutie-plush,701-00176,Sleeping Victini Kuttari Cutie Plush,$9.99,NO,14-54
+1225,https://www.pokemoncenter.com/product/701-00184/sleeping-croagunk-kuttari-cutie-plush,701-00184,Sleeping Croagunk Kuttari Cutie Plush,$9.99,NO,14-55
+1226,https://www.pokemoncenter.com/product/701-00181/ampharos-kuttari-cutie-plush,701-00181,Ampharos Kuttari Cutie Plush,$9.99,NO,14-56
+1227,https://www.pokemoncenter.com/product/701-00183/croagunk-kuttari-cutie-plush,701-00183,Croagunk Kuttari Cutie Plush,$9.99,NO,14-57
+1228,https://www.pokemoncenter.com/product/701-00175/victini-kuttari-cutie-plush,701-00175,Victini Kuttari Cutie Plush,$9.99,NO,14-58
+1229,https://www.pokemoncenter.com/product/701-00196/charmander-poke-plush-20-in,701-00196,Charmander Poké Plush - 20 In.,$59.99,NO,14-59
+1230,https://www.pokemoncenter.com/product/701-00225/pikachu-celebrations-year-s-end-pikachu-poke-plush-8-in,701-00225,Pikachu Celebrations: Year's End Pikachu Poké Plush - 8 In.,$17.99,NO,14-60
+1231,https://www.pokemoncenter.com/product/702-00193/swablu-secret-base-poke-doll-plush-key-chain,702-00193,Swablu Secret Base Poké Doll Plush Key Chain,$8.99,NO,14-61
+1232,https://www.pokemoncenter.com/product/702-00189/ditto-secret-base-poke-doll-plush-key-chain,702-00189,Ditto Secret Base Poké Doll Plush Key Chain,$8.99,NO,14-62
+1233,https://www.pokemoncenter.com/product/702-00192/wailmer-secret-base-poke-doll-plush-key-chain,702-00192,Wailmer Secret Base Poké Doll Plush Key Chain,$8.99,NO,14-63
+1234,https://www.pokemoncenter.com/product/701-00200/sleeping-bulbasaur-poke-plush-16-in,701-00200,Sleeping Bulbasaur Poké Plush - 16 In.,$42.99,NO,14-64
+1235,https://www.pokemoncenter.com/product/701-00202/sleeping-mudkip-poke-plush-23-in,701-00202,Sleeping Mudkip Poké Plush - 23 In.,$42.99,NO,14-65
+1236,https://www.pokemoncenter.com/product/701-00201/sleeping-ditto-poke-plush-17-in,701-00201,Sleeping Ditto Poké Plush - 17 In.,$42.99,NO,14-66
+1237,https://www.pokemoncenter.com/product/701-00234/pikachu-celebrations-mushroom-harvest-pikachu-poke-plush-8-in,701-00234,Pikachu Celebrations: Mushroom Harvest Pikachu Poké Plush - 8 In.,$17.99,NO,14-67
+1238,https://www.pokemoncenter.com/product/701-00308/pikachu-celebrations-beach-walk-pikachu-poke-plush-8-in,701-00308,Pikachu Celebrations: Beach Walk Pikachu Poké Plush - 8 In.,$17.99,NO,14-68
+1239,https://www.pokemoncenter.com/product/701-00339/mega-latias-poke-plush-16-in,701-00339,Mega Latias Poké Plush - 16 ½ In.,$22.99,NO,14-69
+1240,https://www.pokemoncenter.com/product/701-00340/mega-latios-poke-plush-17-in,701-00340,Mega Latios Poké Plush - 17 ½ In.,$22.99,NO,14-70
+1241,https://www.pokemoncenter.com/product/701-00272/hoopa-unbound-poke-plush-16-in,701-00272,Hoopa Unbound Poké Plush - 16 In.,$34.99,NO,14-71
+1242,https://www.pokemoncenter.com/product/701-00260/sleeping-espeon-kuttari-cutie-plush,701-00260,Sleeping Espeon Kuttari Cutie Plush,$9.99,NO,14-72
+1243,https://www.pokemoncenter.com/product/701-00256/sleeping-charmander-kuttari-cutie-plush,701-00256,Sleeping Charmander Kuttari Cutie Plush,$9.99,NO,14-73
+1244,https://www.pokemoncenter.com/product/701-00265/espurr-kuttari-cutie-plush,701-00265,Espurr Kuttari Cutie Plush,$9.99,NO,14-74
+1245,https://www.pokemoncenter.com/product/701-00266/sleeping-espurr-kuttari-cutie-plush,701-00266,Sleeping Espurr Kuttari Cutie Plush,$9.99,NO,14-75
+1246,https://www.pokemoncenter.com/product/701-00271/snorlax-poke-plush-19-in,701-00271,Snorlax Poké Plush - 19 ¼ In.,$49.99,NO,14-76
+1247,https://www.pokemoncenter.com/product/701-00352/goomy-poke-plush-16-in,701-00352,Goomy Poké Plush - 16 ½ In.,$42.99,NO,14-77
+1248,https://www.pokemoncenter.com/product/701-00309/hoopa-confined-poke-plush-11-in,701-00309,Hoopa Confined Poké Plush - 11 In.,$16.99,NO,14-78
+1249,https://www.pokemoncenter.com/product/701-00331/pikachu-celebrations-children-s-day-pikachu-poke-plush-7-in,701-00331,Pikachu Celebrations: Children's Day Pikachu Poké Plush - 7 ½ In.,$17.99,NO,14-79
+1250,https://www.pokemoncenter.com/product/701-00293/golbat-costume-pikachu-and-joltik-halloween-plush-pins-2-pack,701-00293,Golbat Costume Pikachu & Joltik Halloween Plush Pins (2-Pack),$7.99,NO,14-80
+1251,https://www.pokemoncenter.com/product/701-00294/golbat-costume-pikachu-halloween-poke-plush-key-chain,701-00294,Golbat Costume Pikachu Halloween Poké Plush Key Chain,$9.99,NO,14-81
+1252,https://www.pokemoncenter.com/product/701-00349/mega-mawile-poke-plush-10-in,701-00349,Mega Mawile Poké Plush - 10 In.,$22.99,NO,14-82
+1253,https://www.pokemoncenter.com/product/701-00353/mega-salamence-poke-plush-17-in,701-00353,Mega Salamence Poké Plush - 17 In.,$22.99,NO,14-83
+1254,https://www.pokemoncenter.com/product/701-00359/wailord-pokemon-petit-plush-key-chain,701-00359,Wailord Pokémon Petit Plush Key Chain,$7.99,NO,14-84
+1255,https://www.pokemoncenter.com/product/701-00358/swirlix-pokemon-petit-plush-key-chain,701-00358,Swirlix Pokémon Petit Plush Key Chain,$7.99,NO,14-85
+1256,https://www.pokemoncenter.com/product/701-00360/gulpin-pokemon-petit-plush-key-chain,701-00360,Gulpin Pokémon Petit Plush Key Chain,$7.99,NO,14-86
+1257,https://www.pokemoncenter.com/product/701-00363/primal-kyogre-poke-plush-20-in,701-00363,Primal Kyogre Poké Plush - 20 In.,$34.99,NO,14-87
+1258,https://www.pokemoncenter.com/product/701-00364/primal-groudon-poke-plush-17-3-4-in,701-00364,Primal Groudon Poké Plush - 17 3/4 In.,$34.99,NO,14-88
+1259,https://www.pokemoncenter.com/product/701-00366/mega-swampert-poke-plush-10-in,701-00366,Mega Swampert Poké Plush - 10 ¾ In.,$22.99,NO,14-89
+1260,https://www.pokemoncenter.com/product/701-00365/mega-sceptile-poke-plush-12-in,701-00365,Mega Sceptile Poké Plush - 12 In.,$22.99,NO,14-90
+1261,https://www.pokemoncenter.com/product/702-00371/treecko-secret-base-poke-doll-plush-8-in,702-00371,Treecko Secret Base Poké Doll Plush - 8 ½ In.,$14.99,NO,15-1
+1262,https://www.pokemoncenter.com/product/701-00432/gulpin-poke-plush-6-1-2-in,701-00432,Gulpin Poké Plush - 6 1/2 In.,$12.99,YES,15-2
+1263,https://www.pokemoncenter.com/product/701-00433/sableye-poke-plush-7-1-2-in,701-00433,Sableye Poké Plush - 7 1/2 In.,$12.99,NO,15-3
+1264,https://www.pokemoncenter.com/product/701-00476/rayquaza-poke-plush-30-in,701-00476,Rayquaza Poké Plush - 30 In.,$24.99,NO,15-4
+1265,https://www.pokemoncenter.com/product/701-00474/kyogre-poke-plush-15-1-2-in,701-00474,Kyogre Poké Plush - 15 1/2 In.,$24.99,NO,15-5
+1266,https://www.pokemoncenter.com/product/701-00481/treecko-poke-plush-19-in,701-00481,Treecko Poké Plush - 19 ¾ In.,$44.99,NO,15-6
+1267,https://www.pokemoncenter.com/product/701-00480/torchic-poke-plush-16-in,701-00480,Torchic Poké Plush - 16 ¼ In.,$44.99,NO,15-7
+1268,https://www.pokemoncenter.com/product/702-00844/clauncher-poke-doll-plush-6-in,702-00844,Clauncher Poké Doll Plush - 6 ¾ In.,$12.99,YES,15-8
+1269,https://www.pokemoncenter.com/product/701-00581/scatterbug-poke-plush-7-in,701-00581,Scatterbug Poké Plush - 7 In.,$12.99,YES,15-9
+1270,https://www.pokemoncenter.com/product/702-00842/swirlix-poke-doll-plush-4-in,702-00842,Swirlix Poké Doll Plush - 4 ½ In.,$12.99,NO,15-10
+1271,https://www.pokemoncenter.com/product/702-00843/pancham-poke-doll-plush-6-in,702-00843,Pancham Poké Doll Plush - 6 In.,$12.99,NO,15-11
+1272,https://www.pokemoncenter.com/product/701-00503/froakie-holiday-snowman-poke-plush-7-in,701-00503,Froakie Holiday Snowman Poké Plush - 7 ¾ In.,$14.99,NO,15-12
+1273,https://www.pokemoncenter.com/product/702-00993/diancie-poke-doll-plush-8-in,702-00993,Diancie Poké Doll Plush - 8 In.,$12.99,NO,15-13
+1274,https://www.pokemoncenter.com/product/701-00987/dedenne-pokemon-petit-plush-key-chain,701-00987,Dedenne Pokémon Petit Plush Key Chain,$7.99,NO,15-14
+1275,https://www.pokemoncenter.com/product/702-00856/chesnaught-poke-doll-plush-9-in,702-00856,Chesnaught Poké Doll Plush - 9 ½ In.,$22.99,YES,15-15
+1276,https://www.pokemoncenter.com/product/702-00962/victini-poke-doll-plush-6-1-4-in,702-00962,Victini Poké Doll Plush - 6 1/4 In.,$12.99,NO,15-16
+1277,https://www.pokemoncenter.com/product/702-00964/jirachi-poke-doll-plush-6-in,702-00964,Jirachi Poké Doll Plush - 6 In.,$12.99,NO,15-17
+1278,https://www.pokemoncenter.com/product/701-00855/meowstic-female-poke-plush-17-in,701-00855,Meowstic (Female) Poké Plush - 17 ½ In.,$42.99,NO,15-18
+1279,https://www.pokemoncenter.com/product/702-00895/meowstic-female-poke-doll-plush-5-in,702-00895,Meowstic (Female) Poké Doll Plush - 5 ½ In.,$12.99,NO,15-19
+1280,https://www.pokemoncenter.com/product/702-00894/meowstic-male-poke-doll-plush-7-in,702-00894,Meowstic (Male) Poké Doll Plush - 7 In.,$12.99,NO,15-20
+1281,https://www.pokemoncenter.com/product/701-00854/meowstic-male-poke-plush-17-in,701-00854,Meowstic (Male) Poké Plush - 17 ½ In.,$42.99,NO,15-21
+1282,https://www.pokemoncenter.com/product/702-00961/manaphy-poke-doll-plush-5-1-4-in,702-00961,Manaphy Poké Doll Plush - 5 1/4 In.,$12.99,NO,15-22
+1283,https://www.pokemoncenter.com/product/702-00865/delphox-poke-doll-plush-9-in,702-00865,Delphox Poké Doll Plush - 9 ¼ In.,$22.99,NO,15-23
+1284,https://www.pokemoncenter.com/product/702-00596/inkay-poke-doll-plush-6-in,702-00596,Inkay Poké Doll Plush - 6 In.,$12.99,YES,15-24
+1285,https://www.pokemoncenter.com/product/702-00841/bunnelby-poke-doll-plush-8-in,702-00841,Bunnelby Poké Doll Plush - 8 In.,$12.99,YES,15-25
+1286,https://www.pokemoncenter.com/product/701-00995/pikachu-halloween-band-poke-plush-6-in,701-00995,Pikachu Halloween Band Poké Plush - 6 ½ In.,$14.99,YES,15-26
+1287,https://www.pokemoncenter.com/product/701-00589/litleo-poke-plush-6-in,701-00589,Litleo Poké Plush - 6 ½ In.,$12.99,NO,15-27
+1288,https://www.pokemoncenter.com/product/701-00996/dedenne-halloween-band-poke-plush-7-in,701-00996,Dedenne Halloween Band Poké Plush - 7 In.,$14.99,NO,15-28
+1289,https://www.pokemoncenter.com/product/702-00636/helioptile-poke-doll-plush-6-in,702-00636,Helioptile Poké Doll Plush - 6 In.,$12.99,YES,15-29
+1290,https://www.pokemoncenter.com/product/701-00705/clawitzer-poke-plush-8-in,701-00705,Clawitzer Poké Plush - 8 In.,$12.99,YES,15-30
+1291,https://www.pokemoncenter.com/product/702-00635/gogoat-poke-doll-plush-5-in,702-00635,Gogoat Poké Doll Plush - 5 ¾ In.,$12.99,YES,15-31
+1292,https://www.pokemoncenter.com/product/702-00638/fletchling-poke-doll-plush-7-in,702-00638,Fletchling Poké Doll Plush - 7 In.,$12.99,YES,15-32
+1293,https://www.pokemoncenter.com/product/741-00626/fennekin-poke-plush-hat-one-size,741-00626,Fennekin Poké Plush Hat (One Size),$19.99,YES,15-33
+1294,https://www.pokemoncenter.com/product/741-00627/froakie-poke-plush-hat-one-size,741-00627,Froakie Poké Plush Hat (One Size),$19.99,YES,15-34
+1295,https://www.pokemoncenter.com/product/701-00698/chesnaught-poke-plush-11-in,701-00698,Chesnaught Poké Plush - 11 ¼ In.,$32.99,YES,15-35
+1296,https://www.pokemoncenter.com/product/741-00625/chespin-poke-plush-hat-one-size,741-00625,Chespin Poké Plush Hat (One Size),$19.99,YES,15-36
+1297,https://www.pokemoncenter.com/product/702-00637/dedenne-poke-doll-plush-5-in,702-00637,Dedenne Poké Doll Plush - 5 ½ In.,$12.99,NO,15-37
+1298,https://www.pokemoncenter.com/product/701-00699/delphox-poke-plush-12-in,701-00699,Delphox Poké Plush - 12 ¾ In.,$32.99,NO,15-38
+1299,https://www.pokemoncenter.com/product/701-00701/meowstic-male-poke-plush-9-in,701-00701,Meowstic (Male) Poké Plush - 9 ¾ In.,$12.99,NO,15-39
+1300,https://www.pokemoncenter.com/product/701-00689/quilladin-poke-plush-9-in,701-00689,Quilladin Poké Plush - 9 In.,$22.99,YES,15-40
+1301,https://www.pokemoncenter.com/product/701-00708/mega-garchomp-poke-plush-10-in,701-00708,Mega Garchomp Poké Plush - 10 ¼ In.,$22.99,NO,15-41
+1302,https://www.pokemoncenter.com/product/701-00631/clauncher-poke-plush-9-in,701-00631,Clauncher Poké Plush - 9 In.,$12.99,NO,15-42
+1303,https://www.pokemoncenter.com/product/701-00591/bunnelby-poke-plush-10-in,701-00591,Bunnelby Poké Plush - 10 ¼ In.,$12.99,NO,15-43
+1304,https://www.pokemoncenter.com/product/702-00620/chespin-poke-doll-plush-6-in,702-00620,Chespin Poké Doll Plush - 6 In.,$12.99,YES,15-44
+1305,https://www.pokemoncenter.com/product/701-00548/gogoat-poke-plush-6-in,701-00548,Gogoat Poké Plush - 6 ¾ In.,$12.99,YES,15-45
+1306,https://www.pokemoncenter.com/product/701-00584/chespin-poke-plush-19-in,701-00584,Chespin Poké Plush - 19 ½ In.,$42.99,YES,15-46
+1307,https://www.pokemoncenter.com/product/741-00629/scraggy-poke-plush-hat-one-size-adult,741-00629,Scraggy Poké Plush Hat (One Size-Adult),$19.99,YES,15-47
+1308,https://www.pokemoncenter.com/product/701-00586/froakie-poke-plush-13-1-2-in,701-00586,Froakie Poké Plush - 13 1/2 In.,$42.99,NO,15-48
+1309,https://www.pokemoncenter.com/product/701-00687/froakie-pokemon-petit-plush-key-chain,701-00687,Froakie Pokémon Petit Plush Key Chain,$7.99,NO,15-49
+1310,https://www.pokemoncenter.com/product/701-00549/helioptile-poke-plush-7-in,701-00549,Helioptile Poké Plush - 7 In.,$12.99,NO,15-50
+1311,https://www.pokemoncenter.com/product/701-00685/chespin-pokemon-petit-plush-key-chain,701-00685,Chespin Pokémon Petit Plush Key Chain,$7.99,NO,15-51
+1312,https://www.pokemoncenter.com/product/701-00632/mega-blaziken-poke-plush-10-in,701-00632,Mega Blaziken Poké Plush - 10 ½ In.,$22.99,YES,15-52
+1313,https://www.pokemoncenter.com/product/702-00845/litleo-poke-doll-plush-4-in,702-00845,Litleo Poké Doll Plush - 4 ¾ In.,$12.99,NO,15-53
+1314,https://www.pokemoncenter.com/product/741-00628/pikachu-poke-plush-hat-one-size,741-00628,Pikachu Poké Plush Hat (One Size),$19.99,YES,15-54
