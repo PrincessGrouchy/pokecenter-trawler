@@ -1,0 +1,17 @@
+1,https://www.pokemoncenter.com/en-ca/product/701-95156/goomy-pokemon-squishy-plush-17-in,701-95156,New! Goomy Pokémon Squishy Plush - 17 ¾ In.,$54.99,YES,1-1, New? couldn't find match
+2,https://www.pokemoncenter.com/en-ca/product/701-95155/swadloon-pokemon-squishy-plush-24-in,701-95155,New! Swadloon Pokémon Squishy Plush - 24 ½ In.,$54.99,YES,1-2, New? couldn't find match
+3,https://www.pokemoncenter.com/en-ca/product/701-95154/trubbish-pokemon-squishy-plush-25-in,701-95154,New! Trubbish Pokémon Squishy Plush - 25 ¼ In.,$54.99,YES,1-3, New? couldn't find match
+14,https://www.pokemoncenter.com/en-ca/product/701-95163/buneary-happy-spring-plush-key-chain,701-95163,Buneary Happy Spring Plush Key Chain,$19.99,NO,1-14, Difference: NO used to be YES.  
+257,https://www.pokemoncenter.com/en-ca/product/701-05778/gardevoir-sitting-cuties-plush-5-in,701-05778,Gardevoir Sitting Cuties Plush - 5 ¼ In.,$14.99,NO,3-77, Difference: NO used to be YES.  
+510,https://www.pokemoncenter.com/en-ca/product/701-06206/cleffa-sitting-cuties-plush-4-in,701-06206,Cleffa Sitting Cuties Plush - 4 ¾ In.,$14.99,NO,6-60, Difference: NO used to be YES.  
+512,https://www.pokemoncenter.com/en-ca/product/701-06200/swinub-sitting-cuties-plush-5-in,701-06200,Swinub Sitting Cuties Plush - 5 ¼ In.,$14.99,NO,6-62, Difference: NO used to be YES.  
+647,https://www.pokemoncenter.com/en-ca/product/701-03824/squirtle-sitting-cuties-plush-4-in,701-03824,Squirtle Sitting Cuties Plush - 4 ¾ In.,$14.99,NO,8-17, Difference: NO used to be YES.  
+878,https://www.pokemoncenter.com/en-ca/product/702-02965/marshadow-poke-plush-9-in,702-02965,Marshadow Poké Plush - 9 In.,$19.99,NO,10-68, Difference: NO used to be YES.  
+890,https://www.pokemoncenter.com/en-ca/product/701-02905/incineroar-poke-plush-14-in,701-02905,Incineroar Poké Plush - 14 In.,$42.99,NO,10-80, Difference: NO used to be YES.  
+986,https://www.pokemoncenter.com/en-ca/product/701-02803/litten-poke-plush-6-in,701-02803,Litten Poké Plush - 6 In.,$19.99,NO,11-86, Difference: NO used to be YES.  
+211,https://www.pokemoncenter.com/en-ca/product/701-05714/cradily-sitting-cuties-plush-8-in,701-05714,Cradily Sitting Cuties Plush - 8 ½ In.,$14.99,YES,3-31, missing! might have been delisted
+225,https://www.pokemoncenter.com/en-ca/product/701-05725/zangoose-sitting-cuties-plush-6-in,701-05725,Zangoose Sitting Cuties Plush - 6 ¾ In.,$14.99,YES,3-45, missing! might have been delisted
+297,https://www.pokemoncenter.com/en-ca/product/701-05721/barboach-sitting-cuties-plush-7-in,701-05721,Barboach Sitting Cuties Plush - 7 In.,$14.99,YES,4-27, missing! might have been delisted
+301,https://www.pokemoncenter.com/en-ca/product/701-05722/solrock-sitting-cuties-7-in,701-05722,Solrock Sitting Cuties - 7 ½ In.,$14.99,YES,4-31, missing! might have been delisted
+309,https://www.pokemoncenter.com/en-ca/product/701-05680/regirock-sitting-cuties-plush-5-in,701-05680,Regirock Sitting Cuties Plush - 5 ¼ In.,$14.99,NO,4-39, missing! might have been delisted
+319,https://www.pokemoncenter.com/en-ca/product/701-05716/claydol-sitting-cuties-plush-5-in,701-05716,Claydol Sitting Cuties Plush - 5 In.,$14.99,YES,4-49, missing! might have been delisted
