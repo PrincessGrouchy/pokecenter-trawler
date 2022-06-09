@@ -1,0 +1,9 @@
+1,https://www.pokemoncenter.com/en-gb/product/701-29670/arcanine-poke-plush-59-in,701-29670,New! Arcanine Poké Plush - 59 In.,£399.99,YES,1-1, New? couldn't find match
+2,https://www.pokemoncenter.com/en-gb/product/701-95875/hisuian-voltorb-poke-plush-7-in,701-95875,Hisuian Voltorb Poké Plush - 7 ¾ In.,£12.99,YES,1-2, Difference: Hisuian Voltorb Poké Plush - 7 ¾ In. used to be New! Hisuian Voltorb Poké Plush - 7 ¾ In..  
+60,https://www.pokemoncenter.com/en-gb/product/701-03124/piplup-poke-plush-8-in,701-03124,Piplup Poké Plush - 8 ¾ In.,£12.99,YES,1-60, Difference: YES used to be NO.  
+197,https://www.pokemoncenter.com/en-gb/product/701-05694/spheal-sitting-cuties-plush-5-in,701-05694,Spheal Sitting Cuties Plush - 5 ½ In.,£9.99,YES,3-17, New? couldn't find match
+203,https://www.pokemoncenter.com/en-gb/product/701-05695/glalie-sitting-cuties-plush-4-in,701-05695,Glalie Sitting Cuties Plush - 4 In.,£9.99,YES,3-23, New? couldn't find match
+211,https://www.pokemoncenter.com/en-gb/product/701-05703/banette-sitting-cuties-plush-6-in,701-05703,Banette Sitting Cuties Plush - 6 In.,£9.99,YES,3-31, New? couldn't find match
+294,https://www.pokemoncenter.com/en-gb/product/701-29617/arceus-sitting-cuties-plush-6-in,701-29617,Arceus Sitting Cuties Plush - 6 ¼ In.,£9.99,YES,4-24, New? couldn't find match
+314,https://www.pokemoncenter.com/en-gb/product/701-06215/psyduck-sitting-cuties-plush-5-in,701-06215,Psyduck Sitting Cuties Plush - 5 ¼ In.,£9.99,YES,4-44, New? couldn't find match
+344,https://www.pokemoncenter.com/en-gb/product/701-03730/caterpie-sitting-cuties-plush-5-in,701-03730,Caterpie Sitting Cuties Plush - 5 ½ In.,£9.99,NO,4-74, Difference: NO used to be YES.  
