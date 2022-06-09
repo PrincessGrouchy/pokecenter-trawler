@@ -7,6 +7,7 @@ class pokecenter_output_reader():
         self.region = "en-ca"
         # self.region = "en-gb"
         # self.region = "en-us"
+        # self.region = "jp"
 
         self.current_file = open(
             'pokecenter_output_' + self.region + '_current.txt', 'r', encoding="utf-8")
