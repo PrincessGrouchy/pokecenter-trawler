@@ -30,58 +30,73 @@ from selenium.webdriver.firefox.options import Options as FirefoxOptions
 from selenium.webdriver.ie.options import Options as IEOptions
 
 
-class TestPage1():
-    def setup_method(self):
+class EnTrawler():
+    def pre_setup_vars(self):
         # self.service = FirefoxService(executable_path=GeckoDriverManager().install())
         # self.driver = webdriver.Firefox(service=self.service)
         self.service = EdgeService(
             executable_path=EdgeChromiumDriverManager().install())
         self.driver = webdriver.Edge(service=self.service)
-
         self.driver.implicitly_wait(120)
         self.driver.set_window_size(776.642, 701.800)
-        self.vars = {}
-        self.region = "/en-ca"
-        # self.region = "/en-gb"
-        # self.region = "/en-us"
-        self.category = "/plush"
+
+    def setup_method(self, the_region, the_category):
+        self.region = the_region
+        self.category = the_category
+        self.sort = "?sort=launch_date%2Bdesc"
+
         self.url = "https://www.pokemoncenter.com" + self.region + \
-            "/category" + self.category + "?sort=launch_date%2Bdesc&ps=90&page="
+            "/category" + self.category + self.sort + \
+            "&ps=90&page="
         self.num_items_displayed = 90  # 30 # 60
-        self.base_xpath = "//main[@id='main']/div[2]/div[2]/div[2]/div[4]/"
-        self.file1 = open(
-            'pokecenter_output_' + self.region[1:] + '_new.txt', 'w', encoding="utf-8")
+        self.single_category_file = open(
+            'pokecenter_output_' + self.region[1:] + '_'+self.category[1:] + '_new.txt', 'w', encoding="utf-8")
+        self.all_category_file = open(
+            'pokecenter_output_' + self.region[1:] + '_new.txt', 'a', encoding="utf-8")
+
+    def teardown_single(self):
+        self.single_category_file.close()
+        self.all_category_file.close()
 
     def teardown_method(self):
         self.driver.quit()
-        self.file1.close()
+        self.single_category_file.close()
+        self.all_category_file.close()
 
     def print_line(self):
-        if self.stock == "SOLD OUT":
+        if self.stock == "SOLD OUT" or "soldout" in self.stock:
             in_stock = "NO"
         else:
             in_stock = "YES"
         product_number = self.link.replace("https://www.pokemoncenter.com"
                                            + self.region
                                            + "/product/", "")
-        product_number = product_number.replace("https://www.pokemoncenter.com/product/", "")
+        product_number = product_number.replace(
+            "https://www.pokemoncenter.com/product/", "")
+        product_number = product_number.replace(
+            "https://www.pokemoncenter-online.com/?p_cd=", "")
         product_number = product_number.split("/")[0]
+
         real_number = self.page_count - 1
         real_number *= self.num_items_displayed
         real_number += self.loop_count
-        stringToPrint = "{},{},{},{},{},{},{}-{}\n".format(
+        stringToPrint = "{},{},{},{},{},{},{}-{},{}\n".format(
             real_number,
             self.link,
             product_number,
             self.name,
             self.price,
             in_stock,
-            self.page_count, self.loop_count
+            self.page_count,
+            self.loop_count,
+            self.category[1:]
         )
         print(stringToPrint)
-        self.file1.write(stringToPrint)
+        self.single_category_file.write(stringToPrint)
+        self.all_category_file.write(stringToPrint)
 
     def get_page_vars(self, isFirst):
+        self.base_xpath = "//main[@id='main']/div[2]/div[2]/div[2]/div[4]/"
         if isFirst:
             extra_div = "div"
         else:
@@ -104,7 +119,7 @@ class TestPage1():
         self.loop_count = 1
         self.driver.get(self.url + str(self.page_count))
         WebDriverWait(self.driver, 120).until(
-            lambda driver: 'Plush |' in driver.title)
+            lambda driver: '|' in driver.title)
 
         self.total_count_string = WebDriverWait(self.driver, 120).until(
             lambda d: d.find_element(By.XPATH,
@@ -127,7 +142,7 @@ class TestPage1():
                 self.print_line()
                 self.loop_count += 1
 
-            time.sleep(20)
+            time.sleep(2.9)
             self.page_count += 1
 
     def scrape_page_last(self):
@@ -135,7 +150,6 @@ class TestPage1():
         # self.total_count = 1079 # set manually!
         # self.total_full_page_count = int(self.total_count) // int(self.num_items_displayed)
         # self.total_page_count = self.total_full_page_count + 1
-
 
         self.page_count = self.total_page_count
         self.loop_count = 1
@@ -155,11 +169,104 @@ class TestPage1():
                 self.loop_count += 1
 
 
+class JpTrawler(EnTrawler):
+    def setup_method(self, the_category):
+        self.region = "jp"
+        self.sort = "&sort=new"
+        self.category = the_category  # plush
+        self.url = "https://www.pokemoncenter-online.com/?main_page=product_list" + \
+            self.sort + "&cat1=" + self.category + "&page="
+        self.translate_url_additions = ""  # chrome autotranslate adds "/font/font"
+        self.num_items_displayed = 40  # default=40
+
+        self.single_category_file = open(
+            'pokecenter_output_' + self.region[1:] + '_'+self.category[1:] + '_new.txt', 'w', encoding="utf-8")
+        self.all_category_file = open(
+            'pokecenter_output_' + self.region[1:] + '_new.txt', 'a', encoding="utf-8")
+
+    def get_page_vars(self, isFirst):
+        self.base_xpath = "//div[@id='product_list']/ul/"
+        if isFirst:
+            extra_div = "li"
+        else:
+            extra_div = "li[" + str(self.loop_count) + "]"
+        # xpath=//div[@id='product_list']/ul/li/a
+        self.link = WebDriverWait(self.driver, 120).until(
+            lambda d: d.find_element(By.XPATH,
+                                     self.base_xpath + extra_div + "/a").get_attribute("href"))
+        #  xpath=//div[@id='product_list']/ul/li[2]/a/div/p/font/font
+        self.name = WebDriverWait(self.driver, 120).until(
+            lambda d: d.find_element(By.XPATH,
+                                     self.base_xpath + extra_div + "/a/div/p" + self.translate_url_additions).text)
+        # xpath=//div[@id='product_list']/ul/li[2]/a/div/p[2]/font/font
+        self.price = WebDriverWait(self.driver, 120).until(
+            lambda d: d.find_element(By.XPATH,
+                                     self.base_xpath + extra_div + "/a/div/p[2]" + self.translate_url_additions).text)
+        # xpath=//div[@id='product_list']/ul/li[4]
+        self.stock = WebDriverWait(self.driver, 120).until(
+            lambda d: d.find_element(By.XPATH,
+                                     self.base_xpath + extra_div).get_attribute("class"))
+
+    def scrape_page_not_last_page(self):
+        self.page_count = 1
+        self.loop_count = 1
+        self.driver.get(self.url + str(self.page_count))
+        WebDriverWait(self.driver, 120).until(
+            lambda driver: '商品検索結果 : ポケモンセンターオンライン' in driver.title)
+
+        self.total_count_string = WebDriverWait(self.driver, 120).until(
+            lambda d: d.find_element(By.XPATH,
+                                     "//div[@id='contents']/div/h1" + self.translate_url_additions).text)
+        self.total_count = self.total_count_string.split("全 ")[
+            1].replace("件）", "").replace(",", "")
+        self.total_full_page_count = int(
+            self.total_count) // int(self.num_items_displayed)
+        self.total_page_count = self.total_full_page_count + 1
+
+        while self.page_count < self.total_page_count:
+            self.loop_count = 1
+            self.driver.get(self.url + str(self.page_count))
+            self.get_page_vars(isFirst=True)
+            self.print_line()
+
+            self.loop_count = 2
+            while self.loop_count < (self.num_items_displayed + 1):
+                self.get_page_vars(isFirst=False)
+                self.print_line()
+                self.loop_count += 1
+
+            time.sleep(1.1)
+            self.page_count += 1
+
+
+categories = ["/plush", "/figures-and-pins",
+              "/trading-card-game", "/clothing", "/home", "/video-game"]
+regions = ["/en-gb", "/en-us"]  # ["/en-ca", "/en-gb", "/en-us"]
+en = EnTrawler()
+en.pre_setup_vars()
+
 try:
-    x = TestPage1()
-    x.setup_method()
-    x.scrape_page_not_last_page()
-    x.scrape_page_last()
-    x.teardown_method()
+    for the_region in regions:
+        for the_category in categories:
+            en.setup_method(the_region, the_category)
+            en.scrape_page_not_last_page()
+            en.scrape_page_last()
+            en.teardown_single()
 finally:
-    x.teardown_method()
+    en.teardown_method()
+
+jp_categories = ["toy", "game", "card",
+                 "stationery", "goods",
+                 "kitchen", "phone", "fashion",
+                 "apparel", "book", "cddvd", "food"]  # "ticket"
+jp = JpTrawler()
+jp.pre_setup_vars()
+
+try:
+    for the_jp_category in jp_categories:
+        jp.setup_method(the_category)
+        jp.scrape_page_not_last_page()
+        jp.scrape_page_last()
+        jp.teardown_single()
+finally:
+    jp.teardown_method()

@@ -1,0 +1,304 @@
+1,https://www.pokemoncenter.com/en-ca/product/710-95699/pokemon-center-bear-walker-cubone-skateboard,710-95699,New! Pokémon Center × Bear Walker: Cubone Skateboard,$324.99,YES,1-1,home
+2,https://www.pokemoncenter.com/en-ca/product/710-95701/pokemon-center-bear-walker-bulbasaur-skateboard,710-95701,New! Pokémon Center × Bear Walker: Bulbasaur Skateboard,$324.99,YES,1-2,home
+3,https://www.pokemoncenter.com/en-ca/product/710-95702/pokemon-center-bear-walker-squirtle-skateboard,710-95702,New! Pokémon Center × Bear Walker: Squirtle Skateboard,$324.99,YES,1-3,home
+4,https://www.pokemoncenter.com/en-ca/product/710-95700/pokemon-center-bear-walker-charmander-skateboard,710-95700,New! Pokémon Center × Bear Walker: Charmander Skateboard,$324.99,YES,1-4,home
+5,https://www.pokemoncenter.com/en-ca/product/710-95848/poke-ball-by-the-wand-company,710-95848,Poké Ball by The Wand Company,$129.99,YES,1-5,home
+6,https://www.pokemoncenter.com/en-ca/product/710-95847/great-ball-by-the-wand-company,710-95847,Great Ball by The Wand Company,$129.99,YES,1-6,home
+7,https://www.pokemoncenter.com/en-ca/product/710-95249/graduation-pikachu-2022-pokemon-pin-and-greeting-card,710-95249,Graduation Pikachu 2022 Pokémon Pin & Greeting Card,$12.99,YES,1-7,home
+8,https://www.pokemoncenter.com/en-ca/product/710-95245/graduation-pikachu-2022-14-oz-mug,710-95245,Graduation Pikachu 2022 14 oz. Mug,$19.99,YES,1-8,home
+9,https://www.pokemoncenter.com/en-ca/product/710-95581/look-upon-the-stars-posters-2-pack,710-95581,Look Upon the Stars Posters (2-Pack),$25.99,YES,1-9,home
+10,https://www.pokemoncenter.com/en-ca/product/710-95579/charizard-flight-poster,710-95579,Charizard Flight Poster,$12.99,YES,1-10,home
+11,https://www.pokemoncenter.com/en-ca/product/710-95580/robot-pikachu-posters-2-pack,710-95580,Robot Pikachu Posters (2-Pack),$25.99,YES,1-11,home
+12,https://www.pokemoncenter.com/en-ca/product/710-95715/pokemon-center-bear-walker-gyarados-skateboard-pokemon-day-2022,710-95715,Pokémon Center × Bear Walker: Gyarados Skateboard (Pokémon Day 2022),$324.99,YES,1-12,home
+13,https://www.pokemoncenter.com/en-ca/product/710-95714/pokemon-center-bear-walker-mew-skateboard-pokemon-day-2022,710-95714,Pokémon Center × Bear Walker: Mew Skateboard (Pokémon Day 2022),$324.99,YES,1-13,home
+14,https://www.pokemoncenter.com/en-ca/product/710-95555/pokemon-primers-box-set-collection,710-95555,Pokémon Primers: Box Set Collection,$64.99,YES,1-14,home
+15,https://www.pokemoncenter.com/en-ca/product/710-29766/pokemon-center-bear-walker-eevee-skateboard,710-29766,Pokémon Center × Bear Walker: Eevee Skateboard,$324.99,YES,1-15,home
+16,https://www.pokemoncenter.com/en-ca/product/710-29647/pokemon-center-bear-walker-vaporeon-skateboard,710-29647,Pokémon Center × Bear Walker: Vaporeon Skateboard,$324.99,YES,1-16,home
+17,https://www.pokemoncenter.com/en-ca/product/710-94575/pokemon-center-bear-walker-sylveon-skateboard,710-94575,Pokémon Center × Bear Walker: Sylveon Skateboard,$324.99,YES,1-17,home
+18,https://www.pokemoncenter.com/en-ca/product/710-94577/pokemon-center-bear-walker-leafeon-skateboard,710-94577,Pokémon Center × Bear Walker: Leafeon Skateboard,$324.99,YES,1-18,home
+19,https://www.pokemoncenter.com/en-ca/product/710-94580/pokemon-center-bear-walker-flareon-skateboard,710-94580,Pokémon Center × Bear Walker: Flareon Skateboard,$324.99,YES,1-19,home
+20,https://www.pokemoncenter.com/en-ca/product/710-94579/pokemon-center-bear-walker-espeon-skateboard,710-94579,Pokémon Center × Bear Walker: Espeon Skateboard,$324.99,YES,1-20,home
+21,https://www.pokemoncenter.com/en-ca/product/710-29648/pokemon-center-bear-walker-jolteon-skateboard,710-29648,Pokémon Center × Bear Walker: Jolteon Skateboard,$324.99,YES,1-21,home
+22,https://www.pokemoncenter.com/en-ca/product/710-94576/pokemon-center-bear-walker-glaceon-skateboard,710-94576,Pokémon Center × Bear Walker: Glaceon Skateboard,$324.99,YES,1-22,home
+23,https://www.pokemoncenter.com/en-ca/product/710-94578/pokemon-center-bear-walker-umbreon-skateboard,710-94578,Pokémon Center × Bear Walker: Umbreon Skateboard,$324.99,NO,1-23,home
+24,https://www.pokemoncenter.com/en-ca/product/710-29355/pikachu-and-sylveon-balloon-bouquet-pokemon-pin-and-greeting-card,710-29355,Pikachu & Sylveon Balloon Bouquet Pokémon Pin & Greeting Card,$19.99,NO,1-24,home
+25,https://www.pokemoncenter.com/en-ca/product/710-09591/pokemon-winter-wonders-coasters-4-pack,710-09591,Pokémon Winter Wonders Coasters (4-Pack),$32.99,YES,1-25,home
+26,https://www.pokemoncenter.com/en-ca/product/710-09587/pokemon-winter-wonders-salad-plates-4-pack,710-09587,Pokémon Winter Wonders Salad Plates (4-Pack),$45.99,YES,1-26,home
+27,https://www.pokemoncenter.com/en-ca/product/710-09588/pokemon-winter-wonders-dinner-plates-4-pack,710-09588,Pokémon Winter Wonders Dinner Plates (4-Pack),$71.99,YES,1-27,home
+28,https://www.pokemoncenter.com/en-ca/product/710-09593/pokemon-winter-wonders-gray-sherpa-throw,710-09593,Pokémon Winter Wonders Gray Sherpa Throw,$51.99,YES,1-28,home
+29,https://www.pokemoncenter.com/en-ca/product/710-09599/pokemon-winter-wonders-red-tree-skirt,710-09599,Pokémon Winter Wonders Red Tree Skirt,$51.99,YES,1-29,home
+30,https://www.pokemoncenter.com/en-ca/product/710-09586/pokemon-winter-wonders-blue-cloth-napkins-4-pack,710-09586,Pokémon Winter Wonders Blue Cloth Napkins (4-Pack),$32.99,YES,1-30,home
+31,https://www.pokemoncenter.com/en-ca/product/710-09597/ralts-and-gardevoir-pokemon-winter-wonders-green-stocking,710-09597,Ralts & Gardevoir Pokémon Winter Wonders Green Stocking,$25.99,YES,1-31,home
+32,https://www.pokemoncenter.com/en-ca/product/710-09592/pokemon-winter-wonders-red-sherpa-throw,710-09592,Pokémon Winter Wonders Red Sherpa Throw,$51.99,YES,1-32,home
+33,https://www.pokemoncenter.com/en-ca/product/710-09595/togekiss-pokemon-winter-wonders-gray-stocking,710-09595,Togekiss Pokémon Winter Wonders Gray Stocking,$25.99,YES,1-33,home
+34,https://www.pokemoncenter.com/en-ca/product/710-09598/pikachu-pokemon-winter-wonders-blue-stocking,710-09598,Pikachu Pokémon Winter Wonders Blue Stocking,$25.99,YES,1-34,home
+35,https://www.pokemoncenter.com/en-ca/product/710-09596/delibird-pokemon-winter-wonders-red-stocking,710-09596,Delibird Pokémon Winter Wonders Red Stocking,$25.99,YES,1-35,home
+36,https://www.pokemoncenter.com/en-ca/product/710-09923/piplup-pokemon-holiday-and-home-ornament,710-09923,Piplup Pokémon Holiday & Home Ornament,$22.99,NO,1-36,home
+37,https://www.pokemoncenter.com/en-ca/product/710-09832/pokemon-chess-set,710-09832,Pokémon Chess Set,$259.99,YES,1-37,home
+38,https://www.pokemoncenter.com/en-ca/product/710-29359/pikachu-new-year-s-party-2022-pokemon-pin-and-greeting-card,710-29359,Pikachu New Year's Party 2022 Pokémon Pin & Greeting Card,$12.99,YES,1-38,home
+39,https://www.pokemoncenter.com/en-ca/product/710-29360/pikachu-sparkling-new-year-2022-pokemon-pin-and-greeting-card,710-29360,Pikachu Sparkling New Year 2022 Pokémon Pin & Greeting Card,$12.99,YES,1-39,home
+40,https://www.pokemoncenter.com/en-ca/product/710-09874/pokemon-audio-collection-pokemon-center-u-turn-audio-turntable,710-09874,Pokémon Audio Collection: Pokémon Center × U-Turn Audio Turntable,$519.99,YES,1-40,home
+41,https://www.pokemoncenter.com/en-ca/product/710-09585/pokemon-winter-wonders-bamboo-wood-cutting-board,710-09585,Pokémon Winter Wonders Bamboo Wood Cutting Board,$38.99,YES,1-41,home
+42,https://www.pokemoncenter.com/en-ca/product/703-08173/delibird-holiday-express-snorlax-pass-figure,703-08173,Delibird Holiday Express Snorlax Pass Figure,$51.99,YES,1-42,home
+43,https://www.pokemoncenter.com/en-ca/product/703-08171/delibird-holiday-express-ponyta-rockers-flatcar-figure,703-08171,Delibird Holiday Express Ponyta Rockers Flatcar Figure,$51.99,YES,1-43,home
+44,https://www.pokemoncenter.com/en-ca/product/703-08172/delibird-holiday-express-moomoo-milk-and-cookies-tank-car-figure,703-08172,Delibird Holiday Express Moomoo Milk & Cookies Tank Car Figure,$51.99,YES,1-44,home
+45,https://www.pokemoncenter.com/en-ca/product/710-08642/pokemon-holiday-sculpted-wreath,710-08642,Pokémon Holiday Sculpted Wreath,$103.99,NO,1-45,home
+46,https://www.pokemoncenter.com/en-ca/product/710-09600/pokemon-winter-wonders-ornaments-12-pack,710-09600,Pokémon Winter Wonders Ornaments (12-Pack),$38.99,NO,1-46,home
+47,https://www.pokemoncenter.com/en-ca/product/710-29108/pokemon-center-vic-lee-pokemon-scary-stories-posters-5-pack,710-29108,Pokémon Center × Vic Lee: Pokémon Scary Stories Posters (5-Pack),$51.99,YES,1-47,home
+48,https://www.pokemoncenter.com/en-ca/product/741-94202/mimikyu-pokemon-center-vic-lee-pokemon-scary-stories-metal-wall-art,741-94202,Mimikyu Pokémon Center × Vic Lee: Pokémon Scary Stories Metal Wall Art,$168.99,YES,1-48,home
+49,https://www.pokemoncenter.com/en-ca/product/710-29103/mimikyu-pokemon-center-vic-lee-pokemon-scary-stories-poster,710-29103,Mimikyu Pokémon Center × Vic Lee: Pokémon Scary Stories Poster,$19.99,YES,1-49,home
+50,https://www.pokemoncenter.com/en-ca/product/710-29107/zorua-pokemon-center-vic-lee-pokemon-scary-stories-poster,710-29107,Zorua Pokémon Center × Vic Lee: Pokémon Scary Stories Poster,$19.99,YES,1-50,home
+51,https://www.pokemoncenter.com/en-ca/product/710-29104/banette-pokemon-center-vic-lee-pokemon-scary-stories-poster,710-29104,Banette Pokémon Center × Vic Lee: Pokémon Scary Stories Poster,$19.99,YES,1-51,home
+52,https://www.pokemoncenter.com/en-ca/product/710-09500/kanto-gym-badge-coasters-8-pack,710-09500,Kanto Gym Badge Coasters (8-Pack),$32.99,NO,1-52,home
+53,https://www.pokemoncenter.com/en-ca/product/710-09888/pokemon-center-bear-walker-piplup-skateboard,710-09888,Pokémon Center × Bear Walker: Piplup Skateboard,$324.99,YES,1-53,home
+54,https://www.pokemoncenter.com/en-ca/product/710-09889/pokemon-center-bear-walker-mudkip-skateboard,710-09889,Pokémon Center × Bear Walker: Mudkip Skateboard,$324.99,YES,1-54,home
+55,https://www.pokemoncenter.com/en-ca/product/710-09887/pokemon-center-bear-walker-genesect-skateboard,710-09887,Pokémon Center × Bear Walker: Genesect Skateboard,$324.99,YES,1-55,home
+56,https://www.pokemoncenter.com/en-ca/product/710-29465/pokemon-greatest-hits-posters-8-pack,710-29465,Pokémon Greatest Hits Posters (8-Pack),$51.99,YES,1-56,home
+57,https://www.pokemoncenter.com/en-ca/product/710-09870/pokemon-audio-collection-pokemon-center-grado-labs-poke-ball-headphones-wood-with-red-headband,710-09870,Pokémon Audio Collection: Pokémon Center × Grado Labs Poké Ball Headphones (Wood with Red Headband),$644.99,YES,1-57,home
+58,https://www.pokemoncenter.com/en-ca/product/710-09872/pokemon-audio-collection-pokemon-center-grado-labs-poke-ball-headphones-aluminum,710-09872,Pokémon Audio Collection: Pokémon Center × Grado Labs Poké Ball Headphones (Aluminum),$384.99,YES,1-58,home
+59,https://www.pokemoncenter.com/en-ca/product/710-09873/pokemon-audio-collection-pokemon-center-grado-labs-poke-ball-headphones-wood-with-black-headband,710-09873,Pokémon Audio Collection: Pokémon Center × Grado Labs Poké Ball Headphones (Wood with Black Headband),$644.99,YES,1-59,home
+60,https://www.pokemoncenter.com/en-ca/product/710-09871/pokemon-audio-collection-pokemon-center-grado-labs-pikachu-headphones-black-aluminum,710-09871,Pokémon Audio Collection: Pokémon Center × Grado Labs Pikachu Headphones (Black Aluminum),$384.99,YES,1-60,home
+61,https://www.pokemoncenter.com/en-ca/product/710-09497/kanto-gym-badge-magnets-8-pack,710-09497,Kanto Gym Badge Magnets (8-Pack),$25.99,NO,1-61,home
+62,https://www.pokemoncenter.com/en-ca/product/710-09869/mimikyu-pokemon-spooky-celebration-ceramic-treat-bowl,710-09869,Mimikyu Pokémon Spooky Celebration Ceramic Treat Bowl,$45.99,YES,1-62,home
+63,https://www.pokemoncenter.com/en-ca/product/710-29297/pokemon-accents-gengar-wall-light-box,710-29297,Pokémon Accents: Gengar Wall Light Box,$25.99,YES,1-63,home
+64,https://www.pokemoncenter.com/en-ca/product/710-29296/pokemon-accents-mimikyu-wall-light-box,710-29296,Pokémon Accents: Mimikyu Wall Light Box,$25.99,YES,1-64,home
+65,https://www.pokemoncenter.com/en-ca/product/703-29176/spooky-pikachu-pokemon-spooky-celebration-yard-statue,703-29176,Spooky Pikachu Pokémon Spooky Celebration Yard Statue,$64.99,YES,1-65,home
+66,https://www.pokemoncenter.com/en-ca/product/703-29174/lurking-gengar-pokemon-spooky-celebration-yard-statue,703-29174,Lurking Gengar Pokémon Spooky Celebration Yard Statue,$64.99,YES,1-66,home
+67,https://www.pokemoncenter.com/en-ca/product/703-29175/enchanting-eevee-pokemon-spooky-celebration-yard-statue,703-29175,Enchanting Eevee Pokémon Spooky Celebration Yard Statue,$64.99,YES,1-67,home
+68,https://www.pokemoncenter.com/en-ca/product/706-29046/pokemon-super-special-flip-book-johto-region-and-kanto-region,706-29046,Pokémon Super Special Flip Book: Johto Region & Kanto Region,$12.99,NO,1-68,home
+69,https://www.pokemoncenter.com/en-ca/product/710-29178/ghost-pokemon-spooky-celebration-poster,710-29178,Ghost Pokémon Spooky Celebration Poster,$16.99,YES,1-69,home
+70,https://www.pokemoncenter.com/en-ca/product/710-29177/poison-pokemon-spooky-celebration-poster,710-29177,Poison Pokémon Spooky Celebration Poster,$16.99,YES,1-70,home
+71,https://www.pokemoncenter.com/en-ca/product/710-29180/ghost-warning-pokemon-spooky-celebration-metal-sign,710-29180,Ghost Warning Pokémon Spooky Celebration Metal Sign,$32.99,NO,1-71,home
+72,https://www.pokemoncenter.com/en-ca/product/710-29179/snorlax-pokemon-spooky-celebration-metal-door-sign,710-29179,Snorlax Pokémon Spooky Celebration Metal Door Sign,$32.99,NO,1-72,home
+73,https://www.pokemoncenter.com/en-ca/product/710-29181/mimikyu-pokemon-spooky-celebration-metal-sign,710-29181,Mimikyu Pokémon Spooky Celebration Metal Sign,$32.99,NO,1-73,home
+74,https://www.pokemoncenter.com/en-ca/product/705-09584/pokemon-celebration-commemorative-coin-set-9-piece,705-09584,Pokémon Celebration Commemorative Coin Set (9-Piece),$168.99,NO,1-74,home
+75,https://www.pokemoncenter.com/en-ca/product/710-08899/ditto-pokemon-home-accents-bean-bag-chair-by-yogibo,710-08899,Ditto Pokémon Home Accents Bean Bag Chair by Yogibo,$259.99,YES,1-75,home
+76,https://www.pokemoncenter.com/en-ca/product/710-08900/snorlax-pokemon-home-accents-bean-bag-chair-by-yogibo,710-08900,Snorlax Pokémon Home Accents Bean Bag Chair by Yogibo,$259.99,NO,1-76,home
+77,https://www.pokemoncenter.com/en-ca/product/710-09570/pokemon-region-tour-posters-8-pack,710-09570,Pokémon Region Tour Posters (8-Pack),$51.99,YES,1-77,home
+78,https://www.pokemoncenter.com/en-ca/product/710-09569/pokemon-region-tour-postcards-8-pack,710-09569,Pokémon Region Tour Postcards (8-Pack),$16.99,NO,1-78,home
+79,https://www.pokemoncenter.com/en-ca/product/706-29047/pokemon-super-special-flip-book-sinnoh-region-and-hoenn-region,706-29047,Pokémon Super Special Flip Book: Sinnoh Region & Hoenn Region,$12.99,NO,1-79,home
+80,https://www.pokemoncenter.com/en-ca/product/710-08931/pokemon-block-art-party-cups-4-pack,710-08931,Pokémon Block Art Party Cups (4-Pack),$12.99,NO,1-80,home
+81,https://www.pokemoncenter.com/en-ca/product/710-07573/pikachu-geometric-pokemon-home-accents-metal-wall-decor-2-pack,710-07573,Pikachu Geometric Pokémon Home Accents Metal Wall Decor (2-Pack),$97.99,YES,1-81,home
+82,https://www.pokemoncenter.com/en-ca/product/710-08930/pokemon-block-art-party-metal-table-caddy-centerpiece,710-08930,Pokémon Block Art Party Metal Table Caddy Centerpiece,$45.99,YES,1-82,home
+83,https://www.pokemoncenter.com/en-ca/product/710-08929/pokemon-block-art-party-ceramic-storage-jar,710-08929,Pokémon Block Art Party Ceramic Storage Jar,$32.99,YES,1-83,home
+84,https://www.pokemoncenter.com/en-ca/product/710-08927/pokemon-block-art-party-serving-tray,710-08927,Pokémon Block Art Party Serving Tray,$25.99,YES,1-84,home
+85,https://www.pokemoncenter.com/en-ca/product/710-08928/pokemon-block-art-party-tablecloth,710-08928,Pokémon Block Art Party Tablecloth,$32.99,YES,1-85,home
+86,https://www.pokemoncenter.com/en-ca/product/710-08926/pokemon-block-art-party-hanging-banner,710-08926,Pokémon Block Art Party Hanging Banner,$19.99,YES,1-86,home
+87,https://www.pokemoncenter.com/en-ca/product/710-08922/pokemon-block-art-party-napkins-4-pack,710-08922,Pokémon Block Art Party Napkins (4-Pack),$19.99,YES,1-87,home
+88,https://www.pokemoncenter.com/en-ca/product/710-08907/pokemon-home-accents-accent-rug,710-08907,Pokémon Home Accents Accent Rug,$38.99,NO,1-88,home
+89,https://www.pokemoncenter.com/en-ca/product/710-08932/pokemon-block-art-party-plates-4-pack,710-08932,Pokémon Block Art Party Plates (4-Pack),$29.99,NO,1-89,home
+90,https://www.pokemoncenter.com/en-ca/product/710-08903/pikachu-pokemon-home-accents-metal-wall-decor,710-08903,Pikachu Pokémon Home Accents Metal Wall Decor,$90.99,YES,1-90,home
+91,https://www.pokemoncenter.com/en-ca/product/710-08905/pokemon-home-accents-throw-pillow-covers-4-pack,710-08905,Pokémon Home Accents Throw Pillow Covers (4-Pack),$51.99,YES,2-1,home
+92,https://www.pokemoncenter.com/en-ca/product/710-08904/pokemon-home-accents-cube-pouf,710-08904,Pokémon Home Accents Cube Pouf,$51.99,YES,2-2,home
+93,https://www.pokemoncenter.com/en-ca/product/710-08902/pokemon-home-accents-lampshade,710-08902,Pokémon Home Accents Lampshade,$25.99,YES,2-3,home
+94,https://www.pokemoncenter.com/en-ca/product/710-08897/pokemon-home-accents-14-oz-mug,710-08897,Pokémon Home Accents 14 oz. Mug,$19.99,YES,2-4,home
+95,https://www.pokemoncenter.com/en-ca/product/710-08893/pokemon-home-accents-wastebasket,710-08893,Pokémon Home Accents Wastebasket,$38.99,YES,2-5,home
+96,https://www.pokemoncenter.com/en-ca/product/710-08895/pokemon-home-accents-desk-organizer,710-08895,Pokémon Home Accents Desk Organizer,$32.99,YES,2-6,home
+97,https://www.pokemoncenter.com/en-ca/product/710-08894/pokemon-home-accents-pencil-holder,710-08894,Pokémon Home Accents Pencil Holder,$19.99,YES,2-7,home
+98,https://www.pokemoncenter.com/en-ca/product/710-08898/pokemon-home-accents-fleece-throw,710-08898,Pokémon Home Accents Fleece Throw,$51.99,NO,2-8,home
+99,https://www.pokemoncenter.com/en-ca/product/710-08896/pikachu-pokemon-home-accents-metal-bookends-2-pack,710-08896,Pikachu Pokémon Home Accents Metal Bookends (2-Pack),$32.99,NO,2-9,home
+100,https://www.pokemoncenter.com/en-ca/product/707-29905/pokemon-primers-shapes-book,707-29905,Pokémon Primers: Shapes Book,$17.99,YES,2-10,home
+101,https://www.pokemoncenter.com/en-ca/product/707-29906/pokemon-primers-colors-book,707-29906,Pokémon Primers: Colors Book,$17.99,YES,2-11,home
+102,https://www.pokemoncenter.com/en-ca/product/710-09898/bidoof-zone-tin-sign,710-09898,Bidoof Zone Tin Sign,$25.99,NO,2-12,home
+103,https://www.pokemoncenter.com/en-ca/product/706-29049/pokemon-super-special-flip-book-galar-region-and-alola-region,706-29049,Pokémon Super Special Flip Book: Galar Region & Alola Region,$12.99,NO,2-13,home
+104,https://www.pokemoncenter.com/en-ca/product/706-29048/pokemon-super-special-flip-book-kalos-region-and-unova-region,706-29048,Pokémon Super Special Flip Book: Kalos Region & Unova Region,$12.99,NO,2-14,home
+105,https://www.pokemoncenter.com/en-ca/product/710-29263/pokemon-celebration-12-oz-stemless-glasses-2-pack,710-29263,Pokémon Celebration 12 oz. Stemless Glasses (2-Pack),$25.99,NO,2-15,home
+106,https://www.pokemoncenter.com/en-ca/product/710-08771/pokemon-summer-days-grilling-tool-set-3-pack,710-08771,Pokémon Summer Days Grilling Tool Set (3-Pack),$71.99,YES,2-16,home
+107,https://www.pokemoncenter.com/en-ca/product/710-08772/pokemon-summer-days-grilling-apron-one-size-adult,710-08772,Pokémon Summer Days Grilling Apron (One Size-Adult),$51.99,YES,2-17,home
+108,https://www.pokemoncenter.com/en-ca/product/710-08790/pokemon-center-bear-walker-snom-skateboard,710-08790,Pokémon Center × Bear Walker: Snom Skateboard,$324.99,YES,2-18,home
+109,https://www.pokemoncenter.com/en-ca/product/710-08788/pokemon-center-bear-walker-pancham-skateboard,710-08788,Pokémon Center × Bear Walker: Pancham Skateboard,$324.99,YES,2-19,home
+110,https://www.pokemoncenter.com/en-ca/product/710-08789/pokemon-center-bear-walker-pyukumuku-skateboard,710-08789,Pokémon Center × Bear Walker: Pyukumuku Skateboard,$324.99,YES,2-20,home
+111,https://www.pokemoncenter.com/en-ca/product/710-08785/psyduck-pokemon-summer-days-inner-tube,710-08785,Psyduck Pokémon Summer Days Inner Tube,$51.99,YES,2-21,home
+112,https://www.pokemoncenter.com/en-ca/product/710-08784/pikachu-pokemon-summer-days-inner-tube,710-08784,Pikachu Pokémon Summer Days Inner Tube,$51.99,YES,2-22,home
+113,https://www.pokemoncenter.com/en-ca/product/710-08768/pokemon-summer-days-beach-towel,710-08768,Pokémon Summer Days Beach Towel,$32.99,YES,2-23,home
+114,https://www.pokemoncenter.com/en-ca/product/710-08786/wailord-pokemon-summer-days-pool-float,710-08786,Wailord Pokémon Summer Days Pool Float,$77.99,YES,2-24,home
+115,https://www.pokemoncenter.com/en-ca/product/710-08787/snorlax-pokemon-summer-days-pool-float,710-08787,Snorlax Pokémon Summer Days Pool Float,$77.99,YES,2-25,home
+116,https://www.pokemoncenter.com/en-ca/product/710-06095/lapras-pokemon-sunset-pool-float,710-06095,Lapras Pokémon Sunset Pool Float,$77.99,NO,2-26,home
+117,https://www.pokemoncenter.com/en-ca/product/710-08775/pokemon-summer-days-insulated-can-holder,710-08775,Pokémon Summer Days Insulated Can Holder,$25.99,NO,2-27,home
+118,https://www.pokemoncenter.com/en-ca/product/710-08743/pilot-pokemon-charizard-sterling-fountain-pen,710-08743,Pilot × Pokémon: Charizard Sterling Fountain Pen,$778.99,YES,2-28,home
+119,https://www.pokemoncenter.com/en-ca/product/710-08744/pilot-pokemon-rayquaza-sterling-fountain-pen,710-08744,Pilot × Pokémon: Rayquaza Sterling Fountain Pen,$778.99,YES,2-29,home
+120,https://www.pokemoncenter.com/en-ca/product/710-08745/pilot-pokemon-pikachu-sterling-fountain-pen,710-08745,Pilot × Pokémon: Pikachu Sterling Fountain Pen,$779.99,NO,2-30,home
+121,https://www.pokemoncenter.com/en-ca/product/710-09881/lapras-mountains-black-framed-wall-art,710-09881,Lapras Mountains Black Framed Wall Art,$77.99,YES,2-31,home
+122,https://www.pokemoncenter.com/en-ca/product/710-09884/pokemon-winter-sunset-framed-wall-art,710-09884,Pokémon Winter Sunset Framed Wall Art,$77.99,YES,2-32,home
+123,https://www.pokemoncenter.com/en-ca/product/710-09882/lapras-mountains-orange-framed-wall-art,710-09882,Lapras Mountains Orange Framed Wall Art,$77.99,YES,2-33,home
+124,https://www.pokemoncenter.com/en-ca/product/710-09885/pokemon-summer-sunset-framed-wall-art,710-09885,Pokémon Summer Sunset Framed Wall Art,$77.99,YES,2-34,home
+125,https://www.pokemoncenter.com/en-ca/product/710-09886/pikachu-and-eevee-canvas-wall-art,710-09886,Pikachu & Eevee Canvas Wall Art,$51.99,YES,2-35,home
+126,https://www.pokemoncenter.com/en-ca/product/710-09883/pikachu-and-eevee-geometry-canvas-wall-art,710-09883,Pikachu & Eevee Geometry Canvas Wall Art,$51.99,YES,2-36,home
+127,https://www.pokemoncenter.com/en-ca/product/710-09017/maractus-pokemon-gardening-statue,710-09017,Maractus Pokémon Gardening Statue,$32.99,YES,2-37,home
+128,https://www.pokemoncenter.com/en-ca/product/710-09015/bulbasaur-pokemon-gardening-planter,710-09015,Bulbasaur Pokémon Gardening Planter,$32.99,NO,2-38,home
+129,https://www.pokemoncenter.com/en-ca/product/710-09018/pikachu-female-pokemon-gardening-statue,710-09018,Pikachu (Female) Pokémon Gardening Statue,$32.99,NO,2-39,home
+130,https://www.pokemoncenter.com/en-ca/product/710-09016/oddish-pokemon-gardening-statue,710-09016,Oddish Pokémon Gardening Statue,$32.99,NO,2-40,home
+131,https://www.pokemoncenter.com/en-ca/product/710-09012/pikachu-pokemon-gardening-planter,710-09012,Pikachu Pokémon Gardening Planter,$32.99,NO,2-41,home
+132,https://www.pokemoncenter.com/en-ca/product/710-09019/pikachu-male-pokemon-gardening-statue,710-09019,Pikachu (Male) Pokémon Gardening Statue,$32.99,NO,2-42,home
+133,https://www.pokemoncenter.com/en-ca/product/710-09013/charmander-pokemon-gardening-planter,710-09013,Charmander Pokémon Gardening Planter,$32.99,NO,2-43,home
+134,https://www.pokemoncenter.com/en-ca/product/710-09014/squirtle-pokemon-gardening-planter,710-09014,Squirtle Pokémon Gardening Planter,$32.99,NO,2-44,home
+135,https://www.pokemoncenter.com/en-ca/product/710-08885/charizard-kanto-final-evolution-bookend,710-08885,Charizard Kanto Final Evolution Bookend,$38.99,YES,2-45,home
+136,https://www.pokemoncenter.com/en-ca/product/710-08886/slumbering-snorlax-bookends-2-piece,710-08886,Slumbering Snorlax Bookends (2-Piece),$58.99,YES,2-46,home
+137,https://www.pokemoncenter.com/en-ca/product/710-08883/blastoise-kanto-final-evolution-bookend,710-08883,Blastoise Kanto Final Evolution Bookend,$38.99,YES,2-47,home
+138,https://www.pokemoncenter.com/en-ca/product/710-08884/venusaur-kanto-final-evolution-bookend,710-08884,Venusaur Kanto Final Evolution Bookend,$38.99,YES,2-48,home
+139,https://www.pokemoncenter.com/en-ca/product/707-09367/pokemon-primers-abc-book,707-09367,Pokémon Primers: ABC Book,$16.99,YES,2-49,home
+140,https://www.pokemoncenter.com/en-ca/product/707-09009/pokemon-primers-123-book,707-09009,Pokémon Primers: 123 Book,$17.99,YES,2-50,home
+141,https://www.pokemoncenter.com/en-ca/product/710-09346/graduation-pikachu-celebration-2021-pokemon-pin-and-greeting-card,710-09346,Graduation Pikachu Celebration 2021 Pokémon Pin & Greeting Card,$12.99,YES,2-51,home
+142,https://www.pokemoncenter.com/en-ca/product/710-09347/graduation-pikachu-celebration-2021-pokemon-pin-and-greeting-card-evergreen,710-09347,Graduation Pikachu Celebration 2021 Pokémon Pin & Greeting Card (Evergreen),$12.99,NO,2-52,home
+143,https://www.pokemoncenter.com/en-ca/product/710-09345/graduation-pikachu-celebration-2021-pokemon-pins-and-greeting-card,710-09345,Graduation Pikachu Celebration 2021 Pokémon Pins & Greeting Card,$18.99,NO,2-53,home
+144,https://www.pokemoncenter.com/en-ca/product/710-08793/pokemon-celebration-mouse-pad,710-08793,Pokémon Celebration Mouse Pad,$12.99,NO,2-54,home
+145,https://www.pokemoncenter.com/en-ca/product/710-09375/mimosa-e-pokemon-large-notebook-by-moleskine,710-09375,Mimosa e Pokémon Large Notebook by Moleskine,$44.99,YES,2-55,home
+146,https://www.pokemoncenter.com/en-ca/product/710-09374/mimosa-e-pokemon-pocket-size-notebook-by-moleskine,710-09374,Mimosa e Pokémon Pocket-Size Notebook by Moleskine,$29.99,NO,2-56,home
+147,https://www.pokemoncenter.com/en-ca/product/710-07977/pikachu-kitchen-ceramic-salt-and-pepper-shaker-set,710-07977,Pikachu Kitchen Ceramic Salt & Pepper Shaker Set,$25.99,YES,2-57,home
+148,https://www.pokemoncenter.com/en-ca/product/710-07981/pikachu-kitchen-ceramic-treat-jar,710-07981,Pikachu Kitchen Ceramic Treat Jar,$51.99,YES,2-58,home
+149,https://www.pokemoncenter.com/en-ca/product/710-07976/pikachu-kitchen-ceramic-butter-dish,710-07976,Pikachu Kitchen Ceramic Butter Dish,$32.99,YES,2-59,home
+150,https://www.pokemoncenter.com/en-ca/product/710-07980/pikachu-kitchen-ceramic-mixing-bowls-3-piece,710-07980,Pikachu Kitchen Ceramic Mixing Bowls (3-Piece),$77.99,YES,2-60,home
+151,https://www.pokemoncenter.com/en-ca/product/710-07978/pikachu-kitchen-ceramic-utensil-holder,710-07978,Pikachu Kitchen Ceramic Utensil Holder,$45.99,YES,2-61,home
+152,https://www.pokemoncenter.com/en-ca/product/710-07974/pikachu-kitchen-ceramic-pie-dish,710-07974,Pikachu Kitchen Ceramic Pie Dish,$38.99,YES,2-62,home
+153,https://www.pokemoncenter.com/en-ca/product/710-07975/pikachu-kitchen-ceramic-baking-dishes-2-pack,710-07975,Pikachu Kitchen Ceramic Baking Dishes (2-Pack),$71.99,YES,2-63,home
+154,https://www.pokemoncenter.com/en-ca/product/710-07979/pikachu-kitchen-ceramic-serving-plate,710-07979,Pikachu Kitchen Ceramic Serving Plate,$45.99,YES,2-64,home
+155,https://www.pokemoncenter.com/en-ca/product/710-08807/pokemon-celebration-16-oz-insulated-tumbler,710-08807,Pokémon Celebration 16 oz. Insulated Tumbler,$38.99,NO,2-65,home
+156,https://www.pokemoncenter.com/en-ca/product/710-08805/pokemon-celebration-12-oz-stemless-glasses-2-pack,710-08805,Pokémon Celebration 12 oz. Stemless Glasses (2-Pack),$25.99,NO,2-66,home
+157,https://www.pokemoncenter.com/en-ca/product/710-08800/pokemon-celebration-poster,710-08800,Pokémon Celebration Poster,$12.99,NO,2-67,home
+158,https://www.pokemoncenter.com/en-ca/product/710-08808/pokemon-celebration-10-oz-insulated-tumbler,710-08808,Pokémon Celebration 10 oz. Insulated Tumbler,$38.99,NO,2-68,home
+159,https://www.pokemoncenter.com/en-ca/product/710-08806/pokemon-celebration-11-oz-stemless-glasses-2-pack,710-08806,Pokémon Celebration 11 ½ oz. Stemless Glasses (2-Pack),$25.99,NO,2-69,home
+160,https://www.pokemoncenter.com/en-ca/product/710-09309/master-ball-by-the-wand-company,710-09309,Master Ball by The Wand Company,$155.99,NO,2-70,home
+161,https://www.pokemoncenter.com/en-ca/product/703-06308/pokemon-celebration-express-electric-model-train-by-lionel,703-06308,Pokémon Celebration Express Electric Model Train by Lionel,$519.99,NO,2-71,home
+162,https://www.pokemoncenter.com/en-ca/product/707-09011/pokemon-official-galar-region-activity-book,707-09011,Pokémon Official Galar Region Activity Book,$17.99,YES,2-72,home
+163,https://www.pokemoncenter.com/en-ca/product/710-08653/pokemon-greatest-hits-posters-10-pack,710-08653,Pokémon Greatest Hits Posters (10-Pack),$51.99,YES,2-73,home
+164,https://www.pokemoncenter.com/en-ca/product/707-09010/pokemon-the-official-sticker-book-of-the-galar-region,707-09010,Pokémon: The Official Sticker Book of the Galar Region,$17.99,YES,2-74,home
+165,https://www.pokemoncenter.com/en-ca/product/710-08742/pokemon-center-bear-walker-pikachu-25th-celebration-skateboard,710-08742,Pokémon Center × Bear Walker: Pikachu 25th Celebration Skateboard,$324.99,NO,2-75,home
+166,https://www.pokemoncenter.com/en-ca/product/707-09005/pokemon-size-chart-collection-kanto-to-alola,707-09005,Pokémon Size Chart Collection: Kanto to Alola,$32.99,YES,2-76,home
+167,https://www.pokemoncenter.com/en-ca/product/707-09006/pokemon-epic-sticker-collection-from-kanto-to-alola,707-09006,Pokémon Epic Sticker Collection: From Kanto to Alola,$19.99,YES,2-77,home
+168,https://www.pokemoncenter.com/en-ca/product/707-09004/pokemon-origami-fold-your-own-alola-region-pokemon,707-09004,Pokémon Origami: Fold Your Own Alola Region Pokémon,$17.99,YES,2-78,home
+169,https://www.pokemoncenter.com/en-ca/product/707-09007/pokemon-alola-region-sticker-book,707-09007,Pokémon Alola Region Sticker Book,$17.99,YES,2-79,home
+170,https://www.pokemoncenter.com/en-ca/product/707-09008/pokemon-alola-region-activity-book,707-09008,Pokémon Alola Region Activity Book,$17.99,YES,2-80,home
+171,https://www.pokemoncenter.com/en-ca/product/710-07999/pikachu-and-mew-admiration-blue-pokemon-pins-and-greeting-card,710-07999,Pikachu & Mew Admiration Blue Pokémon Pins & Greeting Card,$19.99,NO,2-81,home
+172,https://www.pokemoncenter.com/en-ca/product/710-08000/pikachu-and-mew-admiration-yellow-pokemon-pins-and-greeting-card,710-08000,Pikachu & Mew Admiration Yellow Pokémon Pins & Greeting Card,$19.99,NO,2-82,home
+173,https://www.pokemoncenter.com/en-ca/product/710-08378/pokemon-active-pikachu-17-oz-stainless-steel-water-bottle,710-08378,Pokémon Active Pikachu 17 oz. Stainless Steel Water Bottle,$32.99,NO,2-83,home
+174,https://www.pokemoncenter.com/en-ca/product/710-08056/pokemon-holiday-and-home-snow-globe,710-08056,Pokémon Holiday & Home Snow Globe,$32.99,NO,2-84,home
+175,https://www.pokemoncenter.com/en-ca/product/710-08598/pikachu-electric-new-year-2021-pokemon-pin-and-greeting-card,710-08598,Pikachu Electric New Year 2021 Pokémon Pin & Greeting Card,$12.99,NO,2-85,home
+176,https://www.pokemoncenter.com/en-ca/product/710-08599/pikachu-new-year-celebration-2021-pokemon-pin-and-greeting-card,710-08599,Pikachu New Year Celebration 2021 Pokémon Pin & Greeting Card,$12.99,NO,2-86,home
+177,https://www.pokemoncenter.com/en-ca/product/710-08054/pikachu-and-eevee-pokemon-holiday-and-home-candleholders-2-pack,710-08054,Pikachu & Eevee Pokémon Holiday & Home Candleholders (2-Pack),$25.99,YES,2-87,home
+178,https://www.pokemoncenter.com/en-ca/product/710-07989/pokemon-winter-wonders-gray-stocking,710-07989,Pokémon Winter Wonders Gray Stocking,$25.99,YES,2-88,home
+179,https://www.pokemoncenter.com/en-ca/product/710-08064/pikachu-kitchen-measuring-spoons-4-pack,710-08064,Pikachu Kitchen Measuring Spoons (4-Pack),$18.99,YES,2-89,home
+180,https://www.pokemoncenter.com/en-ca/product/710-08065/pikachu-kitchen-cookie-stamps-4-pack,710-08065,Pikachu Kitchen Cookie Stamps (4-Pack),$19.99,YES,2-90,home
+181,https://www.pokemoncenter.com/en-ca/product/710-08063/pikachu-kitchen-spatulas-2-pack,710-08063,Pikachu Kitchen Spatulas (2-Pack),$25.99,YES,3-1,home
+182,https://www.pokemoncenter.com/en-ca/product/710-07972/pikachu-kitchen-dish-towels-2-pack,710-07972,Pikachu Kitchen Dish Towels (2-Pack),$25.99,YES,3-2,home
+183,https://www.pokemoncenter.com/en-ca/product/710-07986/pokemon-winter-wonders-flameless-candles-3-pack,710-07986,Pokémon Winter Wonders Flameless Candles (3-Pack),$25.99,YES,3-3,home
+184,https://www.pokemoncenter.com/en-ca/product/710-08062/pikachu-kitchen-cutting-board,710-08062,Pikachu Kitchen Cutting Board,$25.99,YES,3-4,home
+185,https://www.pokemoncenter.com/en-ca/product/710-07996/pokemon-winter-wonders-sherpa-throw,710-07996,Pokémon Winter Wonders Sherpa Throw,$51.99,YES,3-5,home
+186,https://www.pokemoncenter.com/en-ca/product/710-07985/pokemon-winter-wonders-ceramic-mug-and-plate-set,710-07985,Pokémon Winter Wonders Ceramic Mug & Plate Set,$45.99,YES,3-6,home
+187,https://www.pokemoncenter.com/en-ca/product/710-07998/pokemon-winter-wonders-black-throw-pillow,710-07998,Pokémon Winter Wonders Black Throw Pillow,$32.99,YES,3-7,home
+188,https://www.pokemoncenter.com/en-ca/product/710-07982/pokemon-winter-wonders-napkin-rings-4-pack,710-07982,Pokémon Winter Wonders Napkin Rings (4-Pack),$25.99,YES,3-8,home
+189,https://www.pokemoncenter.com/en-ca/product/710-07984/pokemon-winter-wonders-ceramic-serving-plate,710-07984,Pokémon Winter Wonders Ceramic Serving Plate,$45.99,YES,3-9,home
+190,https://www.pokemoncenter.com/en-ca/product/710-07995/pokemon-winter-wonders-white-throw-pillow,710-07995,Pokémon Winter Wonders White Throw Pillow,$32.99,YES,3-10,home
+191,https://www.pokemoncenter.com/en-ca/product/710-07983/pokemon-winter-wonders-cloth-napkins-4-pack,710-07983,Pokémon Winter Wonders Cloth Napkins (4-Pack),$32.99,YES,3-11,home
+192,https://www.pokemoncenter.com/en-ca/product/710-07987/pokemon-winter-wonders-table-runner,710-07987,Pokémon Winter Wonders Table Runner,$38.99,YES,3-12,home
+193,https://www.pokemoncenter.com/en-ca/product/710-07994/pokemon-winter-wonders-ornaments-2-pack,710-07994,Pokémon Winter Wonders Ornaments (2-Pack),$32.99,YES,3-13,home
+194,https://www.pokemoncenter.com/en-ca/product/710-07988/pokemon-winter-wonders-ceramic-picture-frame,710-07988,Pokémon Winter Wonders Ceramic Picture Frame,$19.99,YES,3-14,home
+195,https://www.pokemoncenter.com/en-ca/product/710-07993/pokemon-winter-wonders-tree-skirt,710-07993,Pokémon Winter Wonders Tree Skirt,$51.99,YES,3-15,home
+196,https://www.pokemoncenter.com/en-ca/product/710-07990/pokemon-winter-wonders-black-stocking,710-07990,Pokémon Winter Wonders Black Stocking,$25.99,YES,3-16,home
+197,https://www.pokemoncenter.com/en-ca/product/710-07992/pokemon-winter-wonders-blue-stocking,710-07992,Pokémon Winter Wonders Blue Stocking,$25.99,YES,3-17,home
+198,https://www.pokemoncenter.com/en-ca/product/710-07991/pokemon-winter-wonders-white-stocking,710-07991,Pokémon Winter Wonders White Stocking,$25.99,YES,3-18,home
+199,https://www.pokemoncenter.com/en-ca/product/710-07997/pikachu-kitchen-apron-one-size-adult,710-07997,Pikachu Kitchen Apron (One Size-Adult),$45.99,NO,3-19,home
+200,https://www.pokemoncenter.com/en-ca/product/710-07275/pumpkin-gengar-pokemon-halloween-ceramic-tea-light-holder-10-in,710-07275,Pumpkin Gengar Pokémon Halloween Ceramic Tea Light Holder - 10 ½ In.,$45.99,NO,3-20,home
+201,https://www.pokemoncenter.com/en-ca/product/710-07274/pumpkin-pikachu-pokemon-halloween-ceramic-tea-light-holder-8-in,710-07274,Pumpkin Pikachu Pokémon Halloween Ceramic Tea Light Holder - 8 In.,$45.99,NO,3-21,home
+202,https://www.pokemoncenter.com/en-ca/product/710-08060/pikachu-pokemon-holiday-and-home-ornament,710-08060,Pikachu Pokémon Holiday & Home Ornament,$19.99,YES,3-22,home
+203,https://www.pokemoncenter.com/en-ca/product/710-08059/eevee-pokemon-holiday-and-home-ornament,710-08059,Eevee Pokémon Holiday & Home Ornament,$19.99,YES,3-23,home
+204,https://www.pokemoncenter.com/en-ca/product/710-08053/delibird-pokemon-holiday-and-home-sign,710-08053,Delibird Pokémon Holiday & Home Sign,$25.99,YES,3-24,home
+205,https://www.pokemoncenter.com/en-ca/product/710-08046/pokemon-holiday-and-home-throw-pillow,710-08046,Pokémon Holiday & Home Throw Pillow,$32.99,YES,3-25,home
+206,https://www.pokemoncenter.com/en-ca/product/710-08051/charmander-pokemon-holiday-and-home-stocking,710-08051,Charmander Pokémon Holiday & Home Stocking,$25.99,YES,3-26,home
+207,https://www.pokemoncenter.com/en-ca/product/710-08048/squirtle-pokemon-holiday-and-home-stocking,710-08048,Squirtle Pokémon Holiday & Home Stocking,$25.99,YES,3-27,home
+208,https://www.pokemoncenter.com/en-ca/product/710-08055/moomoo-milk-pokemon-holiday-and-home-bottle-and-plate-set-4-piece,710-08055,Moomoo Milk Pokémon Holiday & Home Bottle & Plate Set (4-Piece),$19.99,NO,3-28,home
+209,https://www.pokemoncenter.com/en-ca/product/710-08052/moomoo-milk-pokemon-holiday-and-home-sign,710-08052,Moomoo Milk Pokémon Holiday & Home Sign,$25.99,NO,3-29,home
+210,https://www.pokemoncenter.com/en-ca/product/710-08047/pokemon-holiday-and-home-sherpa-throw,710-08047,Pokémon Holiday & Home Sherpa Throw,$51.99,NO,3-30,home
+211,https://www.pokemoncenter.com/en-ca/product/710-08049/bulbasaur-pokemon-holiday-and-home-stocking,710-08049,Bulbasaur Pokémon Holiday & Home Stocking,$25.99,NO,3-31,home
+212,https://www.pokemoncenter.com/en-ca/product/710-08050/pikachu-pokemon-holiday-and-home-stocking,710-08050,Pikachu Pokémon Holiday & Home Stocking,$25.99,NO,3-32,home
+213,https://www.pokemoncenter.com/en-ca/product/710-08392/haunted-pokemon-village-window-clings-5-pack,710-08392,Haunted Pokémon Village Window Clings (5-Pack),$25.99,YES,3-33,home
+214,https://www.pokemoncenter.com/en-ca/product/710-08396/haunted-pokemon-village-gengar-house-tin-sign,710-08396,Haunted Pokémon Village: Gengar House Tin Sign,$25.99,NO,3-34,home
+215,https://www.pokemoncenter.com/en-ca/product/710-08395/haunted-pokemon-village-poster,710-08395,Haunted Pokémon Village Poster,$12.99,NO,3-35,home
+216,https://www.pokemoncenter.com/en-ca/product/703-05970/haunted-pokemon-village-gengar-house-figure,703-05970,Haunted Pokémon Village: Gengar House Figure,$51.99,NO,3-36,home
+217,https://www.pokemoncenter.com/en-ca/product/703-05968/haunted-pokemon-village-mismagius-charm-shop-figure,703-05968,Haunted Pokémon Village: Mismagius Charm Shop Figure,$51.99,NO,3-37,home
+218,https://www.pokemoncenter.com/en-ca/product/703-05969/haunted-pokemon-village-mimikyu-s-costume-shop-figure,703-05969,Haunted Pokémon Village: Mimikyu's Costume Shop Figure,$51.99,NO,3-38,home
+219,https://www.pokemoncenter.com/en-ca/product/703-05971/haunted-pokemon-village-cofagrigus-crypt-figure,703-05971,Haunted Pokémon Village: Cofagrigus Crypt Figure,$51.99,NO,3-39,home
+220,https://www.pokemoncenter.com/en-ca/product/710-07578/pokemon-accents-unown-planters-4-pack,710-07578,Pokémon Accents: Unown Planters (4-Pack),$19.99,NO,3-40,home
+221,https://www.pokemoncenter.com/en-ca/product/710-07584/pokemon-accents-pikachu-planters-4-pack,710-07584,Pokémon Accents: Pikachu Planters (4-Pack),$19.99,NO,3-41,home
+222,https://www.pokemoncenter.com/en-ca/product/710-06646/pokemon-accents-pikachu-sherpa-throw,710-06646,Pokémon Accents: Pikachu Sherpa Throw,$51.99,NO,3-42,home
+223,https://www.pokemoncenter.com/en-ca/product/710-06647/pokemon-accents-unown-sherpa-throw,710-06647,Pokémon Accents: Unown Sherpa Throw,$51.99,NO,3-43,home
+224,https://www.pokemoncenter.com/en-ca/product/710-08197/destination-pokemon-posters-8-pack,710-08197,Destination Pokémon Posters (8-Pack),$51.99,NO,3-44,home
+225,https://www.pokemoncenter.com/en-ca/product/710-08196/galar-region-destination-pokemon-poster,710-08196,Galar Region Destination Pokémon Poster,$12.99,NO,3-45,home
+226,https://www.pokemoncenter.com/en-ca/product/710-06089/pokemon-sunset-mesh-beach-bag,710-06089,Pokémon Sunset Mesh Beach Bag,$32.99,NO,3-46,home
+227,https://www.pokemoncenter.com/en-ca/product/710-05393/graduation-pikachu-2020-pokemon-pin-and-greeting-card,710-05393,Graduation Pikachu 2020 Pokémon Pin & Greeting Card,$10.49,NO,3-47,home
+228,https://www.pokemoncenter.com/en-ca/product/707-38206/pokemon-sword-and-pokemon-shield-the-official-galar-region-strategy-guide-collector-s-edition,707-38206,Pokémon Sword & Pokémon Shield: The Official Galar Region Strategy Guide (Collector's Edition),$51.99,NO,3-48,home
+229,https://www.pokemoncenter.com/en-ca/product/707-38204/pokemon-sword-and-pokemon-shield-the-official-galar-region-strategy-guide,707-38204,Pokémon Sword & Pokémon Shield: The Official Galar Region Strategy Guide,$32.99,NO,3-49,home
+230,https://www.pokemoncenter.com/en-ca/product/703-05281/delibird-holiday-express-pikachu-engine-figure,703-05281,Delibird Holiday Express Pikachu Engine Figure,$51.99,YES,3-50,home
+231,https://www.pokemoncenter.com/en-ca/product/710-04940/pikachu-and-eevee-pokemon-holiday-tree-skirt,710-04940,Pikachu & Eevee Pokémon Holiday Tree Skirt,$64.99,YES,3-51,home
+232,https://www.pokemoncenter.com/en-ca/product/710-04876/eevee-pokemon-holiday-ornament,710-04876,Eevee Pokémon Holiday Ornament,$22.99,NO,3-52,home
+233,https://www.pokemoncenter.com/en-ca/product/710-05370/pokemon-holiday-lights-postcards-10-pack,710-05370,Pokémon Holiday Lights Postcards (10-Pack),$16.99,NO,3-53,home
+234,https://www.pokemoncenter.com/en-ca/product/710-05148/grookey-galar-first-partner-felted-wool-banner,710-05148,Grookey Galar First Partner Felted Wool Banner,$51.99,YES,3-54,home
+235,https://www.pokemoncenter.com/en-ca/product/710-05083/scorbunny-galar-first-partner-12-oz-mug,710-05083,Scorbunny Galar First Partner 12 oz. Mug,$19.99,NO,3-55,home
+236,https://www.pokemoncenter.com/en-ca/product/710-05276/galar-friends-12-oz-stainless-steel-camper-mug,710-05276,Galar Friends 12 oz. Stainless Steel Camper Mug,$32.99,NO,3-56,home
+237,https://www.pokemoncenter.com/en-ca/product/710-05085/grookey-galar-first-partner-12-oz-mug,710-05085,Grookey Galar First Partner 12 oz. Mug,$19.99,NO,3-57,home
+238,https://www.pokemoncenter.com/en-ca/product/710-04336/pumpkin-pikachu-pokemon-halloween-ceramic-tea-light-holders-2-pack,710-04336,Pumpkin Pikachu Pokémon Halloween Ceramic Tea Light Holders (2-Pack),$45.99,NO,3-58,home
+239,https://www.pokemoncenter.com/en-ca/product/710-04722/mewtwo-legendary-code-skateboard-deck,710-04722,Mewtwo Legendary Code Skateboard Deck,$129.99,NO,3-59,home
+240,https://www.pokemoncenter.com/en-ca/product/707-04423/the-art-and-making-of-pokemon-detective-pikachu,707-04423,The Art and Making of POKÉMON Detective Pikachu,$110.99,NO,3-60,home
+241,https://www.pokemoncenter.com/en-ca/product/710-04593/pokemon-detective-pikachu-hi-hat-cafe-14-oz-mug,710-04593,POKÉMON Detective Pikachu Hi-Hat Cafe 14 oz. Mug,$19.99,YES,3-61,home
+242,https://www.pokemoncenter.com/en-ca/product/710-04599/pokemon-detective-pikachu-watch-area-metal-sign,710-04599,POKÉMON Detective Pikachu Watch Area Metal Sign,$22.99,YES,3-62,home
+243,https://www.pokemoncenter.com/en-ca/product/710-03921/gardevoir-moonlight-masquerade-d-ring-binder-1-in,710-03921,Gardevoir Moonlight Masquerade D-Ring Binder - 1 In.,$22.99,NO,3-63,home
+244,https://www.pokemoncenter.com/en-ca/product/710-03057/electric-rock-27-oz-water-bottle,710-03057,Electric Rock 27 oz. Water Bottle,$19.99,NO,3-64,home
+245,https://www.pokemoncenter.com/en-ca/product/710-03096/graduation-pikachu-greeting-card-and-pokemon-pins,710-03096,Graduation Pikachu Greeting Card & Pokémon Pins,$18.99,NO,3-65,home
+246,https://www.pokemoncenter.com/en-ca/product/705-03303/pokemon-tcg-rotom-dex-d-ring-binder-1-in,705-03303,Pokémon TCG: Rotom Dex D-Ring Binder - 1 In.,$22.99,NO,3-66,home
+247,https://www.pokemoncenter.com/en-ca/product/710-03345/vaporeon-jolteon-and-flareon-triple-threat-fleece-throw,710-03345,Vaporeon, Jolteon & Flareon Triple Threat Fleece Throw,$51.99,NO,3-67,home
+248,https://www.pokemoncenter.com/en-ca/product/710-03333/rockruff-24-oz-liberty-bottle,710-03333,Rockruff 24 oz. Liberty Bottle,$28.99,NO,3-68,home
+249,https://www.pokemoncenter.com/en-ca/product/710-03310/vulpix-frozen-forest-fleece-throw,710-03310,Vulpix Frozen Forest Fleece Throw,$51.99,NO,3-69,home
+250,https://www.pokemoncenter.com/en-ca/product/705-03295/pokemon-tcg-pikachu-scroll-painting-d-ring-binder-1-in,705-03295,Pokémon TCG: Pikachu Scroll Painting D-Ring Binder - 1 In.,$22.99,NO,3-70,home
+251,https://www.pokemoncenter.com/en-ca/product/705-03296/pokemon-tcg-pikachu-and-mimikyu-d-ring-binder-1-in,705-03296,Pokémon TCG: Pikachu & Mimikyu D-Ring Binder - 1 In.,$22.99,NO,3-71,home
+252,https://www.pokemoncenter.com/en-ca/product/710-03172/snoozing-snorlax-16-oz-mug,710-03172,Snoozing Snorlax 16 oz. Mug,$19.99,NO,3-72,home
+253,https://www.pokemoncenter.com/en-ca/product/710-03202/johto-premium-gym-badge-set,710-03202,Johto Premium Gym Badge Set,$233.99,NO,3-73,home
+254,https://www.pokemoncenter.com/en-ca/product/705-03161/pokemon-tcg-ditto-as-d-ring-binder-1-in,705-03161,Pokémon TCG: Ditto As D-Ring Binder - 1 In.,$22.99,NO,3-74,home
+255,https://www.pokemoncenter.com/en-ca/product/710-03243/port-of-vermilion-city-traditional-ukiyo-e-woodblock-print,710-03243,Port of Vermilion City Traditional Ukiyo-e Woodblock Print,$584.99,NO,3-75,home
+256,https://www.pokemoncenter.com/en-ca/product/710-03244/silence-bridge-traditional-ukiyo-e-woodblock-print,710-03244,Silence Bridge Traditional Ukiyo-e Woodblock Print,$584.99,NO,3-76,home
+257,https://www.pokemoncenter.com/en-ca/product/710-03168/rowlet-floral-flight-mug,710-03168,Rowlet Floral Flight Mug,$19.99,NO,3-77,home
+258,https://www.pokemoncenter.com/en-ca/product/710-02567/rotom-mystery-room-24-oz-liberty-bottle,710-02567,Rotom Mystery Room 24 oz. Liberty Bottle,$28.99,NO,3-78,home
+259,https://www.pokemoncenter.com/en-ca/product/710-00163/eevee-egg-shaped-plush-cushion-17-in,710-00163,Eevee Egg-Shaped Plush Cushion - 17 In.,$38.99,NO,3-79,home
+260,https://www.pokemoncenter.com/en-ca/product/710-02318/pokemon-amie-substitute-fleece-throw,710-02318,Pokémon-Amie Substitute Fleece Throw,$51.99,NO,3-80,home
+261,https://www.pokemoncenter.com/en-ca/product/710-02420/solgaleo-and-lunala-24-oz-liberty-bottle,710-02420,Solgaleo & Lunala 24 oz. Liberty Bottle,$28.99,YES,3-81,home
+262,https://www.pokemoncenter.com/en-ca/product/710-02134/lucario-eclipse-travel-mug,710-02134,Lucario Eclipse Travel Mug,$38.99,NO,3-82,home
+263,https://www.pokemoncenter.com/en-ca/product/710-02207/poke-doll-mythical-mania-liberty-bottle,710-02207,Poké Doll Mythical Mania Liberty Bottle,$28.99,NO,3-83,home
+264,https://www.pokemoncenter.com/en-ca/product/710-02049/growlithe-hip-pop-parade-mug-12-oz,710-02049,Growlithe Hip Pop Parade Mug - 12 oz.,$19.99,NO,3-84,home
+265,https://www.pokemoncenter.com/en-ca/product/710-02048/growlithe-hip-pop-parade-spiral-notebook-200-pages,710-02048,Growlithe Hip Pop Parade Spiral Notebook (200 Pages),$25.99,NO,3-85,home
+266,https://www.pokemoncenter.com/en-ca/product/710-02336/rowlet-litten-and-popplio-alola-first-partner-24-oz-liberty-bottle,710-02336,Rowlet, Litten & Popplio Alola First Partner 24 oz. Liberty Bottle,$28.99,NO,3-86,home
+267,https://www.pokemoncenter.com/en-ca/product/710-02305/silhouette-sync-pikachu-mug,710-02305,Silhouette Sync Pikachu Mug,$19.99,NO,3-87,home
+268,https://www.pokemoncenter.com/en-ca/product/710-02024/bellossom-tropics-spiral-journal-200-pages,710-02024,Bellossom Tropics Spiral Journal (200 Pages),$25.99,YES,3-88,home
+269,https://www.pokemoncenter.com/en-ca/product/710-02025/bellossom-tropics-24-oz-liberty-bottle,710-02025,Bellossom Tropics 24 oz. Liberty Bottle,$28.99,NO,3-89,home
+270,https://www.pokemoncenter.com/en-ca/product/710-01974/hip-pop-parade-spiral-notebook-200-pages,710-01974,Hip Pop Parade Spiral Notebook (200 Pages),$25.99,YES,3-90,home
+271,https://www.pokemoncenter.com/en-ca/product/710-01975/hip-pop-parade-mug,710-01975,Hip Pop Parade Mug,$19.99,NO,4-1,home
+272,https://www.pokemoncenter.com/en-ca/product/710-01927/zoroark-eclipse-travel-mug,710-01927,Zoroark Eclipse Travel Mug,$38.99,NO,4-2,home
+273,https://www.pokemoncenter.com/en-ca/product/710-01861/johto-cuties-ceramic-mug,710-01861,Johto Cuties Ceramic Mug,$19.99,NO,4-3,home
+274,https://www.pokemoncenter.com/en-ca/product/710-01859/pikachu-comic-style-spiral-notebook-200-pages,710-01859,Pikachu Comic-Style Spiral Notebook (200 Pages),$25.99,NO,4-4,home
+275,https://www.pokemoncenter.com/en-ca/product/710-01348/darkrai-framed-art-print-by-ken-sugimori,710-01348,Darkrai Framed Art Print by Ken Sugimori,$324.99,NO,4-5,home
+276,https://www.pokemoncenter.com/en-ca/product/710-01349/n-s-reshiram-framed-art-print-by-ken-sugimori,710-01349,N's Reshiram Framed Art Print by Ken Sugimori,$324.99,NO,4-6,home
+277,https://www.pokemoncenter.com/en-ca/product/710-01350/n-s-zekrom-framed-art-print-by-ken-sugimori,710-01350,N's Zekrom Framed Art Print by Ken Sugimori,$324.99,NO,4-7,home
+278,https://www.pokemoncenter.com/en-ca/product/710-01603/we-re-goomy-ceramic-mug,710-01603,We're Goomy Ceramic Mug,$19.99,NO,4-8,home
+279,https://www.pokemoncenter.com/en-ca/product/710-01404/team-magma-glass-tumbler,710-01404,Team Magma Glass Tumbler,$19.99,NO,4-9,home
+280,https://www.pokemoncenter.com/en-ca/product/710-01641/slowpoke-glass-tumbler,710-01641,Slowpoke Glass Tumbler,$19.99,NO,4-10,home
+281,https://www.pokemoncenter.com/en-ca/product/710-01640/slowpoke-spiral-notebook-200-pages,710-01640,Slowpoke Spiral Notebook (200 Pages),$25.99,NO,4-11,home
+282,https://www.pokemoncenter.com/en-ca/product/710-01346/rayquaza-framed-art-print-by-ken-sugimori,710-01346,Rayquaza Framed Art Print by Ken Sugimori,$324.99,NO,4-12,home
+283,https://www.pokemoncenter.com/en-ca/product/710-01298/eevee-essences-wall-graphics-set-of-9,710-01298,Eevee Essences Wall Graphics (Set of 9),$129.99,NO,4-13,home
+284,https://www.pokemoncenter.com/en-ca/product/710-01301/flareon-jolteon-vaporeon-eevee-elements-glass-tumbler,710-01301,Flareon Jolteon Vaporeon Eevee Elements Glass Tumbler,$19.99,NO,4-14,home
+285,https://www.pokemoncenter.com/en-ca/product/710-01403/team-aqua-glass-tumbler,710-01403,Team Aqua Glass Tumbler,$19.99,NO,4-15,home
+286,https://www.pokemoncenter.com/en-ca/product/710-01214/mega-charizard-y-glass-tumbler,710-01214,Mega Charizard Y Glass Tumbler,$19.99,YES,4-16,home
+287,https://www.pokemoncenter.com/en-ca/product/710-01295/primal-groudon-wall-graphic,710-01295,Primal Groudon Wall Graphic,$129.99,YES,4-17,home
+288,https://www.pokemoncenter.com/en-ca/product/710-01296/primal-kyogre-wall-graphic,710-01296,Primal Kyogre Wall Graphic,$129.99,YES,4-18,home
+289,https://www.pokemoncenter.com/en-ca/product/710-01213/mega-charizard-x-glass-tumbler,710-01213,Mega Charizard X Glass Tumbler,$19.99,NO,4-19,home
+290,https://www.pokemoncenter.com/en-ca/product/710-01239/mega-absol-mega-mayhem-glass-tumbler,710-01239,Mega Absol Mega Mayhem Glass Tumbler,$19.99,YES,4-20,home
+291,https://www.pokemoncenter.com/en-ca/product/710-01237/mega-garchomp-mega-mayhem-glass-tumbler,710-01237,Mega Garchomp Mega Mayhem Glass Tumbler,$19.99,YES,4-21,home
+292,https://www.pokemoncenter.com/en-ca/product/710-01240/final-fierce-glass-tumbler,710-01240,Final Fierce Glass Tumbler,$19.99,YES,4-22,home
+293,https://www.pokemoncenter.com/en-ca/product/710-01236/mega-lucario-mega-mayhem-glass-tumbler,710-01236,Mega Lucario Mega Mayhem Glass Tumbler,$19.99,NO,4-23,home
+294,https://www.pokemoncenter.com/en-ca/product/710-01238/mega-gengar-mega-mayhem-glass-tumbler,710-01238,Mega Gengar Mega Mayhem Glass Tumbler,$19.99,NO,4-24,home
+295,https://www.pokemoncenter.com/en-ca/product/710-01297/mega-mayhem-wall-graphics-4-sets,710-01297,Mega Mayhem Wall Graphics (4 Sets),$103.99,YES,4-25,home
+296,https://www.pokemoncenter.com/en-ca/product/710-01243/espurr-and-meowstic-wanted-notecard-set-12-cards-envelopes-and-seals,710-01243,Espurr & Meowstic Wanted Notecard Set (12 cards, envelopes, and seals),$23.99,YES,4-26,home
+297,https://www.pokemoncenter.com/en-ca/product/710-01311/espurr-meowstic-wanted-art-print,710-01311,Espurr Meowstic Wanted Art Print,$103.99,NO,4-27,home
+298,https://www.pokemoncenter.com/en-ca/product/710-01181/xerneas-framed-art-print-by-ken-sugimori,710-01181,Xerneas Framed Art Print by Ken Sugimori,$324.99,NO,4-28,home
+299,https://www.pokemoncenter.com/en-ca/product/710-01180/yveltal-framed-art-print-by-ken-sugimori,710-01180,Yveltal Framed Art Print by Ken Sugimori,$324.99,NO,4-29,home
+300,https://www.pokemoncenter.com/en-ca/product/710-01304/snow-scene-holiday-greeting-cards-12-cards-envelopes-and-seals,710-01304,Snow Scene Holiday Greeting Cards (12 cards, envelopes, and seals),$23.99,NO,4-30,home
+301,https://www.pokemoncenter.com/en-ca/product/710-01303/pikachu-holiday-greeting-cards-12-cards-with-seals-and-envelopes,710-01303,Pikachu Holiday Greeting Cards (12 Cards with Seals and Envelopes),$23.99,NO,4-31,home
+302,https://www.pokemoncenter.com/en-ca/product/710-01161/special-delivery-pikachu-spiral-notebook-200-pages,710-01161,Special Delivery Pikachu Spiral Notebook (200 Pages),$25.99,YES,4-32,home
+303,https://www.pokemoncenter.com/en-ca/product/710-01178/special-delivery-pikachu-note-card-set-10-cards-seals-and-envelopes,710-01178,Special Delivery Pikachu Note Card Set (10 Cards, Seals, and Envelopes),$23.99,NO,4-33,home
+304,https://www.pokemoncenter.com/en-ca/product/710-01101/pikachu-spiral-notebook-200-pages,710-01101,Pikachu Spiral Notebook (200 Pages),$25.99,NO,4-34,home

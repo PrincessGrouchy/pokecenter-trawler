@@ -30,8 +30,8 @@ from selenium.webdriver.firefox.options import Options as FirefoxOptions
 from selenium.webdriver.ie.options import Options as IEOptions
 
 
-class TestPage1():
-    def setup_method(self):
+class JpTrawler():
+    def setup_method(self, the_category):
         self.service = FirefoxService(executable_path=GeckoDriverManager().install())
         self.driver = webdriver.Firefox(service=self.service)
         # self.service = EdgeService(
@@ -50,12 +50,14 @@ class TestPage1():
 
         self.num_items_displayed = 40  # default=40
 
-        self.file1 = open(
-            'pokecenter_output_' + self.region + '_new.txt', 'w', encoding="utf-8")
+        self.single_category_file = open(
+            'pokecenter_output_' + self.region[1:] + '_'+self.category[1:] + '_new.txt', 'w', encoding="utf-8")
+        self.all_category_file = open(
+            'pokecenter_output_' + self.region[1:] + '_new.txt', 'a', encoding="utf-8")
 
     def teardown_method(self):
         self.driver.quit()
-        self.file1.close()
+        self.single_category_file.close()
 
     def print_line(self):
         if "soldout" in self.stock:
@@ -79,7 +81,7 @@ class TestPage1():
             self.page_count, self.loop_count
         )
         print(stringToPrint)
-        self.file1.write(stringToPrint)
+        self.single_category_file.write(stringToPrint)
 
     def get_page_vars(self, isFirst):
         self.base_xpath = "//div[@id='product_list']/ul/"
@@ -160,7 +162,7 @@ class TestPage1():
 
 
 try:
-    x = TestPage1()
+    x = JpTrawler()
     x.setup_method()
     x.scrape_page_not_last_page()
     x.scrape_page_last()
