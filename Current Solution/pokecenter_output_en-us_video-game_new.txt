@@ -1,0 +1,27 @@
+1,https://www.pokemoncenter.com/product/716-95711/nintendo-switch-lite-blue,716-95711,Nintendo Switch Lite (Blue),$199.99,NO,1-1,video-game
+2,https://www.pokemoncenter.com/product/716-95641/pokemon-brilliant-diamond-and-pokemon-shining-pearl-double-pack,716-95641,Pokémon Brilliant Diamond & Pokémon Shining Pearl Double Pack,$119.98,YES,1-2,video-game
+3,https://www.pokemoncenter.com/product/710-29533/sinnoh-champion-team-protection-case-for-nintendo-switch-by-power-a,710-29533,Sinnoh Champion Team Protection Case for Nintendo Switch by PowerA,$19.99,YES,1-3,video-game
+4,https://www.pokemoncenter.com/product/716-29909/pokemon-brilliant-diamond,716-29909,Pokémon Brilliant Diamond,$59.99,YES,1-4,video-game
+5,https://www.pokemoncenter.com/product/716-29908/pokemon-shining-pearl,716-29908,Pokémon Shining Pearl,$59.99,YES,1-5,video-game
+6,https://www.pokemoncenter.com/product/716-29910/pokemon-legends-arceus,716-29910,Pokémon Legends: Arceus,$59.99,YES,1-6,video-game
+7,https://www.pokemoncenter.com/product/716-59686/new-pokemon-snap,716-59686,New Pokémon Snap,$59.99,YES,1-7,video-game
+8,https://www.pokemoncenter.com/product/710-08794/pokemon-celebration-protection-case-for-nintendo-switch-by-power-a,710-08794,Pokémon Celebration Protection Case for Nintendo Switch by PowerA,$19.99,NO,1-8,video-game
+9,https://www.pokemoncenter.com/product/716-88266/nintendo-switch-lite-coral,716-88266,Nintendo Switch Lite (Coral),$199.99,NO,1-9,video-game
+10,https://www.pokemoncenter.com/product/716-59705/pokemon-mystery-dungeon-rescue-team-dx,716-59705,Pokémon Mystery Dungeon: Rescue Team DX,$59.99,YES,1-10,video-game
+11,https://www.pokemoncenter.com/product/716-88217/nintendo-switch-with-neon-blue-and-neon-red-joy-con,716-88217,Nintendo Switch with Neon Blue & Neon Red Joy-Con,$299.99,NO,1-11,video-game
+12,https://www.pokemoncenter.com/product/707-38206/pokemon-sword-and-pokemon-shield-the-official-galar-region-strategy-guide-collector-s-edition,707-38206,Pokémon Sword & Pokémon Shield: The Official Galar Region Strategy Guide (Collector's Edition),$39.99,NO,1-12,video-game
+13,https://www.pokemoncenter.com/product/707-38204/pokemon-sword-and-pokemon-shield-the-official-galar-region-strategy-guide,707-38204,Pokémon Sword & Pokémon Shield: The Official Galar Region Strategy Guide,$24.99,NO,1-13,video-game
+14,https://www.pokemoncenter.com/product/716-88222/nintendo-switch-joy-con-neon-purple-neon-orange,716-88222,Nintendo Switch Joy-Con (Neon Purple/Neon Orange),$79.99,NO,1-14,video-game
+15,https://www.pokemoncenter.com/product/716-88226/nintendo-switch-lite-turquoise,716-88226,Nintendo Switch Lite (Turquoise),$199.99,NO,1-15,video-game
+16,https://www.pokemoncenter.com/product/716-52782/pokemon-sword,716-52782,Pokémon Sword,$59.99,YES,1-16,video-game
+17,https://www.pokemoncenter.com/product/716-52781/pokemon-shield,716-52781,Pokémon Shield,$59.99,YES,1-17,video-game
+18,https://www.pokemoncenter.com/product/716-59397/pokemon-let-s-go-eevee-for-nintendo-switch,716-59397,Pokémon: Let's Go, Eevee! for Nintendo Switch,$59.99,YES,1-18,video-game
+19,https://www.pokemoncenter.com/product/716-59394/pokemon-let-s-go-pikachu-for-nintendo-switch,716-59394,Pokémon: Let's Go, Pikachu! for Nintendo Switch,$59.99,YES,1-19,video-game
+20,https://www.pokemoncenter.com/product/707-03047/pokemon-ultra-sun-and-pokemon-ultra-moon-the-official-alola-region-strategy-guide,707-03047,Pokémon Ultra Sun & Pokémon Ultra Moon: The Official Alola Region Strategy Guide,$24.99,NO,1-20,video-game
+21,https://www.pokemoncenter.com/product/716-75008/pokken-tournament-dx,716-75008,Pokkén Tournament DX,$59.99,YES,1-21,video-game
+22,https://www.pokemoncenter.com/product/707-01808/pokemon-sun-and-pokemon-moon-the-official-alola-region-pokedex-and-postgame-adventure-guide,707-01808,Pokémon Sun & Pokémon Moon: The Official Alola Region Pokédex & Postgame Adventure Guide,$24.99,YES,1-22,video-game
+23,https://www.pokemoncenter.com/product/707-01814/pokemon-sun-and-pokemon-moon-the-official-alola-region-collector-s-edition-pokedex-and-postgame-adventure-guide,707-01814,Pokémon Sun & Pokémon Moon: The Official Alola Region Collector's Edition Pokédex & Postgame Adventure Guide,$39.99,NO,1-23,video-game
+24,https://www.pokemoncenter.com/product/707-01786/pokemon-sun-and-pokemon-moon-official-strategy-guide-collector-s-vault,707-01786,Pokémon Sun & Pokémon Moon: Official Strategy Guide Collector's Vault,$129.99,NO,1-24,video-game
+25,https://www.pokemoncenter.com/product/716-74392/pokemon-sun,716-74392,Pokémon Sun,$39.99,YES,1-25,video-game
+26,https://www.pokemoncenter.com/product/716-74394/pokemon-moon,716-74394,Pokémon Moon,$39.99,YES,1-26,video-game
+27,https://www.pokemoncenter.com/product/707-89820/pokemon-omega-ruby-and-pokemon-alpha-sapphire-the-official-hoenn-region-strategy-guide,707-89820,Pokémon Omega Ruby & Pokémon Alpha Sapphire: The Official Hoenn Region Strategy Guide,$19.99,NO,1-27,video-game

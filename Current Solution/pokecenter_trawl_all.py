@@ -49,18 +49,18 @@ class EnTrawler():
             "/category" + self.category + self.sort + \
             "&ps=90&page="
         self.num_items_displayed = 90  # 30 # 60
-        self.single_category_file = open(
-            'pokecenter_output_' + self.region[1:] + '_'+self.category[1:] + '_new.txt', 'w', encoding="utf-8")
+        # self.single_category_file = open(
+        #     'pokecenter_output_' + self.region[1:] + '_'+self.category[1:] + '_new.txt', 'w', encoding="utf-8")
         self.all_category_file = open(
             'pokecenter_output_' + self.region[1:] + '_new.txt', 'a', encoding="utf-8")
 
     def teardown_single(self):
-        self.single_category_file.close()
+        # self.single_category_file.close()
         self.all_category_file.close()
 
     def teardown_method(self):
         self.driver.quit()
-        self.single_category_file.close()
+        # self.single_category_file.close()
         self.all_category_file.close()
 
     def print_line(self):
@@ -87,12 +87,11 @@ class EnTrawler():
             self.name,
             self.price,
             in_stock,
-            self.page_count,
-            self.loop_count,
-            self.category[1:]
+            self.page_count, self.loop_count,
+            self.category.replace("/", "")
         )
         print(stringToPrint)
-        self.single_category_file.write(stringToPrint)
+        # self.single_category_file.write(stringToPrint)
         self.all_category_file.write(stringToPrint)
 
     def get_page_vars(self, isFirst):
@@ -142,7 +141,6 @@ class EnTrawler():
                 self.print_line()
                 self.loop_count += 1
 
-            time.sleep(2.9)
             self.page_count += 1
 
     def scrape_page_last(self):
@@ -170,8 +168,18 @@ class EnTrawler():
 
 
 class JpTrawler(EnTrawler):
+    def pre_setup_vars(self):
+        self.service = FirefoxService(
+            executable_path=GeckoDriverManager().install())
+        self.driver = webdriver.Firefox(service=self.service)
+        # self.service = EdgeService(
+        #     executable_path=EdgeChromiumDriverManager().install())
+        # self.driver = webdriver.Edge(service=self.service)
+        self.driver.implicitly_wait(120)
+        self.driver.set_window_size(776.642, 701.800)
+
     def setup_method(self, the_category):
-        self.region = "jp"
+        self.region = "jp-jp"
         self.sort = "&sort=new"
         self.category = the_category  # plush
         self.url = "https://www.pokemoncenter-online.com/?main_page=product_list" + \
@@ -179,10 +187,10 @@ class JpTrawler(EnTrawler):
         self.translate_url_additions = ""  # chrome autotranslate adds "/font/font"
         self.num_items_displayed = 40  # default=40
 
-        self.single_category_file = open(
-            'pokecenter_output_' + self.region[1:] + '_'+self.category[1:] + '_new.txt', 'w', encoding="utf-8")
+        # self.single_category_file = open(
+        #     'pokecenter_output_' + self.region + '_'+self.category + '_new.txt', 'w', encoding="utf-8")
         self.all_category_file = open(
-            'pokecenter_output_' + self.region[1:] + '_new.txt', 'a', encoding="utf-8")
+            'pokecenter_output_' + self.region + '_new.txt', 'a', encoding="utf-8")
 
     def get_page_vars(self, isFirst):
         self.base_xpath = "//div[@id='product_list']/ul/"
@@ -235,13 +243,12 @@ class JpTrawler(EnTrawler):
                 self.print_line()
                 self.loop_count += 1
 
-            time.sleep(1.1)
             self.page_count += 1
 
 
 categories = ["/plush", "/figures-and-pins",
               "/trading-card-game", "/clothing", "/home", "/video-game"]
-regions = ["/en-gb", "/en-us"]  # ["/en-ca", "/en-gb", "/en-us"]
+regions = ["/en-ca", "/en-gb", "/en-us"]
 en = EnTrawler()
 en.pre_setup_vars()
 
@@ -264,7 +271,7 @@ jp.pre_setup_vars()
 
 try:
     for the_jp_category in jp_categories:
-        jp.setup_method(the_category)
+        jp.setup_method(the_jp_category)
         jp.scrape_page_not_last_page()
         jp.scrape_page_last()
         jp.teardown_single()
