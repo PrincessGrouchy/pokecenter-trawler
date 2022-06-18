@@ -27,15 +27,14 @@ class pokecenter_output_reader():
     def rename_files(self):
         today = date.today()
         os.rename('pokecenter_output_' + self.region + '_current.txt',
-                  'pokecenter_output_' + self.region + '_current_{}.txt'.format(today))
+                  'past_pages/' + 'pokecenter_output_' + self.region + '_current_{}.txt'.format(today))
         os.rename('pokecenter_output_' + self.region + '_diff.txt',
                   'pokecenter_output_' + self.region + '_diff_{}.txt'.format(today))
         os.rename('pokecenter_output_' + self.region + '_new.txt',
                   'pokecenter_output_' + self.region + '_current.txt')
-        os.rename('pokecenter_output_' + self.region + '_complete.txt',
-                  'pokecenter_output_' + self.region + '_complete_{}.txt'.format(today))
+        os.remove('pokecenter_output_' + self.region + '_complete.txt')
         os.rename('pokecenter_output_' + self.region + '_complete_new.txt',
-                  'pokecenter_output_' + self.region + '_complete.txt'.format(today))
+                  'pokecenter_output_' + self.region + '_complete.txt')
 
     def search_lines(self):
         current_lines = self.current_file.readlines()
@@ -128,10 +127,14 @@ class pokecenter_output_reader():
                     foundLineMatch = True
                     self.new_complete_file.write(
                         "{}\n".format(new_no_number))
+                    self.compare_lines_complete_print(
+                        new_no_number, current_no_number, new_line)
                     break
             if not foundLineMatch:
                 self.new_complete_file.write(
                     "{}\n".format(new_no_number))
+                print("(complete) {}, New? couldn't find match\n".format(
+                    new_no_number))
         # search for removed listings
         # there's gotta be a better way :(
         for current_complete_line in current_complete_lines:
@@ -155,6 +158,21 @@ class pokecenter_output_reader():
                 current_no_number.pop(6)
                 self.new_complete_file.write(
                     "{},delisted\n".format(current_no_number))
+                print("(complete) {}, missing! might have been delisted\n".format(
+                    current_no_number))
+
+    def compare_lines_complete_print(self, new_no_number, current_no_number, new_line):
+        foundDifference = False
+        differencesList = []
+        for new_var, current_var in zip(new_no_number, current_no_number):
+            if new_var != current_var:
+                foundDifference = True
+                differencesList.append(
+                    "{} used to be {}. ".format(new_var, current_var))
+        if foundDifference:
+            print("(complete) {}, Difference: {} \n".format(
+                new_line, ''.join(differencesList)))
+        return foundDifference
 
 
 regions = ["en-ca", "en-gb", "en-us", "jp-jp"]
