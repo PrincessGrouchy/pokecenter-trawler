@@ -47,6 +47,7 @@ class pokecenter_output_reader():
             new_no_number.pop(6)
             new_no_number.pop(0)
             for current_line in current_lines:
+                current_line = current_line.replace("\n", "")
                 current_no_number = current_line.split(",")
                 current_no_number.pop(6)
                 current_no_number.pop(0)
@@ -68,6 +69,7 @@ class pokecenter_output_reader():
             current_no_number.pop(6)
             current_no_number.pop(0)
             for new_line in self.new_lines:
+                new_line = new_line.replace("\n", "")
                 new_no_number = new_line.split(",")
                 new_no_number.pop(6)
                 new_no_number.pop(0)
