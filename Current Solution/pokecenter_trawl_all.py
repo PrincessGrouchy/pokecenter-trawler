@@ -77,6 +77,8 @@ class EnTrawler():
             "https://www.pokemoncenter-online.com/?p_cd=", "")
         product_number = product_number.split("/")[0]
 
+        comma_stripped_name = self.name.replace(
+            ",", "%2C")  # comma is %2C in url encoding
         real_number = self.page_count - 1
         real_number *= self.num_items_displayed
         real_number += self.loop_count
@@ -84,7 +86,7 @@ class EnTrawler():
             real_number,
             self.link,
             product_number,
-            self.name,
+            comma_stripped_name,
             self.price,
             in_stock,
             self.page_count, self.loop_count,
