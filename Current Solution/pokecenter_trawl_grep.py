@@ -120,29 +120,30 @@ class pokecenter_output_reader():
             new_no_number.append(",searchable")
             for current_complete_line in current_complete_lines:
                 current_no_number = current_complete_line.split(",")
-                current_no_number.pop(6)
-                current_no_number.pop(0)
+                # current_no_number.pop(6)
+                # current_no_number.pop(0)
                 # comparing product numbers
+                print(current_no_number, new_no_number)
                 if current_no_number[1] == new_no_number[1]:
                     foundLineMatch = True
                     self.new_complete_file.write(
-                        "{}\n".format(new_no_number))
+                        "{}\n".format(','.join(new_no_number)))
                     self.compare_lines_complete_print(
                         new_no_number, current_no_number, new_line)
                     break
             if not foundLineMatch:
                 self.new_complete_file.write(
-                    "{}\n".format(new_no_number))
+                    "{}\n".format(','.join(new_no_number)))
                 print("(complete) {}, New? couldn't find match\n".format(
-                    new_no_number))
+                    ','.join(new_no_number)))
         # search for removed listings
         # there's gotta be a better way :(
         for current_complete_line in current_complete_lines:
             foundLineMatch = False
             current_complete_line = current_complete_line.replace("\n", "")
             current_no_number = current_complete_line.split(",")
-            current_no_number.pop(6)
-            current_no_number.pop(0)
+            # current_no_number.pop(6)
+            # current_no_number.pop(0)
             for new_line in new_lines:
                 new_no_number = new_line.split(",")
                 new_no_number.pop(6)
@@ -157,9 +158,9 @@ class pokecenter_output_reader():
             if not foundLineMatch:
                 current_no_number.pop(6)
                 self.new_complete_file.write(
-                    "{},delisted\n".format(current_no_number))
+                    "{},delisted\n".format(','.join(current_no_number)))
                 print("(complete) {}, missing! might have been delisted\n".format(
-                    current_no_number))
+                    ','.join(current_no_number)))
 
     def compare_lines_complete_print(self, new_no_number, current_no_number, new_line):
         foundDifference = False
