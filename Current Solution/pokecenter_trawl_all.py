@@ -79,6 +79,8 @@ class EnTrawler():
 
         comma_stripped_name = self.name.replace(
             ",", "%2C")  # comma is %2C in url encoding
+        comma_stripped_price = self.price.replace(
+            ",", "")
         real_number = self.page_count - 1
         real_number *= self.num_items_displayed
         real_number += self.loop_count
@@ -87,12 +89,12 @@ class EnTrawler():
             self.link,
             product_number,
             comma_stripped_name,
-            self.price,
+            comma_stripped_price,
             in_stock,
             self.page_count, self.loop_count,
             self.category.replace("/", "")
         )
-        print(stringToPrint)
+        # print(stringToPrint)
         # self.single_category_file.write(stringToPrint)
         self.all_category_file.write(stringToPrint)
 
@@ -257,6 +259,7 @@ en.pre_setup_vars()
 try:
     for the_region in regions:
         for the_category in categories:
+            print(the_region + " " + the_category)
             en.setup_method(the_region, the_category)
             en.scrape_page_not_last_page()
             en.scrape_page_last()
@@ -273,6 +276,7 @@ jp.pre_setup_vars()
 
 try:
     for the_jp_category in jp_categories:
+        print(the_jp_category)
         jp.setup_method(the_jp_category)
         jp.scrape_page_not_last_page()
         jp.scrape_page_last()
