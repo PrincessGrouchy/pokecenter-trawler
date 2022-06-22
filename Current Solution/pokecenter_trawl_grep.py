@@ -44,11 +44,13 @@ class pokecenter_output_reader():
             foundLineMatch = False
             new_line = new_line.replace("\n", "")
             new_no_number = new_line.split(",")
-            new_no_number.pop(6)
-            new_no_number.pop(0)
+            new_no_number.pop(7)  # self.category.replace("/", "")
+            new_no_number.pop(6)  # self.page_count, self.loop_count,
+            new_no_number.pop(0)  # real_number
             for current_line in current_lines:
                 current_line = current_line.replace("\n", "")
                 current_no_number = current_line.split(",")
+                current_no_number.pop(7)
                 current_no_number.pop(6)
                 current_no_number.pop(0)
                 # comparing product numbers
@@ -66,11 +68,13 @@ class pokecenter_output_reader():
             foundLineMatch = False
             current_line = current_line.replace("\n", "")
             current_no_number = current_line.split(",")
+            current_no_number.pop(7)
             current_no_number.pop(6)
             current_no_number.pop(0)
             for new_line in self.new_lines:
                 new_line = new_line.replace("\n", "")
                 new_no_number = new_line.split(",")
+                new_no_number.pop(7)
                 new_no_number.pop(6)
                 new_no_number.pop(0)
                 # comparing product numbers
@@ -117,6 +121,7 @@ class pokecenter_output_reader():
             foundLineMatch = False
             new_line = new_line.replace("\n", "")
             new_no_number = new_line.split(",")
+            new_no_number.pop(7)
             new_no_number.pop(6)
             new_no_number.pop(0)
             new_no_number.append("searchable")
