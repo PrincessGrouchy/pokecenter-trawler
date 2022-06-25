@@ -121,7 +121,6 @@ class pokecenter_output_reader():
             foundLineMatch = False
             new_line = new_line.replace("\n", "")
             new_no_number = new_line.split(",")
-            new_no_number.pop(7)
             new_no_number.pop(6)
             new_no_number.pop(0)
             new_no_number.append("searchable")
@@ -160,7 +159,7 @@ class pokecenter_output_reader():
                     #     "{}\n".format(new_no_number))
                     break
             if not foundLineMatch:
-                current_no_number.pop(6)
+                current_no_number.pop()
                 current_no_number.append("delisted")
                 self.new_complete_file.write(
                     "{}\n".format(','.join(current_no_number)))
