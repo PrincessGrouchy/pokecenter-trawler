@@ -243,7 +243,7 @@ class JpTrawler(EnTrawler):
 
 categories = ["/plush", "/figures-and-pins",
               "/trading-card-game", "/clothing", "/home", "/video-game"]
-regions = ["/en-ca", "/en-gb", "/en-us"]
+regions = ["/en-us"]
 en = EnTrawler()
 en.pre_setup_vars()
 
