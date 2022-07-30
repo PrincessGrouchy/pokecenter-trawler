@@ -104,19 +104,44 @@ class EnTrawler():
             extra_div = "div"
         else:
             extra_div = "div[" + str(self.loop_count) + "]"
-        self.link = self.driver.find_element(By.XPATH,
+        while True:
+            try:
+                self.link = self.driver.find_element(By.XPATH,
                                              self.base_xpath + extra_div + "/div/a").get_attribute("href")
-        self.name = self.driver.find_element(By.XPATH,
+                break
+            except:
+                continue
+        while True:
+            try:
+                self.name = self.driver.find_element(By.XPATH,
                                              self.base_xpath + extra_div + "/div/a/div[2]/h3").text
-        self.price = self.driver.find_element(By.XPATH,
+                break
+            except:
+                continue
+        while True:
+            try:
+                self.price = self.driver.find_element(By.XPATH,
                                               self.base_xpath + extra_div + "/div/a/div[2]/div/span").text
-        self.stock = self.driver.find_element(By.XPATH,
+                break
+            except:
+                continue
+        while True:
+            try:
+                self.stock = self.driver.find_element(By.XPATH,
                                               self.base_xpath + extra_div + "/div/a/div/div").text
+                break
+            except:
+                continue
 
     def scrape_page_not_last_page(self):
         self.page_count = 1
         self.loop_count = 1
-        self.driver.get(self.url + str(self.page_count))
+        while True:
+            try:
+                self.driver.get(self.url + str(self.page_count))
+                break
+            except:
+                continue
         WebDriverWait(self.driver, 120).until(
             lambda driver: '|' in driver.title)
 
@@ -130,7 +155,12 @@ class EnTrawler():
 
         while self.page_count < self.total_page_count:
             self.loop_count = 1
-            self.driver.get(self.url + str(self.page_count))
+            while True:
+                try:
+                    self.driver.get(self.url + str(self.page_count))
+                    break
+                except:
+                    continue
             self.get_page_vars(isFirst=True)
             self.print_line()
 
@@ -215,7 +245,7 @@ class JpTrawler(EnTrawler):
         self.loop_count = 1
         self.driver.get(self.url + str(self.page_count))
         WebDriverWait(self.driver, 120).until(
-            lambda driver: '商品検索結果 : ポケモンセンターオンライン' in driver.title)
+            lambda driver: 'ポケモンセンターオンライン' in driver.title)
 
         self.total_count_string = self.driver.find_element(By.XPATH,
                                                            "//div[@id='contents']/div/h1" + self.translate_url_additions).text
@@ -243,7 +273,7 @@ class JpTrawler(EnTrawler):
 
 categories = ["/plush", "/figures-and-pins",
               "/trading-card-game", "/clothing", "/home", "/video-game"]
-regions = ["/en-us"]
+regions = ["/en-ca", "/en-gb", "/en-us"]
 en = EnTrawler()
 en.pre_setup_vars()
 
