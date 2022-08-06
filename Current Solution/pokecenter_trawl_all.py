@@ -32,13 +32,11 @@ from selenium.webdriver.ie.options import Options as IEOptions
 
 class EnTrawler():
     def pre_setup_vars(self):
-        # self.service = FirefoxService(executable_path=GeckoDriverManager().install())
-        # self.driver = webdriver.Firefox(service=self.service)
-        self.service = EdgeService(
-            executable_path=EdgeChromiumDriverManager().install())
-        self.driver = webdriver.Edge(service=self.service)
+        self.driver = webdriver.Ie("C:\\selenium_drivers\\IEDriverServer.exe")
+        # self.service = IEService(executable_path=IEDriverManager().install())
+        # self.driver = webdriver.Ie(service=self.service)
         self.driver.implicitly_wait(120)
-        self.driver.set_window_size(776.642, 701.800)
+        self.driver.set_window_size(776, 720)
 
     def setup_method(self, the_region, the_category):
         self.region = the_region
@@ -49,18 +47,14 @@ class EnTrawler():
             "/category" + self.category + self.sort + \
             "&ps=90&page="
         self.num_items_displayed = 90  # 30 # 60
-        # self.single_category_file = open(
-        #     'pokecenter_output_' + self.region[1:] + '_'+self.category[1:] + '_new.txt', 'w', encoding="utf-8")
         self.all_category_file = open(
             'pokecenter_output_' + self.region[1:] + '_new.txt', 'a', encoding="utf-8")
 
     def teardown_single(self):
-        # self.single_category_file.close()
         self.all_category_file.close()
 
     def teardown_method(self):
         self.driver.quit()
-        # self.single_category_file.close()
         self.all_category_file.close()
 
     def print_line(self):
@@ -95,58 +89,51 @@ class EnTrawler():
             self.category.replace("/", "")
         )
         # print(stringToPrint)
-        # self.single_category_file.write(stringToPrint)
         self.all_category_file.write(stringToPrint)
 
-    def get_page_vars(self, isFirst):
+    def get_page_vars_old(self, isFirst):
         self.base_xpath = "//main[@id='main']/div[2]/div[2]/div[2]/div[4]/"
         if isFirst:
             extra_div = "div"
         else:
             extra_div = "div[" + str(self.loop_count) + "]"
-        while True:
-            try:
-                self.link = self.driver.find_element(By.XPATH,
+        self.link = self.driver.find_element(By.XPATH,
                                              self.base_xpath + extra_div + "/div/a").get_attribute("href")
-                break
-            except:
-                continue
-        while True:
-            try:
-                self.name = self.driver.find_element(By.XPATH,
+        self.name = self.driver.find_element(By.XPATH,
                                              self.base_xpath + extra_div + "/div/a/div[2]/h3").text
-                break
-            except:
-                continue
-        while True:
-            try:
-                self.price = self.driver.find_element(By.XPATH,
+        self.price = self.driver.find_element(By.XPATH,
                                               self.base_xpath + extra_div + "/div/a/div[2]/div/span").text
-                break
-            except:
-                continue
-        while True:
-            try:
-                self.stock = self.driver.find_element(By.XPATH,
+        self.stock = self.driver.find_element(By.XPATH,
                                               self.base_xpath + extra_div + "/div/a/div/div").text
-                break
-            except:
-                continue
+
+    def get_page_vars(self, isFirst):
+        self.base_css = "main#main > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(4)"
+        if isFirst:
+            extra_div = " > div"
+        else:
+            extra_div = " > div:nth-of-type(" + str(self.loop_count) + ")"
+        self.link = self.driver.find_element(By.CSS_SELECTOR,
+                                             self.base_css + extra_div + " > div > a").get_attribute("href")
+        self.name = self.driver.find_element(By.CSS_SELECTOR,
+                                             self.base_css + extra_div + " > div > a > div:nth-of-type(2) > h3").text
+        self.price = self.driver.find_element(By.CSS_SELECTOR,
+                                              self.base_css + extra_div + " > div > a > div:nth-of-type(2) > div > span").text
+        self.stock = self.driver.find_element(By.CSS_SELECTOR,
+                                              self.base_css + extra_div + " > div > a > div > div").text
 
     def scrape_page_not_last_page(self):
         self.page_count = 1
         self.loop_count = 1
-        while True:
-            try:
-                self.driver.get(self.url + str(self.page_count))
-                break
-            except:
-                continue
-        WebDriverWait(self.driver, 120).until(
-            lambda driver: '|' in driver.title)
 
-        self.total_count_string = self.driver.find_element(By.XPATH,
-                                                           "//main[@id='main']/div[2]/div[2]/div[2]/div[3]/div/div/h3/span").text
+        self.driver.get(self.url + str(self.page_count))
+
+        # WebDriverWait(self.driver, 120).until(
+        #     lambda driver: '|' in driver.title)
+
+        # self.total_count_string = self.driver.find_element(By.XPATH,
+        #                                                    "//main[@id='main']/div[2]/div[2]/div[2]/div[3]/div/div/h3/span").text
+        self.total_count_string = self.driver.find_element(By.CSS_SELECTOR,
+                                                           "main#main > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(3) > div > div > h3 > span").text
         self.total_count = self.total_count_string.split("of ")[
             1].replace(" )", "")
         self.total_full_page_count = int(
@@ -155,12 +142,7 @@ class EnTrawler():
 
         while self.page_count < self.total_page_count:
             self.loop_count = 1
-            while True:
-                try:
-                    self.driver.get(self.url + str(self.page_count))
-                    break
-                except:
-                    continue
+            self.driver.get(self.url + str(self.page_count))
             self.get_page_vars(isFirst=True)
             self.print_line()
 
@@ -201,9 +183,6 @@ class JpTrawler(EnTrawler):
         self.service = FirefoxService(
             executable_path=GeckoDriverManager().install())
         self.driver = webdriver.Firefox(service=self.service)
-        # self.service = EdgeService(
-        #     executable_path=EdgeChromiumDriverManager().install())
-        # self.driver = webdriver.Edge(service=self.service)
         self.driver.implicitly_wait(120)
         self.driver.set_window_size(776.642, 701.800)
 
@@ -216,8 +195,6 @@ class JpTrawler(EnTrawler):
         self.translate_url_additions = ""  # chrome autotranslate adds "/font/font"
         self.num_items_displayed = 40  # default=40
 
-        # self.single_category_file = open(
-        #     'pokecenter_output_' + self.region + '_'+self.category + '_new.txt', 'w', encoding="utf-8")
         self.all_category_file = open(
             'pokecenter_output_' + self.region + '_new.txt', 'a', encoding="utf-8")
 
@@ -268,7 +245,6 @@ class JpTrawler(EnTrawler):
                 self.loop_count += 1
 
             self.page_count += 1
-
 
 
 categories = ["/plush", "/figures-and-pins",
