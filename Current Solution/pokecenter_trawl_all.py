@@ -153,6 +153,7 @@ class EnTrawler():
                 self.loop_count += 1
 
             self.page_count += 1
+            print(self.page_count)
 
     def scrape_page_last(self):
         # for last page only runs
