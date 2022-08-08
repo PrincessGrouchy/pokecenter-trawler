@@ -1,0 +1,93 @@
+**:newspaper: Differences since XXX:**
+
+---
+---
+**:flag_ca: CAPC**
+---
+**:flag_ca: CAPC :regional_indicator_n:ew:**
+
+---
+**:flag_ca: CAPC :regional_indicator_r:estock:**
+
+
+---
+---
+**:flag_gb: UKPC**
+---
+**:flag_gb: UKPC :regional_indicator_n:ew:**
+
+---
+**:flag_gb: UKPC :regional_indicator_r:estock:**
+
+
+---
+---
+**:flag_us: USPC**
+---
+**:flag_us: USPC :regional_indicator_n:ew:**
+
+---
+**:flag_us: USPC :regional_indicator_r:estock:**
+
+
+---
+---
+**:flag_jp: JPPC**
+---
+**:flag_jp: JPPC :regional_indicator_n:ew:**
+
+---
+**:flag_jp: JPPC :regional_indicator_r:estock:**
+
+
+
+---
+---
+**:cry: OoStock / :thinking:  Diffs / :skull: Delisted**
+
+
+---
+**:flag_ca: CAPC :cry: OoS:**
+
+---
+**:flag_ca: CAPC :thinking: Diffs:** 
+
+---
+**:flag_ca: CAPC :skull: Delisted:** 
+
+
+---
+**:flag_gb: UKPC :cry: OoS:**
+
+---
+**:flag_gb: UKPC :thinking: Diffs:**
+
+---
+**:flag_gb: UKPC :skull: Delisted:**
+
+
+---
+**:flag_us: USPC :cry: OoS:**
+
+---
+**:flag_us: USPC :thinking: Diffs:**
+
+---
+**:flag_us: USPC :skull: Delisted:**
+
+
+---
+**:flag_jp: JPPC :cry: OoS:**
+
+---
+**:flag_jp: JPPC :thinking: Diffs:**
+
+---
+**:flag_jp: JPPC :skull: Delisted:**
+
+
+---
+---
+**:link:Link to spreadsheet**
+(this link will stay the same between script runs!)
+https://1drv.ms/x/s!Ap21gPVJPQe0krZyHCOtBtrxOAZ68w?e=bP1oWj 
