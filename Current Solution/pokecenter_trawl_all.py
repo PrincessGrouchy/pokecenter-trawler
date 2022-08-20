@@ -32,7 +32,8 @@ from selenium.webdriver.ie.options import Options as IEOptions
 
 class EnTrawler():
     def pre_setup_vars(self):
-        self.driver = webdriver.Ie("C:\\selenium_drivers\\IEDriverServer.exe")
+        self.driver = webdriver.Ie("C:\\Users\\arebe\\OneDrive\\OneDocs\\selenium_drivers\\IEDriverServer.exe")
+        
         # self.service = IEService(executable_path=IEDriverManager().install())
         # self.driver = webdriver.Ie(service=self.service)
         self.driver.implicitly_wait(120)

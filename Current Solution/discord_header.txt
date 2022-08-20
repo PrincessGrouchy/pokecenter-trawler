@@ -88,6 +88,7 @@
 
 ---
 ---
-**:link:Link to spreadsheet**
+**:link:Links / Un-translations**
+are available on request, or on this spreadsheet:
 (this link will stay the same between script runs!)
 https://1drv.ms/x/s!Ap21gPVJPQe0krZyHCOtBtrxOAZ68w?e=bP1oWj 
