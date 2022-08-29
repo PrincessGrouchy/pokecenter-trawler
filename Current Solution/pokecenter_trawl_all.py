@@ -32,7 +32,9 @@ from selenium.webdriver.ie.options import Options as IEOptions
 
 class EnTrawler():
     def pre_setup_vars(self):
-        self.driver = webdriver.Ie("C:\\Users\\arebe\\OneDrive\\OneDocs\\selenium_drivers\\IEDriverServer.exe")
+        ser = IEService("C:\\Users\\arebe\\OneDrive\\OneDocs\\selenium_drivers\\IEDriverServer.exe")
+        op = IEOptions()
+        self.driver = webdriver.Ie(service=ser, options=op)
         
         # self.service = IEService(executable_path=IEDriverManager().install())
         # self.driver = webdriver.Ie(service=self.service)
@@ -249,7 +251,7 @@ class JpTrawler(EnTrawler):
             self.page_count += 1
 
 
-categories = ["/plush", "/figures-and-pins",
+categories = ["/new-releases", "/plush", "/figures-and-pins",
               "/trading-card-game", "/clothing", "/home", "/video-game"]
 regions = ["/en-ca", "/en-gb", "/en-us"]
 en = EnTrawler()
