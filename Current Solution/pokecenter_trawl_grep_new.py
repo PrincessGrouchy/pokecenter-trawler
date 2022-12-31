@@ -7,16 +7,31 @@ class pokecenter_output_reader():
     def setup_method(self, the_region):
         self.region = the_region
 
-        self.current_file = open(
-            'pokecenter_output_' + self.region + '_current.txt', 'r', encoding="utf-8")
-        self.new_file = open(
-            'pokecenter_output_' + self.region + '_new.txt', 'r', encoding="utf-8")
-        self.diff_file_name = 'pokecenter_output_' + self.region + '_diff.txt'
-        self.diff_file = pd.read_csv(
-            self.diff_file_name, encoding="utf-8",
-            names=['relative_position', 'link', 'id', 'name', 'price',
-                   'in_stock', 'page_position', 'category', 'change']
+        self.current_file_name = 'pokecenter_output_' + self.region + '_current.txt'
+        self.current_file = pd.read_csv(
+            self.current_file_name, encoding="utf-8", header=0,
+            names=['link', 'id', 'name', 'price',
+                   'in_stock', 'category', 'search_status']
         )
+        self.new_file_name = 'pokecenter_output_' + self.region + '_new.txt'
+        self.new_file = pd.read_csv(
+            self.new_file_name, encoding="utf-8", header=0,
+            names=['relative_position', 'link', 'id', 'name', 'price',
+                   'in_stock', 'page_position', 'category']
+        )
+        self.diff_file_name = 'pokecenter_output_' + self.region + '_diff.txt'
+        self.diff_file = pd.DataFrame({
+            'relative_position': [],
+            'link': [],
+            'id': [],
+            'name': [],
+            'price': [],
+            'in_stock': [],
+            'page_position': [],
+            'category': [],
+            'change': []
+        })
+
         self.current_complete_file_name = 'pokecenter_output_' + \
             self.region + '_complete.txt'
         self.current_complete_file = pd.read_csv(
@@ -26,14 +41,15 @@ class pokecenter_output_reader():
         )
         self.new_complete_file_name = 'pokecenter_output_' + \
             self.region + '_complete_new.txt'
-        self.new_complete_file = pd.DataFrame({'link': [],
-                                               'id': [],
-                                               'name': [],
-                                               'price': [],
-                                               'in_stock': [],
-                                               'category': [],
-                                               'search_status': []}
-                                              )
+        self.new_complete_file = pd.DataFrame({
+            'link': [],
+            'id': [],
+            'name': [],
+            'price': [],
+            'in_stock': [],
+            'category': [],
+            'search_status': []
+        })
 
     def teardown_method(self):
         self.current_file.close()
@@ -60,43 +76,26 @@ class pokecenter_output_reader():
 
         for new_line in self.new_lines:
             foundLineMatch = False
-            new_line = new_line.replace("\n", "")
-            new_no_number = new_line.split(",")
-            new_no_number.pop(7)  # self.category.replace("/", "")
-            new_no_number.pop(6)  # self.page_count, self.loop_count,
-            new_no_number.pop(0)  # real_number
+
             for current_line in current_lines:
-                current_line = current_line.replace("\n", "")
-                current_no_number = current_line.split(",")
-                current_no_number.pop(7)
-                current_no_number.pop(6)
-                current_no_number.pop(0)
                 # comparing product numbers
-                if current_no_number[1] == new_no_number[1]:
+                if current_no_number['id'] == new_no_number['id']:
                     foundLineMatch = True
                     self.compare_lines(
                         new_no_number, current_no_number, new_line)
                     break
             if not foundLineMatch:
-                self.diff_file.write(
+                self.diff_file.append(
                     "{}, New? couldn't find match\n".format(new_line))
         # search for removed listings
         # there's gotta be a better way :(
         for current_line in current_lines:
             foundLineMatch = False
-            current_line = current_line.replace("\n", "")
-            current_no_number = current_line.split(",")
-            current_no_number.pop(7)
-            current_no_number.pop(6)
-            current_no_number.pop(0)
+
             for new_line in self.new_lines:
-                new_line = new_line.replace("\n", "")
-                new_no_number = new_line.split(",")
-                new_no_number.pop(7)
-                new_no_number.pop(6)
-                new_no_number.pop(0)
+
                 # comparing product numbers
-                if current_no_number[1] == new_no_number[1]:
+                if current_no_number['id'] == new_no_number['id']:
                     foundLineMatch = True
                     # self.compare_lines(
                     #     new_no_number, current_no_number, new_line)

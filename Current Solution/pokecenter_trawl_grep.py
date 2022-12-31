@@ -12,10 +12,14 @@ class pokecenter_output_reader():
             'pokecenter_output_' + self.region + '_new.txt', 'r', encoding="utf-8")
         self.diff_file = open(
             'pokecenter_output_' + self.region + '_diff.txt', 'w', encoding="utf-8")
+        self.diff_file.write(
+            "relative_position,link,id,name,price,in_stock,page_position,category,change\n")
         self.current_complete_file = open(
             'pokecenter_output_' + self.region + '_complete.txt', 'r', encoding="utf-8")
         self.new_complete_file = open(
             'pokecenter_output_' + self.region + '_complete_new.txt', 'w', encoding="utf-8")
+        self.new_complete_file.write(
+            "link,id,name,price,in_stock,category,search_status\n")
 
     def teardown_method(self):
         self.current_file.close()
@@ -39,6 +43,10 @@ class pokecenter_output_reader():
     def search_lines(self):
         current_lines = self.current_file.readlines()
         self.new_lines = self.new_file.readlines()
+
+        # header lines
+        current_lines.pop(0)
+        self.new_lines.pop(0)
 
         for new_line in self.new_lines:
             foundLineMatch = False
@@ -117,6 +125,9 @@ class pokecenter_output_reader():
         current_complete_lines = self.current_complete_file.readlines()
         # new_lines = self.new_file.readlines() # can you not do this twice??
 
+        # header lines
+        current_complete_lines.pop(0)
+
         for new_line in self.new_lines:
             foundLineMatch = False
             new_line = new_line.replace("\n", "")
@@ -159,8 +170,10 @@ class pokecenter_output_reader():
                     #     "{}\n".format(new_no_number))
                     break
             if not foundLineMatch:
-                current_no_number.pop()
-                current_no_number.append("delisted, missing {}".format(date.today()))
+                if "delisted" not in str(current_no_number[len(current_no_number) - 1]):
+                    current_no_number.pop()
+                    current_no_number.append(
+                        "delisted, missing {}".format(date.today()))
                 self.new_complete_file.write(
                     "{}\n".format(','.join(current_no_number)))
                 # print("(complete) {}, missing! might have been delisted\n".format(
