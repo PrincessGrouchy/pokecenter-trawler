@@ -12,20 +12,17 @@ class pokecenter_strip_dupes():
         #     names=['relative_position', 'link', 'id', 'name',
         #            'price', 'in_stock', 'page_position', 'category']
         # )
+        self.complete_file_name = 'pokecenter_output_' + self.region + '_complete.txt'
         self.complete_file = pd.read_csv(
-            'pokecenter_output_' + self.region + '_complete.txt', encoding="utf-8",
+            self.complete_file_name, encoding="utf-8", header=0,
             names=['link', 'id', 'name', 'price',
                    'in_stock', 'category', 'search_status']
         )
 
-    def teardown_method(self):
-        # self.current_file.close()
-        self.complete_file.close()
-
     def deduplicate(self, file):
-        self.current_lines = file.readlines()
-        self.current_lines.drop_duplicates(subset=['link', 'id'], inplace=True)
-        self.current_lines.to_csv(file)
+        file = file.sort_values(by=["link"], ascending=True)
+        file.drop_duplicates(subset=['link', 'id'], inplace=True)
+        file.to_csv(self.complete_file_name, index=False, header=False)
 
     def run_dedupe(self):
         # self.deduplicate(self.current_file)
@@ -35,9 +32,5 @@ class pokecenter_strip_dupes():
 regions = ["en-ca", "en-gb", "en-us", "jp-jp"]
 reader = pokecenter_strip_dupes()
 for the_region in regions:
-    try:
-        reader.setup_method(the_region)
-        reader.run_dedupe()
-        reader.teardown_method()
-    finally:
-        reader.teardown_method()
+    reader.setup_method(the_region)
+    reader.run_dedupe()

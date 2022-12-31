@@ -4236,7 +4236,8 @@ https://www.pokemoncenter.com/product/741-01586/we-re-goomy-fitted-crew-neck-t-s
 https://www.pokemoncenter.com/product/741-01530/team-pikachu-and-gengar-fitted-crew-neck-t-shirt-women,741-01530,Team Pikachu & Gengar Fitted Crew Neck T-Shirt - Women,$24.99,NO,clothing,delisted
 https://www.pokemoncenter.com/product/741-01512/mega-rayquaza-eclipse-emerald-foil-fitted-v-neck-t-shirt-women,741-01512,Mega Rayquaza Eclipse Emerald Foil Fitted V-Neck T-Shirt - Women,$29.99,YES,clothing,delisted
 https://www.pokemoncenter.com/product/741-00846/pikachu-bolt-fitted-crew-neck-t-shirt-women,741-00846,Pikachu Bolt Fitted Crew Neck T-Shirt - Women,$34.99,YES,clothing,delisted
-https://www.pokemoncenter.com/product/741-01108/pikachu-dots-fitted-crew-neck-t-shirt-women,741-01108,Pikachu Dots Fitted Crew Neck T-Shirt - Women,$24.99,YES,clothing1,https://www.pokemoncenter.com/product/710-95843/quick-ball-by-the-wand-company,710-95843,New! Quick Ball by The Wand Company,$99.99,YES,1-1,home,delisted
+https://www.pokemoncenter.com/product/741-01108/pikachu-dots-fitted-crew-neck-t-shirt-women,741-01108,Pikachu Dots Fitted Crew Neck T-Shirt - Women,$24.99,YES,clothing,delisted
+https://www.pokemoncenter.com/product/710-95843/quick-ball-by-the-wand-company,710-95843,New! Quick Ball by The Wand Company,$99.99,YES,home,delisted
 https://www.pokemoncenter.com/product/710-09923/piplup-pokemon-holiday-and-home-ornament,710-09923,Piplup Pokémon Holiday & Home Ornament,$16.99,NO,home,delisted
 https://www.pokemoncenter.com/product/111-11111/pokemon-tcg-boltund-v-box,111-11111,Pokémon TCG: Boltund V Box,$213.00,NO,home,delisted
 https://www.pokemoncenter.com/product/716-95711/nintendo-switch-lite-blue,716-95711,Nintendo Switch Lite (Blue),$199.99,NO,video-game,delisted
