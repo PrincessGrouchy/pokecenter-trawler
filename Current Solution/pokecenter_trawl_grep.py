@@ -160,7 +160,7 @@ class pokecenter_output_reader():
                     break
             if not foundLineMatch:
                 current_no_number.pop()
-                current_no_number.append("delisted")
+                current_no_number.append("delisted, missing {}".format(date.today()))
                 self.new_complete_file.write(
                     "{}\n".format(','.join(current_no_number)))
                 # print("(complete) {}, missing! might have been delisted\n".format(
