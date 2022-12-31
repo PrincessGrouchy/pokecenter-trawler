@@ -1,3 +1,4 @@
+link,id,name,price,in_stock,category,search_status
 https://www.pokemoncenter.com/product/111-11111/pokemon-tcg-boltund-v-box,111-11111,Pokémon TCG: Boltund V Box,$213.00,NO,home,delisted
 https://www.pokemoncenter.com/product/141-11822/pokemon-trading-card-game-black-and-white-plasma-freeze-booster-display-36-packs,141-11822,Pokémon Trading Card Game: Black & White Plasma Freeze Booster Display (36 Packs),$143.64,NO,trading-card-game,searchable
 https://www.pokemoncenter.com/product/142-11834/pokemon-tcg-black-and-white-plasma-blast-booster-display-box-36-packs,142-11834,Pokémon TCG: Black & White-Plasma Blast Booster Display Box (36 Packs),$143.64,NO,trading-card-game,searchable

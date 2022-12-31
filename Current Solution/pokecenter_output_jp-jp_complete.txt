@@ -1,3 +1,4 @@
+link,id,name,price,in_stock,category,search_status
 https://www.pokemoncenter-online.com/?p_cd=0191391194437,191391194437,CLASSIC HOBO　POKEMON PIXEL,19250円,NO,fashion,searchable
 https://www.pokemoncenter-online.com/?p_cd=0191391259358,191391259358,EMERALD TOTE Pokemon and flowers,11000円,YES,fashion,searchable
 https://www.pokemoncenter-online.com/?p_cd=0191391259365,191391259365,EMERALD TOTE Pikachu Monogram Tote,12100円,YES,fashion,searchable

@@ -1,3 +1,4 @@
+link,id,name,price,in_stock,category,search_status
 https://www.pokemoncenter.com/en-gb/product/174-80731/pokemon-tcg-sword-and-shield-darkness-ablaze-elite-trainer-box,174-80731,Pokémon TCG: Sword & Shield-Darkness Ablaze Elite Trainer Box,£39.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/175-80768/pokemon-tcg-sword-and-shield-vivid-voltage-elite-trainer-box,175-80768,Pokémon TCG: Sword & Shield-Vivid Voltage Elite Trainer Box,£39.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/176-80819/pokemon-tcg-sword-and-shield-battle-styles-sleeved-booster-pack-10-cards,176-80819,Pokémon TCG: Sword & Shield-Battle Styles Sleeved Booster Pack (10 Cards),£3.99,YES,trading-card-game,searchable

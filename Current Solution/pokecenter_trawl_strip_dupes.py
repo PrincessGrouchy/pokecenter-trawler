@@ -30,7 +30,7 @@ class pokecenter_strip_dupes():
     def deduplicate(self, file, filename):
         file = file.sort_values(by=["link"], ascending=True)
         file.drop_duplicates(subset=['link', 'id'], inplace=True)
-        file.to_csv(filename, index=False, header=False)
+        file.to_csv(filename, index=False)
 
     def run_dedupe(self):
         # self.deduplicate(self.current_file, self.current_file_name)

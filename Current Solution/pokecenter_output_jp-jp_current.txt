@@ -1,3 +1,4 @@
+relative_position,link,id,name,price,in_stock,page_position,category
 1,https://www.pokemoncenter-online.com/?p_cd=4904810270270,4904810270270,モンコレ MS-23 ルガルガン（まひるのすがた）,660円,YES,1-1,toy
 2,https://www.pokemoncenter-online.com/?p_cd=4521329393971,4521329393971,ぬいぐるみ グルトン,2200円,YES,1-2,toy
 3,https://www.pokemoncenter-online.com/?p_cd=4521329393957,4521329393957,ぬいぐるみ パモ,2200円,YES,1-3,toy

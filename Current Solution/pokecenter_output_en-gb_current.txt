@@ -1,3 +1,4 @@
+relative_position,link,id,name,price,in_stock,page_position,category
 1,https://www.pokemoncenter.com/en-gb/product/741-96058/pikachu-and-yamper-electric-pals-black-sleep-pants-women,741-96058,New! Pikachu & Yamper Electric Pals Black Sleep Pants - Women,£24.99,YES,1-1,new-releases
 2,https://www.pokemoncenter.com/en-gb/product/741-96096/pikachu-and-yamper-electric-pals-black-relaxed-fit-scoop-neck-tank-top-women,741-96096,New! Pikachu & Yamper Electric Pals Black Relaxed Fit Scoop Neck Tank Top - Women,£16.99,YES,1-2,new-releases
 3,https://www.pokemoncenter.com/en-gb/product/741-96052/pikachu-and-yamper-electric-pals-black-sleep-pants-men,741-96052,New! Pikachu & Yamper Electric Pals Black Sleep Pants - Men,£24.99,YES,1-3,new-releases

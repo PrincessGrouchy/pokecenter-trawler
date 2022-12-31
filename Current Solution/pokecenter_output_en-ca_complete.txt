@@ -1,3 +1,4 @@
+link,id,name,price,in_stock,category,search_status
 https://www.pokemoncenter.com/en-ca/product/141-11822/pokemon-trading-card-game-black-and-white-plasma-freeze-booster-display-36-packs,141-11822,Pokémon Trading Card Game: Black & White Plasma Freeze Booster Display (36 Packs),$186.99,NO,trading-card-game,searchable
 https://www.pokemoncenter.com/en-ca/product/142-11834/pokemon-tcg-black-and-white-plasma-blast-booster-display-box-36-packs,142-11834,Pokémon TCG: Black & White-Plasma Blast Booster Display Box (36 Packs),$186.99,NO,trading-card-game,searchable
 https://www.pokemoncenter.com/en-ca/product/143-11846/pokemon-tcg-black-and-white-legendary-treasures-booster-display-box-36-packs,143-11846,Pokémon TCG: Black & White-Legendary Treasures Booster Display Box (36 Packs),$186.99,NO,trading-card-game,searchable
