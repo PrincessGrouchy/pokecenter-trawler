@@ -30,7 +30,7 @@ https://www.pokemoncenter.com/en-gb/product/183-85105/pokemon-tcg-sword-and-shie
 https://www.pokemoncenter.com/en-gb/product/183-85108/pokemon-tcg-sword-and-shield-silver-tempest-build-and-battle-stadium,183-85108,Pokémon TCG: Sword & Shield-Silver Tempest Build & Battle Stadium,£59.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/183-85162/pokemon-tcg-sword-and-shield-silver-tempest-pokemon-center-elite-trainer-box,183-85162,Pokémon TCG: Sword & Shield-Silver Tempest Pokémon Center Elite Trainer Box,£49.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/210-85020/pokemon-tcg-collector-chest-spring-2022,210-85020,Pokémon TCG: Collector Chest (Spring 2022),£24.99,YES,trading-card-game,searchable
-https://www.pokemoncenter.com/en-gb/product/210-85115/pokemon-tcg-collector-chest-fall-2022,210-85115,New! Pokémon TCG: Collector Chest (Fall 2022),£24.99,YES,trading-card-game,searchable
+https://www.pokemoncenter.com/en-gb/product/210-85115/pokemon-tcg-collector-chest-fall-2022,210-85115,Pokémon TCG: Collector Chest (Fall 2022),£24.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/290-80789/pokemon-trading-card-game-battle-academy-charizard-gx-raichu-gx-and-mewtwo-gx,290-80789,Pokémon Trading Card Game Battle Academy (Charizard-GX%2C Raichu-GX & Mewtwo-GX),£19.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/290-80817/pokemon-tcg-shining-fates-elite-trainer-box,290-80817,Pokémon TCG: Shining Fates Elite Trainer Box,£49.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/290-80873/pokemon-tcg-galarian-rapidash-v-box,290-80873,Pokémon TCG: Galarian Rapidash V Box,£19.99,NO,trading-card-game,searchable
@@ -42,7 +42,7 @@ https://www.pokemoncenter.com/en-gb/product/290-80906/pokemon-trading-card-game-
 https://www.pokemoncenter.com/en-gb/product/290-80910/pokemon-tcg-hoopa-v-box,290-80910,Pokémon TCG: Hoopa V Box,£19.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/290-80914/pokemon-tcg-celebrations-ultra-premium-collection,290-80914,Pokémon TCG: Celebrations Ultra-Premium Collection,£119.99,NO,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/290-80915/pokemon-tcg-celebrations-special-collection-pikachu-v-union,290-80915,Pokémon TCG: Celebrations Special Collection (Pikachu V-UNION),£29.99,YES,trading-card-game,searchable
-https://www.pokemoncenter.com/en-gb/product/290-80938/pokemon-tcg-celebrations-collection-dragapult-prime,290-80938,Pokémon TCG: Celebrations Collection (Dragapult Prime),£14.99,YES,trading-card-game,searchable
+https://www.pokemoncenter.com/en-gb/product/290-80938/pokemon-tcg-celebrations-collection-dragapult-prime,290-80938,Pokémon TCG: Celebrations Collection (Dragapult Prime),£14.99,NO,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/290-80942/pokemon-tcg-celebrations-deluxe-pin-collection,290-80942,Pokémon TCG: Celebrations Deluxe Pin Collection,£19.99,NO,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/290-80943/pokemon-tcg-celebrations-elite-trainer-box,290-80943,Pokémon TCG: Celebrations Elite Trainer Box,£49.99,NO,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/290-80957/pokemon-tcg-v-battle-deck-lycanroc-vs-corviknight,290-80957,Pokémon TCG: V Battle Deck (Lycanroc vs. Corviknight),£27.99,YES,trading-card-game,searchable
@@ -58,8 +58,8 @@ https://www.pokemoncenter.com/en-gb/product/290-85045/pokemon-tcg-trainer-s-tool
 https://www.pokemoncenter.com/en-gb/product/290-85049/pokemon-tcg-pokemon-go-v-battle-deck-mewtwo-vs-melmetal,290-85049,Pokémon TCG: Pokémon GO V Battle Deck (Mewtwo vs. Melmetal),£37.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/290-85052/pokemon-tcg-pokemon-go-premium-collection-radiant-eevee,290-85052,Pokémon TCG: Pokémon GO Premium Collection (Radiant Eevee),£49.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/290-85054/pokemon-tcg-pokemon-go-collection-alolan-exeggutor-v,290-85054,Pokémon TCG: Pokémon GO Collection-Alolan Exeggutor V,£19.99,YES,trading-card-game,searchable
-https://www.pokemoncenter.com/en-gb/product/290-85084/pokemon-tcg-hisuian-zoroark-vstar-premium-collection,290-85084,Pokémon TCG: Hisuian Zoroark VSTAR Premium Collection,£34.99,YES,trading-card-game,searchable
-https://www.pokemoncenter.com/en-gb/product/290-85087/pokemon-tcg-v-battle-deck-zeraora-vs-deoxys,290-85087,Pokémon TCG: V Battle Deck (Zeraora vs. Deoxys),£27.99,YES,trading-card-game,searchable
+https://www.pokemoncenter.com/en-gb/product/290-85084/pokemon-tcg-hisuian-zoroark-vstar-premium-collection,290-85084,Pokémon TCG: Hisuian Zoroark VSTAR Premium Collection,£34.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/290-85087/pokemon-tcg-v-battle-deck-zeraora-vs-deoxys,290-85087,Pokémon TCG: V Battle Deck (Zeraora vs. Deoxys),£27.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/290-85111/pokemon-tcg-sword-and-shield-ultra-premium-collection-charizard,290-85111,Pokémon TCG: Sword & Shield Ultra-Premium Collection—Charizard,£119.99,NO,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/290-85117/pokemon-tcg-pikachu-v-box,290-85117,Pokémon TCG: Pikachu V Box,£19.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/290-85118/pokemon-tcg-boltund-v-box,290-85118,Pokémon TCG: Boltund V Box,£19.99,YES,trading-card-game,searchable
@@ -78,7 +78,7 @@ https://www.pokemoncenter.com/en-gb/product/699-17057/pokemon-tcg-shining-fates-
 https://www.pokemoncenter.com/en-gb/product/699-17058/pokemon-tcg-shining-fates-mini-tin-reshiram,699-17058,Pokémon TCG: Shining Fates Mini Tin (Reshiram),£8.99,NO,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/699-17059/pokemon-tcg-shining-fates-mini-tin-kyogre,699-17059,Pokémon TCG: Shining Fates Mini Tin (Kyogre),£8.99,NO,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/699-17069/pokemon-tcg-blastoise-v-battle-deck,699-17069,Pokémon TCG: Blastoise V Battle Deck,£14.99,NO,trading-card-game,searchable
-https://www.pokemoncenter.com/en-gb/product/699-17070/pokemon-tcg-venusaur-v-battle-deck,699-17070,Pokémon TCG: Venusaur V Battle Deck,£14.99,NO,trading-card-game,searchable
+https://www.pokemoncenter.com/en-gb/product/699-17070/pokemon-tcg-venusaur-v-battle-deck,699-17070,Pokémon TCG: Venusaur V Battle Deck,£14.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/699-17075/pokemon-tcg-level-ball-tin,699-17075,Pokémon TCG: Level Ball Tin,£12.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/699-17080/pokemon-tcg-sword-and-shield-battle-styles-elite-trainer-box-single-strike-urshifu,699-17080,Pokémon TCG: Sword & Shield-Battle Styles Elite Trainer Box (Single Strike Urshifu),£39.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/699-17081/pokemon-tcg-sword-and-shield-battle-styles-elite-trainer-box-rapid-strike-urshifu,699-17081,Pokémon TCG: Sword & Shield-Battle Styles Elite Trainer Box (Rapid Strike Urshifu),£39.99,YES,trading-card-game,searchable
@@ -119,15 +119,15 @@ https://www.pokemoncenter.com/en-gb/product/699-17133/pokemon-tcg-rapid-strike-u
 https://www.pokemoncenter.com/en-gb/product/699-17134/pokemon-tcg-knock-out-collection-boltund-eiscue-and-galarian-sirfetch-d,699-17134,Pokémon TCG: Knock Out Collection (Boltund%2C Eiscue & Galarian Sirfetch'd),£9.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/699-17135/pokemon-tcg-knock-out-collection-toxtricity-duraludon-and-sandaconda,699-17135,Pokémon TCG: Knock Out Collection (Toxtricity%2C Duraludon & Sandaconda),£9.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/699-17139/pokemon-tcg-pokemon-go-mini-tin-blissey-and-meltan,699-17139,Pokémon TCG: Pokémon GO Mini Tin (Blissey & Meltan),£8.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/699-17140/pokemon-tcg-pokemon-go-mini-tin-magikarp-and-meltan,699-17140,Pokémon TCG: Pokémon GO Mini Tin (Magikarp & Meltan),£8.99,YES,trading-card-game,searchable
+https://www.pokemoncenter.com/en-gb/product/699-17140/pokemon-tcg-pokemon-go-mini-tin-magikarp-and-meltan,699-17140,Pokémon TCG: Pokémon GO Mini Tin (Magikarp & Meltan),£8.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/699-17141/pokemon-tcg-pokemon-go-mini-tin-pikachu-and-meltan,699-17141,Pokémon TCG: Pokémon GO Mini Tin (Pikachu & Meltan),£8.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/699-17142/pokemon-tcg-pokemon-go-mini-tin-eevee-and-meltan,699-17142,Pokémon TCG: Pokémon GO Mini Tin (Eevee & Meltan),£8.99,YES,trading-card-game,searchable
-https://www.pokemoncenter.com/en-gb/product/699-17143/pokemon-tcg-pokemon-go-mini-tin-snorlax-and-meltan,699-17143,Pokémon TCG: Pokémon GO Mini Tin (Snorlax & Meltan),£8.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/699-17142/pokemon-tcg-pokemon-go-mini-tin-eevee-and-meltan,699-17142,Pokémon TCG: Pokémon GO Mini Tin (Eevee & Meltan),£8.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/699-17143/pokemon-tcg-pokemon-go-mini-tin-snorlax-and-meltan,699-17143,Pokémon TCG: Pokémon GO Mini Tin (Snorlax & Meltan),£8.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/699-17144/pokemon-tcg-love-ball-tin,699-17144,Pokémon TCG: Love Ball Tin,£12.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/699-17147/pokemon-tcg-pokemon-go-melmetal-v-battle-deck,699-17147,Pokémon TCG: Pokémon GO Melmetal V Battle Deck,£13.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/699-17148/pokemon-tcg-pokemon-go-mewtwo-v-battle-deck,699-17148,Pokémon TCG: Pokémon GO Mewtwo V Battle Deck,£13.99,YES,trading-card-game,searchable
-https://www.pokemoncenter.com/en-gb/product/699-17149/pokemon-tcg-deoxys-v-battle-deck,699-17149,Pokémon TCG: Deoxys V Battle Deck,£13.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/699-17150/pokemon-tcg-zeraora-v-battle-deck,699-17150,Pokémon TCG: Zeraora V Battle Deck,£13.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/699-17149/pokemon-tcg-deoxys-v-battle-deck,699-17149,Pokémon TCG: Deoxys V Battle Deck,£13.99,YES,trading-card-game,searchable
+https://www.pokemoncenter.com/en-gb/product/699-17150/pokemon-tcg-zeraora-v-battle-deck,699-17150,Pokémon TCG: Zeraora V Battle Deck,£13.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/699-17151/pokemon-tcg-v-heroes-tin-espeon-v,699-17151,Pokémon TCG: V Heroes Tin (Espeon V),£19.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/699-17152/pokemon-tcg-v-heroes-tin-umbreon-v,699-17152,Pokémon TCG: V Heroes Tin (Umbreon V),£19.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/699-17153/pokemon-tcg-v-heroes-tin-sylveon-v,699-17153,Pokémon TCG: V Heroes Tin (Sylveon V),£19.99,YES,trading-card-game,searchable
@@ -144,7 +144,7 @@ https://www.pokemoncenter.com/en-gb/product/699-17175/pokemon-tcg-pokemon-go-spe
 https://www.pokemoncenter.com/en-gb/product/699-17176/pokemon-tcg-pokemon-go-special-collection-team-mystic,699-17176,Pokémon TCG: Pokémon GO Special Collection (Team Mystic),£29.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/699-17177/pokemon-tcg-pokemon-go-special-collection-team-valor,699-17177,Pokémon TCG: Pokémon GO Special Collection (Team Valor),£29.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/699-17199/pokemon-tcg-2-booster-packs-and-jirachi-collector-s-pin,699-17199,Pokémon TCG: 2 Booster Packs & Jirachi Collector's Pin,£9.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/699-17200/pokemon-tcg-2-booster-packs-and-celebi-collector-s-pin,699-17200,Pokémon TCG: 2 Booster Packs & Celebi Collector's Pin,£9.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/699-17200/pokemon-tcg-2-booster-packs-and-celebi-collector-s-pin,699-17200,Pokémon TCG: 2 Booster Packs & Celebi Collector's Pin,£9.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/699-17208/pokemon-tcg-divergent-powers-tin-hisuian-decidueye-v,699-17208,Pokémon TCG: Divergent Powers Tin (Hisuian Decidueye V),£19.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/699-17209/pokemon-tcg-divergent-powers-tin-hisuian-typhlosion-v,699-17209,Pokémon TCG: Divergent Powers Tin (Hisuian Typhlosion V),£19.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/699-17210/pokemon-tcg-divergent-powers-tin-hisuian-samurott-v,699-17210,Pokémon TCG: Divergent Powers Tin (Hisuian Samurott V),£19.99,YES,trading-card-game,searchable
@@ -158,19 +158,23 @@ https://www.pokemoncenter.com/en-gb/product/699-17230/pokemon-tcg-pokemon-go-pin
 https://www.pokemoncenter.com/en-gb/product/699-17234/pokemon-tcg-pokemon-go-tin-pikachu,699-17234,Pokémon TCG: Pokémon GO Tin (Pikachu),£19.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/699-17235/pokemon-tcg-pokemon-go-tin-snorlax,699-17235,Pokémon TCG: Pokémon GO Tin (Snorlax),£19.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/699-17236/pokemon-tcg-pokemon-go-tin-blissey,699-17236,Pokémon TCG: Pokémon GO Tin (Blissey),£19.99,YES,trading-card-game,searchable
-https://www.pokemoncenter.com/en-gb/product/699-17240/pokemon-tcg-origin-forme-dialga-vstar-premium-collection,699-17240,Pokémon TCG: Origin Forme Dialga VSTAR Premium Collection,£34.99,YES,trading-card-game,searchable
-https://www.pokemoncenter.com/en-gb/product/699-17241/pokemon-tcg-origin-forme-palkia-vstar-premium-collection,699-17241,Pokémon TCG: Origin Forme Palkia VSTAR Premium Collection,£34.99,YES,trading-card-game,searchable
-https://www.pokemoncenter.com/en-gb/product/699-17244/pokemon-tcg-fire-stacking-tin,699-17244,Pokémon TCG: Fire Stacking Tin,£12.99,YES,trading-card-game,searchable
-https://www.pokemoncenter.com/en-gb/product/699-17245/pokemon-tcg-darkness-stacking-tin,699-17245,Pokémon TCG: Darkness Stacking Tin,£12.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/699-17246/pokemon-tcg-fighting-stacking-tin,699-17246,Pokémon TCG: Fighting Stacking Tin,£12.99,YES,trading-card-game,searchable
-https://www.pokemoncenter.com/en-gb/product/699-17274/pokemon-tcg-sword-and-shield-silver-tempest-3-booster-packs-coin-and-togetic-promo-card,699-17274,Pokémon TCG: Sword & Shield-Silver Tempest 3 Booster Packs%2C Coin & Togetic Promo Card,£12.99,YES,trading-card-game,searchable
+https://www.pokemoncenter.com/en-gb/product/699-17240/pokemon-tcg-origin-forme-dialga-vstar-premium-collection,699-17240,Pokémon TCG: Origin Forme Dialga VSTAR Premium Collection,£34.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/699-17241/pokemon-tcg-origin-forme-palkia-vstar-premium-collection,699-17241,Pokémon TCG: Origin Forme Palkia VSTAR Premium Collection,£34.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/699-17244/pokemon-tcg-fire-stacking-tin,699-17244,Pokémon TCG: Fire Stacking Tin,£12.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/699-17245/pokemon-tcg-darkness-stacking-tin,699-17245,Pokémon TCG: Darkness Stacking Tin,£12.99,YES,trading-card-game,searchable
+https://www.pokemoncenter.com/en-gb/product/699-17246/pokemon-tcg-fighting-stacking-tin,699-17246,Pokémon TCG: Fighting Stacking Tin,£12.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/699-17274/pokemon-tcg-sword-and-shield-silver-tempest-3-booster-packs-coin-and-togetic-promo-card,699-17274,Pokémon TCG: Sword & Shield-Silver Tempest 3 Booster Packs%2C Coin & Togetic Promo Card,£12.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/699-17275/pokemon-tcg-sword-and-shield-silver-tempest-3-booster-packs-coin-and-manaphy-promo-card,699-17275,Pokémon TCG: Sword & Shield—Silver Tempest 3 Booster Packs%2C Coin & Manaphy Promo Card,£12.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/699-17278/pokemon-tcg-deoxys-vmax-and-vstar-battle-box,699-17278,Pokémon TCG: Deoxys VMAX & VSTAR Battle Box,£29.99,NO,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/699-17279/pokemon-tcg-zeraora-vmax-and-vstar-battle-box,699-17279,Pokémon TCG: Zeraora VMAX & VSTAR Battle Box,£29.99,NO,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/699-81846/pokemon-tcg-sword-and-shield-chilling-reign-booster-display-box-36-packs,699-81846,Pokémon TCG: Sword & Shield-Chilling Reign Booster Display Box (36 Packs),£143.64,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/699-81877/pokemon-tcg-sword-and-shield-evolving-skies-booster-display-box-36-packs,699-81877,Pokémon TCG: Sword & Shield-Evolving Skies Booster Display Box (36 Packs),£143.64,NO,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/699-81916/pokemon-tcg-sword-and-shield-fusion-strike-booster-display-box-36-packs,699-81916,Pokémon TCG: Sword & Shield-Fusion Strike Booster Display Box (36 Packs),£143.64,YES,trading-card-game,searchable
-https://www.pokemoncenter.com/en-gb/product/699-81996/pokemon-tcg-sword-and-shield-brilliant-stars-booster-display-box-36-packs,699-81996,Pokémon TCG: Sword & Shield-Brilliant Stars Booster Display Box (36 Packs),£143.64,YES,trading-card-game,searchable
+https://www.pokemoncenter.com/en-gb/product/699-81996/pokemon-tcg-sword-and-shield-brilliant-stars-booster-display-box-36-packs,699-81996,Pokémon TCG: Sword & Shield-Brilliant Stars Booster Display Box (36 Packs),£143.64,NO,trading-card-game,searchable
+https://www.pokemoncenter.com/en-gb/product/699-85209/pokemon-tcg-knock-out-collection-galarian-slowking-galarian-obstagoon-and-dragapult,699-85209,New! Pokémon TCG: Knock Out Collection (Galarian Slowking%2C Galarian Obstagoon & Dragapult),£9.99,YES,trading-card-game,searchable
+https://www.pokemoncenter.com/en-gb/product/699-85212/pokemon-tcg-paldea-collection-sprigatito,699-85212,New! Pokémon TCG: Paldea Collection (Sprigatito),£19.99,NO,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/699-85213/pokemon-tcg-paldea-collection-fuecoco,699-85213,New! Pokémon TCG: Paldea Collection (Fuecoco),£19.99,NO,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/699-85214/pokemon-tcg-paldea-collection-quaxly,699-85214,New! Pokémon TCG: Paldea Collection (Quaxly),£19.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/699-86023/pokemon-tcg-sword-and-shield-astral-radiance-booster-display-box-36-packs,699-86023,Pokémon TCG: Sword & Shield-Astral Radiance Booster Display Box (36 Packs),£143.64,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/699-86055/pokemon-tcg-sword-and-shield-lost-origin-booster-display-box-36-packs,699-86055,Pokémon TCG: Sword & Shield-Lost Origin Booster Display Box (36 Packs),£143.64,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/699-86091/pokemon-tcg-sword-and-shield-silver-tempest-booster-display-box-36-packs,699-86091,Pokémon TCG: Sword & Shield-Silver Tempest Booster Display Box (36 Packs),£143.64,NO,trading-card-game,searchable
@@ -180,7 +184,7 @@ https://www.pokemoncenter.com/en-gb/product/701-00195/bulbasaur-poke-plush-24-3-
 https://www.pokemoncenter.com/en-gb/product/701-00196/charmander-poke-plush-20-in,701-00196,Charmander Poké Plush - 20 In.,£54.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-00197/squirtle-poke-plush-17-in,701-00197,Squirtle Poké Plush - 17 In.,£54.99,NO,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-00226/dragonite-poke-plush-10-in,701-00226,Dragonite Poké Plush - 10 In.,£22.99,YES,plush,searchable
-https://www.pokemoncenter.com/en-gb/product/701-00271/snorlax-poke-plush-19-in,701-00271,Snorlax Poké Plush - 19 ¼ In.,£44.99,NO,plush,searchable
+https://www.pokemoncenter.com/en-gb/product/701-00271/snorlax-poke-plush-19-in,701-00271,Snorlax Poké Plush - 19 ¼ In.,£44.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-00273/mewtwo-poke-plush-10-1-2-in,701-00273,Mewtwo Poké Plush - 10 1/2 In.,£19.99,NO,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-00275/vulpix-poke-plush-7-in,701-00275,Vulpix Poké Plush - 7 In.,£12.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-02802/rowlet-poke-plush-6-in,701-02802,Rowlet Poké Plush - 6 ½ In.,£12.99,NO,plush,searchable
@@ -189,13 +193,13 @@ https://www.pokemoncenter.com/en-gb/product/701-02804/popplio-poke-plush-7-1-2-i
 https://www.pokemoncenter.com/en-gb/product/701-02904/decidueye-poke-plush-12-in,701-02904,Decidueye Poké Plush - 12 In.,£29.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-02906/primarina-poke-plush-13-in,701-02906,Primarina Poké Plush - 13 In.,£29.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-02933/lapras-poke-plush-34-in,701-02933,Lapras Poké Plush - 34 In.,£219.99,YES,plush,searchable
-https://www.pokemoncenter.com/en-gb/product/701-02944/sleeping-jolteon-poke-plush-18-in,701-02944,Sleeping Jolteon Poké Plush - 18 In.,£34.99,YES,plush,searchable
+https://www.pokemoncenter.com/en-gb/product/701-02944/sleeping-jolteon-poke-plush-18-in,701-02944,Sleeping Jolteon Poké Plush - 18 In.,£34.99,NO,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-02945/sleeping-flareon-poke-plush-15-in,701-02945,Sleeping Flareon Poké Plush - 15 ½ In.,£34.99,NO,plush,searchable
-https://www.pokemoncenter.com/en-gb/product/701-02957/ditto-poke-plush-8-in,701-02957,Ditto Poké Plush - 8 In.,£12.99,YES,plush,searchable
+https://www.pokemoncenter.com/en-gb/product/701-02957/ditto-poke-plush-8-in,701-02957,Ditto Poké Plush - 8 In.,£12.99,NO,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-02969/meowth-poke-plush-7-in,701-02969,Meowth Poké Plush - 7 ½ In.,£12.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-03041/wailord-poke-plush-26-in,701-03041,Wailord Poké Plush - 26 In.,£44.99,NO,plush,searchable
-https://www.pokemoncenter.com/en-gb/product/701-03075/mimikyu-poke-plush-22-in,701-03075,Mimikyu Poké Plush - 22 ½ In.,£39.99,YES,plush,searchable
-https://www.pokemoncenter.com/en-gb/product/701-03124/piplup-poke-plush-8-in,701-03124,Piplup Poké Plush - 8 ¾ In.,£12.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/701-03075/mimikyu-poke-plush-22-in,701-03075,Mimikyu Poké Plush - 22 ½ In.,£39.99,NO,plush,searchable
+https://www.pokemoncenter.com/en-gb/product/701-03124/piplup-poke-plush-8-in,701-03124,Piplup Poké Plush - 8 ¾ In.,£12.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-03126/lucario-poke-plush-13-in,701-03126,Lucario Poké Plush - 13 ½ In.,£17.99,NO,plush,delisted
 https://www.pokemoncenter.com/en-gb/product/701-03127/pikachu-sitting-cuties-plush-5-in,701-03127,Pikachu Sitting Cuties Plush - 5 ¼ In.,£9.99,NO,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-03128/eevee-sitting-cuties-plush-6-in,701-03128,Eevee Sitting Cuties Plush - 6 ½ In.,£9.99,NO,plush,searchable
@@ -205,7 +209,7 @@ https://www.pokemoncenter.com/en-gb/product/701-03594/meowth-sitting-cuties-plus
 https://www.pokemoncenter.com/en-gb/product/701-03601/exeggutor-sitting-cuties-plush-5-in,701-03601,Exeggutor Sitting Cuties Plush - 5 ½ In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-03682/chansey-poke-plush-8-1-2-in,701-03682,Chansey Poké Plush - 8 1/2 In.,£12.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/701-03699/rattata-sitting-cuties-plush-4-in,701-03699,Rattata Sitting Cuties Plush - 4 ¼ In.,£9.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/701-03700/ekans-sitting-cuties-plush-5-in,701-03700,Ekans Sitting Cuties Plush - 5 In.,£9.99,YES,plush,searchable
+https://www.pokemoncenter.com/en-gb/product/701-03700/ekans-sitting-cuties-plush-5-in,701-03700,Ekans Sitting Cuties Plush - 5 In.,£9.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/701-03701/sandshrew-sitting-cuties-plush-4-3-4-in,701-03701,Sandshrew Sitting Cuties Plush - 4 3/4 In.,£9.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/701-03702/jigglypuff-sitting-cuties-plush-3-in,701-03702,Jigglypuff Sitting Cuties Plush - 3 ½ In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-03703/diglett-sitting-cuties-plush-4-in,701-03703,Diglett Sitting Cuties Plush - 4 In.,£9.99,YES,plush,searchable
@@ -250,7 +254,7 @@ https://www.pokemoncenter.com/en-gb/product/701-03761/horsea-sitting-cuties-plus
 https://www.pokemoncenter.com/en-gb/product/701-03763/ivysaur-sitting-cuties-plush-6-in,701-03763,Ivysaur Sitting Cuties Plush - 6 In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-03766/kabutops-sitting-cuties-plush-8-in,701-03766,Kabutops Sitting Cuties Plush - 8 In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-03767/kadabra-sitting-cuties-plush-8-in,701-03767,Kadabra Sitting Cuties Plush - 8 ¼ In.,£9.99,YES,plush,searchable
-https://www.pokemoncenter.com/en-gb/product/701-03768/kakuna-sitting-cuties-plush-5-in,701-03768,Kakuna Sitting Cuties Plush - 5 ½ In.,£9.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/701-03768/kakuna-sitting-cuties-plush-5-in,701-03768,Kakuna Sitting Cuties Plush - 5 ½ In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-03769/kingler-sitting-cuties-plush-8-in,701-03769,Kingler Sitting Cuties Plush - 8 In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-03770/koffing-sitting-cuties-plush-4-in,701-03770,Koffing Sitting Cuties Plush - 4 ¼ In.,£9.99,NO,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-03773/lickitung-sitting-cuties-plush-5-in,701-03773,Lickitung Sitting Cuties Plush - 5 ¾ In.,£9.99,YES,plush,searchable
@@ -272,7 +276,7 @@ https://www.pokemoncenter.com/en-gb/product/701-03793/ninetales-sitting-cuties-p
 https://www.pokemoncenter.com/en-gb/product/701-03794/oddish-sitting-cuties-plush-7-in,701-03794,Oddish Sitting Cuties Plush - 7 ½ In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-03795/omastar-sitting-cuties-plush-5-in,701-03795,Omastar Sitting Cuties Plush - 5 ¾ In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-03796/onix-sitting-cuties-plush-7-in,701-03796,Onix Sitting Cuties Plush - 7 ¼ In.,£9.99,YES,plush,searchable
-https://www.pokemoncenter.com/en-gb/product/701-03798/parasect-sitting-cuties-plush-6-in,701-03798,Parasect Sitting Cuties Plush - 6 ¾ In.,£9.99,YES,plush,searchable
+https://www.pokemoncenter.com/en-gb/product/701-03798/parasect-sitting-cuties-plush-6-in,701-03798,Parasect Sitting Cuties Plush - 6 ¾ In.,£9.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/701-03800/pidgeot-sitting-cuties-plush-6-in,701-03800,Pidgeot Sitting Cuties Plush - 6 In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-03801/pidgeotto-sitting-cuties-plush-7-in,701-03801,Pidgeotto Sitting Cuties Plush - 7 In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-03802/pidgey-sitting-cuties-plush-5-in,701-03802,Pidgey Sitting Cuties Plush - 5 ¼ In.,£9.99,YES,plush,searchable
@@ -297,17 +301,17 @@ https://www.pokemoncenter.com/en-gb/product/701-03829/tentacruel-sitting-cuties-
 https://www.pokemoncenter.com/en-gb/product/701-03830/venomoth-sitting-cuties-plush-6-in,701-03830,Venomoth Sitting Cuties Plush - 6 ½ In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-03833/victreebel-sitting-cuties-plush-7-in,701-03833,Victreebel Sitting Cuties Plush - 7 ¾ In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-03834/vileplume-sitting-cuties-plush-4-in,701-03834,Vileplume Sitting Cuties Plush - 4 ¾ In.,£9.99,YES,plush,searchable
-https://www.pokemoncenter.com/en-gb/product/701-03837/weedle-sitting-cuties-plush-7-in,701-03837,Weedle Sitting Cuties Plush - 7 ½ In.,£9.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/701-03837/weedle-sitting-cuties-plush-7-in,701-03837,Weedle Sitting Cuties Plush - 7 ½ In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-03838/weepinbell-sitting-cuties-plush-6-in,701-03838,Weepinbell Sitting Cuties Plush - 6 ½ In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-03839/weezing-sitting-cuties-plush-6-in,701-03839,Weezing Sitting Cuties Plush - 6 In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-03840/wigglytuff-sitting-cuties-plush-5-in,701-03840,Wigglytuff Sitting Cuties Plush - 5 ¼ In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-03841/zubat-sitting-cuties-plush-9-in,701-03841,Zubat Sitting Cuties Plush - 9 ¼ In.,£9.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/701-03945/turtwig-poke-plush-8-in,701-03945,Turtwig Poké Plush - 8 ½ In.,£12.99,YES,plush,searchable
-https://www.pokemoncenter.com/en-gb/product/701-03946/chimchar-poke-plush-10-in,701-03946,Chimchar Poké Plush - 10 ¾ In.,£12.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/701-03989/bulbasaur-poke-plush-6-in,701-03989,Bulbasaur Poké Plush - 6 ½ In.,£12.99,YES,plush,searchable
-https://www.pokemoncenter.com/en-gb/product/701-03990/charmander-poke-plush-9-in,701-03990,Charmander Poké Plush - 9 In.,£12.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/701-03991/squirtle-poke-plush-8-in,701-03991,Squirtle Poké Plush - 8 In.,£12.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/701-03993/torchic-poke-plush-9-in,701-03993,Torchic Poké Plush - 9 ½ In.,£12.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/701-03946/chimchar-poke-plush-10-in,701-03946,Chimchar Poké Plush - 10 ¾ In.,£12.99,YES,plush,searchable
+https://www.pokemoncenter.com/en-gb/product/701-03989/bulbasaur-poke-plush-6-in,701-03989,Bulbasaur Poké Plush - 6 ½ In.,£12.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/701-03990/charmander-poke-plush-9-in,701-03990,Charmander Poké Plush - 9 In.,£12.99,YES,plush,searchable
+https://www.pokemoncenter.com/en-gb/product/701-03991/squirtle-poke-plush-8-in,701-03991,Squirtle Poké Plush - 8 In.,£12.99,NO,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/701-03993/torchic-poke-plush-9-in,701-03993,Torchic Poké Plush - 9 ½ In.,£12.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-03994/mudkip-poke-plush-9-in,701-03994,Mudkip Poké Plush - 9 ½ In.,£12.99,NO,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-03995/snivy-poke-plush-9-in,701-03995,Snivy Poké Plush - 9 ¾ In.,£12.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-03996/tepig-poke-plush-8-in,701-03996,Tepig Poké Plush - 8 ½ In.,£12.99,YES,plush,searchable
@@ -362,7 +366,7 @@ https://www.pokemoncenter.com/en-gb/product/701-04541/unown-sitting-cuties-plush
 https://www.pokemoncenter.com/en-gb/product/701-04543/wobbuffet-sitting-cuties-plush-5-in,701-04543,Wobbuffet Sitting Cuties Plush - 5 ½ In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-04544/pineco-sitting-cuties-plush-5-in,701-04544,Pineco Sitting Cuties Plush - 5 In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-04704/mew-poke-plush-7-in,701-04704,Mew Poké Plush - 7 ¾ In.,£12.99,NO,plush,searchable
-https://www.pokemoncenter.com/en-gb/product/701-05305/wooloo-poke-plush-7-in,701-05305,Wooloo Poké Plush - 7 ½ In.,£14.99,YES,plush,searchable
+https://www.pokemoncenter.com/en-gb/product/701-05305/wooloo-poke-plush-7-in,701-05305,Wooloo Poké Plush - 7 ½ In.,£14.99,NO,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-05318/mareep-poke-plush-45-in,701-05318,Mareep Poké Plush - 45 In.,£429.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-05387/yamper-poke-plush-9-in,701-05387,Yamper Poké Plush - 9 ¾ In.,£14.99,NO,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-05411/galarian-ponyta-poke-plush-11-in,701-05411,Galarian Ponyta Poké Plush - 11 ¼ In.,£14.99,NO,plush,delisted
@@ -442,7 +446,7 @@ https://www.pokemoncenter.com/en-gb/product/701-06215/psyduck-sitting-cuties-plu
 https://www.pokemoncenter.com/en-gb/product/701-06216/raichu-sitting-cuties-plush-6-in,701-06216,Raichu Sitting Cuties Plush - 6 In.,£9.99,NO,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-06218/zapdos-sitting-cuties-plush-8-in,701-06218,Zapdos Sitting Cuties Plush - 8 ¾ In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-06223/mew-sitting-cuties-plush-4-in,701-06223,Mew Sitting Cuties Plush - 4 ½ In.,£9.99,NO,plush,searchable
-https://www.pokemoncenter.com/en-gb/product/701-06224/umbreon-sitting-cuties-plush-7-in,701-06224,Umbreon Sitting Cuties Plush - 7 In.,£9.99,NO,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/701-06224/umbreon-sitting-cuties-plush-7-in,701-06224,Umbreon Sitting Cuties Plush - 7 In.,£9.99,NO,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-06225/espeon-sitting-cuties-plush-6-in,701-06225,Espeon Sitting Cuties Plush - 6 ½ In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-06226/jumpluff-sitting-cuties-plush-6-in,701-06226,Jumpluff Sitting Cuties Plush - 6 ½ In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-06227/azumarill-sitting-cuties-plush-6-in,701-06227,Azumarill Sitting Cuties Plush - 6 ½ In.,£9.99,YES,plush,searchable
@@ -455,13 +459,13 @@ https://www.pokemoncenter.com/en-gb/product/701-06243/wooper-sitting-cuties-plus
 https://www.pokemoncenter.com/en-gb/product/701-06244/marill-sitting-cuties-plush-4-in,701-06244,Marill Sitting Cuties Plush - 4 ¾ In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-06245/mareep-sitting-cuties-plush-6-in,701-06245,Mareep Sitting Cuties Plush - 6 In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-06246/togepi-sitting-cuties-plush-5-in,701-06246,Togepi Sitting Cuties Plush - 5 In.,£9.99,NO,plush,searchable
-https://www.pokemoncenter.com/en-gb/product/701-06247/crobat-sitting-cuties-plush-8-in,701-06247,Crobat Sitting Cuties Plush - 8 ½ In.,£9.99,YES,plush,searchable
+https://www.pokemoncenter.com/en-gb/product/701-06247/crobat-sitting-cuties-plush-8-in,701-06247,Crobat Sitting Cuties Plush - 8 ½ In.,£9.99,NO,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-06253/miltank-sitting-cuties-plush-6-in,701-06253,Miltank Sitting Cuties Plush - 6 In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-06254/porygon2-sitting-cuties-plush-7-in,701-06254,Porygon2 Sitting Cuties Plush - 7 In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-06259/girafarig-sitting-cuties-plush-6-in,701-06259,Girafarig Sitting Cuties Plush - 6 ¼ In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-06261/politoed-sitting-cuties-plush-6-in,701-06261,Politoed Sitting Cuties Plush - 6 ½ In.,£9.99,NO,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-06262/bellossom-sitting-cuties-plush-5-in,701-06262,Bellossom Sitting Cuties Plush - 5 ¾ In.,£9.99,NO,plush,searchable
-https://www.pokemoncenter.com/en-gb/product/701-06265/chikorita-sitting-cuties-plush-5-in,701-06265,Chikorita Sitting Cuties Plush - 5 ¼ In.,£9.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/701-06265/chikorita-sitting-cuties-plush-5-in,701-06265,Chikorita Sitting Cuties Plush - 5 ¼ In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-06266/flareon-sitting-cuties-plush-6-in,701-06266,Flareon Sitting Cuties Plush - 6 ½ In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-06267/jolteon-sitting-cuties-plush-6-in,701-06267,Jolteon Sitting Cuties Plush - 6 In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-06269/lugia-sitting-cuties-plush-8-in,701-06269,Lugia Sitting Cuties Plush - 8 ¼ In.,£9.99,YES,plush,searchable
@@ -483,7 +487,7 @@ https://www.pokemoncenter.com/en-gb/product/701-07056/palkia-poke-plush-14-in,70
 https://www.pokemoncenter.com/en-gb/product/701-07057/dialga-poke-plush-14-in,701-07057,Dialga Poké Plush - 14 ½ In.,£39.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-07292/pikachu-celebrations-intern-pikachu-poke-plush-7-in,701-07292,Pikachu Celebrations: Intern Pikachu Poké Plush - 7 ¼ In.,£15.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-08604/pikachu-with-ribbon-plush-23-in,701-08604,Pikachu with Ribbon Plush - 23 ¾ In.,£104.99,YES,plush,searchable
-https://www.pokemoncenter.com/en-gb/product/701-08640/ho-oh-poke-plush-13-in,701-08640,Ho-Oh Poké Plush - 13 ¾ In.,£22.99,YES,plush,searchable
+https://www.pokemoncenter.com/en-gb/product/701-08640/ho-oh-poke-plush-13-in,701-08640,Ho-Oh Poké Plush - 13 ¾ In.,£22.99,NO,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-09124/lugia-poke-plush-13-in,701-09124,Lugia Poké Plush - 13 ¾ In.,£30.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-09125/paras-sitting-cuties-plush-6-in,701-09125,Paras Sitting Cuties Plush - 6 ¾ In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-29078/glaceon-poke-plush-11-in,701-29078,Glaceon Poké Plush - 11 ¼ In.,£17.99,NO,plush,searchable
@@ -495,7 +499,7 @@ https://www.pokemoncenter.com/en-gb/product/701-29083/jolteon-poke-plush-12-in,7
 https://www.pokemoncenter.com/en-gb/product/701-29084/vaporeon-poke-plush-10-in,701-29084,Vaporeon Poké Plush - 10 ½ In.,£17.99,NO,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-29085/eevee-poke-plush-11-in,701-29085,Eevee Poké Plush - 11 ¾ In.,£17.99,NO,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-29216/swablu-comfy-friends-plush-14-in,701-29216,Swablu Comfy Friends Plush - 14 ¼ In.,£30.99,NO,plush,searchable
-https://www.pokemoncenter.com/en-gb/product/701-29217/cinccino-comfy-friends-plush-13-in,701-29217,Cinccino Comfy Friends Plush - 13 ¾ In.,£30.99,YES,plush,searchable
+https://www.pokemoncenter.com/en-gb/product/701-29217/cinccino-comfy-friends-plush-13-in,701-29217,Cinccino Comfy Friends Plush - 13 ¾ In.,£30.99,NO,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-29218/zorua-comfy-friends-plush-15-in,701-29218,Zorua Comfy Friends Plush - 15 ½ In.,£30.99,NO,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-29219/bidoof-comfy-friends-plush-14-in,701-29219,Bidoof Comfy Friends Plush - 14 ½ In.,£30.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-29232/piplup-microbead-plush-key-chain,701-29232,Piplup Microbead Plush Key Chain,£8.99,YES,plush,searchable
@@ -512,8 +516,9 @@ https://www.pokemoncenter.com/en-gb/product/701-29360/alolan-ninetales-poke-plus
 https://www.pokemoncenter.com/en-gb/product/701-29361/totodile-poke-plush-7-in,701-29361,Totodile Poké Plush - 7 ¼ In.,£12.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-29362/chikorita-poke-plush-6-in,701-29362,Chikorita Poké Plush - 6 ¼ In.,£12.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-29363/poke-ball-poke-plush-7-in,701-29363,Poké Ball Poké Plush - 7 In.,£12.99,YES,plush,searchable
+https://www.pokemoncenter.com/en-gb/product/701-29364/marshadow-poke-plush-9-in,701-29364,Marshadow Poké Plush - 9 In.,£12.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-29365/master-ball-poke-plush-7-in,701-29365,Master Ball Poké Plush - 7 In.,£12.99,YES,plush,searchable
-https://www.pokemoncenter.com/en-gb/product/701-29384/cyndaquil-poke-plush-standard-size-7-in,701-29384,Cyndaquil Poké Plush (Standard Size) - 7 In.,£12.99,NO,plush,searchable
+https://www.pokemoncenter.com/en-gb/product/701-29384/cyndaquil-poke-plush-standard-size-7-in,701-29384,Cyndaquil Poké Plush (Standard Size) - 7 In.,£12.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-29466/wormadam-trash-cloak-sitting-cuties-plush-6-in,701-29466,Wormadam (Trash Cloak) Sitting Cuties Plush - 6 In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-29467/wormadam-sandy-cloak-sitting-cuties-plush-5-in,701-29467,Wormadam (Sandy Cloak) Sitting Cuties Plush - 5 ¾ In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-29468/wormadam-plant-cloak-sitting-cuties-plush-5-in,701-29468,Wormadam (Plant Cloak) Sitting Cuties Plush - 5 ¾ In.,£9.99,YES,plush,searchable
@@ -575,12 +580,12 @@ https://www.pokemoncenter.com/en-gb/product/701-29523/pachirisu-sitting-cuties-p
 https://www.pokemoncenter.com/en-gb/product/701-29524/vespiquen-sitting-cuties-plush-5-in,701-29524,Vespiquen Sitting Cuties Plush - 5 ½ In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-29525/combee-sitting-cuties-plush-7-in,701-29525,Combee Sitting Cuties Plush - 7 In.,£9.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-29526/mothim-sitting-cuties-plush-8-in,701-29526,Mothim Sitting Cuties Plush - 8 ½ In.,£9.99,YES,plush,searchable
-https://www.pokemoncenter.com/en-gb/product/701-29532/slowpoke-poke-plush-59-in,701-29532,Slowpoke Poké Plush - 59 In.,£329.99,YES,plush,searchable
+https://www.pokemoncenter.com/en-gb/product/701-29532/slowpoke-poke-plush-59-in,701-29532,Slowpoke Poké Plush - 59 In.,£329.99,NO,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-29579/dreepy-pokemon-pumpkin-celebration-plush-key-chain,701-29579,Dreepy Pokémon Pumpkin Celebration Plush Key Chain,£9.99,YES,plush,searchable
-https://www.pokemoncenter.com/en-gb/product/701-29580/drifblim-pokemon-pumpkin-celebration-plush-key-chain,701-29580,Drifblim Pokémon Pumpkin Celebration Plush Key Chain,£12.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/701-29581/litwick-pokemon-pumpkin-celebration-plush-key-chain,701-29581,Litwick Pokémon Pumpkin Celebration Plush Key Chain,£9.99,NO,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/701-29582/toxel-pokemon-pumpkin-celebration-plush-key-chain,701-29582,Toxel Pokémon Pumpkin Celebration Plush Key Chain,£12.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/701-29583/snorlax-pokemon-pumpkin-celebration-poke-plush-9-in,701-29583,Snorlax Pokémon Pumpkin Celebration Poké Plush - 9 ¼ In.,£17.99,NO,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/701-29580/drifblim-pokemon-pumpkin-celebration-plush-key-chain,701-29580,Drifblim Pokémon Pumpkin Celebration Plush Key Chain,£12.99,YES,plush,searchable
+https://www.pokemoncenter.com/en-gb/product/701-29581/litwick-pokemon-pumpkin-celebration-plush-key-chain,701-29581,Litwick Pokémon Pumpkin Celebration Plush Key Chain,£9.99,NO,plush,searchable
+https://www.pokemoncenter.com/en-gb/product/701-29582/toxel-pokemon-pumpkin-celebration-plush-key-chain,701-29582,Toxel Pokémon Pumpkin Celebration Plush Key Chain,£12.99,YES,plush,searchable
+https://www.pokemoncenter.com/en-gb/product/701-29583/snorlax-pokemon-pumpkin-celebration-poke-plush-9-in,701-29583,Snorlax Pokémon Pumpkin Celebration Poké Plush - 9 ¼ In.,£17.99,NO,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-29584/scorbunny-pokemon-pumpkin-celebration-poke-plush-9-in,701-29584,Scorbunny Pokémon Pumpkin Celebration Poké Plush - 9 ¾ In.,£17.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-29585/piplup-pokemon-pumpkin-celebration-poke-plush-8-in,701-29585,Piplup Pokémon Pumpkin Celebration Poké Plush - 8 ¾ In.,£17.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-29586/pikachu-pokemon-pumpkin-celebration-poke-plush-8-in,701-29586,Pikachu Pokémon Pumpkin Celebration Poké Plush - 8 ¾ In.,£17.99,YES,plush,searchable
@@ -692,13 +697,13 @@ https://www.pokemoncenter.com/en-gb/product/701-95854/hisuian-zoroark-poke-plush
 https://www.pokemoncenter.com/en-gb/product/701-95855/hisuian-zorua-poke-plush-11-in,701-95855,Hisuian Zorua Poké Plush - 11 ¼ In.,£16.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-95856/kleavor-poke-plush-13-in,701-95856,Kleavor Poké Plush - 13 ¾ In.,£29.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-95857/oshawott-poke-plush-19-in,701-95857,Oshawott Poké Plush - 19 ¾ In.,£49.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/701-95858/cyndaquil-poke-plush-19-in,701-95858,Cyndaquil Poké Plush - 19 ¾ In.,£49.99,YES,plush,searchable
-https://www.pokemoncenter.com/en-gb/product/701-95865/gengar-microbead-plush-key-chain,701-95865,Gengar Microbead Plush Key Chain,£8.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/701-95866/dedenne-microbead-plush-key-chain,701-95866,Dedenne Microbead Plush Key Chain,£8.99,YES,plush,searchable
+https://www.pokemoncenter.com/en-gb/product/701-95858/cyndaquil-poke-plush-19-in,701-95858,Cyndaquil Poké Plush - 19 ¾ In.,£49.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/701-95865/gengar-microbead-plush-key-chain,701-95865,Gengar Microbead Plush Key Chain,£8.99,YES,plush,searchable
+https://www.pokemoncenter.com/en-gb/product/701-95866/dedenne-microbead-plush-key-chain,701-95866,Dedenne Microbead Plush Key Chain,£8.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/701-95867/croagunk-microbead-plush-key-chain,701-95867,Croagunk Microbead Plush Key Chain,£8.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/701-95868/gengar-large-microbead-plush-15-in,701-95868,Gengar Large Microbead Plush - 15 ¼ In.,£30.99,YES,plush,searchable
-https://www.pokemoncenter.com/en-gb/product/701-95869/dedenne-large-microbead-plush-15-in,701-95869,Dedenne Large Microbead Plush - 15 ½ In.,£30.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/701-95870/croagunk-large-microbead-plush-15-in,701-95870,Croagunk Large Microbead Plush - 15 ¾ In.,£30.99,YES,plush,searchable
+https://www.pokemoncenter.com/en-gb/product/701-95868/gengar-large-microbead-plush-15-in,701-95868,Gengar Large Microbead Plush - 15 ¼ In.,£30.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/701-95869/dedenne-large-microbead-plush-15-in,701-95869,Dedenne Large Microbead Plush - 15 ½ In.,£30.99,YES,plush,searchable
+https://www.pokemoncenter.com/en-gb/product/701-95870/croagunk-large-microbead-plush-15-in,701-95870,Croagunk Large Microbead Plush - 15 ¾ In.,£30.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/701-95871/gengar-extra-large-microbead-plush-21-in,701-95871,Gengar Extra-Large Microbead Plush - 21 In.,£89.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/701-95872/dedenne-extra-large-microbead-plush-22-in,701-95872,Dedenne Extra-Large Microbead Plush - 22 ½ In.,£89.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-95873/croagunk-extra-large-microbead-plush-21-in,701-95873,Croagunk Extra-Large Microbead Plush - 21 ¼ In.,£89.99,YES,new-releases,searchable
@@ -721,8 +726,8 @@ https://www.pokemoncenter.com/en-gb/product/701-96049/mew-pokemon-comfy-cuddlers
 https://www.pokemoncenter.com/en-gb/product/701-96050/eevee-pokemon-comfy-cuddlers-plush,701-96050,Eevee Pokémon Comfy Cuddlers Plush,£11.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-96051/pikachu-pokemon-comfy-cuddlers-plush,701-96051,Pikachu Pokémon Comfy Cuddlers Plush,£11.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-96380/spheal-poke-plush-39-in,701-96380,Spheal Poké Plush - 39 ½ In.,£399.99,YES,plush,searchable
-https://www.pokemoncenter.com/en-gb/product/701-96531/hisuian-typhlosion-poke-plush-13-in,701-96531,Hisuian Typhlosion Poké Plush - 13 ½ In.,£32.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/701-96532/hisuian-samurott-poke-plush-14-in,701-96532,Hisuian Samurott Poké Plush - 14 ½ In.,£32.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/701-96531/hisuian-typhlosion-poke-plush-13-in,701-96531,Hisuian Typhlosion Poké Plush - 13 ½ In.,£32.99,YES,plush,searchable
+https://www.pokemoncenter.com/en-gb/product/701-96532/hisuian-samurott-poke-plush-14-in,701-96532,Hisuian Samurott Poké Plush - 14 ½ In.,£32.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-96533/hisuian-decidueye-poke-plush-14-in,701-96533,Hisuian Decidueye Poké Plush - 14 ¼ In.,£32.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-96544/fuecoco-plush-key-chain,701-96544,Fuecoco Plush Key Chain,£12.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-96545/sprigatito-plush-key-chain,701-96545,Sprigatito Plush Key Chain,£12.99,YES,plush,searchable
@@ -730,28 +735,28 @@ https://www.pokemoncenter.com/en-gb/product/701-96546/quaxly-plush-key-chain,701
 https://www.pokemoncenter.com/en-gb/product/701-96547/fuecoco-poke-plush-9-in,701-96547,Fuecoco Poké Plush - 9 In.,£14.99,NO,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-96548/sprigatito-poke-plush-7-in,701-96548,Sprigatito Poké Plush - 7 ¾ In.,£14.99,NO,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-96549/quaxly-poke-plush-7-in,701-96549,Quaxly Poké Plush - 7 In.,£14.99,NO,plush,searchable
-https://www.pokemoncenter.com/en-gb/product/701-96555/hisuian-goodra-poke-plush-9-in,701-96555,Hisuian Goodra Poké Plush - 9 ¾ In.,£29.99,YES,plush,searchable
+https://www.pokemoncenter.com/en-gb/product/701-96555/hisuian-goodra-poke-plush-9-in,701-96555,Hisuian Goodra Poké Plush - 9 ¾ In.,£29.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/701-96558/hisuian-lilligant-poke-plush-12-in,701-96558,Hisuian Lilligant Poké Plush - 12 ½ In.,£27.99,YES,plush,searchable
-https://www.pokemoncenter.com/en-gb/product/701-96559/hisuian-electrode-poke-plush-7-in,701-96559,Hisuian Electrode Poké Plush - 7 ½ In.,£17.99,YES,plush,searchable
+https://www.pokemoncenter.com/en-gb/product/701-96559/hisuian-electrode-poke-plush-7-in,701-96559,Hisuian Electrode Poké Plush - 7 ½ In.,£17.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/701-96768/enamorus-incarnate-forme-poke-plush-11-in,701-96768,Enamorus (Incarnate Forme) Poké Plush - 11 ¾ In.,£29.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/701-96769/palkia-origin-forme-poke-plush-16-in,701-96769,Palkia (Origin Forme) Poké Plush - 16 ½ In.,£39.99,YES,plush,searchable
-https://www.pokemoncenter.com/en-gb/product/701-96770/dialga-origin-forme-poke-plush-13-in,701-96770,Dialga (Origin Forme) Poké Plush - 13 ¾ In.,£39.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/701-96770/dialga-origin-forme-poke-plush-13-in,701-96770,Dialga (Origin Forme) Poké Plush - 13 ¾ In.,£39.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-96771/giratina-origin-forme-poke-plush-11-in,701-96771,Giratina (Origin Forme) Poké Plush - 11 ¾ In.,£39.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/701-96785/altaria-poke-plush-37-in,701-96785,Altaria Poké Plush - 37 ¾ In.,£429.99,NO,plush,searchable
-https://www.pokemoncenter.com/en-gb/product/701-97059/pikachu-pokemon-holiday-workshop-wreath-plush-6-in,701-97059,Pikachu Pokémon Holiday Workshop Wreath Plush - 6 ¾ In.,£18.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/701-97059/pikachu-pokemon-holiday-workshop-wreath-plush-6-in,701-97059,Pikachu Pokémon Holiday Workshop Wreath Plush - 6 ¾ In.,£18.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-97060/delibird-and-swinub-pokemon-holiday-workshop-plush-key-chain-7-in,701-97060,Delibird & Swinub Pokémon Holiday Workshop Plush Key Chain - 7 In.,£17.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/701-97061/pikachu-pokemon-holiday-workshop-plush-key-chain-5-in,701-97061,Pikachu Pokémon Holiday Workshop Plush Key Chain - 5 ½ In.,£12.99,YES,plush,searchable
-https://www.pokemoncenter.com/en-gb/product/701-97062/pikachu-and-robot-dedenne-toy-pokemon-holiday-workshop-plush-8-in,701-97062,Pikachu & Robot Dedenne Toy Pokémon Holiday Workshop Plush - 8 ¾ In.,£24.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/701-97061/pikachu-pokemon-holiday-workshop-plush-key-chain-5-in,701-97061,Pikachu Pokémon Holiday Workshop Plush Key Chain - 5 ½ In.,£12.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/701-97062/pikachu-and-robot-dedenne-toy-pokemon-holiday-workshop-plush-8-in,701-97062,Pikachu & Robot Dedenne Toy Pokémon Holiday Workshop Plush - 8 ¾ In.,£24.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-97063/stufful-doll-pokemon-holiday-workshop-plush-7-in,701-97063,Stufful Doll Pokémon Holiday Workshop Plush - 7 ½ In.,£19.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/701-97064/fuecoco-pokemon-holiday-workshop-plush-8-in,701-97064,Fuecoco Pokémon Holiday Workshop Plush - 8 ¾ In.,£19.99,YES,plush,searchable
+https://www.pokemoncenter.com/en-gb/product/701-97064/fuecoco-pokemon-holiday-workshop-plush-8-in,701-97064,Fuecoco Pokémon Holiday Workshop Plush - 8 ¾ In.,£19.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/701-97065/sprigatito-pokemon-holiday-workshop-plush-8-in,701-97065,Sprigatito Pokémon Holiday Workshop Plush - 8 ¼ In.,£19.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/701-97066/quaxly-pokemon-holiday-workshop-plush-7-in,701-97066,Quaxly Pokémon Holiday Workshop Plush - 7 ¾ In.,£19.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/701-97066/quaxly-pokemon-holiday-workshop-plush-7-in,701-97066,Quaxly Pokémon Holiday Workshop Plush - 7 ¾ In.,£19.99,YES,plush,searchable
 https://www.pokemoncenter.com/en-gb/product/701-97693/gengar-squishmallows-plush-12-in,701-97693,Gengar Squishmallows Plush - 12 In.,£25.99,NO,plush,searchable
-https://www.pokemoncenter.com/en-gb/product/701-97694/pikachu-squishmallows-plush-12-in,701-97694,Pikachu Squishmallows Plush - 12 In.,£25.99,NO,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/703-05278/delibird-holiday-express-slowpoke-caboose-figure,703-05278,Delibird Holiday Express Slowpoke Caboose Figure,£29.99,YES,home,searchable
-https://www.pokemoncenter.com/en-gb/product/703-05279/delibird-holiday-express-alolan-vulpix-boxcar-figure,703-05279,Delibird Holiday Express Alolan Vulpix Boxcar Figure,£29.99,YES,figures-and-pins,searchable
-https://www.pokemoncenter.com/en-gb/product/703-05280/delibird-holiday-express-dragonite-flatcar-figure,703-05280,Delibird Holiday Express Dragonite Flatcar Figure,£29.99,YES,figures-and-pins,searchable
-https://www.pokemoncenter.com/en-gb/product/703-05281/delibird-holiday-express-pikachu-engine-figure,703-05281,Delibird Holiday Express Pikachu Engine Figure,£29.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/701-97694/pikachu-squishmallows-plush-12-in,701-97694,Pikachu Squishmallows Plush - 12 In.,£25.99,NO,plush,searchable
+https://www.pokemoncenter.com/en-gb/product/703-05278/delibird-holiday-express-slowpoke-caboose-figure,703-05278,Delibird Holiday Express Slowpoke Caboose Figure,£29.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/703-05279/delibird-holiday-express-alolan-vulpix-boxcar-figure,703-05279,Delibird Holiday Express Alolan Vulpix Boxcar Figure,£29.99,YES,home,searchable
+https://www.pokemoncenter.com/en-gb/product/703-05280/delibird-holiday-express-dragonite-flatcar-figure,703-05280,Delibird Holiday Express Dragonite Flatcar Figure,£29.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/703-05281/delibird-holiday-express-pikachu-engine-figure,703-05281,Delibird Holiday Express Pikachu Engine Figure,£29.99,YES,figures-and-pins,searchable
 https://www.pokemoncenter.com/en-gb/product/703-06777/kotobukiya-leon-and-charizard-figures,703-06777,Kotobukiya Leon & Charizard Figures,£199.99,YES,figures-and-pins,searchable
 https://www.pokemoncenter.com/en-gb/product/703-08750/pikachu-moods-sleepy-figure,703-08750,Pikachu Moods: Sleepy Figure,£12.99,YES,new-releases,delisted
 https://www.pokemoncenter.com/en-gb/product/703-08751/pikachu-moods-scared-figure,703-08751,Pikachu Moods: Scared Figure,£12.99,YES,figures-and-pins,searchable
@@ -767,18 +772,18 @@ https://www.pokemoncenter.com/en-gb/product/703-08981/pikachu-relaxing-river-fig
 https://www.pokemoncenter.com/en-gb/product/703-08982/charmander-relaxing-river-figure,703-08982,Charmander Relaxing River Figure,£14.99,YES,figures-and-pins,searchable
 https://www.pokemoncenter.com/en-gb/product/703-09557/haunted-pokemon-village-pansage-creeping-vines-tea-shop-figure,703-09557,Haunted Pokémon Village: Pansage Creeping Vines Tea Shop Figure,£29.99,YES,figures-and-pins,searchable
 https://www.pokemoncenter.com/en-gb/product/703-09558/haunted-pokemon-village-frillish-frightening-fountain-figure,703-09558,Haunted Pokémon Village: Frillish Frightening Fountain Figure,£29.99,YES,home,searchable
-https://www.pokemoncenter.com/en-gb/product/703-09559/haunted-pokemon-village-lickitung-tasty-treats-figure,703-09559,Haunted Pokémon Village: Lickitung Tasty Treats Figure,£29.99,YES,figures-and-pins,searchable
-https://www.pokemoncenter.com/en-gb/product/703-09560/haunted-pokemon-village-oranguru-ancient-archives-figure,703-09560,Haunted Pokémon Village: Oranguru Ancient Archives Figure,£29.99,YES,figures-and-pins,searchable
+https://www.pokemoncenter.com/en-gb/product/703-09559/haunted-pokemon-village-lickitung-tasty-treats-figure,703-09559,Haunted Pokémon Village: Lickitung Tasty Treats Figure,£29.99,YES,home,searchable
+https://www.pokemoncenter.com/en-gb/product/703-09560/haunted-pokemon-village-oranguru-ancient-archives-figure,703-09560,Haunted Pokémon Village: Oranguru Ancient Archives Figure,£29.99,YES,home,searchable
 https://www.pokemoncenter.com/en-gb/product/703-29903/master-ball-by-the-wand-company,703-29903,Master Ball by The Wand Company,£99.99,YES,home,searchable
 https://www.pokemoncenter.com/en-gb/product/703-29904/cherish-ball-by-the-wand-company,703-29904,Cherish Ball by The Wand Company,£99.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/703-29965/ocean-of-friendship-figure,703-29965,Ocean of Friendship Figure,£279.99,YES,figures-and-pins,searchable
+https://www.pokemoncenter.com/en-gb/product/703-29965/ocean-of-friendship-figure,703-29965,Ocean of Friendship Figure,£279.99,YES,figures-and-pins,delisted missing 2023-01-12
 https://www.pokemoncenter.com/en-gb/product/703-29966/graduation-pikachu-2022-pikachu-male-figure,703-29966,Graduation Pikachu 2022: Pikachu (Male) Figure,£19.99,NO,figures-and-pins,searchable
 https://www.pokemoncenter.com/en-gb/product/703-29967/graduation-pikachu-2022-pikachu-female-figure,703-29967,Graduation Pikachu 2022: Pikachu (Female) Figure,£19.99,YES,figures-and-pins,searchable
-https://www.pokemoncenter.com/en-gb/product/703-29968/drampa-toy-shop-holiday-pokemon-village-figure,703-29968,Drampa Toy Shop Holiday Pokémon Village Figure,£34.99,YES,figures-and-pins,searchable
-https://www.pokemoncenter.com/en-gb/product/703-29969/snow-day-holiday-pokemon-village-figure,703-29969,Snow Day Holiday Pokémon Village Figure,£34.99,YES,home,searchable
+https://www.pokemoncenter.com/en-gb/product/703-29968/drampa-toy-shop-holiday-pokemon-village-figure,703-29968,Drampa Toy Shop Holiday Pokémon Village Figure,£34.99,YES,home,searchable
+https://www.pokemoncenter.com/en-gb/product/703-29969/snow-day-holiday-pokemon-village-figure,703-29969,Snow Day Holiday Pokémon Village Figure,£34.99,YES,figures-and-pins,searchable
 https://www.pokemoncenter.com/en-gb/product/703-29970/bounsweet-and-steenee-bakery-holiday-pokemon-village-figure,703-29970,Bounsweet & Steenee Bakery Holiday Pokémon Village Figure,£34.99,YES,figures-and-pins,searchable
 https://www.pokemoncenter.com/en-gb/product/703-29971/holiday-station-arrivals-holiday-pokemon-village-figure,703-29971,Holiday Station Arrivals Holiday Pokémon Village Figure,£34.99,YES,figures-and-pins,searchable
-https://www.pokemoncenter.com/en-gb/product/703-94671/pokemon-legends-arceus-poke-ball-replica-figure,703-94671,Pokémon Legends: Arceus Poké Ball Replica Figure,£59.99,YES,figures-and-pins,searchable
+https://www.pokemoncenter.com/en-gb/product/703-94671/pokemon-legends-arceus-poke-ball-replica-figure,703-94671,Pokémon Legends: Arceus Poké Ball Replica Figure,£59.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/705-09358/pokemon-tcg-sirfetch-d-strike-playmat,705-09358,Pokémon TCG: Sirfetch'd Strike Playmat,£19.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/705-09359/pokemon-tcg-sirfetch-d-strike-card-sleeves-65-sleeves,705-09359,Pokémon TCG: Sirfetch'd Strike Card Sleeves (65 Sleeves),£6.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/705-09361/pokemon-tcg-ball-guy-playmat,705-09361,Pokémon TCG: Ball Guy Playmat,£19.99,YES,trading-card-game,searchable
@@ -915,7 +920,7 @@ https://www.pokemoncenter.com/en-gb/product/710-08802/pokemon-celebration-pin-an
 https://www.pokemoncenter.com/en-gb/product/710-08883/blastoise-kanto-final-evolution-bookend,710-08883,Blastoise Kanto Final Evolution Bookend,£24.99,YES,home,searchable
 https://www.pokemoncenter.com/en-gb/product/710-08884/venusaur-kanto-final-evolution-bookend,710-08884,Venusaur Kanto Final Evolution Bookend,£24.99,YES,home,searchable
 https://www.pokemoncenter.com/en-gb/product/710-08885/charizard-kanto-final-evolution-bookend,710-08885,Charizard Kanto Final Evolution Bookend,£24.99,YES,home,searchable
-https://www.pokemoncenter.com/en-gb/product/710-08886/slumbering-snorlax-bookends-2-piece,710-08886,Slumbering Snorlax Bookends (2-Piece),£39.99,YES,home,searchable
+https://www.pokemoncenter.com/en-gb/product/710-08886/slumbering-snorlax-bookends-2-piece,710-08886,Slumbering Snorlax Bookends (2-Piece),£39.99,NO,home,searchable
 https://www.pokemoncenter.com/en-gb/product/710-08994/gengar-pokemon-trainer-gear-plush-backpack,710-08994,Gengar Pokémon Trainer Gear Plush Backpack,£19.99,YES,clothing,delisted
 https://www.pokemoncenter.com/en-gb/product/710-09832/pokemon-chess-set,710-09832,Pokémon Chess Set,£199.99,YES,home,searchable
 https://www.pokemoncenter.com/en-gb/product/710-09834/pokemon-block-art-mini-backpack-by-loungefly,710-09834,Pokémon Block Art Mini Backpack by Loungefly,£59.99,YES,clothing,searchable
@@ -938,7 +943,7 @@ https://www.pokemoncenter.com/en-gb/product/710-29262/charizard-festive-winter-k
 https://www.pokemoncenter.com/en-gb/product/710-29356/pikachu-galarian-ponyta-and-sylveon-pin-box-set-3-pack,710-29356,Pikachu%2C Galarian Ponyta & Sylveon Pin Box Set (3-Pack),£39.99,YES,figures-and-pins,searchable
 https://www.pokemoncenter.com/en-gb/product/710-29359/pikachu-new-year-s-party-2022-pokemon-pin-and-greeting-card,710-29359,Pikachu New Year's Party 2022 Pokémon Pin & Greeting Card,£8.99,YES,figures-and-pins,searchable
 https://www.pokemoncenter.com/en-gb/product/710-29360/pikachu-sparkling-new-year-2022-pokemon-pin-and-greeting-card,710-29360,Pikachu Sparkling New Year 2022 Pokémon Pin & Greeting Card,£8.99,YES,figures-and-pins,searchable
-https://www.pokemoncenter.com/en-gb/product/710-29361/pokemon-snowy-holiday-pokemon-pins-3-pack,710-29361,Pokémon Snowy Holiday Pokémon Pins (3-Pack),£17.99,YES,figures-and-pins,searchable
+https://www.pokemoncenter.com/en-gb/product/710-29361/pokemon-snowy-holiday-pokemon-pins-3-pack,710-29361,Pokémon Snowy Holiday Pokémon Pins (3-Pack),£17.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/710-29362/pokemon-holiday-joy-pokemon-pins-3-pack,710-29362,Pokémon Holiday Joy Pokémon Pins (3-Pack),£17.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/710-29363/zorua-pokemon-center-vic-lee-pokemon-scary-stories-pin,710-29363,Zorua Pokémon Center × Vic Lee: Pokémon Scary Stories Pin,£12.99,NO,figures-and-pins,searchable
 https://www.pokemoncenter.com/en-gb/product/710-29364/phantump-pokemon-center-vic-lee-pokemon-scary-stories-pin,710-29364,Phantump Pokémon Center × Vic Lee: Pokémon Scary Stories Pin,£12.99,YES,figures-and-pins,searchable
@@ -959,7 +964,7 @@ https://www.pokemoncenter.com/en-gb/product/710-29961/special-delivery-pikachu-p
 https://www.pokemoncenter.com/en-gb/product/710-29962/sinnoh-unova-and-kalos-first-partner-lanyard-and-pokemon-pins-9-pack,710-29962,Sinnoh%2C Unova & Kalos First Partner Lanyard & Pokémon Pins (9-Pack),£29.99,YES,figures-and-pins,searchable
 https://www.pokemoncenter.com/en-gb/product/710-29963/alola-and-galar-first-partner-with-pikachu-and-eevee-lanyard-and-mini-pokemon-pins-8-pack,710-29963,Alola & Galar First Partner with Pikachu & Eevee Lanyard & Mini Pokémon Pins (8-Pack),£29.99,YES,figures-and-pins,searchable
 https://www.pokemoncenter.com/en-gb/product/710-29964/psyduck-pokemon-pin,710-29964,Psyduck Pokémon Pin,£6.99,NO,figures-and-pins,searchable
-https://www.pokemoncenter.com/en-gb/product/710-29972/ledyba-combee-and-cutiefly-pokemon-pins-3-pack,710-29972,Ledyba%2C Combee & Cutiefly Pokémon Pins (3-Pack),£15.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/710-29972/ledyba-combee-and-cutiefly-pokemon-pins-3-pack,710-29972,Ledyba%2C Combee & Cutiefly Pokémon Pins (3-Pack),£15.99,YES,figures-and-pins,searchable
 https://www.pokemoncenter.com/en-gb/product/710-29973/pokemon-giant-pins-gigantamax-charizard-oversize-pin,710-29973,Pokémon Giant Pins: Gigantamax Charizard Oversize Pin,£19.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/710-29974/pyukumuku-pincurchin-and-snom-pokemon-pins-3-pack,710-29974,Pyukumuku%2C Pincurchin & Snom Pokémon Pins (3-Pack),£15.99,YES,figures-and-pins,searchable
 https://www.pokemoncenter.com/en-gb/product/710-29975/pokemon-giant-pins-gigantamax-snorlax-oversize-pin,710-29975,Pokémon Giant Pins: Gigantamax Snorlax Oversize Pin,£19.99,YES,figures-and-pins,searchable
@@ -973,8 +978,8 @@ https://www.pokemoncenter.com/en-gb/product/710-29982/umbreon-peaceful-dreams-po
 https://www.pokemoncenter.com/en-gb/product/710-29983/snorlax-snack-and-nap-pokemon-spinning-scenes-pin,710-29983,Snorlax Snack & Nap Pokémon Spinning Scenes Pin,£6.99,YES,figures-and-pins,searchable
 https://www.pokemoncenter.com/en-gb/product/710-29984/eevee-beach-day-pokemon-spinning-scenes-pin,710-29984,Eevee Beach Day Pokémon Spinning Scenes Pin,£6.99,YES,figures-and-pins,searchable
 https://www.pokemoncenter.com/en-gb/product/710-29985/mudkip-summer-stream-pokemon-spinning-scenes-pin,710-29985,Mudkip Summer Stream Pokémon Spinning Scenes Pin,£6.99,YES,figures-and-pins,searchable
-https://www.pokemoncenter.com/en-gb/product/710-29986/charizard-flying-high-pokemon-spinning-scenes-pin,710-29986,Charizard Flying High Pokémon Spinning Scenes Pin,£6.99,YES,figures-and-pins,searchable
-https://www.pokemoncenter.com/en-gb/product/710-29987/dragonite-soaring-sky-pokemon-spinning-scenes-pin,710-29987,Dragonite Soaring Sky Pokémon Spinning Scenes Pin,£6.99,YES,figures-and-pins,searchable
+https://www.pokemoncenter.com/en-gb/product/710-29986/charizard-flying-high-pokemon-spinning-scenes-pin,710-29986,Charizard Flying High Pokémon Spinning Scenes Pin,£6.99,NO,figures-and-pins,searchable
+https://www.pokemoncenter.com/en-gb/product/710-29987/dragonite-soaring-sky-pokemon-spinning-scenes-pin,710-29987,Dragonite Soaring Sky Pokémon Spinning Scenes Pin,£6.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/710-29988/mimikyu-autumn-leaves-pokemon-spinning-scenes-pin,710-29988,Mimikyu Autumn Leaves Pokémon Spinning Scenes Pin,£6.99,NO,figures-and-pins,searchable
 https://www.pokemoncenter.com/en-gb/product/710-29991/pokemon-region-tour-posters-8-pack,710-29991,Pokémon Region Tour Posters (8-Pack),£29.99,YES,home,searchable
 https://www.pokemoncenter.com/en-gb/product/710-29992/pokemon-region-tour-postcards-8-pack,710-29992,Pokémon Region Tour Postcards (8-Pack),£7.99,YES,home,searchable
@@ -985,21 +990,21 @@ https://www.pokemoncenter.com/en-gb/product/710-94565/team-valor-pokemon-go-team
 https://www.pokemoncenter.com/en-gb/product/710-94566/team-instinct-pokemon-go-teams-crossbody-bag,710-94566,Team Instinct Pokémon GO Teams Crossbody Bag,£19.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/710-94673/gastly-haunter-and-gengar-pokemon-sweet-temptations-metal-sign,710-94673,Gastly%2C Haunter & Gengar Pokémon Sweet Temptations Metal Sign,£14.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/710-94674/gengar-pokemon-sweet-temptations-metal-sign,710-94674,Gengar Pokémon Sweet Temptations Metal Sign,£14.99,YES,home,searchable
-https://www.pokemoncenter.com/en-gb/product/710-95247/graduation-pikachu-2022-pokemon-pin-box-set-4-pack,710-95247,Graduation Pikachu 2022 Pokémon Pin Box Set (4-Pack),£34.99,YES,figures-and-pins,searchable
-https://www.pokemoncenter.com/en-gb/product/710-95248/graduation-pikachu-2022-pokemon-pins-and-greeting-card,710-95248,Graduation Pikachu 2022 Pokémon Pins & Greeting Card,£12.99,NO,figures-and-pins,searchable
-https://www.pokemoncenter.com/en-gb/product/710-95249/graduation-pikachu-2022-pokemon-pin-and-greeting-card,710-95249,Graduation Pikachu 2022 Pokémon Pin & Greeting Card,£8.99,YES,home,searchable
+https://www.pokemoncenter.com/en-gb/product/710-95247/graduation-pikachu-2022-pokemon-pin-box-set-4-pack,710-95247,Graduation Pikachu 2022 Pokémon Pin Box Set (4-Pack),£34.99,YES,home,searchable
+https://www.pokemoncenter.com/en-gb/product/710-95248/graduation-pikachu-2022-pokemon-pins-and-greeting-card,710-95248,Graduation Pikachu 2022 Pokémon Pins & Greeting Card,£12.99,NO,home,searchable
+https://www.pokemoncenter.com/en-gb/product/710-95249/graduation-pikachu-2022-pokemon-pin-and-greeting-card,710-95249,Graduation Pikachu 2022 Pokémon Pin & Greeting Card,£8.99,YES,figures-and-pins,searchable
 https://www.pokemoncenter.com/en-gb/product/710-95264/together-for-the-holidays-pokemon-pin-and-greeting-card,710-95264,Together for the Holidays Pokémon Pin & Greeting Card,£8.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/710-95265/together-for-the-holidays-pokemon-pin-box-set-6-pack,710-95265,Together for the Holidays Pokémon Pin Box Set (6-Pack),£39.99,YES,home,searchable
-https://www.pokemoncenter.com/en-gb/product/710-95267/together-for-the-holidays-greeting-cards-12-pack,710-95267,Together for the Holidays Greeting Cards (12-Pack),£14.99,YES,home,searchable
+https://www.pokemoncenter.com/en-gb/product/710-95265/together-for-the-holidays-pokemon-pin-box-set-6-pack,710-95265,Together for the Holidays Pokémon Pin Box Set (6-Pack),£39.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/710-95267/together-for-the-holidays-greeting-cards-12-pack,710-95267,Together for the Holidays Greeting Cards (12-Pack),£14.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/710-95268/espeon-together-for-the-holidays-ornament,710-95268,Espeon Together for the Holidays Ornament,£14.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/710-95269/umbreon-together-for-the-holidays-ornament,710-95269,Umbreon Together for the Holidays Ornament,£14.99,NO,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/710-95269/umbreon-together-for-the-holidays-ornament,710-95269,Umbreon Together for the Holidays Ornament,£14.99,NO,home,searchable
 https://www.pokemoncenter.com/en-gb/product/710-95270/pikachu-together-for-the-holidays-ornament,710-95270,Pikachu Together for the Holidays Ornament,£14.99,YES,home,searchable
 https://www.pokemoncenter.com/en-gb/product/710-95324/pokemon-tcg-pikachu-allover-playmat,710-95324,Pokémon TCG: Pikachu Allover Playmat,£19.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/710-95328/pokemon-tcg-pikachu-comic-style-playmat,710-95328,Pokémon TCG: Pikachu Comic-Style Playmat,£19.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/710-95332/pokemon-tcg-vulpix-seasons-playmat,710-95332,Pokémon TCG: Vulpix Seasons Playmat,£19.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/710-95335/pokemon-tcg-pokemon-trainers-playmat,710-95335,Pokémon TCG: Pokémon Trainers Playmat,£19.99,YES,trading-card-game,searchable
 https://www.pokemoncenter.com/en-gb/product/710-95555/pokemon-primers-box-set-collection,710-95555,Pokémon Primers: Box Set Collection,£39.99,NO,home,searchable
-https://www.pokemoncenter.com/en-gb/product/710-95567/pikachu-pokemon-winter-wonders-flat-brass-ornaments-6-pack,710-95567,Pikachu Pokémon Winter Wonders Flat Brass Ornaments (6-Pack),£29.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/710-95567/pikachu-pokemon-winter-wonders-flat-brass-ornaments-6-pack,710-95567,Pikachu Pokémon Winter Wonders Flat Brass Ornaments (6-Pack),£29.99,YES,home,searchable
 https://www.pokemoncenter.com/en-gb/product/710-95582/charizard-flight-poster,710-95582,Charizard Flight Poster,£7.99,YES,home,searchable
 https://www.pokemoncenter.com/en-gb/product/710-95583/robot-pikachu-posters-2-pack,710-95583,Robot Pikachu Posters (2-Pack),£14.99,YES,home,searchable
 https://www.pokemoncenter.com/en-gb/product/710-95584/look-upon-the-stars-posters-2-pack,710-95584,Look Upon the Stars Posters (2-Pack),£14.99,YES,home,searchable
@@ -1013,12 +1018,12 @@ https://www.pokemoncenter.com/en-gb/product/710-95723/lapras-mountains-orange-fr
 https://www.pokemoncenter.com/en-gb/product/710-95724/pokemon-winter-sunset-framed-wall-art,710-95724,Pokémon Winter Sunset Framed Wall Art,£49.99,YES,home,searchable
 https://www.pokemoncenter.com/en-gb/product/710-95725/pokemon-summer-sunset-framed-wall-art,710-95725,Pokémon Summer Sunset Framed Wall Art,£49.99,YES,home,searchable
 https://www.pokemoncenter.com/en-gb/product/710-95805/pokemon-center-danielle-nicole-wooloo-crossbody-bag,710-95805,Pokémon Center × Danielle Nicole: Wooloo Crossbody Bag,£59.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/710-95806/pokemon-center-danielle-nicole-wooloo-mini-backpack,710-95806,Pokémon Center × Danielle Nicole: Wooloo Mini Backpack,£69.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/710-95807/pokemon-center-danielle-nicole-jolteon-wallet,710-95807,Pokémon Center × Danielle Nicole: Jolteon Wallet,£39.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/710-95806/pokemon-center-danielle-nicole-wooloo-mini-backpack,710-95806,Pokémon Center × Danielle Nicole: Wooloo Mini Backpack,£69.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/710-95807/pokemon-center-danielle-nicole-jolteon-wallet,710-95807,Pokémon Center × Danielle Nicole: Jolteon Wallet,£39.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/710-95808/pokemon-center-danielle-nicole-jolteon-mini-backpack,710-95808,Pokémon Center × Danielle Nicole: Jolteon Mini Backpack,£69.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/710-95809/pokemon-center-danielle-nicole-jigglypuff-crossbody-bag,710-95809,Pokémon Center × Danielle Nicole: Jigglypuff Crossbody Bag,£59.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/710-95810/pokemon-center-danielle-nicole-jigglypuff-mini-backpack,710-95810,Pokémon Center × Danielle Nicole: Jigglypuff Mini Backpack,£69.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/710-95811/pokemon-center-danielle-nicole-bulbasaur-wallet,710-95811,Pokémon Center × Danielle Nicole: Bulbasaur Wallet,£39.99,YES,clothing,searchable
+https://www.pokemoncenter.com/en-gb/product/710-95810/pokemon-center-danielle-nicole-jigglypuff-mini-backpack,710-95810,Pokémon Center × Danielle Nicole: Jigglypuff Mini Backpack,£69.99,YES,clothing,searchable
+https://www.pokemoncenter.com/en-gb/product/710-95811/pokemon-center-danielle-nicole-bulbasaur-wallet,710-95811,Pokémon Center × Danielle Nicole: Bulbasaur Wallet,£39.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/710-95812/pokemon-center-danielle-nicole-bulbasaur-mini-backpack,710-95812,Pokémon Center × Danielle Nicole: Bulbasaur Mini Backpack,£69.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/710-95813/pokemon-center-fossil-squirtle-blue-leather-steven-card-case,710-95813,Pokémon Center × Fossil: Squirtle Blue Leather Steven Card Case,£39.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/710-95814/pokemon-center-fossil-bulbasaur-green-leather-steven-card-case,710-95814,Pokémon Center × Fossil: Bulbasaur Green Leather Steven Card Case,£39.99,YES,clothing,searchable
@@ -1031,7 +1036,7 @@ https://www.pokemoncenter.com/en-gb/product/710-95820/pokemon-center-fossil-kant
 https://www.pokemoncenter.com/en-gb/product/710-95821/pokemon-center-fossil-kanto-first-partners-black-leather-bronson-wallet,710-95821,Pokémon Center × Fossil: Kanto First Partners Black Leather Bronson Wallet,£79.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/710-95822/pokemon-center-fossil-pikachu-black-leather-coin-pouch,710-95822,Pokémon Center × Fossil: Pikachu Black Leather Coin Pouch,£54.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/710-95823/pokemon-center-fossil-kanto-first-partners-black-leather-logan-wallet,710-95823,Pokémon Center × Fossil: Kanto First Partners Black Leather Logan Wallet,£139.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/710-95824/pokemon-center-fossil-kanto-first-partners-black-leather-carmen-shopper-bag,710-95824,Pokémon Center × Fossil: Kanto First Partners Black Leather Carmen Shopper Bag,£199.99,YES,clothing,searchable
+https://www.pokemoncenter.com/en-gb/product/710-95824/pokemon-center-fossil-kanto-first-partners-black-leather-carmen-shopper-bag,710-95824,Pokémon Center × Fossil: Kanto First Partners Black Leather Carmen Shopper Bag,£199.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/710-95825/pokemon-center-fossil-kanto-first-partners-black-leather-parker-convertible-small-backpack,710-95825,Pokémon Center × Fossil: Kanto First Partners Black Leather Parker Convertible Small Backpack,£249.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/710-95830/pokemon-center-fossil-kanto-first-partners-rose-gold-stainless-steel-watch-box-set-one-size-women,710-95830,Pokémon Center × Fossil: Kanto First Partners Rose Gold Stainless Steel Watch Box Set (One Size-Women),£249.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/710-95831/pokemon-center-fossil-gengar-black-stainless-steel-watch-box-set-one-size-men,710-95831,Pokémon Center × Fossil: Gengar Black Stainless Steel Watch Box Set (One Size-Men),£249.99,NO,clothing,searchable
@@ -1045,17 +1050,22 @@ https://www.pokemoncenter.com/en-gb/product/710-95848/poke-ball-by-the-wand-comp
 https://www.pokemoncenter.com/en-gb/product/710-95849/friend-ball-by-the-wand-company,710-95849,Friend Ball by The Wand Company,£99.99,YES,home,searchable
 https://www.pokemoncenter.com/en-gb/product/710-96038/pokemon-tcg-pokemon-go-blue-hat-one-size-adult,710-96038,Pokémon TCG: Pokémon GO Blue Hat (One Size-Adult),£14.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/710-96040/pokemon-pixel-pin-collector-shoulder-bag,710-96040,Pokémon Pixel Pin Collector Shoulder Bag,£54.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/710-96041/pokemon-pixel-pin-collector-clutch,710-96041,Pokémon Pixel Pin Collector Clutch,£29.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/710-96042/pokemon-pixel-pin-collector-backpack,710-96042,Pokémon Pixel Pin Collector Backpack,£69.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/710-96043/pokemon-pixel-pin-collector-waist-bag,710-96043,Pokémon Pixel Pin Collector Waist Bag,£49.99,YES,clothing,searchable
+https://www.pokemoncenter.com/en-gb/product/710-96041/pokemon-pixel-pin-collector-clutch,710-96041,Pokémon Pixel Pin Collector Clutch,£29.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/710-96042/pokemon-pixel-pin-collector-backpack,710-96042,Pokémon Pixel Pin Collector Backpack,£69.99,YES,clothing,searchable
+https://www.pokemoncenter.com/en-gb/product/710-96043/pokemon-pixel-pin-collector-waist-bag,710-96043,Pokémon Pixel Pin Collector Waist Bag,£49.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/710-96044/pokemon-pixel-pin-collector-sling-bag,710-96044,Pokémon Pixel Pin Collector Sling Bag,£49.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/710-96045/pokemon-pixel-pin-collector-mini-backpack,710-96045,Pokémon Pixel Pin Collector Mini Backpack,£54.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/710-96102/pikachu-and-yamper-electric-pals-pokemon-pins-and-greeting-card,710-96102,New! Pikachu & Yamper Electric Pals Pokémon Pins & Greeting Card,£8.99,YES,figures-and-pins,searchable
-https://www.pokemoncenter.com/en-gb/product/710-96103/pikachu-and-yamper-electric-pals-pokemon-pin-box-set-3-pack,710-96103,New! Pikachu & Yamper Electric Pals Pokémon Pin Box Set (3-Pack),£39.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/710-96234/puma-pokemon-venusaur-charizard-and-blastoise-purple-charcoal-backpack-one-size-youth,710-96234,PUMA × Pokémon: Venusaur%2C Charizard & Blastoise Purple Charcoal Backpack (One Size-Youth),£34.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/710-96235/puma-pokemon-pikachu-puma-black-and-pale-lemon-backpack-one-size-youth,710-96235,PUMA × Pokémon: Pikachu Puma Black & Pale Lemon Backpack (One Size-Youth),£34.99,YES,clothing,searchable
+https://www.pokemoncenter.com/en-gb/product/710-96045/pokemon-pixel-pin-collector-mini-backpack,710-96045,Pokémon Pixel Pin Collector Mini Backpack,£54.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/710-96102/pikachu-and-yamper-electric-pals-pokemon-pins-and-greeting-card,710-96102,Pikachu & Yamper Electric Pals Pokémon Pins & Greeting Card,£8.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/710-96103/pikachu-and-yamper-electric-pals-pokemon-pin-box-set-3-pack,710-96103,Pikachu & Yamper Electric Pals Pokémon Pin Box Set (3-Pack),£39.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/710-96234/puma-pokemon-venusaur-charizard-and-blastoise-purple-charcoal-backpack-one-size-youth,710-96234,PUMA × Pokémon: Venusaur%2C Charizard & Blastoise Purple Charcoal Backpack (One Size-Youth),£34.99,YES,clothing,searchable
+https://www.pokemoncenter.com/en-gb/product/710-96235/puma-pokemon-pikachu-puma-black-and-pale-lemon-backpack-one-size-youth,710-96235,PUMA × Pokémon: Pikachu Puma Black & Pale Lemon Backpack (One Size-Youth),£34.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/710-96508/eevee-pokemon-holiday-and-home-ornament,710-96508,Eevee Pokémon Holiday & Home Ornament,£14.99,NO,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/710-97067/sprigatito-fuecoco-and-quaxly-lanyard-and-mini-pokemon-pins-3-pack,710-97067,Sprigatito%2C Fuecoco & Quaxly Lanyard & Mini Pokémon Pins (3-Pack),£29.99,YES,figures-and-pins,searchable
+https://www.pokemoncenter.com/en-gb/product/710-96526/pokemon-giant-pins-eevee-oversize-pin,710-96526,New! Pokémon Giant Pins: Eevee Oversize Pin,£19.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/710-96527/pokemon-giant-pins-pikachu-oversize-pin,710-96527,New! Pokémon Giant Pins: Pikachu Oversize Pin,£19.99,YES,figures-and-pins,searchable
+https://www.pokemoncenter.com/en-gb/product/710-96528/grubbin-charjabug-and-vikavolt-pokemon-pins-3-pack,710-96528,New! Grubbin%2C Charjabug & Vikavolt Pokémon Pins (3-Pack),£15.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/710-96529/gothita-gothorita-and-gothitelle-pokemon-pins-3-pack,710-96529,New! Gothita%2C Gothorita & Gothitelle Pokémon Pins (3-Pack),£15.99,YES,figures-and-pins,searchable
+https://www.pokemoncenter.com/en-gb/product/710-97024/love-ball-by-the-wand-company,710-97024,New! Love Ball by The Wand Company,£99.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/710-97067/sprigatito-fuecoco-and-quaxly-lanyard-and-mini-pokemon-pins-3-pack,710-97067,Sprigatito%2C Fuecoco & Quaxly Lanyard & Mini Pokémon Pins (3-Pack),£14.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/710-97068/sprigatito-fuecoco-and-quaxly-pokemon-pins-3-pack,710-97068,Sprigatito%2C Fuecoco & Quaxly Pokémon Pins (3-Pack),£14.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/710-97396/pokemon-dolly-noire-snorlax-rug,710-97396,Pokémon × Dolly Noire: Snorlax Rug,£215.00,NO,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/716-95834/new-pokemon-snap,716-95834,New Pokémon Snap,£49.99,YES,video-game,searchable
@@ -1077,7 +1087,7 @@ https://www.pokemoncenter.com/en-gb/product/741-04979/pikachu-color-block-black-
 https://www.pokemoncenter.com/en-gb/product/741-05608/galar-first-partner-fitted-long-sleeve-t-shirt-men,741-05608,Galar First Partner Fitted Long-Sleeve T-Shirt - Men,£27.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-06317/pikachu-holding-flower-black-relaxed-fit-crew-neck-t-shirt-men,741-06317,Pikachu Holding Flower Black Relaxed Fit Crew Neck T-Shirt - Men,£24.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-06408/pikachu-and-silhouettes-black-relaxed-fit-crew-neck-t-shirt-men,741-06408,Pikachu & Silhouettes Black Relaxed Fit Crew Neck T-Shirt - Men,£24.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-06483/morpeko-reversible-plush-hat-one-size-adult,741-06483,Morpeko Reversible Plush Hat (One Size-Adult),£29.99,YES,plush,searchable
+https://www.pokemoncenter.com/en-gb/product/741-06483/morpeko-reversible-plush-hat-one-size-adult,741-06483,Morpeko Reversible Plush Hat (One Size-Adult),£29.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-07333/running-pikachu-pokemon-sports-white-fitted-crew-neck-t-shirt-women,741-07333,Running Pikachu Pokémon Sports White Fitted Crew Neck T-Shirt - Women,£24.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-07338/pikachu-pokemon-sports-white-fitted-crew-neck-t-shirt-women,741-07338,Pikachu Pokémon Sports White Fitted Crew Neck T-Shirt - Women,£24.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-07348/running-pikachu-pokemon-sports-heather-gray-fitted-crew-neck-t-shirt-men,741-07348,Running Pikachu Pokémon Sports Heather Gray Fitted Crew Neck T-Shirt - Men,£24.99,YES,clothing,searchable
@@ -1092,6 +1102,7 @@ https://www.pokemoncenter.com/en-gb/product/741-08259/sableye-themed-french-terr
 https://www.pokemoncenter.com/en-gb/product/741-08265/mimikyu-themed-french-terry-zip-up-hoodie-adult,741-08265,Mimikyu Themed French Terry Zip-Up Hoodie - Adult,£49.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-08271/lucario-themed-french-terry-zip-up-hoodie-adult,741-08271,Lucario Themed French Terry Zip-Up Hoodie - Adult,£49.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-08277/gengar-themed-french-terry-zip-up-hoodie-adult,741-08277,Gengar Themed French Terry Zip-Up Hoodie - Adult,£49.99,YES,clothing,delisted
+https://www.pokemoncenter.com/en-gb/product/741-08429/team-rocket-black-relaxed-fit-crew-neck-t-shirt-youth,741-08429,New! Team Rocket Black Relaxed Fit Crew Neck T-Shirt - Youth,£12.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/741-08809/pokemon-celebration-white-crew-neck-t-shirt-women,741-08809,Pokémon Celebration White Crew Neck T-Shirt - Women,£24.99,NO,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-08815/pokemon-celebration-black-crew-neck-t-shirt-women,741-08815,Pokémon Celebration Black Crew Neck T-Shirt - Women,£24.99,NO,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-08933/pokemon-tropical-alolan-exeggutor-and-friends-tropical-shirt-adult,741-08933,Pokémon Tropical Alolan Exeggutor & Friends Tropical Shirt - Adult,£39.99,YES,clothing,searchable
@@ -1120,15 +1131,15 @@ https://www.pokemoncenter.com/en-gb/product/741-09473/pikachu-festive-winter-kni
 https://www.pokemoncenter.com/en-gb/product/741-09481/snorlax-holiday-knit-sweater-adult,741-09481,Snorlax Holiday Knit Sweater - Adult,£39.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-09577/pokemon-region-tour-stone-fitted-pullover-hoodie-adult,741-09577,Pokémon Region Tour Stone Fitted Pullover Hoodie - Adult,£44.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-09661/dragonite-eve-navy-lounge-pants-women,741-09661,Dragonite Eve Navy Lounge Pants - Women,£24.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-09669/pikachu-and-teddiursa-navy-and-blue-lounge-pants-women,741-09669,Pikachu & Teddiursa Navy & Blue Lounge Pants - Women,£24.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/741-09685/dragonite-eve-navy-lounge-pants-men,741-09685,Dragonite Eve Navy Lounge Pants - Men,£24.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/741-09693/pikachu-and-teddiursa-navy-and-blue-lounge-pants-men,741-09693,Pikachu & Teddiursa Navy & Blue Lounge Pants - Men,£24.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/741-09701/pikachu-and-teddiursa-black-and-yellow-lounge-pants-men,741-09701,Pikachu & Teddiursa Black & Yellow Lounge Pants - Men,£24.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-09669/pikachu-and-teddiursa-navy-and-blue-lounge-pants-women,741-09669,Pikachu & Teddiursa Navy & Blue Lounge Pants - Women,£24.99,YES,clothing,searchable
+https://www.pokemoncenter.com/en-gb/product/741-09685/dragonite-eve-navy-lounge-pants-men,741-09685,Dragonite Eve Navy Lounge Pants - Men,£24.99,YES,clothing,searchable
+https://www.pokemoncenter.com/en-gb/product/741-09693/pikachu-and-teddiursa-navy-and-blue-lounge-pants-men,741-09693,Pikachu & Teddiursa Navy & Blue Lounge Pants - Men,£24.99,YES,clothing,searchable
+https://www.pokemoncenter.com/en-gb/product/741-09701/pikachu-and-teddiursa-black-and-yellow-lounge-pants-men,741-09701,Pikachu & Teddiursa Black & Yellow Lounge Pants - Men,£24.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-09710/pikachu-blue-relaxed-fit-crew-neck-long-sleeve-t-shirt-men,741-09710,Pikachu Blue Relaxed Fit Crew Neck Long-Sleeve T-Shirt - Men,£19.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-09716/pikachu-black-relaxed-fit-crew-neck-long-sleeve-t-shirt-men,741-09716,Pikachu Black Relaxed Fit Crew Neck Long-Sleeve T-Shirt - Men,£19.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-09722/pikachu-blue-relaxed-fit-scoop-neck-long-sleeve-t-shirt-women,741-09722,Pikachu Blue Relaxed Fit Scoop Neck Long-Sleeve T-Shirt - Women,£19.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-09722/pikachu-blue-relaxed-fit-scoop-neck-long-sleeve-t-shirt-women,741-09722,Pikachu Blue Relaxed Fit Scoop Neck Long-Sleeve T-Shirt - Women,£19.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-09734/dragonite-eve-navy-relaxed-fit-crew-neck-t-shirt-men,741-09734,Dragonite Eve Navy Relaxed Fit Crew Neck T-Shirt - Men,£19.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-09740/dragonite-eve-navy-relaxed-fit-scoop-neck-t-shirt-women,741-09740,Dragonite Eve Navy Relaxed Fit Scoop Neck T-Shirt - Women,£19.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-09740/dragonite-eve-navy-relaxed-fit-scoop-neck-t-shirt-women,741-09740,Dragonite Eve Navy Relaxed Fit Scoop Neck T-Shirt - Women,£19.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-09751/pokemon-stories-mimikyu-dreams-pink-capped-neck-sweatshirt-adult,741-09751,Pokémon Stories: Mimikyu Dreams Pink Capped Neck Sweatshirt - Adult,£39.99,YES,clothing,delisted
 https://www.pokemoncenter.com/en-gb/product/741-09756/pokemon-stories-mimikyu-dreams-blue-pullover-hoodie-adult,741-09756,Pokémon Stories: Mimikyu Dreams Blue Pullover Hoodie - Adult,£44.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-09769/pokemon-stories-perrserker-moonrise-white-and-blue-french-terry-zip-up-hoodie-adult,741-09769,Pokémon Stories: Perrserker Moonrise White & Blue French Terry Zip-Up Hoodie - Adult,£44.99,YES,clothing,searchable
@@ -1259,7 +1270,7 @@ https://www.pokemoncenter.com/en-gb/product/741-94611/espeon-and-umbreon-summer-
 https://www.pokemoncenter.com/en-gb/product/741-94618/espeon-and-umbreon-summer-fun-black-relaxed-fit-crew-neck-t-shirt-adult,741-94618,Espeon & Umbreon Summer Fun Black Relaxed Fit Crew Neck T-Shirt - Adult,£24.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-94643/espeon-and-umbreon-summer-fun-light-blue-fitted-tank-top-men,741-94643,Espeon & Umbreon Summer Fun Light Blue Fitted Tank Top - Men,£19.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-94648/espeon-and-umbreon-summer-fun-charcoal-fitted-tank-top-men,741-94648,Espeon & Umbreon Summer Fun Charcoal Fitted Tank Top - Men,£19.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-94675/gengar-and-spooky-friends-pokemon-sweet-temptations-hooded-one-piece-pajamas-adult,741-94675,Gengar & Spooky Friends Pokémon Sweet Temptations Hooded One-Piece Pajamas - Adult,£49.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-94675/gengar-and-spooky-friends-pokemon-sweet-temptations-hooded-one-piece-pajamas-adult,741-94675,Gengar & Spooky Friends Pokémon Sweet Temptations Hooded One-Piece Pajamas - Adult,£49.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-94682/gengar-pokemon-sweet-temptations-hooded-one-piece-pajamas-adult,741-94682,Gengar Pokémon Sweet Temptations Hooded One-Piece Pajamas - Adult,£49.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-94695/gengar-and-spooky-friends-pokemon-sweet-temptations-knit-sweater-adult,741-94695,Gengar & Spooky Friends Pokémon Sweet Temptations Knit Sweater - Adult,£39.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-94703/pokemon-spooky-forest-pokemon-sweet-temptations-knit-sweater-adult,741-94703,Pokémon Spooky Forest Pokémon Sweet Temptations Knit Sweater - Adult,£39.99,YES,clothing,searchable
@@ -1332,9 +1343,9 @@ https://www.pokemoncenter.com/en-gb/product/741-95240/mimikyu-brown-tie-dye-cuff
 https://www.pokemoncenter.com/en-gb/product/741-95241/ditto-purple-cuff-beanie-one-size-adult,741-95241,Ditto Purple Cuff Beanie (One Size-Adult),£14.99,NO,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-95272/sylveon-pink-and-blue-7-8-length-leggings-adult,741-95272,Sylveon Pink & Blue 7/8 Length Leggings - Adult,£46.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-95278/lapras-blue-leggings-adult,741-95278,Lapras Blue Leggings - Adult,£46.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-95284/alolan-vulpix-blue-7-8-length-leggings-adult,741-95284,Alolan Vulpix Blue 7/8 Length Leggings - Adult,£46.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-95284/alolan-vulpix-blue-7-8-length-leggings-adult,741-95284,Alolan Vulpix Blue 7/8 Length Leggings - Adult,£46.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-95290/gengar-purple-7-8-length-leggings-adult,741-95290,Gengar Purple 7/8 Length Leggings - Adult,£46.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-95296/dedenne-and-mimikyu-black-7-8-length-leggings-adult,741-95296,Dedenne & Mimikyu Black 7/8 Length Leggings - Adult,£46.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-95296/dedenne-and-mimikyu-black-7-8-length-leggings-adult,741-95296,Dedenne & Mimikyu Black 7/8 Length Leggings - Adult,£46.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-95338/hiker-pokemon-trainers-green-french-terry-crew-neck-sweatshirt-adult,741-95338,Hiker Pokémon Trainers Green French Terry Crew Neck Sweatshirt - Adult,£39.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-95344/lance-pokemon-trainers-blue-french-terry-crew-neck-sweatshirt-adult,741-95344,Lance Pokémon Trainers Blue French Terry Crew Neck Sweatshirt - Adult,£39.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-95350/cynthia-pokemon-trainers-black-french-terry-crew-neck-sweatshirt-adult,741-95350,Cynthia Pokémon Trainers Black French Terry Crew Neck Sweatshirt - Adult,£39.99,YES,clothing,searchable
@@ -1373,23 +1384,23 @@ https://www.pokemoncenter.com/en-gb/product/741-95552/alolan-vulpix-galarian-pon
 https://www.pokemoncenter.com/en-gb/product/741-95553/vulpix-alolan-vulpix-and-eevee-no-show-socks-3-pairs-one-size-adult,741-95553,Vulpix%2C Alolan Vulpix & Eevee No-Show Socks (3 Pairs) (One Size-Adult),£12.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-95554/turtwig-chimchar-and-piplup-no-show-socks-3-pairs-one-size-adult,741-95554,Turtwig%2C Chimchar & Piplup No-Show Socks (3 Pairs) (One Size-Adult),£12.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-95703/pokemon-active-gray-scoop-neck-performance-t-shirt-women,741-95703,Pokémon Active Gray Scoop Neck Performance T-Shirt - Women,£24.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-95726/psyduck-holiday-green-knit-sweater-adult,741-95726,Psyduck Holiday Green Knit Sweater - Adult,£39.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/741-95734/psyduck-present-red-knit-sweater-adult,741-95734,Psyduck Present Red Knit Sweater - Adult,£39.99,YES,clothing,searchable
+https://www.pokemoncenter.com/en-gb/product/741-95726/psyduck-holiday-green-knit-sweater-adult,741-95726,Psyduck Holiday Green Knit Sweater - Adult,£39.99,YES,clothing,searchable
+https://www.pokemoncenter.com/en-gb/product/741-95734/psyduck-present-red-knit-sweater-adult,741-95734,Psyduck Present Red Knit Sweater - Adult,£39.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/741-95742/pikachu-snow-friend-gray-knit-sweater-adult,741-95742,Pikachu Snow Friend Gray Knit Sweater - Adult,£39.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-95750/pikachu-holiday-friend-red-knit-sweater-adult,741-95750,Pikachu Holiday Friend Red Knit Sweater - Adult,£39.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/741-95758/pikachu-holiday-friend-navy-knit-sweater-adult,741-95758,Pikachu Holiday Friend Navy Knit Sweater - Adult,£39.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/741-95766/vulpix-and-alolan-vulpix-snowflake-knit-sweater-adult,741-95766,Vulpix & Alolan Vulpix Snowflake Knit Sweater - Adult,£39.99,NO,clothing,searchable
+https://www.pokemoncenter.com/en-gb/product/741-95766/vulpix-and-alolan-vulpix-snowflake-knit-sweater-adult,741-95766,Vulpix & Alolan Vulpix Snowflake Knit Sweater - Adult,£39.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-95774/psyduck-holiday-touch-screen-gloves-one-size-adult,741-95774,Psyduck Holiday Touch Screen Gloves (One Size-Adult),£9.99,NO,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-95775/psyduck-holiday-knit-scarf-one-size-adult,741-95775,Psyduck Holiday Knit Scarf (One Size-Adult),£19.99,NO,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-95776/psyduck-holiday-knit-beanie-one-size-adult,741-95776,Psyduck Holiday Knit Beanie (One Size-Adult),£14.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-95777/poke-ball-flurries-touch-screen-gloves-one-size-adult,741-95777,Poké Ball Flurries Touch Screen Gloves (One Size-Adult),£9.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-95778/poke-ball-flurries-knit-scarf-one-size-adult,741-95778,Poké Ball Flurries Knit Scarf (One Size-Adult),£19.99,YES,clothing,searchable
+https://www.pokemoncenter.com/en-gb/product/741-95777/poke-ball-flurries-touch-screen-gloves-one-size-adult,741-95777,Poké Ball Flurries Touch Screen Gloves (One Size-Adult),£9.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-95778/poke-ball-flurries-knit-scarf-one-size-adult,741-95778,Poké Ball Flurries Knit Scarf (One Size-Adult),£19.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/741-95779/poke-ball-flurries-knit-beanie-one-size-adult,741-95779,Poké Ball Flurries Knit Beanie (One Size-Adult),£14.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/741-95780/ditto-presents-touch-screen-gloves-one-size-adult,741-95780,Ditto Presents Touch Screen Gloves (One Size-Adult),£9.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/741-95781/ditto-presents-knit-scarf-one-size-adult,741-95781,Ditto Presents Knit Scarf (One Size-Adult),£19.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-95781/ditto-presents-knit-scarf-one-size-adult,741-95781,Ditto Presents Knit Scarf (One Size-Adult),£19.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-95782/ditto-presents-knit-beanie-one-size-adult,741-95782,Ditto Presents Knit Beanie (One Size-Adult),£14.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/741-95783/vanillite-frost-touch-screen-gloves-one-size-adult,741-95783,Vanillite Frost Touch Screen Gloves (One Size-Adult),£9.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-95784/vanillite-frost-knit-scarf-one-size-adult,741-95784,Vanillite Frost Knit Scarf (One Size-Adult),£19.99,YES,clothing,searchable
+https://www.pokemoncenter.com/en-gb/product/741-95783/vanillite-frost-touch-screen-gloves-one-size-adult,741-95783,Vanillite Frost Touch Screen Gloves (One Size-Adult),£9.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-95784/vanillite-frost-knit-scarf-one-size-adult,741-95784,Vanillite Frost Knit Scarf (One Size-Adult),£19.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/741-95785/vanillite-frost-knit-beanie-one-size-adult,741-95785,Vanillite Frost Knit Beanie (One Size-Adult),£14.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-95795/pokemon-garden-friends-socks-gift-box-3-pairs-one-size-adult,741-95795,Pokémon Garden Friends Socks Gift Box (3 Pairs) (One Size-Adult),£29.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-95796/pikachu-happiness-crew-socks-one-size-adult,741-95796,Pikachu Happiness Crew Socks (One Size-Adult),£9.99,YES,clothing,searchable
@@ -1399,63 +1410,63 @@ https://www.pokemoncenter.com/en-gb/product/741-95799/wooloo-meadow-fleece-socks
 https://www.pokemoncenter.com/en-gb/product/741-95800/pichu-pikachu-and-raichu-ankle-socks-3-pairs-one-size-adult,741-95800,Pichu%2C Pikachu & Raichu Ankle Socks (3 Pairs) (One Size-Adult),£14.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-95801/electric-friendship-no-show-socks-3-pairs-one-size-adult,741-95801,Electric Friendship No-Show Socks (3 Pairs) (One Size-Adult),£12.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/741-95802/eevee-espeon-and-umbreon-no-show-socks-3-pairs-one-size-adult,741-95802,Eevee%2C Espeon & Umbreon No-Show Socks (3 Pairs) (One Size-Adult),£12.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96052/pikachu-and-yamper-electric-pals-black-sleep-pants-men,741-96052,New! Pikachu & Yamper Electric Pals Black Sleep Pants - Men,£24.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96058/pikachu-and-yamper-electric-pals-black-sleep-pants-women,741-96058,New! Pikachu & Yamper Electric Pals Black Sleep Pants - Women,£24.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96066/pikachu-and-yamper-electric-pals-black-sleep-shorts-women,741-96066,New! Pikachu & Yamper Electric Pals Black Sleep Shorts - Women,£16.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96072/pikachu-and-yamper-electric-pals-black-crew-neck-sweatshirt-women,741-96072,New! Pikachu & Yamper Electric Pals Black Crew Neck Sweatshirt - Women,£39.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96078/pikachu-and-yamper-electric-pals-black-relaxed-fit-crew-neck-t-shirt-men,741-96078,New! Pikachu & Yamper Electric Pals Black Relaxed Fit Crew Neck T-Shirt - Men,£19.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96084/pikachu-and-yamper-electric-pals-black-relaxed-fit-scoop-neck-t-shirt-women,741-96084,New! Pikachu & Yamper Electric Pals Black Relaxed Fit Scoop Neck T-Shirt - Women,£19.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96096/pikachu-and-yamper-electric-pals-black-relaxed-fit-scoop-neck-tank-top-women,741-96096,New! Pikachu & Yamper Electric Pals Black Relaxed Fit Scoop Neck Tank Top - Women,£16.99,YES,clothing,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96052/pikachu-and-yamper-electric-pals-black-sleep-pants-men,741-96052,Pikachu & Yamper Electric Pals Black Sleep Pants - Men,£24.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96058/pikachu-and-yamper-electric-pals-black-sleep-pants-women,741-96058,Pikachu & Yamper Electric Pals Black Sleep Pants - Women,£24.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96066/pikachu-and-yamper-electric-pals-black-sleep-shorts-women,741-96066,Pikachu & Yamper Electric Pals Black Sleep Shorts - Women,£16.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96072/pikachu-and-yamper-electric-pals-black-crew-neck-sweatshirt-women,741-96072,Pikachu & Yamper Electric Pals Black Crew Neck Sweatshirt - Women,£39.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96078/pikachu-and-yamper-electric-pals-black-relaxed-fit-crew-neck-t-shirt-men,741-96078,Pikachu & Yamper Electric Pals Black Relaxed Fit Crew Neck T-Shirt - Men,£19.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96084/pikachu-and-yamper-electric-pals-black-relaxed-fit-scoop-neck-t-shirt-women,741-96084,Pikachu & Yamper Electric Pals Black Relaxed Fit Scoop Neck T-Shirt - Women,£19.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96096/pikachu-and-yamper-electric-pals-black-relaxed-fit-scoop-neck-tank-top-women,741-96096,Pikachu & Yamper Electric Pals Black Relaxed Fit Scoop Neck Tank Top - Women,£16.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-96138/puma-pokemon-puma-black-t7-track-pants-adult,741-96138,PUMA × Pokémon: Puma Black T7 Track Pants - Adult,£69.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96144/puma-pokemon-puma-black-t7-track-jacket-adult,741-96144,PUMA × Pokémon: Puma Black T7 Track Jacket - Adult,£79.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96150/puma-pokemon-pikachu-yellow-french-terry-shorts-adult,741-96150,PUMA × Pokémon: Pikachu Yellow French Terry Shorts - Adult,£49.99,YES,clothing,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96144/puma-pokemon-puma-black-t7-track-jacket-adult,741-96144,PUMA × Pokémon: Puma Black T7 Track Jacket - Adult,£79.99,YES,clothing,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96150/puma-pokemon-pikachu-yellow-french-terry-shorts-adult,741-96150,PUMA × Pokémon: Pikachu Yellow French Terry Shorts - Adult,£49.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/741-96156/puma-pokemon-bulbasaur-charmander-squirtle-and-pikachu-puma-black-french-terry-shorts-adult,741-96156,PUMA × Pokémon: Bulbasaur%2C Charmander%2C Squirtle & Pikachu Puma Black French Terry Shorts - Adult,£49.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-96162/puma-pokemon-bulbasaur-charmander-squirtle-and-pikachu-puma-white-jersey-t-shirt-adult,741-96162,PUMA × Pokémon: Bulbasaur%2C Charmander%2C Squirtle & Pikachu Puma White Jersey T-Shirt - Adult,£29.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96168/puma-pokemon-pikachu-puma-black-jersey-t-shirt-adult,741-96168,PUMA × Pokémon: Pikachu Puma Black Jersey T-Shirt - Adult,£29.99,YES,clothing,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96168/puma-pokemon-pikachu-puma-black-jersey-t-shirt-adult,741-96168,PUMA × Pokémon: Pikachu Puma Black Jersey T-Shirt - Adult,£29.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/741-96174/puma-pokemon-pikachu-empire-yellow-jersey-t-shirt-adult,741-96174,PUMA × Pokémon: Pikachu Empire Yellow Jersey T-Shirt - Adult,£29.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96180/puma-pokemon-poke-ball-puma-black-fleece-jogger-sweatpants-adult,741-96180,PUMA × Pokémon: Poké Ball Puma Black Fleece Jogger Sweatpants - Adult,£59.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96186/puma-pokemon-venusaur-purple-charcoal-fleece-pullover-hoodie-adult,741-96186,PUMA × Pokémon: Venusaur Purple Charcoal Fleece Pullover Hoodie - Adult,£69.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96191/puma-pokemon-pikachu-puma-black-fleece-pullover-hoodie-adult,741-96191,PUMA × Pokémon: Pikachu Puma Black Fleece Pullover Hoodie - Adult,£69.99,YES,clothing,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96180/puma-pokemon-poke-ball-puma-black-fleece-jogger-sweatpants-adult,741-96180,PUMA × Pokémon: Poké Ball Puma Black Fleece Jogger Sweatpants - Adult,£59.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96186/puma-pokemon-venusaur-purple-charcoal-fleece-pullover-hoodie-adult,741-96186,PUMA × Pokémon: Venusaur Purple Charcoal Fleece Pullover Hoodie - Adult,£69.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96191/puma-pokemon-pikachu-puma-black-fleece-pullover-hoodie-adult,741-96191,PUMA × Pokémon: Pikachu Puma Black Fleece Pullover Hoodie - Adult,£69.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/741-96202/puma-pokemon-charizard-puma-black-fleece-relaxed-fit-crew-neck-sweatshirt-adult,741-96202,PUMA × Pokémon: Charizard Puma Black Fleece Relaxed Fit Crew Neck Sweatshirt - Adult,£59.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96208/puma-pokemon-pikachu-pale-lemon-jersey-t-shirt-adult,741-96208,PUMA × Pokémon: Pikachu Pale Lemon Jersey T-Shirt - Adult,£34.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96214/puma-pokemon-venusaur-charizard-and-blastoise-purple-charcoal-jersey-t-shirt-adult,741-96214,PUMA × Pokémon: Venusaur%2C Charizard & Blastoise Purple Charcoal Jersey T-Shirt - Adult,£34.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96220/puma-pokemon-pikachu-black-jersey-t-shirt-adult,741-96220,PUMA × Pokémon: Pikachu Black Jersey T-Shirt - Adult,£34.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96227/pokemon-winter-wonders-green-stocking,741-96227,Pokémon Winter Wonders Green Stocking,£19.99,YES,home,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96228/pokemon-winter-wonders-red-stocking,741-96228,Pokémon Winter Wonders Red Stocking,£19.99,YES,home,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96236/puma-pokemon-poke-ball-purple-charcoal-and-light-aqua-beanie-one-size-youth,741-96236,PUMA × Pokémon: Poké Ball Purple Charcoal & Light Aqua Beanie (One Size-Youth),£19.99,NO,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96237/puma-pokemon-pikachu-puma-black-and-pale-lemon-beanie-one-size-youth,741-96237,PUMA × Pokémon: Pikachu Puma Black & Pale Lemon Beanie (One Size-Youth),£19.99,NO,clothing,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96208/puma-pokemon-pikachu-pale-lemon-jersey-t-shirt-adult,741-96208,PUMA × Pokémon: Pikachu Pale Lemon Jersey T-Shirt - Adult,£34.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96214/puma-pokemon-venusaur-charizard-and-blastoise-purple-charcoal-jersey-t-shirt-adult,741-96214,PUMA × Pokémon: Venusaur%2C Charizard & Blastoise Purple Charcoal Jersey T-Shirt - Adult,£34.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96220/puma-pokemon-pikachu-black-jersey-t-shirt-adult,741-96220,PUMA × Pokémon: Pikachu Black Jersey T-Shirt - Adult,£34.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96227/pokemon-winter-wonders-green-stocking,741-96227,Pokémon Winter Wonders Green Stocking,£19.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96228/pokemon-winter-wonders-red-stocking,741-96228,Pokémon Winter Wonders Red Stocking,£19.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96236/puma-pokemon-poke-ball-purple-charcoal-and-light-aqua-beanie-one-size-youth,741-96236,PUMA × Pokémon: Poké Ball Purple Charcoal & Light Aqua Beanie (One Size-Youth),£19.99,NO,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96237/puma-pokemon-pikachu-puma-black-and-pale-lemon-beanie-one-size-youth,741-96237,PUMA × Pokémon: Pikachu Puma Black & Pale Lemon Beanie (One Size-Youth),£19.99,NO,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/741-96238/puma-pokemon-venusaur-charizard-and-blastoise-purple-charcoal-and-light-aqua-flat-brim-cap-one-size-youth,741-96238,PUMA × Pokémon: Venusaur%2C Charizard & Blastoise Purple Charcoal & Light Aqua Flat-Brim Cap (One Size-Youth),£14.99,NO,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/741-96239/puma-pokemon-pikachu-puma-black-and-pale-lemon-flat-brim-cap-one-size-youth,741-96239,PUMA × Pokémon: Pikachu Puma Black & Pale Lemon Flat-Brim Cap (One Size-Youth),£14.99,NO,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-96257/puma-pokemon-pikachu-rs-x-yellow-sneakers-adult,741-96257,PUMA × Pokémon: Pikachu RS-X Yellow Sneakers - Adult,£99.99,NO,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/741-96274/puma-pokemon-charmander-slipstream-invdr-orange-training-shoes-adult,741-96274,New! PUMA × Pokémon: Charmander Slipstream INVDR Orange Training Shoes - Adult,£99.99,NO,clothing,delisted
 https://www.pokemoncenter.com/en-gb/product/741-96291/puma-pokemon-squirtle-suede-classic-blue-training-shoes-adult,741-96291,PUMA × Pokémon: Squirtle Suede Classic Blue Training Shoes - Adult,£79.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/741-96308/puma-pokemon-bulbasaur-rider-fv-green-sneakers-adult,741-96308,PUMA × Pokémon: Bulbasaur Rider FV Green Sneakers - Adult,£99.99,NO,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96389/puma-pokemon-squirtle-suede-classic-blue-training-shoes-youth,741-96389,PUMA × Pokémon: Squirtle Suede Classic Blue Training Shoes - Youth,£51.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96389/puma-pokemon-squirtle-suede-classic-blue-training-shoes-youth,741-96389,PUMA × Pokémon: Squirtle Suede Classic Blue Training Shoes - Youth,£51.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-96395/puma-pokemon-charmander-slipstream-invdr-orange-training-shoes-youth,741-96395,PUMA × Pokémon: Charmander Slipstream INVDR Orange Training Shoes - Youth,£64.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96401/puma-pokemon-pikachu-rs-x-yellow-training-shoes-youth,741-96401,PUMA × Pokémon: Pikachu RS-X Yellow Training Shoes - Youth,£69.99,NO,clothing,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96401/puma-pokemon-pikachu-rs-x-yellow-training-shoes-youth,741-96401,PUMA × Pokémon: Pikachu RS-X Yellow Training Shoes - Youth,£69.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-96406/puma-pokemon-bulbasaur-future-rider-green-sneakers-youth,741-96406,PUMA × Pokémon: Bulbasaur Future Rider Green Sneakers - Youth,£59.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-96417/puma-pokemon-pikachu-puma-white-french-terry-relaxed-crew-neck-sweatshirt-youth,741-96417,PUMA × Pokémon: Pikachu Puma White French Terry Relaxed Crew Neck Sweatshirt - Youth,£44.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/741-96427/puma-pokemon-venusaur-charizard-and-blastoise-puma-black-french-terry-relaxed-crew-neck-sweatshirt-youth,741-96427,PUMA × Pokémon: Venusaur%2C Charizard & Blastoise Puma Black French Terry Relaxed Crew Neck Sweatshirt - Youth,£44.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96437/puma-pokemon-poke-ball-light-aqua-french-terry-jogger-sweatpants-youth,741-96437,PUMA × Pokémon: Poké Ball Light Aqua French Terry Jogger Sweatpants - Youth,£39.99,YES,clothing,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96437/puma-pokemon-poke-ball-light-aqua-french-terry-jogger-sweatpants-youth,741-96437,PUMA × Pokémon: Poké Ball Light Aqua French Terry Jogger Sweatpants - Youth,£39.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/741-96447/puma-pokemon-poke-ball-puma-black-french-terry-jogger-sweatpants-youth,741-96447,PUMA × Pokémon: Poké Ball Puma Black French Terry Jogger Sweatpants - Youth,£44.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/741-96457/puma-pokemon-venusaur-charizard-and-blastoise-light-aqua-french-terry-pullover-hoodie-youth,741-96457,PUMA × Pokémon: Venusaur%2C Charizard & Blastoise Light Aqua French Terry Pullover Hoodie - Youth,£49.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96467/puma-pokemon-pikachu-puma-black-french-terry-pullover-hoodie-youth,741-96467,PUMA × Pokémon: Pikachu Puma Black French Terry Pullover Hoodie - Youth,£49.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96467/puma-pokemon-pikachu-puma-black-french-terry-pullover-hoodie-youth,741-96467,PUMA × Pokémon: Pikachu Puma Black French Terry Pullover Hoodie - Youth,£49.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-96477/puma-pokemon-pikachu-pale-yellow-t-shirt-youth,741-96477,PUMA × Pokémon: Pikachu Pale Yellow T-Shirt - Youth,£24.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/741-96487/puma-pokemon-venusaur-charizard-and-blastoise-puma-white-t-shirt-youth,741-96487,PUMA × Pokémon: Venusaur%2C Charizard & Blastoise Puma White T-Shirt - Youth,£24.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96497/puma-pokemon-charizard-puma-black-t-shirt-youth,741-96497,PUMA × Pokémon: Charizard Puma Black T-Shirt - Youth,£24.99,YES,clothing,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96497/puma-pokemon-charizard-puma-black-t-shirt-youth,741-96497,PUMA × Pokémon: Charizard Puma Black T-Shirt - Youth,£24.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/741-96503/puma-pokemon-poke-ball-purple-charcoal-and-light-aqua-beanie-one-size-adult,741-96503,PUMA × Pokémon: Poké Ball Purple Charcoal & Light Aqua Beanie (One Size-Adult),£24.99,NO,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-96504/puma-pokemon-pikachu-puma-black-and-pale-lemon-beanie-one-size-adult,741-96504,PUMA × Pokémon: Pikachu Puma Black & Pale Lemon Beanie (One Size-Adult),£24.99,NO,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/741-96539/puma-pokemon-blastoise-light-aqua-fleece-pullover-hoodie-adult,741-96539,PUMA × Pokémon: Blastoise Light Aqua Fleece Pullover Hoodie - Adult,£69.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96782/quaxly-black-and-blue-crew-socks-one-size-adult,741-96782,Quaxly Black & Blue Crew Socks (One Size-Adult),£9.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96783/fuecoco-black-and-red-crew-socks-one-size-adult,741-96783,Fuecoco Black & Red Crew Socks (One Size-Adult),£9.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96784/sprigatito-black-and-green-crew-socks-one-size-adult,741-96784,Sprigatito Black & Green Crew Socks (One Size-Adult),£9.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96948/sprigatito-fuecoco-and-quaxly-black-fitted-pullover-hoodie-adult,741-96948,Sprigatito%2C Fuecoco & Quaxly Black Fitted Pullover Hoodie - Adult,£39.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96782/quaxly-black-and-blue-crew-socks-one-size-adult,741-96782,Quaxly Black & Blue Crew Socks (One Size-Adult),£9.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96783/fuecoco-black-and-red-crew-socks-one-size-adult,741-96783,Fuecoco Black & Red Crew Socks (One Size-Adult),£9.99,YES,clothing,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96784/sprigatito-black-and-green-crew-socks-one-size-adult,741-96784,Sprigatito Black & Green Crew Socks (One Size-Adult),£9.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96948/sprigatito-fuecoco-and-quaxly-black-fitted-pullover-hoodie-adult,741-96948,Sprigatito%2C Fuecoco & Quaxly Black Fitted Pullover Hoodie - Adult,£39.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-96954/sprigatito-fuecoco-and-quaxly-black-relaxed-fit-crew-neck-t-shirt-youth,741-96954,Sprigatito%2C Fuecoco & Quaxly Black Relaxed Fit Crew Neck T-Shirt - Youth,£12.99,YES,clothing,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96959/quaxly-cobalt-crew-neck-t-shirt-youth,741-96959,Quaxly Cobalt Crew Neck T-Shirt - Youth,£12.99,YES,new-releases,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96959/quaxly-cobalt-crew-neck-t-shirt-youth,741-96959,Quaxly Cobalt Crew Neck T-Shirt - Youth,£12.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-96964/fuecoco-red-relaxed-fit-crew-neck-t-shirt-youth,741-96964,Fuecoco Red Relaxed Fit Crew Neck T-Shirt - Youth,£12.99,NO,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/741-96969/sprigatito-apple-relaxed-fit-crew-neck-t-shirt-youth,741-96969,Sprigatito Apple Relaxed Fit Crew Neck T-Shirt - Youth,£12.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96974/sprigatito-fuecoco-and-quaxly-black-relaxed-fit-crew-neck-t-shirt-adult,741-96974,Sprigatito%2C Fuecoco & Quaxly Black Relaxed Fit Crew Neck T-Shirt - Adult,£24.99,YES,new-releases,searchable
-https://www.pokemoncenter.com/en-gb/product/741-96982/quaxly-royal-relaxed-fit-crew-neck-t-shirt-adult,741-96982,Quaxly Royal Relaxed Fit Crew Neck T-Shirt - Adult,£24.99,YES,clothing,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96974/sprigatito-fuecoco-and-quaxly-black-relaxed-fit-crew-neck-t-shirt-adult,741-96974,Sprigatito%2C Fuecoco & Quaxly Black Relaxed Fit Crew Neck T-Shirt - Adult,£24.99,YES,clothing,searchable
+https://www.pokemoncenter.com/en-gb/product/741-96982/quaxly-royal-relaxed-fit-crew-neck-t-shirt-adult,741-96982,Quaxly Royal Relaxed Fit Crew Neck T-Shirt - Adult,£24.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/741-96990/fuecoco-garnet-relaxed-fit-crew-neck-t-shirt-adult,741-96990,Fuecoco Garnet Relaxed Fit Crew Neck T-Shirt - Adult,£24.99,YES,new-releases,searchable
 https://www.pokemoncenter.com/en-gb/product/741-96998/sprigatito-forest-relaxed-fit-crew-neck-t-shirt-adult,741-96998,Sprigatito Forest Relaxed Fit Crew Neck T-Shirt - Adult,£24.99,YES,clothing,searchable
 https://www.pokemoncenter.com/en-gb/product/741-97355/pokemon-dolly-noire-black-allover-print-t-shirt-adult,741-97355,Pokémon × Dolly Noire: Black Allover-Print T-Shirt - Adult,£39.99,YES,clothing,searchable

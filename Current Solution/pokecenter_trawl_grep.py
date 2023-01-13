@@ -173,7 +173,7 @@ class pokecenter_output_reader():
                 if "delisted" not in str(current_no_number[len(current_no_number) - 1]):
                     current_no_number.pop()
                     current_no_number.append(
-                        "delisted, missing {}".format(date.today()))
+                        "delisted missing {}".format(date.today()))
                 self.new_complete_file.write(
                     "{}\n".format(','.join(current_no_number)))
                 # print("(complete) {}, missing! might have been delisted\n".format(
