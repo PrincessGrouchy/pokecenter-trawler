@@ -27,13 +27,19 @@ from selenium.webdriver.edge.options import Options as EdgeOptions
 from selenium.webdriver.firefox.options import Options as FirefoxOptions
 from selenium.webdriver.ie.options import Options as IEOptions
 
+from selenium.common.exceptions import NoSuchElementException
 
 class EnTrawler():
     def pre_setup_vars(self):
-        ser = IEService(
-            "C:\\Users\\arebe\\OneDrive\\OneDocs\\selenium_drivers\\IEDriverServer.exe")
+        # ser = IEService(
+        #     "C:\\Users\\arebe\\OneDrive\\OneDocs\\selenium_drivers\\IEDriverServer.exe")
         op = IEOptions()
-        self.driver = webdriver.Ie(service=ser, options=op)
+        op.attach_to_edge_chrome = True
+        op.ignore_zoom_level = True
+        op.ignore_protected_mode_settings = True
+        op.initial_browser_url = "https://selenium.dev"
+        op.edge_executable_path = "C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe"
+        self.driver = webdriver.Ie(options=op)
 
         # self.service = IEService(executable_path=IEDriverManager().install())
         # self.driver = webdriver.Ie(service=self.service)
@@ -52,13 +58,14 @@ class EnTrawler():
 
         self.new_file_name = 'pokecenter_output_' + \
             self.region + '_new.txt'
-		# todo: make this a list instead
+        # todo: make this a list instead
         self.new_file = pd.DataFrame({
             'relative_position': [],
             'link': [],
             'id': [],
             'name': [],
             'price': [],
+            'img_link': [],
             'in_stock': [],
             'page_position': [],
             'category': [],
@@ -99,6 +106,7 @@ class EnTrawler():
             self.link,
             product_number,
             comma_stripped_name,
+            self.img_link,
             comma_stripped_price,
             in_stock,
             str(self.page_count) + "-" + str(self.loop_count),
@@ -123,18 +131,25 @@ class EnTrawler():
 
     def get_page_vars(self, isFirst):
         self.base_css = "main#main > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(4)"
-        if isFirst:
-            extra_div = " > div"
-        else:
-            extra_div = " > div:nth-of-type(" + str(self.loop_count) + ")"
+        # if isFirst:
+        #     extra_div = " > div"
+        # else:
+        extra_div = " > div:nth-of-type(" + str(self.loop_count) + ")"
         self.link = self.driver.find_element(By.CSS_SELECTOR,
                                              self.base_css + extra_div + " > div > a").get_attribute("href")
         self.name = self.driver.find_element(By.CSS_SELECTOR,
-                                             self.base_css + extra_div + " > div > a > div:nth-of-type(2) > h3").text
+                                             self.base_css + extra_div + " > div > a > div:nth-of-type(1) > h3").text
         self.price = self.driver.find_element(By.CSS_SELECTOR,
-                                              self.base_css + extra_div + " > div > a > div:nth-of-type(2) > div > span").text
-        self.stock = self.driver.find_element(By.CSS_SELECTOR,
-                                              self.base_css + extra_div + " > div > a > div > div").text
+                                              self.base_css + extra_div + " > div > a > div:nth-of-type(1) > div > span").text
+        self.img_link = self.driver.find_element(By.CSS_SELECTOR,
+                                                 self.base_css + extra_div + " > div > div > a > img:nth-of-type(1)").get_attribute("src")
+        self.driver.implicitly_wait(0)
+        try:
+            self.stock = self.driver.find_element(By.CSS_SELECTOR,
+                                                self.base_css + extra_div + " > div > div > a > div").text
+        except NoSuchElementException:
+            self.stock = ""
+        self.driver.implicitly_wait(120)
 
     def scrape_page_not_last_page(self):
         self.page_count = 1
@@ -242,6 +257,8 @@ class JpTrawler(EnTrawler):
         # xpath=//div[@id='product_list']/ul/li[4]
         self.stock = self.driver.find_element(By.XPATH,
                                               self.base_xpath + extra_div).get_attribute("class")
+        self.img_link = self.driver.find_element(By.XPATH,
+                                                 self.base_xpath + extra_div + "a/img").get_attribute("src")
 
     def scrape_page_not_last_page(self):
         self.page_count = 1
@@ -275,7 +292,7 @@ class JpTrawler(EnTrawler):
 
 categories = ["/new-releases", "/plush", "/figures-and-pins",
               "/trading-card-game", "/clothing", "/home", "/video-game"]
-regions = ["en-us"]
+regions = ["en-ca", "en-gb", "en-us"]
 en = EnTrawler()
 en.pre_setup_vars()
 
