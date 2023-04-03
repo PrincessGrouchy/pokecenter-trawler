@@ -11,22 +11,23 @@ class pokecenter_output_reader():
         self.current_file = pd.read_csv(
             self.current_file_name, encoding="utf-8", header=0,
             names=['link', 'id', 'name', 'price',
-                   'in_stock', 'category', 'search_status']
+                   'in_stock', 'img_link' 'category', 'search_status']
         )
         self.new_file_name = 'pokecenter_output_' + self.region + '_new.txt'
         self.new_file = pd.read_csv(
             self.new_file_name, encoding="utf-8", header=0,
-            names=['relative_position', 'link', 'id', 'name', 'price',
-                   'in_stock', 'page_position', 'category']
+            names=['index', 'link', 'id', 'name', 'price',
+                   'in_stock', 'img_link', 'page_position', 'category']
         )
         self.diff_file_name = 'pokecenter_output_' + self.region + '_diff.txt'
         self.diff_file = pd.DataFrame({
-            'relative_position': [],
+            'index': [],
             'link': [],
             'id': [],
             'name': [],
             'price': [],
             'in_stock': [],
+            'img_link': [],
             'page_position': [],
             'category': [],
             'change': []
@@ -47,6 +48,7 @@ class pokecenter_output_reader():
             'name': [],
             'price': [],
             'in_stock': [],
+            'img_link': [],
             'category': [],
             'search_status': []
         })
@@ -79,10 +81,10 @@ class pokecenter_output_reader():
 
             for current_line in current_lines:
                 # comparing product numbers
-                if current_no_number['id'] == new_no_number['id']:
+                if current_line['id'] == current_line['id']:
                     foundLineMatch = True
                     self.compare_lines(
-                        new_no_number, current_no_number, new_line)
+                        new_line, current_line, new_line)
                     break
             if not foundLineMatch:
                 self.diff_file.append(
@@ -95,7 +97,7 @@ class pokecenter_output_reader():
             for new_line in self.new_lines:
 
                 # comparing product numbers
-                if current_no_number['id'] == new_no_number['id']:
+                if current_line['id'] == new_line['id']:
                     foundLineMatch = True
                     # self.compare_lines(
                     #     new_no_number, current_no_number, new_line)
@@ -198,7 +200,7 @@ class pokecenter_output_reader():
         return foundDifference
 
 
-regions = ["en-ca", "en-gb", "en-us", "jp-jp"]
+regions = ["jp-jp"]
 reader = pokecenter_output_reader()
 for the_region in regions:
     try:
