@@ -29,6 +29,7 @@ from selenium.webdriver.ie.options import Options as IEOptions
 
 from selenium.common.exceptions import NoSuchElementException
 
+
 class EnTrawler():
     def pre_setup_vars(self):
         # ser = IEService(
@@ -55,26 +56,27 @@ class EnTrawler():
         self.url = "https://www.pokemoncenter.com/" + self.region + \
             "/category" + self.category + self.sort + \
             "&ps=" + str(self.num_items_displayed) + "&page="
-
+        self.new_file = []
         self.new_file_name = 'pokecenter_output_' + \
             self.region + '_new.txt'
-        # todo: make this a list instead
-        self.new_file = pd.DataFrame({
-            'relative_position': [],
-            'link': [],
-            'id': [],
-            'name': [],
-            'price': [],
-            'img_link': [],
-            'in_stock': [],
-            'page_position': [],
-            'category': [],
-        })
-        warnings.simplefilter('ignore', FutureWarning)
+
+        # warnings.simplefilter('ignore', FutureWarning)
 
     def teardown_method(self):
         self.driver.quit()
-        self.new_file.to_csv(self.new_file_name, index=False)
+        self.new_file_pd = pd.DataFrame(self.new_file,
+                                        columns=['relative_position',
+                                                 'link',
+                                                 'id',
+                                                 'name',
+                                                 'price',
+                                                 'img_link',
+                                                 'in_stock',
+                                                 'page_position',
+                                                 'category'],
+                                        )
+
+        self.new_file_pd.to_csv(self.new_file_name, index=False)
 
     def print_line(self):
         if self.stock == "SOLD OUT" or "soldout" in self.stock:
@@ -146,7 +148,7 @@ class EnTrawler():
         self.driver.implicitly_wait(0)
         try:
             self.stock = self.driver.find_element(By.CSS_SELECTOR,
-                                                self.base_css + extra_div + " > div > div > a > div").text
+                                                  self.base_css + extra_div + " > div > div > a > div").text
         except NoSuchElementException:
             self.stock = ""
         self.driver.implicitly_wait(120)
@@ -228,16 +230,7 @@ class JpTrawler(EnTrawler):
 
         self.new_file_name = 'pokecenter_output_' + \
             self.region + '_new.txt'
-        self.new_file = pd.DataFrame({
-            'relative_position': [],
-            'link': [],
-            'id': [],
-            'name': [],
-            'price': [],
-            'in_stock': [],
-            'page_position': [],
-            'category': [],
-        })
+        self.new_file = []
 
     def get_page_vars(self, isFirst):
         self.base_xpath = "//div[@id='product_list']/ul/"
@@ -258,7 +251,7 @@ class JpTrawler(EnTrawler):
         self.stock = self.driver.find_element(By.XPATH,
                                               self.base_xpath + extra_div).get_attribute("class")
         self.img_link = self.driver.find_element(By.XPATH,
-                                                 self.base_xpath + extra_div + "a/img").get_attribute("src")
+                                                 self.base_xpath + extra_div + "/a/img").get_attribute("src")
 
     def scrape_page_not_last_page(self):
         self.page_count = 1
@@ -296,13 +289,12 @@ regions = ["en-ca", "en-gb", "en-us"]
 en = EnTrawler()
 en.pre_setup_vars()
 
-
 for the_region in regions:
-    for the_category in categories:
-        print(the_region + " " + the_category)
-        en.setup_method(the_region, the_category)
-        en.scrape_page_not_last_page()
-        en.scrape_page_last()
+     for the_category in categories:
+         print(the_region + " " + the_category)
+         en.setup_method(the_region, the_category)
+         en.scrape_page_not_last_page()
+         en.scrape_page_last()
 
 en.teardown_method()
 
