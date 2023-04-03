@@ -56,27 +56,32 @@ class EnTrawler():
         self.url = "https://www.pokemoncenter.com/" + self.region + \
             "/category" + self.category + self.sort + \
             "&ps=" + str(self.num_items_displayed) + "&page="
-        self.new_file = []
+        # self.new_file = []
         self.new_file_name = 'pokecenter_output_' + \
             self.region + '_new.txt'
+        self.all_category_file = open(self.new_file_name, 'a', encoding="utf-8")
+        self.all_category_file.write("index,link,id,name,price,in_stock,img_link,paged_position,category\n")
 
         # warnings.simplefilter('ignore', FutureWarning)
+    def teardown_single(self):
+        self.all_category_file.close()
 
     def teardown_method(self):
         self.driver.quit()
-        self.new_file_pd = pd.DataFrame(self.new_file,
-                                        columns=['relative_position',
-                                                 'link',
-                                                 'id',
-                                                 'name',
-                                                 'price',
-                                                 'img_link',
-                                                 'in_stock',
-                                                 'page_position',
-                                                 'category'],
-                                        )
+        self.all_category_file.close()
+        # self.new_file_pd = pd.DataFrame(self.new_file,
+        #                                 columns=['index',
+        #                                          'link',
+        #                                          'id',
+        #                                          'name',
+        #                                          'price',
+        #                                          'in_stock',
+        #                                          'img_link',
+        #                                          'paged_position',
+        #                                          'category'],
+        #                                 )
 
-        self.new_file_pd.to_csv(self.new_file_name, index=False)
+        # self.new_file_pd.to_csv(self.new_file_name, index=False)
 
     def print_line(self):
         if self.stock == "SOLD OUT" or "soldout" in self.stock:
@@ -103,18 +108,30 @@ class EnTrawler():
         real_number *= self.num_items_displayed
         real_number += self.loop_count
 
-        row_to_add = [
+        # row_to_add = [
+        #     real_number,
+        #     self.link,
+        #     product_number,
+        #     comma_stripped_name,
+        #     comma_stripped_price,
+        #     self.img_link,
+        #     in_stock,
+        #     str(self.page_count) + "-" + str(self.loop_count),
+        #     stripped_category
+        # ]
+        # self.new_file.append(row_to_add)
+        stringToPrint = "{},{},{},{},{},{},{},{},{}\n".format(
             real_number,
             self.link,
             product_number,
             comma_stripped_name,
-            self.img_link,
             comma_stripped_price,
             in_stock,
+            self.img_link,
             str(self.page_count) + "-" + str(self.loop_count),
             stripped_category
-        ]
-        self.new_file.append(row_to_add)
+        )
+        self.all_category_file.write(stringToPrint)
 
     def get_page_vars_old(self, isFirst):
         self.base_xpath = "//main[@id='main']/div[2]/div[2]/div[2]/div[4]/"
@@ -230,7 +247,9 @@ class JpTrawler(EnTrawler):
 
         self.new_file_name = 'pokecenter_output_' + \
             self.region + '_new.txt'
-        self.new_file = []
+        # self.new_file = []
+        self.all_category_file = open(self.new_file_name, 'a', encoding="utf-8")
+        self.all_category_file.write("index,link,id,name,price,in_stock,img_link,paged_position,category")
 
     def get_page_vars(self, isFirst):
         self.base_xpath = "//div[@id='product_list']/ul/"
@@ -289,14 +308,16 @@ regions = ["en-ca", "en-gb", "en-us"]
 en = EnTrawler()
 en.pre_setup_vars()
 
-for the_region in regions:
-     for the_category in categories:
-         print(the_region + " " + the_category)
-         en.setup_method(the_region, the_category)
-         en.scrape_page_not_last_page()
-         en.scrape_page_last()
-
-en.teardown_method()
+try:
+    for the_region in regions:
+        for the_category in categories:
+            print(the_region + " " + the_category)
+            en.setup_method(the_region, the_category)
+            en.scrape_page_not_last_page()
+            en.scrape_page_last()
+            en.teardown_single()
+finally:
+    en.teardown_method()
 
 
 jp_categories = ["toy", "game", "card",
@@ -306,10 +327,12 @@ jp_categories = ["toy", "game", "card",
 jp = JpTrawler()
 jp.pre_setup_vars()
 
-for the_jp_category in jp_categories:
-    print(the_jp_category)
-    jp.setup_method(the_jp_category)
-    jp.scrape_page_not_last_page()
-    jp.scrape_page_last()
-
-jp.teardown_method()
+try:
+    for the_jp_category in jp_categories:
+        print(the_jp_category)
+        jp.setup_method(the_jp_category)
+        jp.scrape_page_not_last_page()
+        jp.scrape_page_last()
+        jp.teardown_single()
+finally:
+    jp.teardown_method()
